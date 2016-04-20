@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl"
+    xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sejni zapiski Zbora združenega dela Skupščine Republike Slovenije</title>
+                <title>Mandat 11: 5.5.1990 - 23.12.1992</title>
+                <author>
+                    <persName>
+                        <forename>>Andrej</forename>
+                        <surname>Pančur</surname>
+                    </persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
+                    infrastruktura Slovenskega zgodovinopisja Inštituta za novejšo zgodovino</p>
+            </projectDesc>
+            <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
+            <listPrefixDef>
+                <prefixDef ident="sp" matchPattern="([a-zA-Z]+([0-9]{4})?)" replacementPattern="../speaker.xml#$1">
+                    <p>Prefix sp se uporablja pri <att>who</att> atributu elementa <gi>sp</gi> in se
+                        navezuje na seznam poslancev in govornikov v datoteki speaker.xml.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-1.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-2.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-3.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-4.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-5.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-6.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-7.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-8.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-9.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-10.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-11.xml"/>
+    <xi:include href="../Sk-11/DZ-1990-ZbZdruDel-12.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-13.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-14.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-15.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-16.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-17.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-18.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-19.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-21.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-22.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-23.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-24.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-25.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-26.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-27.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-28.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-29.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-30.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-31.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-32.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-33.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-34.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-35.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-36.xml"/>
+    <xi:include href="../Sk-11/DZ-1991-ZbZdruDel-37.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-38.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-39.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-40.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-41.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-42.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-43.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-44.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-45.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-46.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-47.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-48.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-49.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-50.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-52.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-53.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-54.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-55.xml"/>
+    <xi:include href="../Sk-11/DZ-1992-ZbZdruDel-56.xml"/>
+</teiCorpus>

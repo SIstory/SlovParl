@@ -14,10 +14,33 @@
                 </author>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+                <distributor>DARIAH-SI</distributor>
+                <pubPlace>https://github.com/SIstory/SlovParl</pubPlace>
+                <availability status="free">
+                    <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+                    <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+                    </p>
+                </availability>
+                <date when="2016"/>
             </publicationStmt>
             <sourceDesc>
-                <p>Information about the source</p>
+                <biblFull>
+                    <titleStmt>
+                        <title>Sejni zapisi Državnega zbora Republike Slovenije</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+                        <distributor>DARIAH-SI</distributor>
+                        <pubPlace>https://github.com/SIstory/Seje_DZ</pubPlace>
+                        <availability status="free">
+                            <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+                            <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+                            </p>
+                        </availability>
+                        <date when="2016"/>
+                    </publicationStmt>
+                </biblFull>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -26,7 +49,7 @@
                     infrastruktura Slovenskega zgodovinopisja Inštituta za novejšo zgodovino</p>
             </projectDesc>
             <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
+            <xi:include href="../taxonomy.xml"/>
             <listPrefixDef>
                 <prefixDef ident="sp" matchPattern="([a-zA-Z]+([0-9]{4})?)" replacementPattern="../speaker.xml#$1">
                     <p>Prefix sp se uporablja pri <att>who</att> atributu elementa <gi>sp</gi> in se

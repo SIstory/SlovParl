@@ -227,7 +227,7 @@
                   <desc>
                      <listEvent>
                         <head>Sklici</head>
-                        <event>
+                        <event xml:id="parl.Skup-01">
                            <label>1. sklic (1947-1950)</label>
                         </event>
                         <event>
@@ -271,6 +271,10 @@
                   <org xml:id="pp.DS" prev="#pp.SDZ" next="#pp.LDS.1994">
                      <orgName full="yes" from="1991-10-13" to="1994-03-12">Demokratska stranka</orgName>
                      <orgName full="init" from="1991-10-13" to="1994-03-12">DS</orgName>
+                  </org>
+                  <org xml:id="pp.GOD">
+                     <orgName full="yes">Gibanje za občo demokracijo</orgName>
+                     <orgName full="init">GOD</orgName>
                   </org>
                   <org xml:id="pp.LDS.1994">
                      <orgName full="yes" from="1994-03-12">Liberalna demokracija Slovenije</orgName>
@@ -376,14 +380,18 @@
                      <orgName full="yes" from="2005-04-02">Socialni demokrati</orgName>
                      <orgName full="init" from="2005-04-02">SD</orgName>
                   </org>
+                  <org xml:id="pp.SDU" next="#pp.ZLSD">
+                     <orgName full="yes" from="1990-12-04" to="1993-05-29">Socialdemokratska unija Slovenije</orgName>
+                     <orgName full="init" from="1990-12-04" to="1993-05-29">SDU</orgName>
+                     <note></note>
+                  </org>
                   <org xml:id="pp.ZLSD" next="#pp.SD">
                      <orgName full="yes" from="1993-05-29" to="2005-04-02">Združeno listo socialnih demokratov</orgName>
                      <orgName full="init" from="1993-05-29" to="2005-04-02">ZLSD</orgName>
                   </org>
                   <org xml:id="pp.ZKS-SDP" next="#pp.SDP">
-                     <orgName full="yes">Zveza komunistov Slovenije - Stranka demokratične
-                        prenove</orgName>
-                     <orgName full="init">ZKS-SDP</orgName>
+                     <orgName full="yes" to="1991-12-20">Zveza komunistov Slovenije - Stranka demokratične prenove</orgName>
+                     <orgName full="init" to="1991-12-20">ZKS-SDP</orgName>
                      <state from="1990-02-04" key="register">
                         <label>Register političnih strank</label>
                      </state>
@@ -1069,12 +1077,9 @@
                   </placeName>
                </birth>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>ZKS-SDP</desc>
-               </state>
-               <state>
-                  <desc>SSS</desc>
-               </state>
+               <affiliation ref="#pp.ZKS-SDP" ana="#parl.Skup-11"/>
+               <affiliation ref="#pp.SDU" notAfter="1992-05" ana="#parl.Skup-11"/>
+               <affiliation ref="#pp.SSS" ana="#parl.Skup-11"/>
                <note>Mandat začel kot član SDP, sredi mandata se je pridružil zunajparlamentarni
                   SDU, potem je trdil, da je neodvisen kandidat, Kviaz pa ga je maja 1992 beležil
                   kot člana SSS.</note>
@@ -1107,12 +1112,8 @@
                   </placeName>
                </birth>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>ZKS-SDP</desc>
-               </state>
-               <state>
-                  <desc>SSS</desc>
-               </state>
+               <affiliation ref="#pp.ZKS-SDP" ana="#parl.Skup-11"/>
+               <affiliation ref="#pp.SSS" ana="#parl.Skup-11"/>
                <bibl>http://www.slovenska-biografija.si/oseba/sbi1003930/</bibl>
             </person>
             <person xml:id="BohKatja1929">
@@ -1149,7 +1150,7 @@
                </birth>
                <occupation when="1990-05">diplomirani inženir geologije</occupation>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member" from="1992-07-01" to="1992-12-23" prev="#BohKatja1929"/>
-               <affiliation ana="#parl.Skup-11 #pp.SDSS"/>
+               <affiliation ref="#pp.SDSS" ana="#parl.Skup-11"/>
                <bibl>https://www.sta.si/1153174/branko-grims-novi-poslanec-v-dpz</bibl>
                <bibl>https://sl.wikipedia.org/wiki/Branko_Grims</bibl>
             </person>
@@ -1197,12 +1198,8 @@
                </birth>
                <death>31. oktober 2006, Slovenj Gradec.</death>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>ZS</desc>
-               </state>
-               <state>
-                  <desc>SLS</desc>
-               </state>
+               <affiliation ref="#pp.ZS" ana="#parl.Skup-11" notAfter="1992-05"/>
+               <affiliation ref="#pp.SLS" ana="#parl.Skup-11" notBefore="1992-05"/>
                <bibl>http://slovenska-pomlad.si/2?id=3249</bibl>
                <bibl>https://sl.wikipedia.org/wiki/Stanko_Buser</bibl>
             </person>
@@ -1308,12 +1305,8 @@
                </birth>
                <education when="1990-05">diplomirani obramboslovec</education>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>SDZ</desc>
-               </state>
-               <state>
-                  <desc>SDSS</desc>
-               </state>
+               <affiliation ref="#pp.SDZ" ana="#parl.Skup-11"/>
+               <affiliation ref="#pp.SDSS" ana="#parl.Skup-11" notBefore="1992-04"/>
                <affiliation ref="#gov.VladaRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MORS" ana="#gov.VladaRS-1 #grp.head"/>
                <affiliation ref="#gov.VladaRS" ana="#gov.VladaRS-2 #grp.member"/>
@@ -1437,12 +1430,8 @@
                <persName>Magajna Andrej</persName>
                <birth>4. maj 1952, Ljubljana</birth>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>SDSS</desc>
-               </state>
-               <state>
-                  <desc>Neodvisni</desc>
-               </state>
+               <affiliation ref="#pp.SDSS" ana="#parl.Skup-11" notAfter="1992-05"/>
+               <affiliation ref="#independet" ana="#parl.Skup-11"/>
                <bibl>https://sl.wikipedia.org/wiki/Andrej_Magajna</bibl>
             </person>
             <person xml:id="MagdicJoze1943">
@@ -1529,12 +1518,8 @@
                   <placeName>Ljubljana</placeName>
                </birth>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>ZKS-SDP</desc>
-               </state>
-               <state>
-                  <desc>SDSS</desc>
-               </state>
+               <affiliation ref="#pp.ZKS-SDP" ana="#parl.Skup-11" notAfter="1992-06"/>
+               <affiliation ref="#pp.SDSS" ana="#parl.Skup-11"/>
                <bibl>http://www.dlib.si/details/URN:NBN:SI:doc-CTEVQNQ4</bibl>
             </person>
             <person>
@@ -2024,12 +2009,8 @@
                <persName>Feltrin Franci</persName>
                <birth>10. 2. 1943 v Stopniku, v občini Tolmin</birth>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>ZS</desc>
-               </state>
-               <state>
-                  <desc>SLS</desc>
-               </state>
+               <affiliation ref="#pp.ZS" ana="#parl.Skup-11" notAfter="1992-05"/>
+               <affiliation ref="#pp.SLS" ana="#parl.Skup-11" notBefore="1992-05"/>
                <bibl>http://slovenska-pomlad.si/2?id=3109</bibl>
             </person>
             <person>
@@ -2164,12 +2145,8 @@
                <occupation>dipl. veterinar</occupation>
                <residence>Ljutomer</residence>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>Neodvisni</desc>
-               </state>
-               <state>
-                  <desc>Demos</desc>
-               </state>
+               <affiliation ref="#independet" ana="#parl.Skup-11" notAfter="1992-05"/>
+               <affiliation ref="#cl.DEMOS" ana="#parl.Skup-11" notBefore="1992-05"/>
             </person>
             <person xml:id="JaklinJoze1952">
                <persName>
@@ -2244,12 +2221,8 @@
             <person>
                <persName>Jerina Janez</persName>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>samostojen</desc>
-               </state>
-               <state>
-                  <desc>Demos</desc>
-               </state>
+               <affiliation ref="#independet" ana="#parl.Skup-11" notAfter="1992-05"/>
+               <affiliation ref="#cl.DEMOS" ana="#parl.Skup-11" notBefore="1992-05"/>
             </person>
             <person xml:id="JugJanez1947">
                <persName>
@@ -2383,12 +2356,8 @@
             <person>
                <persName>Lovšin Franc</persName>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>SKD</desc>
-               </state>
-               <state>
-                  <desc>Gibanje za občo demokracijo</desc>
-               </state>
+               <affiliation ref="#pp.SKD" ana="#parl.Skup-11" notAfter="1992-05"/>
+               <affiliation ref="#pp.GOD" ana="#parl.Skup-11" notBefore="1992-05"/>
             </person>
             <person xml:id="LukacJanez1931">
                <persName>
@@ -2402,12 +2371,8 @@
                <occupation>dipl. pravnik</occupation>
                <residence>Litija</residence>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>SZS</desc>
-               </state>
-               <state>
-                  <desc>SLS</desc>
-               </state>
+               <affiliation ref="#pp.SZS" ana="#parl.Skup-11"/>
+               <affiliation ref="#pp.SLS" ana="#parl.Skup-11"/>
                <bibl>http://slovenska-pomlad.si/2?id=3332</bibl>
             </person>
             <person xml:id="MencingerAvgustin1938">
@@ -2707,12 +2672,8 @@
                <occupation>predmetni učitelj slovenskega jezika</occupation>
                <residence>Logatec</residence>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
-               <state>
-                  <desc>SDZ</desc>
-               </state>
-               <state>
-                  <desc>Demos</desc>
-               </state>
+               <affiliation ref="#pp.SDZ" ana="#parl.Skup-11"/>
+               <affiliation ref="#cl.DEMOS" ana="#parl.Skup-11" notBefore="1991-10-13"></affiliation>
                <bibl>http://slovenska-pomlad.si/2?id=3354</bibl>
             </person>
             <person xml:id="StrumbeljTomaz1961">
@@ -3681,11 +3642,12 @@
                <affiliation ref="#pp.LDS.1990" ana="#parl.Skup-11"/>
                <bibl>https://sl.wikipedia.org/wiki/Rudolf_Moge</bibl>
             </person>
+            <!-- napačna opomba, da je Mikuš umrl pred nastopom mandata, saj je govoril celo še na 12. seji zbora združenega dela -->
             <person xml:id="MikusDimitrij1927">
                <persName>
                   <surname>Mikuš</surname> 
-                  <surname>Dimitrij</surname>
-                  <surname>Adolf</surname>
+                  <forename>Dimitrij</forename>
+                  <forename>Adolf</forename>
                </persName>
                <sex value="M"/>
                <birth when="1927"/>
@@ -3986,12 +3948,8 @@
                      <label>samostojno delo</label>
                   </state>
                </affiliation>
-               <state>
-                  <desc>SOPS</desc>
-               </state>
-               <state>
-                  <desc>Neodvisni</desc>
-               </state>
+               <affiliation ref="#pp.SOPS" ana="#parl.Skup-11" notAfter="1992-05"/>
+               <affiliation ref="#independet" ana="#parl.Skup-11" notBefore="1992-05"/>
             </person>
             <person xml:id="RudolfFrancek1944">
                <persName>

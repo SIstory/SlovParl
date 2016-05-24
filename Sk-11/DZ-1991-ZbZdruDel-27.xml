@@ -448,7 +448,7 @@
             <div xml:id="DZ-1991-ZbZdruDel-27.div.1.1" ana="#PAR.Seja" n="27">
                <head>27. seja</head>
                <docDate>(<date when="1991-07-31">31. julij 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
+               <timeline origin="#DZ-1991-ZbZdruDel-27.TL.1" unit="s">
                   <when synch="#DZ-1991-ZbZdruDel-27.stage.t.1"
                         xml:id="DZ-1991-ZbZdruDel-27.TL.1"
                         absolute="1991-07-31T10:30:00"/>
@@ -4796,11 +4796,8 @@
                            predvideno. Če bo pa kaj praktičnega, bomo pa izvedeli; lahko noč in
                            hvala.</p>
                      </sp>
-                     <sp who="sp:ZupancicJoze1936"
-                         corresp="#DZ-1991-ZbZdruDel-27.sp.ZupančičJože">
-                        <stage type="time">(Seja Zbora združenega dela je bila <time to="1991-07-31T20:50:00" xml:id="DZ-1991-ZbZdruDel-27.stage.t.6">zaključena ob 20.50
-                              uri</time>.)</stage>
-                     </sp>
+                     <stage type="time">(Seja Zbora združenega dela je bila <time to="1991-07-31T20:50:00" xml:id="DZ-1991-ZbZdruDel-27.stage.t.6">zaključena ob 20.50
+                        uri</time>.)</stage>
                   </div>
                </div>
             </div>

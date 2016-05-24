@@ -639,7 +639,7 @@
                <head>29. seja</head>
                <docDate>(<date when="1991-09-11">11.</date>, <date when="1991-09-12">12.</date> in
                      <date when="1991-09-18">18. september 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
+               <timeline origin="#DZ-1991-ZbZdruDel-29.TL.1" unit="s">
                   <when synch="#DZ-1991-ZbZdruDel-29.stage.t.1"
                         xml:id="DZ-1991-ZbZdruDel-29.TL.1"
                         absolute="1991-09-11T10:55:00"/>
@@ -657,7 +657,9 @@
                   <when synch="#DZ-1991-ZbZdruDel-29.stage.t.5"
                         xml:id="DZ-1991-ZbZdruDel-29.TL.3"
                         absolute="1991-09-11T17:40:00"/>
-                  <!--   <when synch="#stage.t.6" since="#TL.3" absolute="1991-09-11" interval="0"/>-->
+                  <when synch="#DZ-1991-ZbZdruDel-29.stage.t.6"
+                        since="#DZ-1991-ZbZdruDel-29.TL.3"
+                        absolute="1991-09-11"/>
                   <when synch="#DZ-1991-ZbZdruDel-29.stage.t.7"
                         xml:id="DZ-1991-ZbZdruDel-29.TL.4"
                         absolute="1991-09-12T10:30:00"/>

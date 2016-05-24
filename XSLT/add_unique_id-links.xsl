@@ -51,7 +51,7 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="node()[not(@xml:id)][@sameAs | @who | @synch | @since]">
+    <xsl:template match="node()[not(@xml:id)][@sameAs | @who | @synch | @since | @origin]">
         <xsl:variable name="ID" select="ancestor::tei:TEI/@xml:id"/>
         <xsl:element name="{node-name(.)}">
             <xsl:apply-templates select="@*"/>

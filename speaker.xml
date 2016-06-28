@@ -311,9 +311,11 @@
                      <orgName full="yes" from="1991-10-13">SDZ - Narodno demokratska stranko</orgName>
                      <orgName full="init" from="1991-10-13">SDZ-NDS</orgName>
                   </org>
-                  <org xml:id="pp.SKZ" next="#pp.SLS">
+                  <org xml:id="pp.SKZ-LS" next="#pp.SLS">
                      <orgName full="yes" from="1990-12-18" to="1992-06-27">Slovenska kmečka zveza - Ljudska stranka</orgName>
                      <orgName full="init" from="1990-12-18" to="1992-06-27">SKZ-LS</orgName>
+                  </org>
+                  <org xml:id="pp.SKZ" next="#pp.SKZ-LS">
                      <orgName full="yes" from="1988-05-12" to="1990-12-18">Slovenska kmečka zveza</orgName>
                      <orgName full="init" from="1988-05-12" to="1990-12-18">SKZ</orgName>
                      <state from="1988-05-12" key="register">
@@ -613,7 +615,7 @@
                </birth>
                <education when="1990-05">diplomirani pravnik</education>
                <affiliation when="1990-05">
-                  <orgName>Komite za borce in vojaške invalide, Skupščina Republike slovenije</orgName>
+                  <orgName>Komite za borce in vojaške invalide, Skupščina Republike Slovenije</orgName>
                </affiliation>
                <affiliation ref="#gov.VladaRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MBVIRS" ana="#gov.VladaRS-1 #grp.head"/>

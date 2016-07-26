@@ -3,274 +3,527 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:xi="http://www.w3.org/2001/XInclude"
-    exclude-result-prefixes="xs xi tei"
+    exclude-result-prefixes="xs tei"
     version="2.0">
     
     <!-- izhodiščni dokument je izbrani teiCorpus iz direktorija SlovParl/teiCorpus  -->
     
     <xsl:output method="xml" indent="yes"/>
     
+    <!-- direktorij, kjer bodo shranjene datoteke -->
+    <xsl:param name="folder">edition01</xsl:param>
     <!-- vstavi pot do izhodiščnega direktorija, v katerem boš kreiral child direktorije in shranil result-document -->
-    <xsl:param name="path2folder">/Users/administrator/Documents/moje/SlovParl/clarin/edition01/</xsl:param>
+    <xsl:param name="path2folder">/Users/administrator/Documents/moje/SlovParl/clarin/<xsl:value-of select="$folder"/>/</xsl:param>
     
     <!-- vstavi xpath do toc dokumenta za kazalo vsebine (celoten korpus) -->
-    <xsl:param name="toc-document">../teiCorpus/toc_ZbZdruDel-Sk-11.xml</xsl:param>
+    <xsl:param name="toc-document">../toc/ZbZdruDel-Sk-11.xml</xsl:param>
+    <!-- vstavi povezavo do TEI dokumenta s seznamom govornikoc -->
+    <xsl:param name="speaker-document">../speaker.xml</xsl:param>
     
-    <!-- primerno dopolni in popravi vsebino corpus header -->
-    <xsl:param name="corpus-header">
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>title of corpus</title>
-                    <author>author</author>
-                </titleStmt>
-                <publicationStmt>
-                    <p>Publication Information</p>
-                </publicationStmt>
-                <sourceDesc>
-                    <p>Information about the source</p>
-                </sourceDesc>
-            </fileDesc>
-        </teiHeader>
+    <xsl:param name="idCommentator">komentator</xsl:param>
+    
+    <xsl:param name="editionStmt">
+        <editionStmt>
+            <edition>1.0</edition>
+        </editionStmt>
+    </xsl:param>
+    <xsl:param name="publisher">
+        <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega zgodovinopisja</publisher>
+    </xsl:param>
+    <xsl:param name="distributor">
+        <distributor>DARIAH-SI</distributor>
+    </xsl:param>
+    <xsl:param name="pubPlace">
+        <pubPlace>https://github.com/SIstory/SlovParl/tree/master/clarin/<xsl:value-of select="$folder"/></pubPlace>
+    </xsl:param>
+    <xsl:param name="licence">
+        <availability status="free">
+            <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+            <p xml:lang="en">This work is licensed under the <ref
+                target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                Attribution 4.0 International License</ref>.</p>
+            <p xml:lang="sl">To delo je ponujeno pod <ref
+                target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
+        </availability>
+    </xsl:param>
+    <xsl:param name="projectDesc">
+        <projectDesc>
+            <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
+                infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
+        </projectDesc>
+    </xsl:param>
+    <!-- generični respStmt za vse TEI dokumente -->
+    <xsl:param name="respStmt">
+        <respStmt>
+            <persName>Andrej Pančur</persName>
+            <resp>Kodiranje TEI in računalniški zapis</resp>
+        </respStmt>
+        <respStmt>
+            <persName>Mojca Šorn</persName>
+            <resp>Kodiranje TEI in računalniški zapis</resp>
+        </respStmt>
     </xsl:param>
     
-    <xsl:param name="idKomentatorja">komentator</xsl:param>
+    <xsl:variable name="document-uri" select="document-uri(.)"/>
+    <xsl:variable name="filename" select="(tokenize($document-uri,'/'))[last()]"/>
     
-    <xsl:variable name="mandati">
-        <!--<mandat from="" to="">Sk-01</mandat>
-        <mandat from="" to="">Sk-02</mandat>
-        <mandat from="" to="">Sk-03</mandat>
-        <mandat from="" to="">Sk-04</mandat>
-        <mandat from="" to="">Sk-05</mandat>
-        <mandat from="" to="">Sk-06</mandat>
-        <mandat from="" to="">Sk-07</mandat>
-        <mandat from="" to="">Sk-08</mandat>
-        <mandat from="" to="">Sk-09</mandat>
-        <mandat from="" to="">Sk-10</mandat>-->
-        <mandat from="1990-05-07" to="1992-12-22">Sk-11</mandat>
-        <mandat from="1992-12-23" to="1996-11-27">DZ-01</mandat>
-        <mandat from="1996-11-28" to="2000-10-26">DZ-02</mandat>
-        <mandat from="2000-10-27" to="2004-10-21">DZ-03</mandat>
-        <mandat from="2004-10-22" to="2008-10-14">DZ-04</mandat>
-        <mandat from="2008-10-15" to="2011-12-15">DZ-05</mandat>
-        <mandat from="2011-12-16" to="2014-07-31">DZ-06</mandat>
+    
+    <xsl:variable name="mandates">
+        <!--<mandate from="" to="">Sk-01</mandate>
+        <mandate from="" to="">Sk-02</mandate>
+        <mandate from="" to="">Sk-03</mandate>
+        <mandate from="" to="">Sk-04</mandate>
+        <mandate from="" to="">Sk-05</mandate>
+        <mandate from="" to="">Sk-06</mandate>
+        <mandate from="" to="">Sk-07</mandate>
+        <mandate from="" to="">Sk-08</mandate>
+        <mandate from="" to="">Sk-09</mandate>
+        <mandate from="" to="" name="Skupščina Socialistične republike Slovenije">Sk-10</mandate>-->
+        <mandate from="1990-05-07" to="1992-12-22" name="Skupščina Republike Slovenije" nameEn="Assembly of the Republic of Slovenia">Sk-11</mandate>
+        <mandate from="1992-12-23" to="1996-11-27" name="Državni zbor Republike Slovenije" nameEn="National Assembly of the Republic of Slovenia">DZ-01</mandate>
+        <mandate from="1996-11-28" to="2000-10-26" name="Državni zbor Republike Slovenije" nameEn="National Assembly of the Republic of Slovenia">DZ-02</mandate>
+        <mandate from="2000-10-27" to="2004-10-21" name="Državni zbor Republike Slovenije" nameEn="National Assembly of the Republic of Slovenia">DZ-03</mandate>
+        <mandate from="2004-10-22" to="2008-10-14" name="Državni zbor Republike Slovenije" nameEn="National Assembly of the Republic of Slovenia">DZ-04</mandate>
+        <mandate from="2008-10-15" to="2011-12-15" name="Državni zbor Republike Slovenije" nameEn="National Assembly of the Republic of Slovenia">DZ-05</mandate>
+        <mandate from="2011-12-16" to="2014-07-31" name="Državni zbor Republike Slovenije" nameEn="National Assembly of the Republic of Slovenia">DZ-06</mandate>
+    </xsl:variable>
+    
+    <!-- iz skupnega kazala naredim začasno taxonomy (v @ana povezave na ustrezne div) 
+                 in jo shrabim v variablo za kasnejšo obdelavo -->
+    <xsl:variable name="taxonomy">
+        <xsl:for-each select="document($toc-document)//tei:text/tei:body">
+            <category xml:id="taxonomy.root">
+                <xsl:call-template name="taxonomy-ana-attribute"/>
+                <catDesc>
+                    <xsl:value-of select="tei:head"/>
+                </catDesc>
+                <xsl:call-template name="taxonomy-category"/>
+            </category>
+        </xsl:for-each>
+    </xsl:variable>
+    <!-- shranim podatke v bolj dostopno variablo -->
+    <xsl:variable name="taxonomy-2">
+        <xsl:for-each select="$taxonomy//tei:category">
+            <xsl:variable name="id" select="@xml:id"/>
+            <xsl:for-each select="tokenize(@ana,' ')">
+                <category xml:id="{$id}">
+                    <xsl:value-of select="substring-after(.,'corp:')"/>
+                </category>
+            </xsl:for-each>
+        </xsl:for-each>
+    </xsl:variable>
+    
+    <!-- iz prvotne taxonomy naredim variablo za kasnejp obdelavo:  -->
+    <xsl:variable name="taxonomy-catDesc">
+        <xsl:for-each select="tei:teiCorpus/tei:teiHeader/tei:encodingDesc/tei:classDecl/tei:taxonomy//tei:category">
+            <xsl:variable name="categoryName" select="substring-after(@xml:id,'PAR.')"/>
+            <xsl:for-each select="tei:catDesc">
+                <category name="{$categoryName}">
+                    <xsl:if test="@xml:lang">
+                        <xsl:attribute name="xml:lang">
+                            <xsl:value-of select="@xml:lang"/>
+                        </xsl:attribute>
+                    </xsl:if>
+                    <xsl:value-of select="."/>
+                </category>
+            </xsl:for-each>
+        </xsl:for-each>
     </xsl:variable>
     
     <xsl:template match="tei:teiCorpus">
-        <xsl:for-each select="tei:TEI/tei:text/tei:body/tei:div/tei:div">
-            <xsl:variable name="docDate-prvi" select="tei:docDate/tei:date[1]/@when"/>
-            <xsl:variable name="direktorijMandat">
-                <xsl:for-each select="$mandati/tei:mandat">
-                    <xsl:if test="xs:date(@from) eq xs:date($docDate-prvi) or xs:date(@from) lt xs:date($docDate-prvi)">
-                        <xsl:if test="xs:date(@to) eq xs:date($docDate-prvi) or xs:date(@to) gt xs:date($docDate-prvi)">
-                            <xsl:value-of select="."/>
-                        </xsl:if>
-                    </xsl:if>
-                </xsl:for-each>
-            </xsl:variable>
-            <xsl:variable name="zbor" select="tokenize(substring-after(parent::tei:div/@ana,'#PAR.'),' ')[1]"/>
-            <xsl:variable name="kategorijaVrsteSeje" select="substring-after(@ana,'#PAR.')"/>
-            <!-- Če je Seja, dobi črko s, če pa je zasedanje, dobi črko z -->
-            <xsl:variable name="vrstaSeje">
-                <xsl:choose>
-                    <xsl:when test="$kategorijaVrsteSeje = 'Seja'">s</xsl:when>
-                    <xsl:otherwise>z</xsl:otherwise>
-                </xsl:choose>
-            </xsl:variable>
-            <xsl:variable name="stSeje">
-                <xsl:choose>
-                    <xsl:when test="string-length(@n) = 1">
-                        <xsl:value-of select="concat('00',@n)"/>
-                    </xsl:when>
-                    <xsl:when test="string-length(@n) = 2">
-                        <xsl:value-of select="concat('0',@n)"/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:value-of select="@n"/>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </xsl:variable>
-            <!-- za kasneje v variablo shranim timeline -->
-            <xsl:variable name="timeline">
-                <xsl:copy-of select="tei:timeline" copy-namespaces="no"/>
-            </xsl:variable>
-            <!-- za kasneje v variablo shranim id predsedujočih oseb -->
-            <xsl:variable name="predsedujoci">
-                <xsl:for-each select="tei:castList/tei:castItem/tei:actor">
-                    <xsl:variable name="actorId" select="@xml:id"/>
-                    <preds>
-                        <xsl:value-of select="distinct-values(//tei:sp[substring-after(@corresp,'#') = $actorId]/substring-after(@who,'sp:'))"/>
-                    </preds>
-                </xsl:for-each>
-            </xsl:variable>
-            
-            <!-- govore sp odstranim iz div hierarhije in njihovim p, speaker, ad in stage dodam atribute who (iz sp) in div-id (iz parent div) -->
-            <xsl:variable name="govori-var1">
-                <xsl:apply-templates select="tei:div/tei:div" mode="govori-1"/>
-            </xsl:variable>
-            <!-- sp, ki so bili prej ločeni zaradi vsebinskih div, združim glede na govorca -->
-            <xsl:variable name="govori-var2">
-                <xsl:for-each-group select="$govori-var1/*" group-starting-with="tei:sp[tei:speaker]">
-                    <div>
-                        <xsl:for-each select="current-group()">
-                            <xsl:copy-of select="."/>
+        <xsl:variable name="document-corpus" select="concat($path2folder,'teiCorpus.xml')"/>
+        <xsl:result-document href="{$document-corpus}" >
+            <teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude">
+                <teiHeader>
+                    <fileDesc>
+                        <xsl:copy-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt"/>
+                        <xsl:copy-of select="$editionStmt"/>
+                        <publicationStmt>
+                            <xsl:copy-of select="$publisher"/>
+                            <xsl:copy-of select="$distributor"/>
+                            <xsl:copy-of select="$pubPlace"/>
+                            <xsl:copy-of select="$licence"/>
+                            <date when="{current-date()}"/>
+                        </publicationStmt>
+                        <sourceDesc>
+                            <biblFull>
+                                <xsl:copy-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt"/>
+                                <xsl:copy-of select="tei:teiHeader/tei:fileDesc/tei:publicationStmt"/>
+                            </biblFull>
+                        </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                        <xsl:copy-of select="$projectDesc"/>
+                        <classDecl>
+                            <taxonomy xml:id="contents">
+                                <!-- iz variable taxonomy odstranim @ana in taksonomijo izpišem -->
+                                <xsl:variable name="taxonomy-3">
+                                    <xsl:apply-templates select="$taxonomy" mode="taxonomy-remove_ana"/>
+                                </xsl:variable>
+                                <xsl:copy-of select="$taxonomy-3"/>
+                            </taxonomy>
+                        </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                        <particDesc>
+                            <xsl:variable name="speakers">
+                                <xsl:for-each select="distinct-values(//tei:sp/substring-after(@who,'sp:'))">
+                                    <speaker>
+                                        <xsl:value-of select="."/>
+                                    </speaker>
+                                </xsl:for-each>
+                            </xsl:variable>
+                            <!-- dodam še komentatorja -->
+                            <listPerson>
+                                <person xml:id="{$idCommentator}">
+                                    <state>
+                                        <label xml:lang="sl">komentator</label>
+                                        <label xml:lang="en">commentator</label>
+                                    </state>
+                                </person>
+                            </listPerson>
+                            <xsl:for-each select="document($speaker-document)//tei:listPerson">
+                                <listPerson>
+                                    <xsl:for-each select="tei:head">
+                                        <xsl:copy-of select="."/>
+                                    </xsl:for-each>
+                                    <xsl:for-each select="tei:personGrp">
+                                        <xsl:copy-of select="."/>
+                                    </xsl:for-each>
+                                    <xsl:for-each select="tei:person[@xml:id = $speakers/tei:speaker]">
+                                        <xsl:copy-of select="."/>
+                                    </xsl:for-each>
+                                </listPerson>
+                            </xsl:for-each>
+                            <xsl:for-each select="document($speaker-document)//tei:profileDesc/tei:particDesc/tei:listOrg">
+                                <xsl:copy-of select="."/>
+                            </xsl:for-each>
+                        </particDesc>
+                        <!-- če obstaja, kopiraj langUsage -->
+                        <xsl:copy-of select="tei:teiHeader/tei:profileDesc/tei:langUsage"/>
+                        <!-- če obstaja, kopiraj settingDesc -->
+                        <xsl:copy-of select="tei:teiHeader/tei:profileDesc/tei:settingDesc"/>
+                    </profileDesc>
+                </teiHeader>
+                
+                <!-- začetek procesiranja posameznih TEI dokumentov, v okviru katere dodam tudi xi:include na te dokumente -->
+                <xsl:for-each select="tei:TEI/tei:text/tei:body/tei:div/tei:div">
+                    <xsl:variable name="docDate-first" select="tei:docDate/tei:date[1]/@when"/>
+                    <xsl:variable name="folder-mandate">
+                        <xsl:for-each select="$mandates/tei:mandate">
+                            <xsl:if test="xs:date(@from) eq xs:date($docDate-first) or xs:date(@from) lt xs:date($docDate-first)">
+                                <xsl:if test="xs:date(@to) eq xs:date($docDate-first) or xs:date(@to) gt xs:date($docDate-first)">
+                                    <xsl:value-of select="."/>
+                                </xsl:if>
+                            </xsl:if>
                         </xsl:for-each>
-                    </div>
-                </xsl:for-each-group>
-            </xsl:variable>
-            <!-- poenotim imena elementov v u (razen p/stage) -->
-            <xsl:variable name="govori-var3">
-                <!-- sem moral dati v variablo root element, ker drugače ni mogoče uporabljati xsl:copy in posledično
+                    </xsl:variable>
+                    <xsl:variable name="chamber" select="tokenize(substring-after(parent::tei:div/@ana,'#PAR.'),' ')[1]"/>
+                    <xsl:variable name="session-type-category" select="substring-after(@ana,'#PAR.')"/>
+                    <!-- Če je Seja, dobi črko s, če pa je zasedanje, dobi črko z -->
+                    <xsl:variable name="session-type">
+                        <xsl:choose>
+                            <xsl:when test="$session-type-category = 'Seja'">s</xsl:when>
+                            <xsl:otherwise>z</xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
+                    <xsl:variable name="session-number">
+                        <xsl:choose>
+                            <xsl:when test="string-length(@n) = 1">
+                                <xsl:value-of select="concat('00',@n)"/>
+                            </xsl:when>
+                            <xsl:when test="string-length(@n) = 2">
+                                <xsl:value-of select="concat('0',@n)"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="@n"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
+                    <!-- za kasneje v variablo shranim timeline -->
+                    <xsl:variable name="timeline">
+                        <xsl:copy-of select="tei:timeline" copy-namespaces="no"/>
+                    </xsl:variable>
+                    <!-- za kasneje v variablo shranim id predsedujočih oseb -->
+                    <xsl:variable name="president">
+                        <xsl:for-each select="tei:castList/tei:castItem/tei:actor">
+                            <xsl:variable name="actorId" select="@xml:id"/>
+                            <president>
+                                <xsl:value-of select="distinct-values(//tei:sp[substring-after(@corresp,'#') = $actorId]/substring-after(@who,'sp:'))"/>
+                            </president>
+                        </xsl:for-each>
+                    </xsl:variable>
+                    
+                    <!-- govore sp odstranim iz div hierarhije in njihovim p, speaker, ad in stage dodam atribute who (iz sp) in div-id (iz parent div/@xml:id) -->
+                    <xsl:variable name="govori-var1">
+                        <xsl:apply-templates select="tei:div/tei:div" mode="govori-1"/>
+                    </xsl:variable>
+                    <!-- sp, ki so bili prej ločeni zaradi vsebinskih div, združim glede na govorca -->
+                    <xsl:variable name="govori-var2">
+                        <xsl:for-each-group select="$govori-var1/*" group-starting-with="tei:sp[tei:speaker]">
+                            <div>
+                                <xsl:for-each select="current-group()">
+                                    <xsl:copy-of select="."/>
+                                </xsl:for-each>
+                            </div>
+                        </xsl:for-each-group>
+                    </xsl:variable>
+                    <!-- poenotim imena elementov v u (razen p/stage) -->
+                    <xsl:variable name="govori-var3">
+                        <!-- sem moral dati v variablo root element, ker drugače ni mogoče uporabljati xsl:copy in posledično
                         split-element v naslednji variabli ne deluje -->
-                <root>
-                    <!-- najprej dodam vsebino, ki je vedno pred prvim div/div/sp -->
-                    <div>
-                        <anchor xml:id="{tei:stage/tei:time[@from]/@xml:id}" n="{substring-before(tei:stage/tei:time/@from,'T')}"/>
-                        <u who="{concat('#',$idKomentatorja)}"><xsl:value-of select="normalize-space(../tei:head)"/></u>
-                        <u who="{concat('#',$idKomentatorja)}"><xsl:value-of select="normalize-space(tei:head)"/></u>
-                        <u who="{concat('#',$idKomentatorja)}"><xsl:value-of select="normalize-space(tei:docDate)"/></u>
-                        <u who="{concat('#',$idKomentatorja)}"><xsl:value-of select="normalize-space(tei:castList)"/></u>
-                        <u who="{concat('#',$idKomentatorja)}"><xsl:value-of select="normalize-space(tei:stage)"/></u>
-                    </div>
-                    <!-- procesiram prejšnjo variablo -->
-                    <xsl:apply-templates select="$govori-var2" mode="govori-var3-ciscenje"/>
-                </root>
-            </xsl:variable>
-            <!-- prejšnji p/stage zaznamujem kot ločen del govora (u komentatorja) -->
-            <xsl:variable name="govori-var4">
-                <xsl:apply-templates select="$govori-var3" mode="govori-var4-razdruzevanje"/>
-            </xsl:variable>
-            <!-- vse u/u in u/stage pretvorim v samostojne u (nadaljevanje prejšnje variable) -->
-            <xsl:variable name="govori-var5">
-                <xsl:apply-templates select="$govori-var4" mode="govori-var5-ciscenje"/>
-            </xsl:variable>
-            <!-- dodani xml:id vsem elementom v variabli (glede na position() ) -->
-            <xsl:variable name="govori-var6">
-                <xsl:apply-templates select="$govori-var5" mode="govori-var6-doda_id"/>
-            </xsl:variable>
-            <!-- elementi u dobijo v atributu n datum prvega predhodnega anchor/@n (ki ga je prej dobil od time/@from) -->
-            <xsl:variable name="govori-var8">
-                <xsl:apply-templates select="$govori-var6" mode="govori-var-8-datum"/>
-            </xsl:variable>
-            <!-- zadnji anchor/@, ki ima drugačen datum kot div znotraj katerega se nahaja, premaknem v naslednji div -->
-            <xsl:variable name="govori-var8b">
-                <xsl:apply-templates select="$govori-var8" mode="govori-var-8b-premakni_anchor"/>
-            </xsl:variable>
-            
-            <!-- vsebino razdelim v skupine z istim dnevom -->
-            <xsl:for-each-group select="$govori-var8b/tei:div" group-by="tei:u[1]/@n">
-                <xsl:variable name="pozicija" select="position()"/>
-                <xsl:variable name="stSkupine" >
-                    <xsl:choose>
-                        <xsl:when test="$pozicija lt 10">
-                            <xsl:value-of select="concat('0',$pozicija)"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="$pozicija"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </xsl:variable>
-                <!-- vsebino shranim v variablo (jo uporabim za konstrukcijo kazala in timeline -->
-                <xsl:variable name="govori-var10">
-                    <xsl:for-each select="current-group()">
-                        <xsl:copy-of select="."/>
-                    </xsl:for-each>
-                </xsl:variable>
-                <!-- na koncu pošistim odvečne corresp in n atribute iz elementov u in ancor -->
-                <xsl:variable name="govori-var11">
-                    <xsl:apply-templates select="$govori-var10" mode="govori-var-11-ciscenje"/>
-                </xsl:variable>
-                <xsl:variable name="path2document" select="concat($path2folder,$direktorijMandat,'/',current-grouping-key(),'-',$zbor,'-',$vrstaSeje,$stSeje,'-',$stSkupine,'/')"/>
-                <xsl:variable name="document-text" select="concat($path2document,'text_structure.xml')"/>
-                <xsl:variable name="document-corpus-header" select="concat($path2document,'corpus-header.xml')"/>
-                <xsl:variable name="document-header" select="concat($path2document,'header.xml')"/>
-                <xsl:result-document href="{$document-text}">
-                    <teiCorpus>
-                        <xsl:text disable-output-escaping="yes"><![CDATA[<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="corpus-header.xml"/>]]></xsl:text>
-                        <xsl:result-document href="{$document-corpus-header}">
-                            <xsl:copy-of select="$corpus-header"/>
-                        </xsl:result-document>
-                        <TEI>
-                            <xsl:text disable-output-escaping="yes"><![CDATA[<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="header.xml"/>]]></xsl:text>
-                            <xsl:result-document href="{$document-header}">
+                        <root>
+                            <!-- najprej dodam vsebino, ki je vedno pred prvim div/div/sp -->
+                            <div>
+                                <anchor xml:id="{tei:stage/tei:time[@from]/@xml:id}" n="{substring-before(tei:stage/tei:time/@from,'T')}"/>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(../tei:head)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:head)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:docDate)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:castList)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:stage)"/></u>
+                            </div>
+                            <!-- procesiram prejšnjo variablo -->
+                            <xsl:apply-templates select="$govori-var2" mode="govori-var3-ciscenje"/>
+                        </root>
+                    </xsl:variable>
+                    <!-- prejšnji p/stage zaznamujem kot ločen del govora (u komentatorja) -->
+                    <xsl:variable name="govori-var4">
+                        <xsl:apply-templates select="$govori-var3" mode="govori-var4-razdruzevanje"/>
+                    </xsl:variable>
+                    <!-- vse u/u in u/stage pretvorim v samostojne u (nadaljevanje prejšnje variable) -->
+                    <xsl:variable name="govori-var5">
+                        <xsl:apply-templates select="$govori-var4" mode="govori-var5-ciscenje"/>
+                    </xsl:variable>
+                    <!-- dodani xml:id vsem elementom v variabli (glede na position() ) -->
+                    <xsl:variable name="govori-var6">
+                        <xsl:apply-templates select="$govori-var5" mode="govori-var6-doda_id"/>
+                    </xsl:variable>
+                    <!-- elementi u dobijo v atributu n datum prvega predhodnega anchor/@n (ki ga je prej dobil od time/@from) -->
+                    <xsl:variable name="govori-var8">
+                        <xsl:apply-templates select="$govori-var6" mode="govori-var-8-datum"/>
+                    </xsl:variable>
+                    <!-- zadnji anchor/@, ki ima drugačen datum kot div znotraj katerega se nahaja, premaknem v naslednji div -->
+                    <xsl:variable name="govori-var8b">
+                        <xsl:apply-templates select="$govori-var8" mode="govori-var-8b-premakni_anchor"/>
+                    </xsl:variable>
+                    
+                    <!-- vsebino razdelim v skupine z istim dnevom -->
+                    <xsl:for-each-group select="$govori-var8b/tei:div" group-by="tei:u[1]/@n">
+                        <xsl:variable name="position" select="position()"/>
+                        <xsl:variable name="dategroup-number" >
+                            <xsl:choose>
+                                <xsl:when test="$position lt 10">
+                                    <xsl:value-of select="concat('0',$position)"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="$position"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:variable>
+                        <!-- vsebino shranim v variablo (jo uporabim za konstrukcijo kazala in timeline -->
+                        <xsl:variable name="govori-var10">
+                            <xsl:for-each select="current-group()">
+                                <xsl:copy-of select="."/>
+                            </xsl:for-each>
+                        </xsl:variable>
+                        <!-- dodam ana atribut s povezavo na taxonomy -->
+                        <xsl:variable name="govori-var10a">
+                            <xsl:for-each select="$govori-var10/tei:div">
+                                <div xml:id="{@xml:id}">
+                                    <xsl:for-each select="node()">
+                                        <xsl:choose>
+                                            <xsl:when test="name(.) = 'u'">
+                                                <xsl:variable name="corresp" select="@corresp"/>
+                                                <u n="{@n}" xml:id="{@xml:id}" who="{@who}">
+                                                    <xsl:if test="@corresp">
+                                                        <xsl:attribute name="corresp">
+                                                            <xsl:value-of select="@corresp"/>
+                                                        </xsl:attribute>
+                                                        <xsl:attribute name="ana">
+                                                            <xsl:for-each select="$taxonomy-2//tei:category[. = $corresp]">
+                                                                <xsl:value-of select="concat('#',@xml:id)"/>
+                                                                <!-- je lahko vezan na več kot eno kategorijo -->
+                                                                <xsl:if test="position() != last()">
+                                                                    <xsl:text> </xsl:text>
+                                                                </xsl:if>
+                                                            </xsl:for-each>
+                                                        </xsl:attribute>
+                                                    </xsl:if>
+                                                    <xsl:value-of select="."/>
+                                                </u>
+                                            </xsl:when>
+                                            <!-- drugače je anchor, ki ga samo kopiramo -->
+                                            <xsl:otherwise>
+                                                <xsl:copy-of select="."/>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </xsl:for-each>
+                                </div>
+                            </xsl:for-each>
+                        </xsl:variable>
+                        <!-- Pred koncem počistim odvečne corresp in n atribute iz elementov u in anchor; -->
+                        <xsl:variable name="govori-var11">
+                            <xsl:apply-templates select="$govori-var10a" mode="govori-var-11-ciscenje"/>
+                        </xsl:variable>
+                        
+                        <!-- Na koncu naredim iz vseh xml:id unikatne identifikatorje (dodam uniqueId TEI dokumenta) -->
+                        <xsl:variable name="uniqueId" select="concat($folder-mandate,'.',current-grouping-key(),'.',$chamber,'.',$session-type,$session-number,'-',$dategroup-number)"/>
+                        <xsl:variable name="govori-var12">
+                            <xsl:for-each select="$govori-var11/tei:div">
+                                <div xml:id="{concat($uniqueId,'.',@xml:id)}">
+                                    <xsl:for-each select="node()">
+                                        <xsl:choose>
+                                            <xsl:when test="xs:string(node-name(.)) = 'u'">
+                                                <u xml:id="{concat($uniqueId,'.',@xml:id)}" who="{@who}">
+                                                    <xsl:if test="@ana">
+                                                        <xsl:attribute name="ana">
+                                                            <xsl:value-of select="@ana"/>
+                                                        </xsl:attribute>
+                                                    </xsl:if>
+                                                    <xsl:value-of select="."/>
+                                                </u>
+                                            </xsl:when>
+                                            <!-- drugače je anchor, ki je že od prej podedoval unikatni id -->
+                                            <xsl:otherwise>
+                                                <xsl:copy-of select="."/>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </xsl:for-each>
+                                </div>
+                            </xsl:for-each>
+                        </xsl:variable>
+                        
+                        <!-- preden naredim TEI dokumente, najprej naredim xi:include iz teiCorpus na vse te dokumente -->
+                        <xsl:text disable-output-escaping="yes"><![CDATA[<xi:include href="]]></xsl:text>
+                        <xsl:value-of select="concat($folder-mandate,'/',current-grouping-key(),'-',$chamber,'-',$session-type,$session-number,'-',$dategroup-number,'.xml')"/>
+                        <xsl:text disable-output-escaping="yes"><![CDATA["/>]]></xsl:text>
+                        
+                        <!-- ustvarim TEI dokument -->
+                        <xsl:variable name="document" select="concat($path2folder,$folder-mandate,'/',current-grouping-key(),'-',$chamber,'-',$session-type,$session-number,'-',$dategroup-number,'.xml')"/>
+                        <xsl:result-document href="{$document}">
+                            <TEI xml:id="{$uniqueId}" xml:lang="sl">
                                 <teiHeader>
                                     <fileDesc>
                                         <titleStmt>
-                                            <title/>
-                                            <author/>
+                                            <title xml:lang="sl">Zapisniki sej</title>
+                                            <title xml:lang="en">Stenographic minutes</title>
+                                            <xsl:for-each select="$mandates/tei:mandate[. = $folder-mandate]">
+                                                <title xml:lang="sl">
+                                                    <xsl:value-of select="@name"/>
+                                                </title>
+                                                <title xml:lang="en">
+                                                    <xsl:value-of select="@nameEn"/>
+                                                </title>
+                                            </xsl:for-each>
+                                            <xsl:for-each select="$taxonomy-catDesc/tei:category[@name = $chamber]">
+                                                <title>
+                                                    <xsl:if test="@xml:lang">
+                                                        <xsl:attribute name="xml:lang">
+                                                            <xsl:value-of select="@xml:lang"/>
+                                                        </xsl:attribute>
+                                                    </xsl:if>
+                                                    <xsl:value-of select="."/>
+                                                </title>
+                                            </xsl:for-each>
+                                            <xsl:choose>
+                                                <xsl:when test="$session-type = 's'">
+                                                    <title xml:lang="sl">Seja <xsl:value-of select="number($session-number)"/></title>
+                                                    <title xml:lang="en">Session <xsl:value-of select="number($session-number)"/></title>
+                                                </xsl:when>
+                                                <!-- drugače je črka z : zasedanje -->
+                                                <xsl:otherwise>
+                                                    <title xml:lang="sl">Zasedanje <xsl:value-of select="number($session-number)"/></title>
+                                                    <title xml:lang="en">Session <xsl:value-of select="number($session-number)"/></title>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                            <xsl:copy-of select="$respStmt"/>
                                         </titleStmt>
                                         <publicationStmt>
-                                            <p/>
+                                            <xsl:copy-of select="$publisher"/>
+                                            <xsl:copy-of select="$distributor"/>
+                                            <xsl:copy-of select="$pubPlace"/>
+                                            <xsl:copy-of select="$licence"/>
+                                            <date when="{current-date()}"/>
                                         </publicationStmt>
                                         <sourceDesc>
-                                            <p/>
+                                            <bibl><xsl:value-of select="$filename"/></bibl>
                                         </sourceDesc>
                                     </fileDesc>
+                                    <encodingDesc>
+                                        <xsl:copy-of select="$projectDesc"/>
+                                    </encodingDesc>
                                     <profileDesc>
                                         <particDesc>
-                                            <!-- vstavim povezave na govorove predsednika in podpredsednika -->
-                                            <xsl:for-each select="$predsedujoci/tei:preds">
-                                                <xsl:variable name="predsId" select="."/>
-                                                <person role="president" sameAs="{concat('#',.)}">
-                                                    <linkGrp>
-                                                        <xsl:for-each select="$govori-var10//tei:u[substring-after(@who,'#') = $predsId]">
-                                                            <ptr target="{concat('#',@xml:id)}"/>
-                                                        </xsl:for-each>
-                                                    </linkGrp>
-                                                </person>
+                                            <!-- vstavim povezave na govorove predsednika in podpredsednika posameznega zbora -->
+                                            <xsl:for-each select="$president/tei:president">
+                                                <xsl:variable name="presidentId" select="."/>
+                                                <xsl:if test="$govori-var10/tei:div/tei:u[substring-after(@who,'#') = $presidentId]">
+                                                    <person role="president" sameAs="{concat('#',.)}">
+                                                        <linkGrp>
+                                                            <xsl:for-each select="$govori-var10//tei:u[substring-after(@who,'#') = $presidentId]">
+                                                                <ptr target="{concat('#',$uniqueId,'.',@xml:id)}"/>
+                                                            </xsl:for-each>
+                                                        </linkGrp>
+                                                    </person>
+                                                </xsl:if>
                                             </xsl:for-each>
                                         </particDesc>
+                                        <settingDesc>
+                                            <setting>
+                                                <date when="{current-grouping-key()}"/>
+                                            </setting>
+                                        </settingDesc>
                                     </profileDesc>
                                 </teiHeader>
-                            </xsl:result-document>
-                            <text xml:lang="sl">
-                                <front>
-                                    <div type="contents">
-                                        <list>
-                                            <xsl:for-each-group select="$govori-var10//tei:u" group-by="@ana">
-                                                <item xml:id="{concat('toc-item',position())}">
-                                                    <xsl:variable name="naslov-kazalo">
-                                                        <xsl:for-each select="document($toc-document)//tei:item[substring-after(@corresp,'corp:') = current-grouping-key()]">
-                                                            <title>
-                                                                <xsl:value-of select="normalize-space(tei:p[1])"/>
-                                                            </title>
+                                <text xml:lang="sl">
+                                    <front>
+                                        <div type="contents">
+                                            <list>
+                                                <xsl:for-each-group select="$govori-var10//tei:u" group-by="@corresp">
+                                                    <item xml:id="{concat($uniqueId,'.toc-item',position())}">
+                                                        <xsl:variable name="naslov-kazalo">
+                                                            <xsl:for-each select="document($toc-document)//tei:item[substring-after(@corresp,'corp:') = current-grouping-key()]">
+                                                                <title>
+                                                                    <xsl:value-of select="normalize-space(tei:p[1])"/>
+                                                                </title>
+                                                            </xsl:for-each>
+                                                        </xsl:variable>
+                                                        <!-- v kazalu celotnega korpusa se lahko isti item/@cooresp nahajajo v razližnih vsebinskih sklopih
+                                                             (imajo atribut synche, ki jih povezuje med seboj preko xml:id) -->
+                                                        <title>
+                                                            <xsl:value-of select="$naslov-kazalo/tei:title[1]"/>
+                                                        </title>
+                                                        <xsl:for-each select="current-group()">
+                                                            <ptr target="{concat('#',$uniqueId,'.',@xml:id)}"/>
                                                         </xsl:for-each>
-                                                    </xsl:variable>
-                                                    <!-- v kazalu celotnega korpusa se lahko isti item/@cooresp nahajajo v razližnih vsebinskih sklopih
-                                                    (imajo atribut synche, ki jih povezuje med seboj preko xml:id) -->
-                                                    <title>
-                                                        <xsl:value-of select="$naslov-kazalo/tei:title[1]"/>
-                                                    </title>
-                                                    <xsl:for-each select="current-group()">
-                                                        <ptr target="{concat('#',@xml:id)}"/>
-                                                    </xsl:for-each>
-                                                </item>
-                                            </xsl:for-each-group>
-                                        </list>
-                                    </div>
-                                </front>
-                                <body>
-                                    <!-- prečiščim originalni timeline glede na isti datum -->
-                                    <xsl:variable name="timeline-when">
-                                        <xsl:for-each select="$timeline//tei:when[substring-before(@absolute,'T') = current-grouping-key()]">
-                                            <xsl:copy-of select="."/>
-                                        </xsl:for-each>
-                                    </xsl:variable>
-                                    <timeline origin="{$timeline-when/tei:when[1]/concat('#',@xml:id)}" unit="s">
-                                        <xsl:for-each select="$timeline-when//tei:when">
-                                            <xsl:copy-of select="."/>
-                                        </xsl:for-each>
-                                    </timeline>
-                                    <!-- kopiram vsebino govorov iz zadnje govor variable -->
-                                    <xsl:copy-of select="$govori-var11"/>
-                                </body>
-                            </text>
-                        </TEI>
-                    </teiCorpus>
-                </xsl:result-document>
-            </xsl:for-each-group>
-        </xsl:for-each>
+                                                    </item>
+                                                </xsl:for-each-group>
+                                            </list>
+                                        </div>
+                                    </front>
+                                    <body>
+                                        <!-- prečiščim originalni timeline glede na isti datum -->
+                                        <xsl:variable name="timeline-when">
+                                            <xsl:for-each select="$timeline//tei:when[substring-before(@absolute,'T') = current-grouping-key()]">
+                                                <xsl:copy-of select="."/>
+                                            </xsl:for-each>
+                                        </xsl:variable>
+                                        <timeline origin="{$timeline-when/tei:when[1]/concat('#',@xml:id)}" unit="s">
+                                            <xsl:for-each select="$timeline-when//tei:when">
+                                                <xsl:copy-of select="."/>
+                                            </xsl:for-each>
+                                        </timeline>
+                                        <!-- kopiram vsebino govorov iz zadnje govor variable -->
+                                        <xsl:copy-of select="$govori-var12"/>
+                                    </body>
+                                </text>
+                            </TEI>
+                        </xsl:result-document>
+                    </xsl:for-each-group>
+                </xsl:for-each>
+            </teiCorpus>
+        </xsl:result-document>
     </xsl:template>
     
     <xsl:template match="tei:sp" mode="govori-1">
@@ -289,7 +542,7 @@
         <xsl:variable name="div-id" select="parent::tei:div/@xml:id"/>
         <xsl:choose>
             <xsl:when test=".[@type = 'time']">
-                <p who="{concat('#',$idKomentatorja)}" divId="{$div-id}">
+                <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
                 <xsl:if test="tei:time/@to">
@@ -300,7 +553,7 @@
                 </xsl:if>
             </xsl:when>
             <xsl:otherwise>
-                <p who="{concat('#',$idKomentatorja)}" divId="{$div-id}">
+                <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
             </xsl:otherwise>
@@ -310,7 +563,7 @@
     
     <xsl:template match="tei:speaker" mode="govori-2">
         <xsl:param name="div-id"/>
-        <speaker who="{concat('#',$idKomentatorja)}" divId="{$div-id}">
+        <speaker who="{concat('#',$idCommentator)}" divId="{$div-id}">
             <xsl:value-of select="normalize-space(.)"/>
         </speaker>
     </xsl:template>
@@ -338,7 +591,7 @@
         <xsl:param name="div-id"/>
         <xsl:choose>
             <xsl:when test=".[@type = 'time']">
-                <p who="{concat('#',$idKomentatorja)}" divId="{$div-id}">
+                <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
                 <xsl:if test="tei:time/@to">
@@ -349,7 +602,7 @@
                 </xsl:if>
             </xsl:when>
             <xsl:otherwise>
-                <p who="{concat('#',$idKomentatorja)}" divId="{$div-id}">
+                <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
             </xsl:otherwise>
@@ -358,7 +611,7 @@
     
     <xsl:template match="tei:stage" mode="govori-3">
         <xsl:param name="div-id"/>
-        <stage who="{concat('#',$idKomentatorja)}" divId="{$div-id}">
+        <stage who="{concat('#',$idCommentator)}" divId="{$div-id}">
             <xsl:value-of select="."/>
         </stage>
     </xsl:template>
@@ -395,16 +648,20 @@
         </stage>
     </xsl:template>
     
+    <!-- mode govori-var4-razdruzevanje:
+         example at http://stackoverflow.com/questions/4215965/xslt-split-at-child-node 
+         1. The use of the identity rule to copy every node as-is.
+    -->
     <xsl:template match="node()|@*" mode="govori-var4-razdruzevanje">
         <xsl:copy>
             <xsl:apply-templates select="node()|@*" mode="govori-var4-razdruzevanje"/>
         </xsl:copy>
     </xsl:template>
-    
+    <!-- 2. The overriding of the identity rule with templates for processing only specific nodes -->
     <xsl:template match="/*" mode="govori-var4-razdruzevanje">
         <xsl:apply-templates mode="govori-var4-razdruzevanje"/>
     </xsl:template>
-    
+    <!-- 3. Using 1. and 2. above. -->
     <xsl:template match="tei:u[tei:stage]/text()" mode="govori-var4-razdruzevanje">
         <u><xsl:copy-of select="."/></u>
     </xsl:template>
@@ -434,7 +691,7 @@
     
     <xsl:template match="tei:stage" mode="govori-var5-ciscenje2">
         <xsl:param name="divID"/>
-        <u who="{concat('#',$idKomentatorja)}" divId="{$divID}">
+        <u who="{concat('#',$idCommentator)}" divId="{$divID}">
             <xsl:value-of select="normalize-space(.)"/>
         </u>
     </xsl:template>
@@ -452,9 +709,9 @@
                 <xsl:choose>
                     <xsl:when test="xs:string(node-name(.)) eq 'u'">
                         <u xml:id="{concat('u-',$divPosition,'.',position())}" who="{@who}">
-                            <!-- atr divId začasno shranim v atr ana (uvodne komentatorjeve besede (docDate ipd.) nimajo tega atributa, zato preferem if) -->
+                            <!-- atr divId začasno shranim v atr corresp (uvodne komentatorjeve besede (docDate ipd.) nimajo tega atributa, zato preferem if) -->
                             <xsl:if test="@divId">
-                                <xsl:attribute name="ana">
+                                <xsl:attribute name="corresp">
                                     <xsl:value-of select="@divId"/>
                                 </xsl:attribute>
                             </xsl:if>
@@ -521,12 +778,57 @@
     
     <xsl:template match="tei:u" mode="govori-var-11-ciscenje">
         <u xml:id="{@xml:id}" who="{@who}">
+            <xsl:if test="@ana">
+                <xsl:attribute name="ana">
+                    <xsl:value-of select="@ana"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:value-of select="normalize-space(.)"/>
         </u>
     </xsl:template>
     
     <xsl:template match="tei:anchor" mode="govori-var-11-ciscenje">
         <anchor xml:id="{@xml:id}"/>
+    </xsl:template>
+    
+    <xsl:template name="taxonomy-ana-attribute">
+        <xsl:if test="tei:list[@type='contents']">
+            <xsl:attribute name="ana">
+                <xsl:for-each select="tei:list[@type='contents']//tei:item[@corresp]">
+                    <xsl:value-of select="@corresp"/>
+                    <xsl:if test="position() != last()">
+                        <xsl:text> </xsl:text>
+                    </xsl:if>
+                </xsl:for-each>
+            </xsl:attribute>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template name="taxonomy-category">
+        <xsl:for-each select="tei:list[not(@type)]/tei:item">
+            <xsl:variable name="level">
+                <xsl:number format="1.1.1.1.1" level="multiple" count="tei:list[not(@type)]/tei:item"/>
+            </xsl:variable>
+            <category xml:id="{concat('taxonomy.',$level)}">
+                <xsl:call-template name="taxonomy-ana-attribute"/>
+                <catDesc>
+                    <xsl:value-of select="tei:term"/>
+                </catDesc>
+                <xsl:call-template name="taxonomy-category"/>
+            </category>
+        </xsl:for-each>
+    </xsl:template>
+    
+    <xsl:template match="node()|@*" mode="taxonomy-remove_ana">
+        <xsl:copy>
+            <xsl:apply-templates select="node()|@*" mode="taxonomy-remove_ana"/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:category" mode="taxonomy-remove_ana">
+        <category xml:id="{@xml:id}">
+            <xsl:apply-templates mode="taxonomy-remove_ana"/>
+        </category>
     </xsl:template>
     
 </xsl:stylesheet>

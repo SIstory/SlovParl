@@ -781,7 +781,6 @@
                         since="#DZ-1990-ZbZdruDel-10.TL.7"
                         absolute="1990-11-27T15:15:00"
                         interval="9000"/>
-                  <when synch="#DZ-1990-ZbZdruDel-10.stage.t.15" absolute="1990-11-27T17:10:00"/>
                </timeline>
                <castList>
                   <castItem>
@@ -9243,7 +9242,7 @@
                            če nas je res tako malo število, morate ostati tu. Res, zavedajte se
                            svoje odgovornosti in je nujno, da se ob pol petih vsi vidimo.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1990-11-27T15:15:00" xml:id="DZ-1990-ZbZdruDel-10.stage.t.14">prekinjena ob 15.15 uri</time> in se je <time to="1990-11-27T17:10:00" xml:id="DZ-1990-ZbZdruDel-10.stage.t.15">končala ob 17.10
+                     <stage type="time">(Seja je bila <time to="1990-11-27T15:15:00" xml:id="DZ-1990-ZbZdruDel-10.stage.t.14">prekinjena ob 15.15 uri</time> in se je <time when="1990-11-27T17:10:00" xml:id="DZ-1990-ZbZdruDel-10.stage.t.15">končala ob 17.10
                         uri</time>.)</stage>
                   </div>
                </div>

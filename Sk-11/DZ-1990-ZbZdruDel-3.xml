@@ -457,6 +457,7 @@
                <castItem>
                   <actor xml:id="DZ-1990-ZbZdruDel-3.sp.TratnikJože">Tratnik Jože</actor>
                   ............................................. 40</castItem>
+               <castItem><actor xml:id="DZ-1990-ZbZdruDel-3.sp.unknown"/></castItem>
                <castItem>
                   <actor xml:id="DZ-1990-ZbZdruDel-3.sp.VladimirovNiko">Vladimirov Niko</actor>
                   .......................................... 22</castItem>
@@ -3360,7 +3361,7 @@
                            pripraviti predlog do naslednje seje, ki bo čez dobrih 16 dni. Zato bi
                            predlagal, da odklonimo pobudo, ker ni sprejemljiva.</p>
                      </sp>
-                     <sp>
+                     <sp who="sp:unknown" corresp="#DZ-1990-ZbZdruDel-3.sp.unknown">
                         <speaker>Študent z mariborske univerze:</speaker>
                         <p>Umikamo pobudo.</p>
                      </sp>

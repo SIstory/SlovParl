@@ -6,21 +6,32 @@
             <titleStmt>
                 <title>Sejni zapiski Zbora združenega dela Skupščine Republike Slovenije</title>
                 <title>Mandat 11: 5.5.1990 - 23.12.1992</title>
-                <author>
-                    <persName>
-                        <forename>>Andrej</forename>
-                        <surname>Pančur</surname>
-                    </persName>
-                </author>
+                <respStmt>
+                    <persName>Andrej Pančur</persName>
+                    <resp>Kodiranje TEI in računalniški zapis</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Mojca Šorn</persName>
+                    <resp>Kodiranje TEI in računalniški zapis</resp>
+                </respStmt>
+                <funder>Javna agencija za raziskovalno dejavnost Republike Slovenije</funder>
             </titleStmt>
+            <editionStmt>
+                <edition>1.0</edition>
+            </editionStmt>
             <publicationStmt>
-                <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+                <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega
+                    zgodovinopisja</publisher>
                 <distributor>DARIAH-SI</distributor>
-                <pubPlace>https://github.com/SIstory/SlovParl</pubPlace>
+                <pubPlace>https://github.com/SIstory/SlovParl/tree/master/teiCorpus</pubPlace>
                 <availability status="free">
                     <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-                    <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
-                    </p>
+                    <p xml:lang="en">This work is licensed under the <ref
+                            target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0 International License</ref>.</p>
+                    <p xml:lang="sl">To delo je ponujeno pod <ref
+                            target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
                 </availability>
                 <date when="2016"/>
             </publicationStmt>
@@ -30,28 +41,55 @@
                         <title>Sejni zapisi Državnega zbora Republike Slovenije</title>
                     </titleStmt>
                     <publicationStmt>
-                        <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+                        <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije -
+                            SIstory</publisher>
                         <distributor>DARIAH-SI</distributor>
                         <pubPlace>https://github.com/SIstory/Seje_DZ</pubPlace>
                         <availability status="free">
                             <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-                            <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
-                            </p>
+                            <p>To delo je ponujeno pod <ref
+                                    target="http://creativecommons.org/licenses/by/4.0/">Creative
+                                    Commons Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
                         </availability>
                         <date when="2016"/>
                     </publicationStmt>
                 </biblFull>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="sl" xml:lang="sl">slovenski</language>
+                <language ident="sl" xml:lang="en">Slovenian</language>
+                <language ident="en" xml:lang="sl">angleški</language>
+                <language ident="en" xml:lang="en">English</language>
+            </langUsage>
+            <settingDesc>
+                <place>
+                    <region>LJ</region>
+                    <settlement>Ljubljana</settlement>
+                    <location>
+                        <address>
+                            <addrLine>Šubičeva ulica 4</addrLine>
+                        </address>
+                    </location>
+                </place>
+                <setting>
+                    <orgName>Skupščina Republike Slovenije</orgName>
+                    <locale>parlamentarna stavba</locale>
+                    <date from="1990-05-07" to="1992-12-22"/>
+                </setting>
+            </settingDesc>
+        </profileDesc>
         <encodingDesc>
             <projectDesc>
                 <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
-                    infrastruktura Slovenskega zgodovinopisja Inštituta za novejšo zgodovino</p>
+                    infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
             </projectDesc>
             <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
             <xi:include href="../taxonomy.xml"/>
             <listPrefixDef>
-                <prefixDef ident="sp" matchPattern="([a-zA-Z]+([0-9]{4})?)" replacementPattern="../speaker.xml#$1">
+                <prefixDef ident="sp" matchPattern="([a-zA-Z]+([0-9]{4})?)"
+                    replacementPattern="../speaker.xml#$1">
                     <p>Prefix sp se uporablja pri <att>who</att> atributu elementa <gi>sp</gi> in se
                         navezuje na seznam poslancev in govornikov v datoteki speaker.xml.</p>
                 </prefixDef>

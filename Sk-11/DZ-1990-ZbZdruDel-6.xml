@@ -294,12 +294,12 @@
                         <p>Pričenjam razpravo o <title>DNEVNEM REDU</title>.</p>
                         <p>Želi kdo razpravljati? Če ne želi nihče razpravljati, menim, da lahko
                            zaključim razpravo in moramo izvesti dvoje glasovanj. Najprej preveriti,
-                           koliko nas je prisotnih. Prosim vse, da se vključite. Ste vsi? <stage>(65
+                           koliko nas je prisotnih. Prosim vse, da se vključite. Ste vsi? <stage type="quorum">(65
                               prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za sprejem teh dveh točk dnevnega reda? <stage>(62
-                              delegatov.)</stage> Je kdo proti? <stage>(Nihče.)</stage> Se je kdo
-                           vzdržal? <stage>(Nihče.)</stage>
+                        <p>Kdo je za sprejem teh dveh točk dnevnega reda? <stage type="vote">(62
+                              delegatov.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo
+                           vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Torej soglasno sprejet dnevni red.</p>
                      </sp>
@@ -815,7 +815,7 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1990-ZbZdruDel-6.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Želi še kdo razpravljati? <stage>(Nihče.)</stage>
+                        <p>Hvala. Želi še kdo razpravljati? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Če ni razprave, bi skušali to razpravo zaključiti. Jaz bi predlagal en
                            tak, dokaj načelen sklep, in sicer:</p>
@@ -823,11 +823,11 @@
                            posledic nesprejetja ustavnega zakona, podpira sprejem predloga ustavnega
                            zakona za izvedbo ustavnega amandmaja 96. k ustavi Republike
                            Slovenije."</p>
-                        <p>Želi še kdo razpravljati o sklepu? <stage>(Nihče.)</stage>
+                        <p>Želi še kdo razpravljati o sklepu? <stage type="vote">(Nihče.)</stage>
                         </p>
-                        <p>Kdo je za tak sklep, naj prosim glasuje. <stage>(63 delagatov.)</stage>
-                           Je kdo proti? <stage>(1 delagat.)</stage> Se je kdo vzdržal?
-                              <stage>(Nihče.)</stage>
+                        <p>Kdo je za tak sklep, naj prosim glasuje. <stage type="vote">(63 delagatov.)</stage>
+                           Je kdo proti? <stage type="vote">(1 delagat.)</stage> Se je kdo vzdržal?
+                              <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Torej je ta sklep z večino glasov sprejet. In s tem smo mi zaključili 1.
                            točko dnevnega reda.</p>
@@ -955,7 +955,7 @@
                         <p>Mislim pa da to je ena takih, ki bi vsakemu dobro mislečemu in ne
                            prenapetemu Slovencu zdaj kar prav prišla.</p>
                         <p>
-                           <stage>(Aplavz.)</stage>
+                           <stage type="incident">(Aplavz.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:ZupancicJoze1936"
@@ -1261,10 +1261,10 @@
                            skupnem zasedanju ali ne. Je prav tako, tisti ki ste iz obrti? Kdo je za
                            to, da naš zbor zahteva in s tem tudi izpelje nadaljevanje te procedure o
                            zmanjšanju prometnega davka na skupnem zasedanju vseh treh zborov.</p>
-                        <p>Kdo je za? <stage>(35 delagatov.)</stage> Je kdo proti? <stage>(17
-                              delagatov.)</stage> Se je kdo vzdržal? <stage>(9 delagatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(35 delagatov.)</stage> Je kdo proti? <stage type="vote">(17
+                              delagatov.)</stage> Se je kdo vzdržal? <stage type="vote">(9 delagatov.)</stage>
                         </p>
-                        <p>Koliko nas je vseh prisotnih? <stage>(65 prisotnih.)</stage> Z res majhno
+                        <p>Koliko nas je vseh prisotnih? <stage type="quorum">(65 prisotnih.)</stage> Z res majhno
                            večino gremo na skupno zasedanje, to je skupno sejo. Kako pa bo potem
                            potekalo glasovanje, bomo pa videli.</p>
                         <p>Besedo ima gospod Jakič.</p>

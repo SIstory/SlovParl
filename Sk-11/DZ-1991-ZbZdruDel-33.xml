@@ -611,11 +611,11 @@
                         <p>Hvala. Želi še kdo razpravljati? Če ne, bi razpravo zaključil in
                            prehajamo na glasovanje. Na glasovanje dajem predlog Izvršnega sveta, da
                            obravnavamo hkrati osnutek in predlog zakona. Najprej ugotovimo
-                           prisotnost! <stage>(58 prisotnih delegatov.)</stage>
+                           prisotnost! <stage type="quorum">(58 prisotnih delegatov.)</stage>
                         </p>
                         <p>Kdor je za predlog Izvršnega sveta, da se obravnavata osnutek in predlog
-                           hkrati, naj prosim glasuje! <stage>(19 delegatov glasuje za.)</stage> Je
-                           kdo proti? <stage>(27 delegatov.)</stage> Se je kdo vzdržal? <stage>(11
+                           hkrati, naj prosim glasuje! <stage type="vote">(19 delegatov glasuje za.)</stage> Je
+                           kdo proti? <stage type="vote">(27 delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(11
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da predlog Izvršnega sveta ni sprejet. To točko dnevnega reda
@@ -687,8 +687,8 @@
                            osnutek in predlog zakona. Glede na to, da nihče ni zapustil dvorane,
                            lahko glasujemo.</p>
                         <p>Kdo je za predlog Izvršnega sveta da hkrati obravnavamo osnutek in
-                           predlog zakona? <stage>(17 delegatov glasuje za.)</stage> Kdo je proti?
-                              <stage>(30 delegatov.)</stage> Se je kdo vzdržal? <stage>(11
+                           predlog zakona? <stage type="vote">(17 delegatov glasuje za.)</stage> Kdo je proti?
+                              <stage type="vote">(30 delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(11
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da se zbor ni strinjal s predlaganim postopkom obravnave in
@@ -699,8 +699,8 @@
                            delu delovne skupine Zbora združenega dela v zvezi s predlaganjem
                            enovitega predloga o lastninjenju. Predlagal bi, da vključimo tudi to
                            poročilo v naš dnevni red. Glasujemo!</p>
-                        <p>Kdo je za to? <stage>(53 delegatov glasuje za.)</stage> Je kdo proti?
-                              <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(4
+                        <p>Kdo je za to? <stage type="vote">(53 delegatov glasuje za.)</stage> Je kdo proti?
+                              <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(4
                               delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da smo dnevni red razširili s poročilom o opravljenem delu
@@ -732,10 +732,10 @@
                         <p>5. poročilo delovne skupine v zvezi s pripravo enovitega predloga zakona
                            o lastninskem preoblikovanju podjetij.</p>
                         <p>Želi o dnevnem redu še kdo razpravljati? Ne želi. Prosim za prisotnost!
-                              <stage>(57 prisotnih.)</stage>
+                              <stage type="quorum">(57 prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za predlagani dnevni red? <stage>(57 delegatov.)</stage> Kdo je
-                           proti? <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(Nihče.)</stage>
+                        <p>Kdo je za predlagani dnevni red? <stage type="vote">(57 delegatov.)</stage> Kdo je
+                           proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je bil dnevni red soglasno sprejet.</p>
                      </sp>
@@ -1004,12 +1004,12 @@
                            ustrezno upošteva stališča, pripombe in amandmaje delovnih teles
                            skupščine in pripombe ter amandmaje delegatov. Jaz sem kar oboje
                            vključil, zaradi tega,ker se mi zdi še bolj konkretno. Želi o teh dveh
-                           sklepih kdo razpravljati? <stage>(Ne.)</stage>
+                           sklepih kdo razpravljati? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Prosim, koliko nas je? <stage>(47 prisotnih.)</stage>
+                        <p>Prosim, koliko nas je? <stage type="quorum">(47 prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za predlagana sklepa? <stage>(47 delegatov za.)</stage> Proti?
-                              <stage>(Nihče.)</stage> Vzdržani? <stage>(Nihče.)</stage>
+                        <p>Kdo je za predlagana sklepa? <stage type="vote">(47 delegatov za.)</stage> Proti?
+                              <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da smo predlagani sklep sprejeli soglasno.</p>
                      </sp>
@@ -2405,12 +2405,12 @@
                            predlagatelj prouči in ustrezno upošteva pripombe in amandmaje delovnih
                            teles Skupščine in pripombe ter amandmaje delegatov in drugih institucij.
                            Upoštevali pa bomo tudi to, da bi naj čimprej pripravili ta predlog.</p>
-                        <p>Želi o sklepu kdo razpravljati? Ugotovimo prisotnost! <stage>(51
+                        <p>Želi o sklepu kdo razpravljati? Ugotovimo prisotnost! <stage type="quorum">(51
                               prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za predlagani sklep? <stage>(53 delegatov je za.)</stage> Je
-                           mogoče celo kdo proti? <stage>(1 delegat.)</stage> In vzdržani?
-                              <stage>(Nihče.)</stage>
+                        <p>Kdo je za predlagani sklep? <stage type="vote">(53 delegatov je za.)</stage> Je
+                           mogoče celo kdo proti? <stage type="vote">(1 delegat.)</stage> In vzdržani?
+                              <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Tu je nekaj prosvetnih delavcev, kakšna je ta matematika. Čisto nova.
                            Dobro osnutek o prometnem davku smo sprejeli. In zdaj bi prosil
@@ -2816,10 +2816,10 @@
                            da gremo k 1. členu in po alineah. Če si jih označite od 1 do 7, bo
                            verjetno nekoliko lažje.</p>
                         <p>1. člen, amandma gospoda Andreja Štera: črta se 3 alinea. 27. april, dan
-                           upora proti okupatorju. Prisotnost prosim! <stage>(53 delegatov.)</stage>
+                           upora proti okupatorju. Prisotnost prosim! <stage type="vote">(53 delegatov.)</stage>
                         </p>
-                        <p>Kdo je za predlagani amandma? <stage>(23 delegatov.)</stage> Proti?
-                              <stage>(26 delegatov.)</stage> Vzdržani? <stage>(4 delegati.)</stage>
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(23 delegatov.)</stage> Proti?
+                              <stage type="vote">(26 delegatov.)</stage> Vzdržani? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Prvi amandma ni sprejet.</p>
                         <p>Potem smo pri amandmaju 4 alinee, in sicer je tu gospod Muren predlagal:
@@ -2834,8 +2834,8 @@
                            Gospod Erce? Ja. Slišali ste poslanke in poslanci. Ja, saj sem rekel, in
                            2. samo črtati, hvala za opozorilo. No, to je tudi verjetno za nekoga
                            zelo dobro. Torej tekst je: 1. maj - praznik dela, to ostane.</p>
-                        <p>Kdo je za ta amandma? <stage>(23 delegatov.)</stage> Proti? <stage>(26
-                              delegatov.)</stage> Vzdržani? <stage>(4 delegati.)</stage>
+                        <p>Kdo je za ta amandma? <stage type="vote">(23 delegatov.)</stage> Proti? <stage type="vote">(26
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da tudi ta amandma k 4. alinei ni sprejet.</p>
                         <p>5. alinea, tu je gospod Muren. V 1. členu se 5. alinea spremeni tako, da
@@ -2843,8 +2843,8 @@
                            ima, aja to je pa drugo, ja oprostite. To se pravi, še enkrat, amandma
                            Andreja Murna je: v 1. členu se 5. alinea spremeni tako, da se glasi: 25.
                            in 26. junij, dan državnosti. To se pravi in 26.</p>
-                        <p>Kdo je za ta amandma? <stage>(20 delegatov.)</stage> Proti? <stage>(22
-                              delegatov.)</stage> Vzdržani? <stage>(9 delegatov.)</stage>
+                        <p>Kdo je za ta amandma? <stage type="vote">(20 delegatov.)</stage> Proti? <stage type="vote">(22
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(9 delegatov.)</stage>
                         </p>
                         <p>Tudi ta amandma ni sprejet.</p>
                         <p>Zdaj smo pri gospodu Šteru, ponovno. Gospod Andrej Šter umika svoj
@@ -2860,12 +2860,12 @@
                            zato bi moral biti; doda se 8 alinea, in sicer 25. marec, pomišljaj,
                            materinski dan. To na koncu člena piše, prazniki Republike Slovenije iz
                            prejšnjega odstavka so dela prosti dnevi. Prosim. Tako je on predlagal in
-                           tako bomo tudi glasovali. Koliko nas je? Prisotnost! <stage>(52
+                           tako bomo tudi glasovali. Koliko nas je? Prisotnost! <stage type="quorum">(52
                               prisotnih.)</stage> In sicer vas sprašujem, kdo je za amandma gospoda
                            Jožeta Arzenška k 1. členu, da se doda 8. alinea, ki se glasi: 25. marec
                            - materinski dan.</p>
-                        <p>Kdo je za ta amandma? <stage>(16 delegatov je za.)</stage> Kdo je proti?
-                              <stage>(14 delegatov.)</stage> In vzdržani? <stage>(23
+                        <p>Kdo je za ta amandma? <stage type="vote">(16 delegatov je za.)</stage> Kdo je proti?
+                              <stage type="vote">(14 delegatov.)</stage> In vzdržani? <stage type="vote">(23
                               vzdržanih.)</stage>
                         </p>
                         <p>Amandma ni sprejet. In s tem smo amandmaje k 1. členu zaključili.</p>
@@ -2873,16 +2873,16 @@
                            naprej, je najprej amandma gospoda Erceta, in sicer v 2. členu se doda
                            nova alinea, ki se glasi: 6. januar, sveti trije kralji. Slišali ste
                            njegovo obrazložitev. 52 nas je še.</p>
-                        <p>Kdo je za amandma? <stage>(19 delegatov je za.)</stage> Kdo je proti?
-                              <stage>(25 delegatov.)</stage> In vzdržani? <stage>(7
+                        <p>Kdo je za amandma? <stage type="vote">(19 delegatov je za.)</stage> Kdo je proti?
+                              <stage type="vote">(25 delegatov.)</stage> In vzdržani? <stage type="vote">(7
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da ta amandma tudi ni sprejet. In potem imamo še amandma
                            gospoda Arzenška, in sicer k 2. členu, doda se nova alinea, ki se glasi:
                            "19. marec - Jožefovo". Tako je napisal.</p>
-                        <p>Kdo je za ta amandma? <stage>(19 delegatov je za.)</stage> 19. marca pa
-                           je, zanimivo. Kdo je proti? <stage>(23 delegatov.)</stage> Vzdržani?
-                              <stage>(8 delegatov.)</stage>
+                        <p>Kdo je za ta amandma? <stage type="vote">(19 delegatov je za.)</stage> 19. marca pa
+                           je, zanimivo. Kdo je proti? <stage type="vote">(23 delegatov.)</stage> Vzdržani?
+                              <stage type="vote">(8 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da tudi Jožefovo nismo sprejeli.</p>
                         <p>Potem pa je tu Rudi Moge s svojim amandmajem, in sicer 3. člen zakona se
@@ -2906,23 +2906,23 @@
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Slišali ste. Še kdo? Ne. Potem vas sprašujem, kdo je za amandma, ki ga je
                            vložil Rudi Moge?</p>
-                        <p>Kdo je za? <stage>(24 delegatov je za.)</stage> Kdo je proti? <stage>(13
-                              delegatov.)</stage> Vzdržani? <stage>(16 delegatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(24 delegatov je za.)</stage> Kdo je proti? <stage type="vote">(13
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(16 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni bil sprejet.</p>
                         <p>In potem imamo še amandma Zakonodajno-pravne komisije. V 4. členu se črta
                            besedilo: "se preneha uporabljati tudi kot republiški predpis". V 4.
                            členu, če pogledate, v tretji vrstici piše.</p>
-                        <p>Kdo je za ta amandma? <stage>(32 delegatov je za.)</stage> Kdo je proti?
-                              <stage>(2 delegata.)</stage> In vzdržani? <stage>(15
+                        <p>Kdo je za ta amandma? <stage type="vote">(32 delegatov je za.)</stage> Kdo je proti?
+                              <stage type="vote">(2 delegata.)</stage> In vzdržani? <stage type="vote">(15
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da smo samo ta amandma sprejeli.</p>
                         <p>In sedaj še, če lahko zaključimo. Na glasovanje dajem predlog zakona o
                            praznikih in dela prostih dnevih v Republiki Sloveniji, skupaj s
                            sprejetim amandmajem.</p>
-                        <p>Kdo je za? <stage>(47 delegatov je za.)</stage> Kdo je proti? <stage>(3
-                              delegati.)</stage> Vzdržani? <stage>(1 delegat.)</stage>
+                        <p>Kdo je za? <stage type="vote">(47 delegatov je za.)</stage> Kdo je proti? <stage type="vote">(3
+                              delegati.)</stage> Vzdržani? <stage type="vote">(1 delegat.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog zakona z večino glasov sprejet.</p>
                         <p>In s tem smo zaključili 3. točko dnevnega reda.</p>
@@ -2943,7 +2943,7 @@
                            včeraj. Tako, da bo to jasno. Ker se do interpelacije še niso opredelila
                            delovna telesa Skupščine, predlagam, da obravnavo te interpelacije
                            preložimo do naslednje seje zbora. Želi v zvezi s tem predlogom kdo
-                           razpravljati? <stage>(Ne.)</stage> Gospod Roman Jakič.</p>
+                           razpravljati? <stage type="debate">(Ne.)</stage> Gospod Roman Jakič.</p>
                      </sp>
                      <sp who="sp:JakicRoman1967" corresp="#DZ-1991-ZbZdruDel-33.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
@@ -2960,12 +2960,12 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-33.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Še želi kdo? <stage>(Ne.)</stage> Če ne, glede na to, da vas je
-                           nekaj odšlo, bi ugotovili prisotnost. <stage>(44)</stage> no
-                              <stage>(45)</stage>. Kdo je za to, da preložimo obravnavo
+                        <p>Hvala. Še želi kdo? <stage type="debate">(Ne.)</stage> Če ne, glede na to, da vas je
+                           nekaj odšlo, bi ugotovili prisotnost. <stage type="vote">(44)</stage> no
+                              <stage type="vote">(45)</stage>. Kdo je za to, da preložimo obravnavo
                            interpelacije.</p>
-                        <p>Kdo je za? <stage>(40 delegatov.)</stage> Proti? <stage>(2
-                              delegata.)</stage> Vzdržani? <stage>(4 delegati.)</stage>
+                        <p>Kdo je za? <stage type="vote">(40 delegatov.)</stage> Proti? <stage type="vote">(2
+                              delegata.)</stage> Vzdržani? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor preložitev sprejel z večino glasov.</p>
                      </sp>
@@ -3566,10 +3566,10 @@
                            v naprej, absolutno. Jaz upam, da bo, če bo vse po sreči, jutri lahko šlo
                            ven. To se pravi, v torek. Ali je treba o tem glasovati, o poročilu pa o
                            tem? Jaz bi vseeno, da vidimo koliko nas je, da lahko potem naprej
-                           delamo. Koliko nas je. Prisotnost? <stage>(46 nas je.)</stage> Kdo je za
+                           delamo. Koliko nas je. Prisotnost? <stage type="vote">(46 nas je.)</stage> Kdo je za
                            ta dva predloga, kot sem predlagal?</p>
-                        <p>Kdo je za? <stage>(43 delegatov za.)</stage> Kdo je proti? <stage>(2
-                              delegata.)</stage> Vzdržal? <stage>(Eden.)</stage>
+                        <p>Kdo je za? <stage type="vote">(43 delegatov za.)</stage> Kdo je proti? <stage type="vote">(2
+                              delegata.)</stage> Vzdržal? <stage type="vote">(Eden.)</stage>
                         </p>
                         <p>Ugotavljam, da smo sprejeli ta dva sklepa.</p>
                      </sp>
@@ -3594,8 +3594,8 @@
                         <p>Ali želi o tem kdo razpravljati? V bistvu smo o tem že zadnjič načeli
                            razpravo.</p>
                         <p>Predlagam - kdo je za ta predlog, da izločimo tisti zadnji del?
-                              <stage>(32 delegatov za.)</stage> Proti? <stage>(4 delegati.)</stage>
-                           In vzdržani? <stage>(11 delegatov.)</stage>
+                              <stage type="vote">(32 delegatov za.)</stage> Proti? <stage type="vote">(4 delegati.)</stage>
+                           In vzdržani? <stage type="vote">(11 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da smo sklep z večino glasov sprejeli.</p>
                      </sp>
@@ -3684,8 +3684,8 @@
                            dnevnega reda. Če pa ne želite oz. mislite, da je boljše, da to v sredo
                            obravnavamo, pa nimam nič proti, to sem že povedal.</p>
                         <p>Koliko vas je za to, da to prenesemo na naslednjo sredo, na danes teden?
-                              <stage>(28 delegatov za.)</stage> Kaj pa proti? <stage>(15
-                              delegatov.)</stage> Vzdržani? <stage>(3 delegati.)</stage>
+                              <stage type="vote">(28 delegatov za.)</stage> Kaj pa proti? <stage type="vote">(15
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Zaključujem sejo za danes. Vidimo se v torek ob 12,00 uri. Prosim
                            polnoštevilno, ker sicer bo res žalostno. Prosim?</p>

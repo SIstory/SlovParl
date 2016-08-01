@@ -1140,11 +1140,11 @@
                            Za člane skupne komisije predlagam: Majdo Oblak, Andreja Murna, Tanjo
                            Dular, Marka Jakliča in Janeza Štularja. Namesto Majde Oblak Tatjano
                            Prešern. Se strinjate s tem? Moramo vseeno za izvolitev te skupne
-                           komisije najprej ugotoviti, koliko nas je prisotnih. <stage>(46
+                           komisije najprej ugotoviti, koliko nas je prisotnih. <stage type="quorum">(46
                               prisotnih)</stage>
                         </p>
-                        <p>Kdo je za predlagano skupno komisijo? <stage>(48 delegatov)</stage>. Je
-                           kdo proti? <stage>(Nihče)</stage>. Vzdržani? <stage>(2
+                        <p>Kdo je za predlagano skupno komisijo? <stage type="vote">(48 delegatov)</stage>. Je
+                           kdo proti? <stage type="vote">(Nihče)</stage>. Vzdržani? <stage type="vote">(2
                            delegata)</stage>.</p>
                         <p>Ugotavljam, da imamo to skupno komisijo, ki se naj takoj po skupnem
                            zasedanju sestane v sobi 209. To se pravi, ko bosta oba ekspozeja tu pri
@@ -1168,20 +1168,20 @@
                            zakona s tem, da se v skladu s 312. členom Poslovnka Skupščine Republike
                            Slovenije zakon obravnava in sprejme po skrajšanem postopku.</p>
                         <p>Želi predlagatelj Izvršnega sveta podati obrazložitev?
-                              <stage>(Ne.)</stage> Odpiram razpravo v zvezi s to razširitvijo in o
+                              <stage type="debate">(Ne.)</stage> Odpiram razpravo v zvezi s to razširitvijo in o
                            predlogu za skrajšan postopek.</p>
                         <p>Želi kdo razpravljati? Če ne, predlagam, da najprej glasujemo o
                            predlagani razširitvi dnevnega reda. Ker je vas zdaj nekaj več prišlo,
-                           prosim še enkrat prisotnost. <stage>(57 prisotnih)</stage>.</p>
+                           prosim še enkrat prisotnost. <stage type="quorum">(57 prisotnih)</stage>.</p>
                         <p>Koliko vas je za razširitev dnevnega reda s predlogom za izdajo zakona o
                            prenehanju veljavnosti zakona o davku na izplačane osebne dohodke s
-                           predlogom zakona. Kdo je za? <stage>(55 delegatov)</stage>. Proti?
-                              <stage>(1 delegat)</stage>. Vzdržanih? <stage>(Nihče)</stage>.</p>
+                           predlogom zakona. Kdo je za? <stage type="vote">(55 delegatov)</stage>. Proti?
+                              <stage type="vote">(1 delegat)</stage>. Vzdržanih? <stage type="vote">(Nihče)</stage>.</p>
                         <p>Ugotavljam, da smo predlagano razširitev dnevnega reda sprejeli. Sedaj pa
                            še glede samega postopka. Glasujemo o predlogu, da se zakon obravnava po
                            skrajšanem postopku.</p>
-                        <p>Kdo je za predlagani skrajšani postopek? <stage>(56 delegatov)</stage>.
-                           Proti? <stage>(Nihče.)</stage> Vzdržani? <stage>(1 delegat.)</stage>
+                        <p>Kdo je za predlagani skrajšani postopek? <stage type="vote">(56 delegatov)</stage>.
+                           Proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(1 delegat.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor z večino glasov sprejel, da bo zakon obravnaval po
                            skrajšanem postopku. IS Skupščine R Slovenije je predlagal, da Skupščina
@@ -1189,10 +1189,10 @@
                            kontroli kakovosti kmetijskih in živilskih proizvodov po
                            zunanjetrgovinskem prometu, ki ga je Skupščini R Slovenije predložil tudi
                            Zbor republik in pokrajin Skupščine SFRJ. Odpiram razpravo o tej
-                           razširitvi. Želi kdo razpravljati? <stage>(Nihče.)</stage> Če ne,
+                           razširitvi. Želi kdo razpravljati? <stage type="vote">(Nihče.)</stage> Če ne,
                            predlagam, da glasujemo o predlagani razširitvi dnevnega reda.</p>
-                        <p>Kdo je za to razširitev? <stage>(53 delegatov.)</stage> Proti? <stage>(2
-                              delegata.)</stage> Vzdržani? <stage>(3 delegati.)</stage>
+                        <p>Kdo je za to razširitev? <stage type="vote">(53 delegatov.)</stage> Proti? <stage type="vote">(2
+                              delegata.)</stage> Vzdržani? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor razširil dnevni red s to točko. IS Skupščine R
                            Slovenije je tudi predlagal, da Skupščina R Slovenije obravnava osnutek
@@ -1202,9 +1202,9 @@
                            Slovenije dostavili na klop. Odpiram razpravo o tej razširitvi. Ne želi
                            nihče razpravljati? Če ne, predlagam, da glasujemo o predlagani
                            razširitvi dnevnega reda.</p>
-                        <p>Kdo je za predlagano razširitev dnevnega reda? <stage>( 43
-                              delegatov.)</stage> Koliko vas je proti? <stage>(2 delegata.)</stage>
-                           In vzdržani? <stage>(8 delegatov.)</stage>
+                        <p>Kdo je za predlagano razširitev dnevnega reda? <stage type="vote">( 43
+                              delegatov.)</stage> Koliko vas je proti? <stage type="vote">(2 delegata.)</stage>
+                           In vzdržani? <stage type="vote">(8 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor dnevni red razširil s to točko. IS Skupščine R
                            Slovenije je nadalje predlagal, da skupščina obravnava predloge zakonov o
@@ -1244,8 +1244,8 @@
                         <p>No dobro, to bi lahko malo kasneje povedal, ampak nič hudega. Zdaj v
                            zvezi s temi razširitvami še kdo želi razpravljati? Če ne, bi predlagal,
                            da glasujemo o teh razširitvah, in sicer bi vas vprašal:</p>
-                        <p>Kdo je za te razširitve dnevnega reda? <stage>(51 delegatov.)</stage>
-                           Proti? <stage>(2 delegata.)</stage> Vzdržani? <stage>(4
+                        <p>Kdo je za te razširitve dnevnega reda? <stage type="vote">(51 delegatov.)</stage>
+                           Proti? <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage type="vote">(4
                               delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da smo razširitve dnevnega reda sprejeli in s tem tudi
@@ -1254,8 +1254,8 @@
                            Zabukovec, da bi pač spremenili vrstni red obravnave, kar je seveda
                            možno. Se strinjate s tem? Moramo glasovati.</p>
                         <p>V zvezi s to spremembo, da zamenjamo 1. in 2. točko, kdo je za ta
-                           predlog? <stage>(42 delegatov je za)</stage>. Kdo je proti? <stage>(10
-                              delegatov je proti)</stage>. Vzdržani? <stage>(5
+                           predlog? <stage type="vote">(42 delegatov je za)</stage>. Kdo je proti? <stage type="vote">(10
+                              delegatov je proti)</stage>. Vzdržani? <stage type="vote">(5
                            delegatov)</stage>.</p>
                         <p>Ugotavljam, da smo to zamenjavo v dnevnem redu sprejeli. Besedo ima
                            Primož Rode.</p>
@@ -1308,9 +1308,9 @@
                               <title>OBVEZNA RAZLAGA DOLOČIL O DOHODNINI</title>
                         </p>
                         <p>.</p>
-                        <p>Kdo je za predlagano razširitev dnevnega reda? <stage>(57 delegatov je
-                              za)</stage>. Kdo je poti? <stage>(3 delegati)</stage>. Koliko je
-                           vzdržanih? <stage>(1 delegat)</stage>.</p>
+                        <p>Kdo je za predlagano razširitev dnevnega reda? <stage type="vote">(57 delegatov je
+                              za)</stage>. Kdo je poti? <stage type="vote">(3 delegati)</stage>. Koliko je
+                           vzdržanih? <stage type="vote">(1 delegat)</stage>.</p>
                         <p>Ugotavljam, da smo s to točko dnevni red razširili. Imate predlog
                            dnevnega reda? Ima kdo kakšno spremembo? Gospod Brezar.</p>
                      </sp>
@@ -1347,9 +1347,9 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. V zvezi s tem predlogom želi še kdo razpravljati? Slišali ste dve
                            mnenji. Strinjata se Izvršni svet in Odbor. Ima kdo drugačno mnenje?</p>
-                        <p>Kdo je za preložitev 4. točke dnevnega reda? <stage>(59
-                              delegatov)</stage>. Kdo je proti? <stage>(Nihče)</stage>. Vzdržani?
-                              <stage>(Nihče)</stage>.</p>
+                        <p>Kdo je za preložitev 4. točke dnevnega reda? <stage type="vote">(59
+                              delegatov)</stage>. Kdo je proti? <stage type="vote">(Nihče)</stage>. Vzdržani?
+                              <stage type="vote">(Nihče)</stage>.</p>
                         <p>Ugotavljam,, da smo to preložitev sprejeli soglasno, verjetno je pa prav,
                            da v zvezi s tem, če je še Odbor za podjetništvo in obrt tudi to
                            priporočil, da bi sprejeli še naslednji sklep: Izvršni svet naj pripravi
@@ -1486,7 +1486,7 @@
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ŽidanikAnton">
                         <speaker>DR. ANTON ŽIDANIK:</speaker>
                         <p>
-                           <stage>(61. volilna enota)</stage>. Jaz samo sprašujem predsednika glede
+                           <stage type="vote">(61. volilna enota)</stage>. Jaz samo sprašujem predsednika glede
                            na to, da skozi sredstva javnega obveščanja slišimo, da bi naj danes
                            obravnavali tudi ukrepe v zdravstvu. Pa me zanima, ali bo to v okviru
                            proračunske razprave ali bo to posebna točka.</p>
@@ -1501,13 +1501,13 @@
                            povezane s proračunom, so pa prišle s strani Izvršnega sveta v Skupščino
                            ob 10.30 uri. Čim bo možno, vam bo tudi vsem razdeljeno.</p>
                         <p>Kdo je za predlog gospoda Gradišarja, da umaknemo z dnevnega reda predlog
-                           proračuna? Dejansko se morate zavedati, kaj to pomeni. <stage>(18
-                              poslancev za)</stage>. <stage>(29 poslancev proti)</stage>. <stage>(14
+                           proračuna? Dejansko se morate zavedati, kaj to pomeni. <stage type="vote">(18
+                              poslancev za)</stage>. <stage type="vote">(29 poslancev proti)</stage>. <stage type="vote">(14
                               poslancev vzdržanih)</stage>. Ugotavljam, da predlog gospoda
                            Gradišarja ni bil sprejet.</p>
                         <p>Sprašujem vas, kdo je za predlagani dnevni red s spremembami, ki smo jih
-                           sprejeli? <stage>(39 poslancev za)</stage>. <stage>(5 poslancev
-                              proti)</stage>. <stage>(14 poslancev vzdržanih)</stage>.</p>
+                           sprejeli? <stage type="vote">(39 poslancev za)</stage>. <stage type="vote">(5 poslancev
+                              proti)</stage>. <stage type="vote">(14 poslancev vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da je dnevni red, kot je bil predlagan, sprejet z večino
                            glasov.</p>
                         <p>S tem smo mi sedaj dnevni red sprejeli. Lahko bi pričeli s temi točkami,
@@ -1583,11 +1583,11 @@
                         <p>Hvala. To je vprašanje. Še želi kdo? Ali je potreben odgovor? Gospod
                            Bolič, izgleda, da ne boste dobili odgovora. Piše v zakonu to, kar je.
                            Dobro. Ugotovimo najprej prisotnost.</p>
-                        <p>Koliko nas je prisotnih? <stage>(47 delegatov.)</stage> Kdo je za to, da
+                        <p>Koliko nas je prisotnih? <stage type="vote">(47 delegatov.)</stage> Kdo je za to, da
                            sprejmemo zakon o prenehanju veljavnosti zakona o davku na izplačane OD s
                            predlogom zakona?</p>
-                        <p>Kdo je za? <stage>(52 delegatov.)</stage> Koliko vas je proti?
-                              <stage>(Nihče.)</stage> Vzdržani? <stage>(Nihče.)</stage>
+                        <p>Kdo je za? <stage type="vote">(52 delegatov.)</stage> Koliko vas je proti?
+                              <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da smo zakon sprejeli soglasno in s tem zaključili tudi 1.
                            točko dnevnega reda.</p>
@@ -1620,8 +1620,8 @@
                         <p>Uvodno besedo predstavnika Izvršnega sveta smo poslušali na skupnem
                            zasedanju. Predstavnik predlagatelja na seji je gospod Jelko Kacin,
                            namestnik republiškega sekretarja za ljudsko obrambo. Ali želi mogoče
-                           besedo? <stage>(Ne)</stage>. Ali želijo besedo poročevalci delovnih
-                           teles? <stage>(Ne želijo)</stage>.</p>
+                           besedo? <stage type="debate">(Ne)</stage>. Ali želijo besedo poročevalci delovnih
+                           teles? <stage type="debate">(Ne želijo)</stage>.</p>
                         <p>Odpiram razpravo. Kdo želi razpravljati? V našem zboru so vloženi
                            amandmaji Komisije za obrambo k 81. členu in tudi delegata Andreja Murn
                            po 137. členu, kiniso predloženi, v roku po poslovniku in zato bomo
@@ -1633,7 +1633,7 @@
                         <speaker>IVO DANEU:</speaker>
                         <p>Spoštovani predsednik, spoštovane kolegice in kolegi! Oprostite, da se
                            oglašam, vendar menim, da bi morali pred tem najprej razčistiti zadevo,
-                           ali je po poslovniku bila sklicana seja. <stage>(Bila)</stage>. Vendar ne
+                           ali je po poslovniku bila sklicana seja. <stage type="debate">(Bila)</stage>. Vendar ne
                            moremo upoštevati tega, če dobimo gradivo prepozno. Toliko časa, dokler
                            ne bomo vedeli za sklicevanje sej, kakšen bo recimo v naslednjem mesecu
                            dnevni red. Mi prilagajamo dnevne rede na vsaki seji, moramo tudi te
@@ -1676,12 +1676,12 @@
                            poročati o delu ter o uporabi metod in sredstev varnostnega organa ter
                            vojaške policije."</p>
                         <p>Prosim predlagatelja, da poda obrazložitev za prepozno vložen amandma.
-                              <stage>(Ni prisoten)</stage>. Kaj menite poslanci in poslanke, ali je
+                              <stage type="comment">(Ni prisoten)</stage>. Kaj menite poslanci in poslanke, ali je
                            ta predlog amandmaja tako pomemben in umesten, da ga zbor obravnava?
-                              <stage>(Ni razprave)</stage>. Vprašam vas, kdo je za to, da o
+                              <stage type="comment">(Ni razprave)</stage>. Vprašam vas, kdo je za to, da o
                            predlaganem amandmaju naš zbor razpravlja in odloča? Kdo je za?
-                              <stage>(29 delegatov)</stage>. Je kdo proti? <stage>(8
-                              delegatov)</stage>. Se je kdo vzdržal? <stage>(16
+                              <stage type="vote">(29 delegatov)</stage>. Je kdo proti? <stage type="vote">(8
+                              delegatov)</stage>. Se je kdo vzdržal? <stage type="vote">(16
                            delegatov)</stage>.</p>
                         <p>Ugotavljam, da je zbor sprejel, da o amandmaju Komisije za obrambo
                            razpravljamo in odločamo.</p>
@@ -1714,8 +1714,8 @@
                            tako tehtni, da lahko obravnavamo amandma poslanca Murna. Ima kdo
                            drugačno mnenje?</p>
                         <p>Sprašujem vas, kdo je za to, da obravnavamo tudi amandma gosoda Murna?
-                              <stage>(46 delegatov)</stage>. Je kdo proti? <stage>(Nihče)</stage>.
-                           Se je kdo vzdržal? <stage>(3 delegati)</stage>.</p>
+                              <stage type="vote">(46 delegatov)</stage>. Je kdo proti? <stage type="vote">(Nihče)</stage>.
+                           Se je kdo vzdržal? <stage type="vote">(3 delegati)</stage>.</p>
                         <p>Ugotavljam, da bomo amandma gospoda Murna obravnavali in o njem tudi
                            odločali.</p>
                         <p>Sedaj imamo tu še amandmaja, ki so prišli še danes, in sicer je najprej
@@ -1771,8 +1771,8 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Slišali ste utemeljitev Iva Daneva o potrebnosti, da se uvrstijo ti
                            štirje amandmaji tudi v našo obravnavo. Kdo je za uvrstitev v obravnavo?
-                              <stage>(43 delegatov)</stage>. Proti? <stage>(4 delegati)</stage>.
-                           Vzdržani? <stage>(5 delegatov)</stage>.</p>
+                              <stage type="vote">(43 delegatov)</stage>. Proti? <stage type="vote">(4 delegati)</stage>.
+                           Vzdržani? <stage type="vote">(5 delegatov)</stage>.</p>
                         <p>Ugotavljam, da bomo amandmaje Iva Daneva obravnavali.</p>
                         <p>Tu je še nekaj amandmajev Boža Kočevarja, v imenu Kluba neodvisnih
                            poslancev, in sicer je prvi amandma, amandma na 1. člen: v 2. alinei se
@@ -1819,8 +1819,8 @@
                            poslance povedal. Menim, da lahko tudi to uvrstimo, če smo do zdaj že
                            bili tako korektni. Kdo je za to, da je utemeljitev upravičena in da o
                            amandmajih razpravljamo?</p>
-                        <p>Kdo je za? <stage>(37 delegatov.)</stage> Proti? <stage>(9
-                              delegatov.)</stage> In vzdržanih? <stage>(9 delegatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(37 delegatov.)</stage> Proti? <stage type="vote">(9
+                              delegatov.)</stage> In vzdržanih? <stage type="vote">(9 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da bomo amandmaje Kluba Neodvisnih poslancev obravnavali. Tu
                            je še predlog amandmajev Jaše Zlobca v imenu Liberalno-demokratske
@@ -1848,17 +1848,17 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Glasujemo o utemeljenosti in potrebnosti uvrstitve v
                            obravnavo.</p>
-                        <p>Kdo je za? <stage>(36 delegatov.)</stage> Proti? <stage>(12
-                              delegatov.)</stage> In vzdržani? <stage>(10 delegatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(36 delegatov.)</stage> Proti? <stage type="vote">(12
+                              delegatov.)</stage> In vzdržani? <stage type="vote">(10 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da bomo amandmaje gospoda Zlobca obravnavali v našem zboru.
                            Sedaj je še tu amandma gospoda Prelovca, in sicer: 87. členu zakona 4. in
                            sicer 87. člen predloga zakona o obrambi in zaščiti se dopolni z
                            naslednjim tekstom:</p>
                         <p>"4. zaščita in reševanje na morju".</p>
-                        <p>Kdo je za to, da tudi to uvrstimo v obravnavo? Kdo je za? <stage>(4l
-                              delegatov za)</stage>. In proti? <stage>(2 proti)</stage> Vzdržani?
-                              <stage>(4.)</stage> Torej bomo tudi to obravnavali.</p>
+                        <p>Kdo je za to, da tudi to uvrstimo v obravnavo? Kdo je za? <stage type="vote">(4l
+                              delegatov za)</stage>. In proti? <stage type="vote">(2 proti)</stage> Vzdržani?
+                              <stage type="vote">(4.)</stage> Torej bomo tudi to obravnavali.</p>
                         <p>S tem so v Zboru združenega dela sedaj vsi amandmaji, ki ste jih
                            predlagali. Ali ima še kdo kakšen amandma? Če ne, bi predlagal naslednje:
                            ker sedaj o teh amandmajih v Izvršnem svetu verjetno še nič kaj veliko ne
@@ -1868,7 +1868,7 @@
                            reda, dokler ne bo Izvršni svet do posameznih amandmajev tudi zavzel
                            svoje stališče. Mi pa imamo do takrat tudi vse pripravljeno, da lahko
                            skupaj potem tudi obravnavamo. Ima kdo drugačno mnenje? Gospod Kacin, se
-                           strinjate s tem? <stage>(da.)</stage>
+                           strinjate s tem? <stage type="debate">(da.)</stage>
                         </p>
                         <p>Potem bi prekinili to našo 3. točko dnevnega reda in bi lahko
                            nadaljevali.</p>
@@ -1883,7 +1883,7 @@
                         <p>Prehajamo na <title>6. TOČKO DNEVNEGA REDA</title>, to so <title>STALIŠČA
                               SKUPŠČINE REPUBLIKE SLOVENIJE DO AKTOV ZBORA REPUBLIK IN POKRAJIN IN
                               ZVEZNEGA ZBORA SKUPŠČINE SFRJ</title>.</p>
-                        <p>Se strinjate s tem preskokom? <stage>(Da.)</stage>
+                        <p>Se strinjate s tem preskokom? <stage type="debate">(Da.)</stage>
                         </p>
                         <p>Gre za več zadev. Najprej osnutek zakona o spremembah in dopolnitvah
                            zakona o kontroli kakovosti kmetijskih in živilskih proizvodov v
@@ -1909,19 +1909,19 @@
                            Slovenije, da osnutek zakona obravnava in pooblasti svoje delegate v
                            Zboru republik in pokrajin Skupščine SFRJ, da po končanem usklajevanju
                            dajo soglasje k predlogu zakona. Na klopi imate tudi predlog sklepa. Želi
-                           mogoče besedo predstavnik delegacije? <stage>(Ne.)</stage> Želi besedo
-                           predstavnik Izvršnega sveta v zvezi s tem? <stage>(Ne.)</stage> Želi
-                           mogoče predstavnik Zakonodajno-pravne komisije? <stage>(Ne.)</stage> Želi
-                           kdo od poslancev razpravljati? <stage>(Ne.)</stage> Če ni razprave, lahko
+                           mogoče besedo predstavnik delegacije? <stage type="debate">(Ne.)</stage> Želi besedo
+                           predstavnik Izvršnega sveta v zvezi s tem? <stage type="debate">(Ne.)</stage> Želi
+                           mogoče predstavnik Zakonodajno-pravne komisije? <stage type="debate">(Ne.)</stage> Želi
+                           kdo od poslancev razpravljati? <stage type="debate">(Ne.)</stage> Če ni razprave, lahko
                            zaključim. Dajem na glasovanje predlog sklepa k osnutku zakona o
                            spremembah in dopolnitvah zakona o kontroli kakovosti kmetijskih in
                            živilskih proizvodov v zunanjetrgovinskem prometu, v katerem skupščina
                            pooblašča svojo delegacijo, da po končanem postopku usklajevanja da
-                           soglasje k predlogu zakona. Koliko nas je prisotnih? <stage>(56
+                           soglasje k predlogu zakona. Koliko nas je prisotnih? <stage type="quorum">(56
                               prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za predlagani sklep? <stage>(5l delegatov za.)</stage> Proti?
-                              <stage>(Nihče)</stage> Vzdržani? <stage>(4.)</stage>
+                        <p>Kdo je za predlagani sklep? <stage type="vote">(5l delegatov za.)</stage> Proti?
+                              <stage type="vote">(Nihče)</stage> Vzdržani? <stage type="vote">(4.)</stage>
                         </p>
                         <p>Ugotavljam, da smo predlog z večino glasov sprejeli.</p>
                      </sp>
@@ -1934,11 +1934,11 @@
                            mnenje Izvršnega sveta. Izvršni svet predlaga Skupščini Republike
                            Slovenije, da pooblasti svojo delegacijo v Zboru republik in pokrajin
                            Skupščine SFRJ, da ne da soglasja k predlaganemu zakonu. Na klop smo
-                           prejeli predlog sklepa. Ali želi besedo delegacije? <stage>(Ne.)</stage>
-                           Želi besedo predstavnik Izvršnega sveta? <stage>(Ne.)</stage> Želi besedo
-                           predstavnik Zakonodajno-pravne komisije? <stage>(Ne.)</stage>
+                           prejeli predlog sklepa. Ali želi besedo delegacije? <stage type="debate">(Ne.)</stage>
+                           Želi besedo predstavnik Izvršnega sveta? <stage type="debate">(Ne.)</stage> Želi besedo
+                           predstavnik Zakonodajno-pravne komisije? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Odpiram razpravo. <stage>(Nihče ne želi razpravljati.)</stage> Če ni
+                        <p>Odpiram razpravo. <stage type="vote">(Nihče ne želi razpravljati.)</stage> Če ni
                            razpravljalcev, zaključujem razpravo in dajem na glasovanje predlog
                            sklepa k osnutku zakona o izdaji obveznic federacije v letu 1991, s
                            katerim se Skupščina ne strinja z osnutkom zakona, ker neusklajenost med
@@ -1946,8 +1946,8 @@
                            odpravljena, ter pooblašča svojo delegacijo, da ne da soglasja k predlogu
                            zakona. Mislim, da ne rabimo preverjati prisotnosti in da je ostala
                            nespremenjena.</p>
-                        <p>Kdo je za predlog sklepa? <stage>(52 delegatov za.)</stage> Je kdo proti?
-                              <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(3
+                        <p>Kdo je za predlog sklepa? <stage type="vote">(52 delegatov za.)</stage> Je kdo proti?
+                              <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(3
                               vzdržani.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani sklep.</p>
@@ -1961,17 +1961,17 @@
                            Republike Slovenije, da pooblasti svojo delegacijo v Zboru republik in
                            pokrajin Skupščine SFRJ, da po končanem usklajevanju da soglasje k
                            predlogu zakona. Na klop smo prejeli predlog odloka. Želi besedo
-                           predstavnik delegacije? <stage>(Ne želi.)</stage> Želi besedo predstavnik
-                           Izvršnega sveta? <stage>(Ne.)</stage> Želita besedo poročevalca delovnih
-                           teles? <stage>(Ne.)</stage>
+                           predstavnik delegacije? <stage type="debate">(Ne želi.)</stage> Želi besedo predstavnik
+                           Izvršnega sveta? <stage type="debate">(Ne.)</stage> Želita besedo poročevalca delovnih
+                           teles? <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Odpiram razpravo. Očitno tudi tukaj ni razprave in jo zato zaključujem.
                            Dajem na glasovanje predlog odloka o soglasju k predlogu zakona o
                            ratifikaciji sporazuma o izključitvi tobaka in tobačnih izdelkov s skupne
                            liste po tričlanskem sporazumu, sklenjenim med SFRJ, Arabsko republiko
                            Egipt in Republiko Indijo, podpisanim 23.12.1967. Kdo je za predlog?
-                              <stage>(53 delegatov za.)</stage> Kdo je proti?
-                              <stage>(Nihče.)</stage> Kdo se je vzdržal? <stage>(Nihče.)</stage>
+                              <stage type="vote">(53 delegatov za.)</stage> Kdo je proti?
+                              <stage type="vote">(Nihče.)</stage> Kdo se je vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor soglasno sprejel predlagani odlok.</p>
                         <p>Prehajamo na točko d): Predlog zakona o ratifikaciji sporazuma o
@@ -1983,14 +1983,14 @@
                            Slovenije, ki predlaga Skupščini Republike Slovenije, da pooblasti svojo
                            delegacijo v Zboru republik in pokrajin Skupščine SFRJ, da po končanem
                            usklajevanju da soglasje k predlogu zakona. Na klop smo prejeli predlog
-                           odloka. Želi besedo predstavnik delegacije? <stage>(Ne želi.)</stage>
-                           Želi besedo predstavnik Izvršnega sveta? <stage>(Ne želi.)</stage> Želita
-                           besedo poročevalca delovnih teles? <stage>(Ne.)</stage> Odpiram razpravo.
+                           odloka. Želi besedo predstavnik delegacije? <stage type="debate">(Ne želi.)</stage>
+                           Želi besedo predstavnik Izvršnega sveta? <stage type="debate">(Ne želi.)</stage> Želita
+                           besedo poročevalca delovnih teles? <stage type="debate">(Ne.)</stage> Odpiram razpravo.
                            Če ni razprave, dajem na glasovanje predlog zakona o ratifikaciji
                            sporazuma o garanciji (sedmi železniški projekt) med SFRJ in Mednarodno
                            banko za obnovo in razvoj.</p>
-                        <p>Kdo je za predlog? <stage>(37 je za)</stage>. Kdo je proti?
-                              <stage>(Nihče.)</stage> se je kdo vzdržal? <stage>(6
+                        <p>Kdo je za predlog? <stage type="vote">(37 je za)</stage>. Kdo je proti?
+                              <stage type="vote">(Nihče.)</stage> se je kdo vzdržal? <stage type="vote">(6
                               vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani odlok.</p>
@@ -2003,15 +2003,15 @@
                            Skupščino Republike Slovenije, da pooblasti svojo delegacio v Zboru
                            republik in pokrajin Skupščine SFRJ, da po končanem usklajevanju da
                            soglasje k predlogu zakona. Na klop smo prejeli predlog odloka. Želi
-                           besedo predstavnik delegacije? <stage>(Ne.)</stage> Želi besedo
-                           predstavnik izvršnega sveta? <stage>(Ne.)</stage> Poročevalci delovnih
-                           teles? <stage>(Ne želijo.)</stage> Odpiram razpravo. Ni razprave.
+                           besedo predstavnik delegacije? <stage type="debate">(Ne.)</stage> Želi besedo
+                           predstavnik izvršnega sveta? <stage type="debate">(Ne.)</stage> Poročevalci delovnih
+                           teles? <stage type="debate">(Ne želijo.)</stage> Odpiram razpravo. Ni razprave.
                            Zaključujem razpravo in prehajamo na glasovanje. Na glasovanje dajem
                            preldog odloka o soglasju k predlogu zakona o ratifikaciji sporazuma o
                            garanciji med SFRJ in Mednarodno banko za obnovo in razvoj. Gre zopet za
                            sedmi železniški projekt.</p>
-                        <p>Kdo je za naj prosim glasuje? <stage>(42 za.)</stage> Je kdo proti?
-                              <stage>(Eden.)</stage> Vzdržani? <stage>(3 vzdržani.)</stage>
+                        <p>Kdo je za naj prosim glasuje? <stage type="vote">(42 za.)</stage> Je kdo proti?
+                              <stage type="vote">(Eden.)</stage> Vzdržani? <stage type="vote">(3 vzdržani.)</stage>
                         </p>
                         <p>Točka e): Predlog zakona o ratifikaciji sporazuma o garanciji (sedmi
                            železniški projekt) med SFRJ in Mednarodno banko za obnovo in razvoj.
@@ -2022,14 +2022,14 @@
                            pooblasti svojo delegacijo Zbora republik in pokrajin Skupščine SFRJ, da
                            po končanem usklajevanju da soglasje k predlogu zakona. Na klop ste
                            prejeli tudi predlog odloka. Želi besedo predstavnik delegacije?
-                              <stage>(Ne želi.)</stage> Želi besedo predstavnik Izvršnega sveta?
-                              <stage>(Ne.)</stage> Predstavnik delovnih teles? <stage>(Ne.)</stage>
+                              <stage type="debate">(Ne želi.)</stage> Želi besedo predstavnik Izvršnega sveta?
+                              <stage type="debate">(Ne.)</stage> Predstavnik delovnih teles? <stage type="debate">(Ne.)</stage>
                            Odpiram razpravo. Ni razprave. Zaključujem razpravo in prehajamo na
                            glasovanje. Na glasovanje dajem predlog odloka o soglasju k predlogu
                            zakona o ratifikaciji sporazuma o garanciji med SFRJ in Mednarodno banko
                            za obnovo in razvoj.</p>
-                        <p>Kdo je za, naj prosim glasuje? <stage>(54 je za.)</stage> Je kdo proti?
-                              <stage>(Nihče)</stage>. Se je kdo vzdržal? <stage>(2
+                        <p>Kdo je za, naj prosim glasuje? <stage type="vote">(54 je za.)</stage> Je kdo proti?
+                              <stage type="vote">(Nihče)</stage>. Se je kdo vzdržal? <stage type="vote">(2
                               vzdržana.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani odlok.</p>
@@ -2042,16 +2042,16 @@
                            Republike Slovenije, da pooblasti delegacijo v Zboru republik in pokrajin
                            Skupščine SFRJ, da po končanem usklajevanju da soglasje k predlogu
                            zakona. Na klop smo prejeli predlog odloka. Želi besedo predstavnik
-                           delegacije? <stage>(Ne.)</stage> Želi besedo predstavnik Izvršnega sveta?
-                              <stage>(Ne želi.)</stage> Poročevalci delovnih teles?
-                              <stage>(Ne.)</stage> Odpiram razpravo. Želi kdo razpravljati o
+                           delegacije? <stage type="debate">(Ne.)</stage> Želi besedo predstavnik Izvršnega sveta?
+                              <stage type="debate">(Ne želi.)</stage> Poročevalci delovnih teles?
+                              <stage type="debate">(Ne.)</stage> Odpiram razpravo. Želi kdo razpravljati o
                            predlogu odloka? Če ne želi, zaključujem razpravo in prehajamo na
                            glasovanje.</p>
                         <p>Na glasovanje dajem predlog odloka o soglasju predloga zakona o
                            ratifikaciji sporazuma o garanciji (sedmi železniški projekt) med SFRJ in
                            Mednarodno banko za obnovo in razvoj. Kdo je za predlagani odlok, naj
-                           prosim glasuje? <stage>(51 je za)</stage>. Proti? <stage>(1
-                              proti)</stage>. Vzdržani? <stage>(2 vzdržana.)</stage>
+                           prosim glasuje? <stage type="vote">(51 je za)</stage>. Proti? <stage type="vote">(1
+                              proti)</stage>. Vzdržani? <stage type="vote">(2 vzdržana.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani odlok.</p>
                         <p>K točki h): Stališče Skupščini Republike Slovenije do objavljenih aktov
@@ -2390,7 +2390,7 @@
                            pošljemo naprej. Mislim, da je to tudi prav. Torej, to ni kompleten
                            odgovor in še pride drugi del. Ker je pa nas seveda zelo veliko, pa je
                            tudi težko vsem ustreči pravočasno. Še želi kdo razpravljati?
-                              <stage>(ne.)</stage> Če ne, bi mi lahko to točko zaključili.</p>
+                              <stage type="debate">(ne.)</stage> Če ne, bi mi lahko to točko zaključili.</p>
                      </sp>
                   </div>
                   <div xml:id="DZ-1991-ZbZdruDel-18.div.1.1.2.5"
@@ -2448,16 +2448,16 @@
                            Slovenije da soglasje k zakonu o prometu s strupi, razen k 2. odstavku
                            40. člena in 45., 46. in 47. členu navedenega zakona. Na klop smo prejeli
                            predlog odloka o soglasju, ki ga je pripravila Zakonodajno-pravna
-                           komisija. Želi mogoče besedo predstavnik delegacije? <stage>(Ne.)</stage>
-                           Predstavnik Izvršnega sveta? <stage>(Ne.)</stage> Želi mogoče besedo
-                           predstavnik Zakonodajno-pravne komisije? <stage>(Ne.)</stage> Vseeno bi
+                           komisija. Želi mogoče besedo predstavnik delegacije? <stage type="debate">(Ne.)</stage>
+                           Predstavnik Izvršnega sveta? <stage type="debate">(Ne.)</stage> Želi mogoče besedo
+                           predstavnik Zakonodajno-pravne komisije? <stage type="debate">(Ne.)</stage> Vseeno bi
                            predlagal, da glasujemo o predlogu odloka o soglasju k zakonu o prometu s
                            strupi, Uradni list SFRJ št. 13/91 in to s temi pripombami, ki sem jih že
                            prej tudi omenil in jih imate tudi v vašem odloku. Ugotovimo prisotnost!
-                              <stage>(56 nas je prisotnih.)</stage>
+                              <stage type="quorum">(56 nas je prisotnih.)</stage>
                         </p>
-                        <p>Koliko nas je za ta odlok? <stage>(50 delegatov je za.)</stage> Koliko
-                           nas je proti? <stage>(Nihče.)</stage> Koliko vzdržanih? <stage>(2
+                        <p>Koliko nas je za ta odlok? <stage type="vote">(50 delegatov je za.)</stage> Koliko
+                           nas je proti? <stage type="vote">(Nihče.)</stage> Koliko vzdržanih? <stage type="vote">(2
                               vzdržana.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani odlok.</p>
@@ -2469,16 +2469,16 @@
                            Slovenije, Izvršni svet predlaga Skupščini Republike Slovenije, da na
                            podlagi 3. točke amandmaja 96. k ustavi Republike Slovenije ne da
                            soglasja k Zakonu o proizvodnji in prometu z mamili. Na klop smo prejeli
-                           predlog sklepa. Želi besedo predstavnik delegacije? <stage>(Ne.)</stage>
-                           Predstavnik Izvršnega sveta? <stage>(Tudi ne)</stage>. Želi besedo
-                           predstavnik Zakonodajno-pravne komisije? <stage>(Ne.)</stage> Odpiram
+                           predlog sklepa. Želi besedo predstavnik delegacije? <stage type="debate">(Ne.)</stage>
+                           Predstavnik Izvršnega sveta? <stage type="debate">(Tudi ne)</stage>. Želi besedo
+                           predstavnik Zakonodajno-pravne komisije? <stage type="debate">(Ne.)</stage> Odpiram
                            razpravo. Če ni razpravljalcev, zaključujem razpravo in prehajamo na
                            glasovanje.</p>
                         <p>Na glasovanje dajem predlog sklepa, s katerim Skupščina Republike
                            Slovenije na podlagi 3. točke amandmaja 96 k ustavi Republike Slovenije
                            ne daje soglasja k zakonu o proizvodnji in prometu z mamili.</p>
-                        <p>Kdo je za ta sklep? <stage>(49 delegatov)</stage>. Kdo je proti?
-                              <stage>(1 delegat)</stage>. Kdo se je vzdržal? <stage>(6
+                        <p>Kdo je za ta sklep? <stage type="vote">(49 delegatov)</stage>. Kdo je proti?
+                              <stage type="vote">(1 delegat)</stage>. Kdo se je vzdržal? <stage type="vote">(6
                               delegatov)</stage>.</p>
                         <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani sklep. S tem
                            smo zaključili 6. točko.</p>
@@ -2528,12 +2528,12 @@
                            amandmajih oz. o vsem, kar bo pač seveda še potrebno. Predlagal bi, da bi
                            v to komisijo izvolili Franca Grašiča, Jurija Pirša, Rudija Mogeta,
                            Frančka Rudolfa in Vilijema Maka. V zvezi s tem želi kdo razpravlajti?
-                              <stage>(Ne.)</stage> Ugotovimo prisotnost! <stage>(54 delegatov je
+                              <stage type="debate">(Ne.)</stage> Ugotovimo prisotnost! <stage type="quorum">(54 delegatov je
                               prisotnih.)</stage>
                         </p>
                         <p>Kateri smo za to komisijo, ki bi imela to dvojno vlogo? Kdo je za?
-                              <stage>(50 delegatov.)</stage> Proti? <stage>(Nihče.)</stage>
-                           Vzdržani? <stage>(2 delegata.)</stage>
+                              <stage type="vote">(50 delegatov.)</stage> Proti? <stage type="vote">(Nihče.)</stage>
+                           Vzdržani? <stage type="vote">(2 delegata.)</stage>
                         </p>
                         <p>Ugotavljam, da imamo komisijo s to dvojno vlogo. Ekspoze predsednika IS
                            smo poslušali na skupnem zasedanju. Tu je tudi nekaj predstavnikov IS, ki
@@ -4353,7 +4353,7 @@
                          corresp="#DZ-1991-ZbZdruDel-18.sp.AvberšekFranc">
                         <speaker>MAG. FRANC AVBERŠEK:</speaker>
                         <p>
-                           <stage>(replika)</stage> Se opravičujem in ne bi rad, da bi me napačno
+                           <stage type="comment">(replika)</stage> Se opravičujem in ne bi rad, da bi me napačno
                            razumeli. V prejšnji razpravi na vsak način podpiram izobraževanje,
                            raziskovalno dejavnost in tudi zdravstvo. Če mi pa kdo reče, da tam ni
                            rezerv, potem se pa motite.Kaj podpiram? Sam sem v šolo hodil, tri otroke
@@ -4397,7 +4397,7 @@
                         <p>Hvala. Jaz bi vam kolegi in kolegice predlagal, da naredimo eno čisto
                            krato pavzo, ker vidim, da hodijo ven in da se dogovorimo, da delamo
                            potem do pol osmih intenzivno. Vi povejte ali ste za to.
-                              <stage>(Ne.)</stage> To se pravi, delamo naprej. Dobro bi bilo, če bi
+                              <stage type="debate">(Ne.)</stage> To se pravi, delamo naprej. Dobro bi bilo, če bi
                            mi uspeli danes še opraviti razpravo o amandmajih k zakonu o obrambi in
                            zaščiti. O amandmajih bomo odločali jutri, lahko bi pa razpravo o
                            amandmajih opravili. Razprava je bila samo o tem ali se prepozno vloženi
@@ -4573,7 +4573,7 @@
                      <sp who="sp:RoginaBogo1947" corresp="#DZ-1991-ZbZdruDel-18.sp.RoginaBogo">
                         <speaker>Podpredsednik BOGO ROGINA:</speaker>
                         <p>Hvala. Ima Izvršni svet še kakšne želje po tolmačenju, obrazložitvi,
-                           vprašanj, ki so se pojavljala? <stage>(Ne.)</stage> Želi kdo od poslancev
+                           vprašanj, ki so se pojavljala? <stage type="debate">(Ne.)</stage> Želi kdo od poslancev
                            še kaj na temo proračuna povedati? Če ne, zaključujem razpravo o
                            proračunu Republike Slovenije za leto 1991, o amandmajih pa bomo odločali
                            jutri.</p>
@@ -4734,10 +4734,10 @@
                            razpravo v zvezi s tem amandmajem, in sicer predlagatelj Jaša Zlobec
                            predlaga v 1. in naslednjih členih, da se iz zakona črta področje zaščite
                            in reševanja in se ga uredi v naslednjem zakonu. Najprej ugotovimo
-                           prisotnost! <stage>(55 delegatov.)</stage>
+                           prisotnost! <stage type="vote">(55 delegatov.)</stage>
                         </p>
-                        <p>Kdo je za predlagani amandma Jaše Zlobca? <stage>(15 delegatov.)</stage>
-                           Proti? <stage>(28 delegatov.)</stage> Vzdržani? <stage>(13
+                        <p>Kdo je za predlagani amandma Jaše Zlobca? <stage type="vote">(15 delegatov.)</stage>
+                           Proti? <stage type="vote">(28 delegatov.)</stage> Vzdržani? <stage type="vote">(13
                               delegatov.)</stage>
                         </p>
                         <p>Amandma Jaše Zlobca ni bil sprejet.</p>
@@ -4756,17 +4756,17 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Se še želi kdo opredeliti? <stage>(Ne)</stage>. Kdo je za amandma
+                        <p>Hvala. Se še želi kdo opredeliti? <stage type="debate">(Ne)</stage>. Kdo je za amandma
                            Boža Kočevarja, da se v drugi alinei namesto besede "udejstvovanj" napiše
                            besedo "aktivnosti".</p>
-                        <p>Kdo je za? <stage>(16 za.)</stage> Proti? <stage>(23)</stage>. Vzdržani?
-                              <stage>(16)</stage>.</p>
+                        <p>Kdo je za? <stage type="vote">(16 za.)</stage> Proti? <stage type="vote">(23)</stage>. Vzdržani?
+                              <stage type="vote">(16)</stage>.</p>
                         <p>Ugotavljam, da amandma Boža Kočevarja ni bil sprejet.</p>
                         <p>Zdaj smo pri 2. členu, Božo Kočevar predlaga tudi v imenu kluba
                            Neodvisnih, da se v prvi alinei namesto besede "udejstvovanj" napiše
                            "aktivnosti".</p>
-                        <p>Kdo je za amandma Boža Kočevarja k 2. členu? <stage>(18 za)</stage>
-                           Proti? <stage>(22 proti)</stage>. Vzdržani? <stage>(13)</stage>.</p>
+                        <p>Kdo je za amandma Boža Kočevarja k 2. členu? <stage type="vote">(18 za)</stage>
+                           Proti? <stage type="vote">(22 proti)</stage>. Vzdržani? <stage type="vote">(13)</stage>.</p>
                         <p>Ugotavljam, da tudi ta amandma ni sprejet.</p>
                         <p>Amandma Boža Kočevarja k 5. členu. Drugi odstavek 5. člena se črta.
                            Izvršni svet, kot ste slišali, ne podpira tega.</p>
@@ -4811,9 +4811,9 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Slišali ste. Božo Kočevar predlaga k 5. členu, da se drugi odstavek
                            črta.</p>
-                        <p>Kdo je za njegov predlog in njegov amandma? <stage>(21 za.)</stage>
-                           Koliko jih je proti? <stage>(24)</stage>. Vzdržani?
-                           <stage>(9)</stage>.</p>
+                        <p>Kdo je za njegov predlog in njegov amandma? <stage type="vote">(21 za.)</stage>
+                           Koliko jih je proti? <stage type="vote">(24)</stage>. Vzdržani?
+                           <stage type="vote">(9)</stage>.</p>
                         <p>Amandma ni bil sprejet.</p>
                         <p>Tu je sedaj še amandma: k 5. členu, ki je bil v Zboru občin predlagan, in
                            ga ne bomo obravnavali.</p>
@@ -4856,8 +4856,8 @@
                            Obrazložitev je. Lahko glasujemo?</p>
                         <p>Kdo je za amandma k 6. členu,ki ga je predlagal Božo Kočevar, črta se
                            drugi odstavek, v tretjem odstavku se črta 'in drugim'. Kdo je za?
-                              <stage>(18 delegatov glasuje za.)</stage> Kdo je proti? <stage>(24
-                              delegatov glasuje proti.)</stage> Vzdržani? <stage>(15
+                              <stage type="vote">(18 delegatov glasuje za.)</stage> Kdo je proti? <stage type="vote">(24
+                              delegatov glasuje proti.)</stage> Vzdržani? <stage type="vote">(15
                               vzdržanih.)</stage>
                         </p>
                         <p>Amandma Boža Kočevarja ni sprejet.</p>
@@ -4937,8 +4937,8 @@
                         <p>Hvala. Tu je amandma Jaše Zlobca, o njem bomo glasovali, in sicer on
                            predlaga, da se k 6. členu doda nov odstavek, ki se glasi tako, kot ste
                            ga vsi dvakrat ali trikrat prebrali.</p>
-                        <p>Kdo je za predlagani amandma? <stage>(29 delegatov glasuje za.)</stage>
-                           Proti? <stage>(24 delegatov glasuje proti.)</stage> Vzdržani? <stage>(3
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(29 delegatov glasuje za.)</stage>
+                           Proti? <stage type="vote">(24 delegatov glasuje proti.)</stage> Vzdržani? <stage type="vote">(3
                               delegati vzdržani.)</stage>
                         </p>
                         <p>Amandma Jaše Zlobca je v našem zboru sprejet.</p>
@@ -5089,19 +5089,19 @@
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Jaz mislim, da smo slišali argumente za in proti. Želi še kdo kaj
-                           povedati? <stage>(Ne.)</stage> Potem bi lahko glasovali, in sice pri 7.
+                           povedati? <stage type="debate">(Ne.)</stage> Potem bi lahko glasovali, in sice pri 7.
                            členu smo 1 amandma, predlagatelj Božo Kočevar: v 2 odstavku se namensto
                            pristojnega organa zapiše "pristojne skupščine", na koncu 2. odstavka se
                            črta ali mednarodne obveznosti.</p>
-                        <p>Kdo je za predlagani amandma? <stage>(15 delegatov.)</stage> Proti?
-                              <stage>(28 delegatov.)</stage> In vzdržani? <stage>(8
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(15 delegatov.)</stage> Proti?
+                              <stage type="vote">(28 delegatov.)</stage> In vzdržani? <stage type="vote">(8
                               delegatov.)</stage>
                         </p>
                         <p>Ta amandma v našem zboru ni bil sprejet in zdaj je še predlagatelj Jaša
                            Zlobec.</p>
                         <p>Kdo je za predlagani, amandma Jaše Zlobca, da se 7. člen črta?</p>
-                        <p>Kdo je za? <stage>(15 delegatov.)</stage> Proti? <stage>(27
-                              delegatov.)</stage> Vzdržani? <stage>(10 delegatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(15 delegatov.)</stage> Proti? <stage type="vote">(27
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(10 delegatov.)</stage>
                         </p>
                         <p>Tudi ta amandma k 7. členu ni bil sprejet.</p>
                         <p>Pri 8. členu smo. Jaša Zlobec v imenu Liberalno demokratske stranke
@@ -5335,8 +5335,8 @@
                            zaščiti, člen 64. do 71. Potem o tem ne bomo več glasovali, ker bomo to
                            opravili sedaj. Ali ste za to?</p>
                         <p>Kdo je za amandma Jaše Zlobca, da se črta poglavje o narodni zaščiti,
-                           členi 64. do 71.? <stage>(19 delegatov je za.)</stage> Proti? <stage>(28
-                              delegatov proti.)</stage> Vzdržani? <stage>(5 delegatov
+                           členi 64. do 71.? <stage type="vote">(19 delegatov je za.)</stage> Proti? <stage type="vote">(28
+                              delegatov proti.)</stage> Vzdržani? <stage type="vote">(5 delegatov
                               vzdražnih.)</stage>
                         </p>
                         <p>Ugotavljam, da tega mi nismo sprejeli. Sedaj smo ponovno pri 8. členu.
@@ -5416,8 +5416,8 @@
                            Zaključujem v zvezi s tem razpravo. Amandma Jaše Zlobca k 11. členu se
                            glasi: "3. točko se dopolni z besedilom "ter starši oziroma skrbniki
                            otroka do tretjega leta starosti brez njihovega dovoljenja".</p>
-                        <p>Kdo je za predlagani amandma? <stage>(26 za.)</stage> Proti? <stage>(26
-                              proti)</stage> Vzdržani? <stage>(Eden.)</stage>
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(26 za.)</stage> Proti? <stage type="vote">(26
+                              proti)</stage> Vzdržani? <stage type="vote">(Eden.)</stage>
                         </p>
                         <p>Amandma ni sprejet.</p>
                         <p>K 13. členu Jaša Zlobec predlaga, da se 13. člen v celoti črta.</p>
@@ -5542,8 +5542,8 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Lepo prosim, da ne bi širili razprave ob 13. členu na celotno zdravstvo.
                            13. člen, tu je predlagan amandma, da se člen v celoti črta.</p>
-                        <p>Kdo je za predlagani amandma? <stage>(19 delegatov je za.)</stage> Koliko
-                           vas je proti? <stage>(29 delegatov.)</stage> Vzdržani? <stage>(6
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(19 delegatov je za.)</stage> Koliko
+                           vas je proti? <stage type="vote">(29 delegatov.)</stage> Vzdržani? <stage type="vote">(6
                               delegatov.)</stage>
                         </p>
                         <p>Amandma ni sprejet.</p>
@@ -5582,10 +5582,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Še kakšno drugačno mnenje? <stage>(Ni ga.)</stage> Glasujemo lahko o
+                        <p>Še kakšno drugačno mnenje? <stage type="debate">(Ni ga.)</stage> Glasujemo lahko o
                            amandmaju Jaša Zlobca k 15. členu.</p>
-                        <p>Kdo je za njegov amandma? <stage>(15 delegatov je za.)</stage> Kdo je
-                           proti? <stage>(30 delegatov.)</stage> Vzdržani? <stage>(8
+                        <p>Kdo je za njegov amandma? <stage type="vote">(15 delegatov je za.)</stage> Kdo je
+                           proti? <stage type="vote">(30 delegatov.)</stage> Vzdržani? <stage type="vote">(8
                               delegatov.)</stage>.</p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>In smo že pri 25. členu, Božo Kočevar predlaga v imenu Kluba neodvisnih
@@ -5631,10 +5631,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Ni razprave? <stage>(Ne.)</stage>
+                        <p>Ni razprave? <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Kdo je za amandma k 25. členu, ki ga je predlagal Božo Kočevar?
-                              <stage>(19 delegatov je za.)</stage> Koliko vas je proti? <stage>(28
+                              <stage type="vote">(19 delegatov je za.)</stage> Koliko vas je proti? <stage type="vote">(28
                               vas je proti.)</stage>
                         </p>
                         <p>Amandma ni bil sprejet.</p>
@@ -5644,12 +5644,12 @@
                            člena se na koncu besedila črta podpičje in doda naslednje besedilo: "ter
                            nadzoruje njihovo uresničevanje." Izvršni svet soglaša s tem amandmajem,
                            kljub temu da tega amandmaja gospod Kacin ni posebej izpostavil.</p>
-                        <p>Želi kdo kaj o tem povedati? <stage>(Ne.)</stage>
+                        <p>Želi kdo kaj o tem povedati? <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Glasujemo o tem.</p>
                         <p>Kdo je za amandma Zakonodajno-pravne komisije k 32. členu, s katerim tudi
-                           Izvršni svet soglaša? <stage>(41 jih je za.)</stage> Proti? <stage>(2
-                              delegata.)</stage> Vzdržani? <stage>(6 delegatov.)</stage>
+                           Izvršni svet soglaša? <stage type="vote">(41 jih je za.)</stage> Proti? <stage type="vote">(2
+                              delegata.)</stage> Vzdržani? <stage type="vote">(6 delegatov.)</stage>
                         </p>
                         <p>Amandma je sprejet.</p>
                         <p>33. člen: Jaša Zlobec: v zadnjem odstavku se črtajo besede: "uvedbi
@@ -5699,13 +5699,13 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Teoretično se lahko zgodi, da bomo celo izglasovali, da jim ne odobrimo
                            sredstev, glede na kriterije. Ali še kdo želi razpravljati?
-                              <stage>(Ne.)</stage>
+                              <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Kdo je za amandma Jaše Zlobca - v 8. točki se črta besedilo: "o
                            kriterijih in načinu nabave orožja za potrebe državnih organov,
                            teritorialne obrambe in narodne zaščite" in se ga prenese v 36. člen?
-                              <stage>(22 delegatov za.)</stage> Proti? <stage>(23 delegatov je
-                              proti.)</stage> Vzdržani? <stage>(2 delegata.)</stage>
+                              <stage type="vote">(22 delegatov za.)</stage> Proti? <stage type="vote">(23 delegatov je
+                              proti.)</stage> Vzdržani? <stage type="vote">(2 delegata.)</stage>
                         </p>
                         <p>Ugotavljam, da ta amandma ni bil sprejet.</p>
                         <p>Samo kot obvestilo, vi pa imate v gradivu, so še amandmaji k 43., 45.,
@@ -5795,23 +5795,23 @@
                            prav, da najprej glasujemo o amandmaju pod zaporedjem b). Poglejte še
                            enkrat, predlagatelj je Ivo Daneu, črta se zadnji odstavek petega
                            odstavka.</p>
-                        <p>Kdo je za amandma Iva Daneua (k 61. členu)? <stage>(Za - 8)</stage>.
-                              <stage>(Proti - 25)</stage>. <stage>(Vzdržanih - 14)</stage>. Ta
+                        <p>Kdo je za amandma Iva Daneua (k 61. členu)? <stage type="vote">(Za - 8)</stage>.
+                              <stage type="vote">(Proti - 25)</stage>. <stage type="vote">(Vzdržanih - 14)</stage>. Ta
                            amandma torej ni sprejet.</p>
                         <p>Sedaj še: zadnji odstavek petega odstavka se spremeni tako, da se glasi,
                            kot je predlagal Jaša Zlobec.</p>
-                        <p>Kdo je za amandma Jaše Zlobca - k 61. členu? <stage>(Za -
+                        <p>Kdo je za amandma Jaše Zlobca - k 61. členu? <stage type="vote">(Za -
                            15)</stage>.</p>
                         <p>
-                           <stage>(Proti - 27)</stage>. <stage>(Vzdržanih - 6)</stage>. Tudi ta
+                           <stage type="vote">(Proti - 27)</stage>. <stage type="vote">(Vzdržanih - 6)</stage>. Tudi ta
                            amandma ni bil sprejet.</p>
                         <p>7. odstavek se spremeni tako, da se glasi:</p>
                         <p>"Oznake pripadnosti in činov ter položajne oznake v teritorialni obrambi
                            Republike Slovenije določa zakon o oboroženih silah Republike Slovenije".
                            Kaj je gospod Kacin v zvezi s tem povedal, ste slišali. Izvršni svet ga
                            ne podpira.</p>
-                        <p>Kdo je za amandma? <stage>(Za - 13)</stage>. <stage>(Proti - 27)</stage>.
-                              <stage>(Vzdržanih - 9)</stage>. Tudi ta amandma ni sprejet.</p>
+                        <p>Kdo je za amandma? <stage type="vote">(Za - 13)</stage>. <stage type="vote">(Proti - 27)</stage>.
+                              <stage type="vote">(Vzdržanih - 9)</stage>. Tudi ta amandma ni sprejet.</p>
                         <p>23. točka, to je poglavje o narodni zaščiti, s členi 64 in 71 smo že
                            opravili, tako da tega nismo sprejeli.</p>
                         <p>Sedaj smo 80. členu. Predlagatelj je Izvršni svet: v drugem odstavku 80.
@@ -5912,7 +5912,7 @@
                            službe. Skratka, v imenu Izvršnega sveta moram nasprotovati črtanju tega
                            odstavka, hkrati pa v imenu Izvršnega sveta predlagam, da se doda tisti
                            člen, ki uvaja nadzorno funkcijo s strani komisije za obrambo. In kar
-                           zadeva ta drugi del, ki se nanaša na ta 81. člen <stage>(bere)</stage>:
+                           zadeva ta drugi del, ki se nanaša na ta 81. člen <stage type="comment">(bere)</stage>:
                            "S predlaganim amandmajem se iz pristojnosti vojaške policije v
                            teritorialni obrambi izvzame vojaški promet", je nesmoterno. Takrat, ko
                            se vojaške kolone pojavijo na terenu, je normalno, da vojaška policija
@@ -5928,14 +5928,14 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Slišali ste. Predlagam, da najprej glasujemo o amandmaju gospoda
                            Jaše Zlobca in sicer, da se 80. člen v celoti črta. To je njegov amandma.
-                           Kdo je za amandma Jaše Zlobca, da se 80. člen črta? Kdo je za? <stage>(23
-                              za)</stage> Proti? <stage>(22.)</stage> Vzdržanih?
-                              <stage>(Šest)</stage>. Amandma ni bil sprejet.</p>
+                           Kdo je za amandma Jaše Zlobca, da se 80. člen črta? Kdo je za? <stage type="vote">(23
+                              za)</stage> Proti? <stage type="vote">(22.)</stage> Vzdržanih?
+                              <stage type="vote">(Šest)</stage>. Amandma ni bil sprejet.</p>
                         <p>In še amanddma Izvršnega sveta. V drugem odstavku 80. člena se doda na
                            koncu besedila stavek.</p>
                         <p>Kdo je za amandma Izvršnega sveta k 80. členu?</p>
-                        <p>Kdo je za? <stage>(40 za.)</stage> In proti? <stage>(Dva.)</stage> Ter
-                           vzdržani? <stage>(Sedem.)</stage>
+                        <p>Kdo je za? <stage type="vote">(40 za.)</stage> In proti? <stage type="vote">(Dva.)</stage> Ter
+                           vzdržani? <stage type="vote">(Sedem.)</stage>
                         </p>
                         <p>Ugotavljam, da je amandma Izvršnega sveta k 80. členu sprejet.</p>
                         <p>Sedaj je še amandma k 81. členu.</p>
@@ -5975,25 +5975,25 @@
                            kako je s temi prevozi.</p>
                         <p>81. člen - Jaša Zlobec še enkrat predlaga amandma, ki ga poznamo, da se
                            prvi odstavek spremeni in glasi po novem.</p>
-                        <p>Kdo je za amandma Jaše Zlobca k 81. členu? <stage>(Za - 13.)</stage>
-                           <stage>Proti - 28.)</stage> Vzdržanih? <stage>(Vzdržanih - 7)</stage>.
+                        <p>Kdo je za amandma Jaše Zlobca k 81. členu? <stage type="vote">(Za - 13.)</stage>
+                           <stage type="vote">Proti - 28.)</stage> Vzdržanih? <stage type="vote">(Vzdržanih - 7)</stage>.
                            Amandma ni sprejet.</p>
                         <p>Sedaj še amandma Komisije za obrambo: v 81. členu se dodata dva nova
-                           odstavka, ki glasita: <stage>(teksta ne bom bral)</stage>. Predlagatelj
+                           odstavka, ki glasita: <stage type="comment">(teksta ne bom bral)</stage>. Predlagatelj
                            zakonodajno-pravna komisija predlaga, da se amandma Komisije za obrambo
                            uvrsti kot samostojni člen za 81. členom. Kaj menite? Ali se dopolni? Je
-                           treba še kaj povedati? <stage>(Ne.)</stage> Če ne želi nihče več
+                           treba še kaj povedati? <stage type="debate">(Ne.)</stage> Če ne želi nihče več
                            razpravljati, zaključujem razpravo in prehajamo na glasovanje.</p>
                         <p>Kdo je za amandma Komisije za obrambo k 81. členu, s katerim se strinja
-                           tudi Izvršni svet? <stage>(Za - 43.)</stage> Proti? <stage>(Proti -
-                              1.)</stage> Vzdržani? <stage>(Vzdržanih - 7)</stage>. Ugotavljam, da
+                           tudi Izvršni svet? <stage type="vote">(Za - 43.)</stage> Proti? <stage type="vote">(Proti -
+                              1.)</stage> Vzdržani? <stage type="vote">(Vzdržanih - 7)</stage>. Ugotavljam, da
                            smo amandma Komisije za obrambo sprejeli.</p>
                         <p>K. 87. členu Valentin Prelovec predlaga amandma in sicer k predlogu
                            zakona o obrambi in zaščiti, ki se dopolni z naslednjim tekstom: S tem
                            87. členom se strinja tudi Izvršni svet. To je eden izmed treh
                            amandmajev, s katerim se je Izvršni svet strinjal. Glasujmo.</p>
-                        <p>Kdo je za amandma gospoda Prelovca k 87. členu? <stage>(Za - 39.)</stage>
-                           Proti? <stage>(Proti - 2.)</stage> Vzdržanih? <stage>(Vzdržanih -
+                        <p>Kdo je za amandma gospoda Prelovca k 87. členu? <stage type="vote">(Za - 39.)</stage>
+                           Proti? <stage type="vote">(Proti - 2.)</stage> Vzdržanih? <stage type="vote">(Vzdržanih -
                               9.)</stage> Ugotavljam, da je amandma k 87. členu sprejet.</p>
                         <p>91. člen - amandma gospoda Valentina Prelovca, da se doda novi tekst 91.
                            člena, ki se glasi: "Zaščito in reševanje na morju izvajajo podjetja,
@@ -6037,10 +6037,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Slišali ste. Še kdo? <stage>(Ne.)</stage> Potem lahko glasujemo o
+                        <p>Hvala. Slišali ste. Še kdo? <stage type="debate">(Ne.)</stage> Potem lahko glasujemo o
                            tem amandmaju gospoda Prelovca. Kdo je za amandma, s katerim se Izvršni
-                           svet ne strinja. <stage>(13 delegatov glasuje za)</stage>. Proti?
-                              <stage>(22 delegatov)</stage>. Vzdržanih? <stage>(14
+                           svet ne strinja. <stage type="vote">(13 delegatov glasuje za)</stage>. Proti?
+                              <stage type="vote">(22 delegatov)</stage>. Vzdržanih? <stage type="vote">(14
                               delegatov)</stage>.</p>
                         <p>Ugotavljam, da amandma ni bil sprejet.</p>
                         <p>Zdaj smo pa pri 125. členu. Jaša Zlobec: črta se prvi odstavek 125.
@@ -6228,8 +6228,8 @@
                            predlagal, da glasujemo o amandmaju gospoda Jakiča in Zlobca k 125.
                            členu, in sicer, da se črta samo prvi odstavek - o prvem odstavku smo
                            sedaj razpravljali.</p>
-                        <p>Kdo je za amandma? <stage>(38 delegatov je za.)</stage> Proti? <stage>(7
-                              delegatov.)</stage> Vzdržani? <stage>(8 vzdržanih.)</stage>
+                        <p>Kdo je za amandma? <stage type="vote">(38 delegatov je za.)</stage> Proti? <stage type="vote">(7
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(8 vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da smo v našem zboru ta amandma sprejeli.</p>
                         <p>Smo pri 129. členu. Sedaj pa vas iskredno vprašam. Ali je potrebno, da
@@ -6254,8 +6254,8 @@
                            amandma sprejeti. Ali je tako? Predlagam, da glasujemo o amandmaju
                            Izvršnega sveta, da se pri 129. členu 5. točka črta v celoti.</p>
                         <p>Kdo je za to, da se črta 5. točka v celoti, tako kot Izvršni svet
-                           predlaga? <stage>(47 delegatov je za.)</stage> Proti?
-                              <stage>(Nihče.)</stage> Vzdržani? <stage>(Nihče.)</stage>.</p>
+                           predlaga? <stage type="vote">(47 delegatov je za.)</stage> Proti?
+                              <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(Nihče.)</stage>.</p>
                         <p>To je bilo soglasno sprejeto v našem zboru.</p>
                         <p>V tem primeru Jaša Zlobec s svojo Liberalno-demokratsko stranko lahko
                            odstopi, ne?</p>
@@ -6290,11 +6290,11 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Slišali ste. Ima še kdo drugi kakšno mnenje? <stage>(Ne.)</stage>
+                        <p>Hvala. Slišali ste. Ima še kdo drugi kakšno mnenje? <stage type="debate">(Ne.)</stage>
                            Če ne želi nihče več razpravljati, bi glasovali o tem amandmaju, ki ga je
                            predlagal gospod Daneu k 131. členu.</p>
-                        <p>Kdo je za njegov amandma? <stage>(14 delegatov je za.)</stage> Kdo je
-                           proti? <stage>(22 delegatov je proti.)</stage> Vzdržani? <stage>(10
+                        <p>Kdo je za njegov amandma? <stage type="vote">(14 delegatov je za.)</stage> Kdo je
+                           proti? <stage type="vote">(22 delegatov je proti.)</stage> Vzdržani? <stage type="vote">(10
                               vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni bil sprejet.</p>
@@ -6609,8 +6609,8 @@
                            se pravi, najprej odločamo o tem, ali sprejmemo pri 140. členu predlog
                            Liberalno-demokratske stranke in socialistov, da bom pošteno povedal Jaše
                            Zlobca in Iva Daneva, da se 140. člen črta.</p>
-                        <p>Kdo je za ta amandma? <stage>(31 delegatov.)</stage> Proti? <stage>(20
-                              delegatov.)</stage> In vzdržani? <stage>(4 delegati.)</stage>
+                        <p>Kdo je za ta amandma? <stage type="vote">(31 delegatov.)</stage> Proti? <stage type="vote">(20
+                              delegatov.)</stage> In vzdržani? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da smo amandma k 140. členu sprejeli in s tem je amandma
                            gospoda Kočevarja brezpredmeten in ga umika.</p>
@@ -6661,16 +6661,16 @@
                            podpira. Želi kdo razpravljati? Če ni več razprave, bi prešli na
                            glasovanje.</p>
                         <p>K 146. členu se predlaga amandma: "Ta člen se črta."</p>
-                        <p>Kdo je za predlagani amandma? <stage>(Za - 26)</stage>. <stage>(Proti -
-                              25)</stage>. <stage>(Vzdržanih - 3)</stage>. Amandma ni sprejet.</p>
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(Za - 26)</stage>. <stage type="vote">(Proti -
+                              25)</stage>. <stage type="vote">(Vzdržanih - 3)</stage>. Amandma ni sprejet.</p>
                         <p>Sedaj imamo amandma k 147. členu, ki ga je predlagala Zakonodajno-pravna
                            komisija. Tudi Izvršni svet ga podpira. Amandma se glasi: v 3. odstavku
                            147. člena se besedilo do sprejema zakona o notranjih zadevah nadomesti z
                            besedilom: "dokler zakon o notranjih zadevah teh vprašanj ne uredi
-                           drugače". Je tu potrebno razpravljati? <stage>(Ne.)</stage> Torej
+                           drugače". Je tu potrebno razpravljati? <stage type="debate">(Ne.)</stage> Torej
                            glasujemo.</p>
                         <p>Kdo je za predlagani amandma Zakonodajno-pravne komisije k 147. členu?
-                              <stage>(Za - 51)</stage>. <stage>(Proti - 2)</stage>. <stage>(Vzdržana
+                              <stage type="vote">(Za - 51)</stage>. <stage type="vote">(Proti - 2)</stage>. <stage type="vote">(Vzdržana
                               - 2)</stage>. Ugotavljam, da smo ta amandma sprejeli.</p>
                         <p>Potem je še zadnji amandma k 148. členu. Jaša Zlobec predlaga, nov 148 a
                            člen, ki se glasi: "ta zakon velja do sprejema nove slovenske
@@ -6706,11 +6706,11 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Še želi kdo v zvezi s tem? <stage>(Ne.)</stage> Če ne, bi potem
+                        <p>Še želi kdo v zvezi s tem? <stage type="debate">(Ne.)</stage> Če ne, bi potem
                            glasovali.</p>
                         <p>Kdo je za predlagani amandma, da se k 148. členu doda 148.a člen?
-                              <stage>((17 delegatov je za.)</stage> Koliko vas je proti? <stage>(27
-                              proti.)</stage> Vzdržani? <stage>(10 vzdržanih.)</stage>
+                              <stage type="vote">((17 delegatov je za.)</stage> Koliko vas je proti? <stage type="vote">(27
+                              proti.)</stage> Vzdržani? <stage type="vote">(10 vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>S tem smo mi zaključili sprejemanje amandmajev in moramo še opraviti
@@ -6718,11 +6718,11 @@
                         <p>1. Mi smo tu sprejeli sedaj 9 amandmajev, od tega so 4 amandmaji našega
                            zbora in ob zaključku bi sprejeli še sklep, ki ga je gospod Jože Brlec
                            predlagal.</p>
-                        <p>Najprej pa ugotovimo prisotnost! <stage>(57 nas je prisotnih.)</stage>
+                        <p>Najprej pa ugotovimo prisotnost! <stage type="quorum">(57 nas je prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za zakon z amandmaji, tako kot smo se dogovorili? <stage>(41 je
-                              za.)</stage> Kdo je proti? <stage>(5 proti.)</stage> Vzdržani?
-                              <stage>(10 vzdržanih.)</stage>
+                        <p>Kdo je za zakon z amandmaji, tako kot smo se dogovorili? <stage type="vote">(41 je
+                              za.)</stage> Kdo je proti? <stage type="vote">(5 proti.)</stage> Vzdržani?
+                              <stage type="vote">(10 vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da smo zakon o obrambi in zaščiti z amandmaji v našem zboru
                            sprejeli.</p>
@@ -6730,8 +6730,8 @@
                            zakona o obrambi in zaščiti naj bo v smislu ločitve zaščite in reševanja
                            od obrambe čim krajše, nikakor pa daljše kot do 31/12-1993.</p>
                         <p>Slišali ste utemeljitev.</p>
-                        <p>Kdo je za predlagani dodatni sklep? <stage>(32 je za.)</stage> Proti?
-                              <stage>(6 proti.)</stage> Vzdržani? <stage>(17 vzdržanih.)</stage>
+                        <p>Kdo je za predlagani dodatni sklep? <stage type="vote">(32 je za.)</stage> Proti?
+                              <stage type="vote">(6 proti.)</stage> Vzdržani? <stage type="vote">(17 vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da smo tudi ta sklep z večino glasov sprejeli in s tem smo
                            zaključili to točko dnevnega reda.</p>
@@ -6757,12 +6757,12 @@
                            našega zbora, in sicer: Kočevar Božo, Murko Dejan, Sagadin Vlasta, Berlec
                            Jože in Daneu Ivo.</p>
                         <p>Ste za to? Kakšen dodatni predlog? Namesto Murko Dejana je predlog za
-                           gospoda Primoža Rode. Ugotovimo prisotnost! <stage>(46
+                           gospoda Primoža Rode. Ugotovimo prisotnost! <stage type="quorum">(46
                               prisotnih.)</stage>
                         </p>
-                        <p>Koliko vas je za to našo komisijo? Kdo je za? <stage>(35
-                              delegatov.)</stage> Koliko vas je proti? <stage>(1 delegat.)</stage>
-                           Pa vzdržani? <stage>(6 delegatov.)</stage>
+                        <p>Koliko vas je za to našo komisijo? Kdo je za? <stage type="vote">(35
+                              delegatov.)</stage> Koliko vas je proti? <stage type="vote">(1 delegat.)</stage>
+                           Pa vzdržani? <stage type="vote">(6 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da imamo komisijo.</p>
                         <p>Zdaj pa <title>K NAŠEMU PRORAČUNU</title>. Kot je pri nas običaj in glede
@@ -6811,7 +6811,7 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Slišali ste predlog. Kaj menite? Po tem predlogu bi začeli na
                            strani 3 k posebnemu delu proračuna in bi se potem vrnili k prvemu delu.
-                           Lahko začnemo tako? <stage>(Da.)</stage>
+                           Lahko začnemo tako? <stage type="debate">(Da.)</stage>
                         </p>
                         <p>Gre seveda za vsebinski premik. Na strani 9, prihodki občinam, 30 % davka
                            na dobiček naj se poveča za 280. Predlagatelj Rudi Moge umika ta
@@ -6821,7 +6821,7 @@
                            Moge je umaknil tudi to.</p>
                         <p>Roman Jakič, je 3. amandma na strani 9, tabela 2.1. prihodki, se črta
                            postavka 710 itn. Kaj menite? Liberalno-demokratska stranka, vztrajate?
-                              <stage>(Ne.)</stage> To se pravi umikate? Umikate tudi to.</p>
+                              <stage type="debate">(Ne.)</stage> To se pravi umikate? Umikate tudi to.</p>
                         <p>Potem smo pri Petru Starcu in sicer, postavka zadolževanje pod točko 9,
                            ki označuje vrsto prihodkov, se zniža za znesek, tako da se predvidi
                            višina, ki pa je točno opredeljena. Kaj menite? Še vedno smo na strani 3
@@ -6833,23 +6833,23 @@
                            nova vlaganja, novo tehnologijo in s tem večjo možnost za razvoj in
                            odpiranje delovnih mest."</p>
                         <p>
-                           <stage>(Ni razprave.)</stage> Ugotovimo prisotnost. <stage>(47 nas je
+                           <stage type="comment">(Ni razprave.)</stage> Ugotovimo prisotnost. <stage type="quorum">(47 nas je
                               prisotnih.)</stage>
                         </p>
                         <p>Kdo je za amandma Petra Starca v zvezi s to postavko pod točko 9., da se
-                           zniža? <stage>(10 delegatov je za.)</stage> Kdo je proti? <stage>(18
-                              delegatov je proti.)</stage> Vzdržani? <stage>(20 delegatov.)</stage>
+                           zniža? <stage type="vote">(10 delegatov je za.)</stage> Kdo je proti? <stage type="vote">(18
+                              delegatov je proti.)</stage> Vzdržani? <stage type="vote">(20 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da ta amandma ni sprejet.</p>
                         <p>Smo na 4. strani, in sicer 5. amandma, predlagatelj Peter Starc, 2 1, to
                            so prihodki, v bilanci prihodkov proračuna v skupini 72 konto 720 pod
                            točko, ki označuje vrsto prihodkov, se zniža prihodek od dohodnine za
                            500.000 din, tako da se predvidi v višini, tako kot je označeno.</p>
-                        <p>Želi v zvezi s tem kdo razpravljati? <stage>(Ne želi.)</stage>
+                        <p>Želi v zvezi s tem kdo razpravljati? <stage type="debate">(Ne želi.)</stage>
                         </p>
-                        <p>Kdo je za amandma Petra Starca? <stage>(12 delegatov je za.)</stage>
-                           Koliko vas je proti? <stage>(17 delegatov proti.)</stage> Vzdržani?
-                              <stage>(14 delegatov.)</stage>
+                        <p>Kdo je za amandma Petra Starca? <stage type="vote">(12 delegatov je za.)</stage>
+                           Koliko vas je proti? <stage type="vote">(17 delegatov proti.)</stage> Vzdržani?
+                              <stage type="vote">(14 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>Naslednji amandma, predlagatelj Peter Starc pod točko 1, ki označuje
@@ -6857,21 +6857,21 @@
                            tako da se predvidi v višini 3.590.589 din in ne v višini 4. milijarde in
                            tako naprej.</p>
                         <p>Izvršni svet seveda tudi tega amandmaja ne sprejme.</p>
-                        <p>Želi kdo razpravljati? <stage>(Ne.)</stage>
+                        <p>Želi kdo razpravljati? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za ta amandma? <stage>(18 delegatov.)</stage> Kdo je proti?
-                              <stage>(19 delegatov.)</stage> Vzdržani? <stage>(10
+                        <p>Kdo je za ta amandma? <stage type="vote">(18 delegatov.)</stage> Kdo je proti?
+                              <stage type="vote">(19 delegatov.)</stage> Vzdržani? <stage type="vote">(10
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da tudi ta amandma ni bil sprejet.</p>
                         <p>7. amandma, predlagatelj Peter Starc, na strani 10, 2.2 odhodki. Pri
                            postavki 6 - Zvezne obveznosti prenešene na Republiko Slovenijo, se zniža
                            odhodek za 1.500.000 din, tkao da se planira v višini zopet označene
-                           številke. Želi v zvezi s tem kdo razpravljati? <stage>(Ne želi.)</stage>
+                           številke. Želi v zvezi s tem kdo razpravljati? <stage type="debate">(Ne želi.)</stage>
                         </p>
-                        <p>Kdo je za predlagani amandma Petra Starca? <stage>(19 delegatov je
-                              za.)</stage> Kdo je proti? <stage>(20 delegatov.)</stage> Vzdržani?
-                              <stage>(7 delegatov.)</stage>
+                        <p>Kdo je za predlagani amandma Petra Starca? <stage type="vote">(19 delegatov je
+                              za.)</stage> Kdo je proti? <stage type="vote">(20 delegatov.)</stage> Vzdržani?
+                              <stage type="vote">(7 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>9. amandma Petra Starca; gre tudi za postavko 2.2 - Odhodki pri postavki
@@ -6880,18 +6880,18 @@
                            amandma in predlaga svoj amandma k 1. odstavku 2. člena. Zdaj ne odločamo
                            o amandmaju Izvršnega sveta, ampak samo v vednost in v dopolnitev.</p>
                         <p>Če ni razprave, kdo je za amandma, ki ga je predlagal Peter Starc?
-                              <stage>(22 delegatov.)</stage> Proti? <stage>((13 delegatov.)</stage>
-                           Vzdržani? <stage>(12 vzdržanih.)</stage>
+                              <stage type="vote">(22 delegatov.)</stage> Proti? <stage type="vote">((13 delegatov.)</stage>
+                           Vzdržani? <stage type="vote">(12 vzdržanih.)</stage>
                         </p>
                         <p>Tudi to ni sprejeto.</p>
                         <p>Smo pri 9, tudi postavka stran 10, 2.2 - Odhodki, amandmaja Petra Starca,
                            in sicer pri postavki 2 - Transferji, dotacije, subvencije se povečajo
                            skupna sredstva za 600.000 din, tako da znašajo 32. milijard in tako
                            naprej. Izvršni svet tudi tu delno sprejema amandma in predlaga svoj
-                           amandma. Želi v zvezi s tem kdo razpravljati? <stage>(Ne.)</stage>
+                           amandma. Želi v zvezi s tem kdo razpravljati? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za amandma Petra Starca? <stage>(9 delegatov je za.)</stage> Kdo
-                           je proti? <stage>(18 delegatov.)</stage> Vzdržani? <stage>(16
+                        <p>Kdo je za amandma Petra Starca? <stage type="vote">(9 delegatov je za.)</stage> Kdo
+                           je proti? <stage type="vote">(18 delegatov.)</stage> Vzdržani? <stage type="vote">(16
                               vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
@@ -6899,8 +6899,8 @@
                            točko 3., Socialni transferji se poveča znesek odhodka za 150.000 din,
                            tako da znaša devet milijonov itd. Ali želi kdo v zvezi s tem
                            razpravljati? Tega amandmaja IS ne podpira.</p>
-                        <p>Kdo je za ta amandma Petra Starca? <stage>(13 delegatov je za.)</stage>
-                           Proti? <stage>((20 delegatov je proti.)</stage> Vzdržani? <stage>(15
+                        <p>Kdo je za ta amandma Petra Starca? <stage type="vote">(13 delegatov je za.)</stage>
+                           Proti? <stage type="vote">((20 delegatov je proti.)</stage> Vzdržani? <stage type="vote">(15
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da tudi to ni sprejeto.</p>
@@ -6908,28 +6908,28 @@
                            subvencije pod točko 5, plačilo storitev na področju družbenih dejavnosti
                            se poveča znesek za 450.000 din. Izvršni svet delno sprejema amandma in
                            ima svoj amandma pod številko 22. Poglejte predlog Izvršnega sveta pod
-                           številko 22! Ali želi kdo razpravljati? <stage>(Ne želi.)</stage>
+                           številko 22! Ali želi kdo razpravljati? <stage type="debate">(Ne želi.)</stage>
                         </p>
-                        <p>Kdo je za ta amandma Petra Starca? <stage>(12 delegatov je za.)</stage>
-                           Proti? <stage>(21 proti.)</stage> Vzdržani? <stage>(13
+                        <p>Kdo je za ta amandma Petra Starca? <stage type="vote">(12 delegatov je za.)</stage>
+                           Proti? <stage type="vote">(21 proti.)</stage> Vzdržani? <stage type="vote">(13
                               delegatov.)</stage>
                         </p>
                         <p>Smo pri 12 amadnamju Petra Starca, pri postavki 4 - Investicijski odhodki
                            se povečajo skupna sredstva za 400.000 din. Izvršni svet ne sprejema tega
-                           amandmaja. Ni razprave? <stage>(Ne.)</stage>
+                           amandmaja. Ni razprave? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za ta amandma Petra Starca? <stage>(7 delegatov je za.)</stage>
-                           Proti? <stage>(21 delegatov.)</stage> Vzdržani? <stage>(20
+                        <p>Kdo je za ta amandma Petra Starca? <stage type="vote">(7 delegatov je za.)</stage>
+                           Proti? <stage type="vote">(21 delegatov.)</stage> Vzdržani? <stage type="vote">(20
                               vzdržanih.)</stage>
                         </p>
                         <p>Ni sprejet.</p>
                         <p>13 amandma Petra Starca. Pri postavki 4. Investicijski odhodki pod točko
                            1. Investicije v gospodarski infrastrukturi se poveča znesek za 400.000
                            din. Izvršni svet tega ne sprejema. Ali želi kdo razpravljati?
-                              <stage>(Ne.)</stage>
+                              <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za amandma Petra Starca? <stage>(17 delegatov je za.)</stage>
-                           Proti? <stage>(18 delegatov je proti.)</stage> Vzdržani? <stage>(7
+                        <p>Kdo je za amandma Petra Starca? <stage type="vote">(17 delegatov je za.)</stage>
+                           Proti? <stage type="vote">(18 delegatov je proti.)</stage> Vzdržani? <stage type="vote">(7
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
@@ -6990,22 +6990,22 @@
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Slišali ste različna mnenja. Ali lahko zaključim razpravo?
-                              <stage>(Da.)</stage>
+                              <stage type="debate">(Da.)</stage>
                         </p>
                         <p>Sprašujem vas, kdo je za amandma Romana Jakiča glede 14. točke, kjer gre
                            na eni strani za delo državnih organov, da se zniža in da se tudi znotraj
                            tega izvrši prerazporeditev.</p>
-                        <p>Kdo je za ta amandma? <stage>(26 delegatov je za.)</stage> Proti?
-                              <stage>(19 delegatov.)</stage> Vzdržani? <stage>(3 vzdržani.)</stage>
+                        <p>Kdo je za ta amandma? <stage type="vote">(26 delegatov je za.)</stage> Proti?
+                              <stage type="vote">(19 delegatov.)</stage> Vzdržani? <stage type="vote">(3 vzdržani.)</stage>
                         </p>
                         <p>Amandma je sprejet.</p>
                         <p>15. Na strani 10, odhodki. Tu je zopet kar precej delegatov, Roman Jakič
                            tudi. Vse proračunske postavke na odhodkovni strani se linearno zmanjšajo
                            za 4 %. Izvršni svet se seveda s takšno linearnostjo ne strinja. Ali želi
-                           kdo v zvezi s tem razpravljati? <stage>(Ne želi.)</stage>
+                           kdo v zvezi s tem razpravljati? <stage type="debate">(Ne želi.)</stage>
                         </p>
-                        <p>Kdo je za amandma? <stage>(18 delegatov je za.)</stage> Proti? <stage>(23
-                              delegatov.)</stage> Vzdržani? <stage>(7 vzdržanih.)</stage>
+                        <p>Kdo je za amandma? <stage type="vote">(18 delegatov je za.)</stage> Proti? <stage type="vote">(23
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(7 vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>16. Odhodki. Tu je predlagatelj Vlasta Sagadin, postavka 11.3, Socialni
@@ -7013,10 +7013,10 @@
                            znašala eno milijardo dvesto itd. Takšno višino sredstev za štipendije
                            predvideva osnutek proračuna za leto 1991. Postavka 1.3 se mora tako
                            povečati za približno 83,6 milijona din. Želi tu kdo razpravljati?
-                              <stage>(Ne.)</stage>
+                              <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za predlagani amandma? <stage>(15 delegatov je za.)</stage> Proti?
-                              <stage>(16 delegatov je proti.)</stage> Vzdržani? <stage>(19
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(15 delegatov je za.)</stage> Proti?
+                              <stage type="vote">(16 delegatov je proti.)</stage> Vzdržani? <stage type="vote">(19
                               vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
@@ -7060,8 +7060,8 @@
                            pa za delite te postavke.</p>
                         <p>Smo pri prvem tem amandmaju 17. po vrsti, in vas sprašujem:</p>
                         <p>Kdo je za amandma, da se črta ta postavka - Pluralizacija medijev?
-                              <stage>(29 delegato je za.)</stage> Proti? <stage>(13
-                              delegatov.)</stage> Vzdržani? <stage>(8 delegatov.)</stage>
+                              <stage type="vote">(29 delegato je za.)</stage> Proti? <stage type="vote">(13
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(8 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je amandma sprejet.</p>
                         <p>Moramo glasovati o drugem amandmaju. Lahko ga seveda umaknete, ampak
@@ -7069,8 +7069,8 @@
                            čisto objektivno, in sicer smo pri 18. amandmaju.</p>
                         <p>Saj to je pa sedaj zanimivo. Zdaj če tudi on ostane, potem moramo vsaj
                            deliti sredstva.</p>
-                        <p>Kdo je za sprejem amandmaja 18? <stage>(9 delegatov je za.)</stage>
-                           Proti? <stage>(27 delegatov.)</stage> Vzdržani? <stage>(13
+                        <p>Kdo je za sprejem amandmaja 18? <stage type="vote">(9 delegatov je za.)</stage>
+                           Proti? <stage type="vote">(27 delegatov.)</stage> Vzdržani? <stage type="vote">(13
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da ta amandma ni sprejet.</p>
@@ -7078,21 +7078,21 @@
                            amandmaju, ko znižuje sredstva za JLA za 200 milijonov din. Pri postavki
                            7 - Financiranje minimalnih funkcij federacije pod točko 7.2 -
                            Financiranje JLA, se zmanjšajo sredstva za 1 milijardo din.</p>
-                        <p>Želi kdo v zvezi s tem razpravljati? <stage>(Ne želi.)</stage>
+                        <p>Želi kdo v zvezi s tem razpravljati? <stage type="debate">(Ne želi.)</stage>
                         </p>
-                        <p>Kdo je za 19. amanmda, ki ga je predlagal Peter Starc? <stage>(28
-                              delegatov.)</stage> Kdo je proti? <stage>(10 delegatov.)</stage>
-                           Vzdržani? <stage>(5 delegatov.)</stage>
+                        <p>Kdo je za 19. amanmda, ki ga je predlagal Peter Starc? <stage type="vote">(28
+                              delegatov.)</stage> Kdo je proti? <stage type="vote">(10 delegatov.)</stage>
+                           Vzdržani? <stage type="vote">(5 delegatov.)</stage>
                         </p>
                         <p>Tudi ta amandma smo v našem zboru sprejeli.</p>
                         <p>20. amandma - Financiranje JLA, predlagateljica je Vlasta Sagadin,
                            Izvršni svet delno povzema amandma, da se naj pri točki 7/2 zmanjšajo
                            sredstva za nadaljnjih 420 milijonov dinarjev, tako da znašajo 2
                            milijardi.</p>
-                        <p>Želi v zvezi s tem kdo povedati svoje mnenje? <stage>(Ne želi.)</stage>
+                        <p>Želi v zvezi s tem kdo povedati svoje mnenje? <stage type="debate">(Ne želi.)</stage>
                         </p>
-                        <p>Kdo je za predlagani amandma? <stage>(21 delegatov je za.)</stage> Kdo je
-                           proti? <stage>(8 delegatov.)</stage> Vzdržani? <stage>(13
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(21 delegatov je za.)</stage> Kdo je
+                           proti? <stage type="vote">(8 delegatov.)</stage> Vzdržani? <stage type="vote">(13
                               delegatov.)</stage>
                         </p>
                         <p>Torej ta amandma ni sprejet.</p>
@@ -7111,9 +7111,9 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Glasujmo! Kdo je za amandma, ki ga je predlagal Ivo Daneu? <stage>(27
-                              delegatov.)</stage> Proti? <stage>(17 delegatov.)</stage> Vzdržani?
-                              <stage>(7 delegatov.)</stage>
+                        <p>Glasujmo! Kdo je za amandma, ki ga je predlagal Ivo Daneu? <stage type="vote">(27
+                              delegatov.)</stage> Proti? <stage type="vote">(17 delegatov.)</stage> Vzdržani?
+                              <stage type="vote">(7 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je ta amandma sprejet.</p>
                         <p>22. amandma - Republiški sekretariat za ljudsko obrambo. Postavka 6.5 se
@@ -7178,17 +7178,17 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Še želi kdo razpravljati? <stage>(Ne.)</stage> Zaključujem
+                        <p>Hvala. Še želi kdo razpravljati? <stage type="debate">(Ne.)</stage> Zaključujem
                            razpravo in prehajamo na glasovanje.</p>
-                        <p>Kdo je za amandma? <stage>(Za - 28.)</stage> Proti? <stage>(Proti -
-                              18.)</stage> Vzdržanih? <stage>(Vzdržani - 3.)</stage> Ugotavljam, da
+                        <p>Kdo je za amandma? <stage type="vote">(Za - 28.)</stage> Proti? <stage type="vote">(Proti -
+                              18.)</stage> Vzdržanih? <stage type="vote">(Vzdržani - 3.)</stage> Ugotavljam, da
                            smo amandma k točki 22. sprejeli.</p>
                         <p>23. amandma - Republiški sekretariat za ljudsko obrambo, sredstva za
                            redno usposabljanje vojakov, točka 6., se zmanjšajo za 500 milijonov din
                            in tako znašajo milijardo 900. To je predlog gospe Vlaste Sagadin.
                            Izvršni svet ne sprejema tega amandmaja. Mi smo ga že sprejeli in prav
                            tako amandma pod številko 22. Kaj menite gospa Sagadin? Ali umikate
-                           amandma? <stage>(Da.)</stage>
+                           amandma? <stage type="debate">(Da.)</stage>
                         </p>
                         <p>24. amandma - Tudi Republiški sekretariat za ljudsko obrambo pri postavki
                            6, zvezne obveznosti prenešene na republiko, pod točko 6.5 redno
@@ -7200,16 +7200,16 @@
                            večje zmanjševanje. Moramo pa glasovati, zato ker so različni, razen, če
                            bi predlagatelj po vrsti vse umikal, kar bi bilo seveda tudi možno.
                            Sprašujem Petra Starca, če bi umaknil amandma. Žal ga ni.</p>
-                        <p>Kdo je za amandma Petra Starca? <stage>(Za - 7.)</stage> Proti?
-                              <stage>(Proti - 29.)</stage> Vzdržani? <stage>(Vzdržanih - 9.)</stage>
+                        <p>Kdo je za amandma Petra Starca? <stage type="vote">(Za - 7.)</stage> Proti?
+                              <stage type="vote">(Proti - 29.)</stage> Vzdržani? <stage type="vote">(Vzdržanih - 9.)</stage>
                            Ta amandma, 24. po vrsti, ni bil sprejet.</p>
                         <p>Sedaj imamo 25. amandma, ki ga ni v našem zboru.</p>
                         <p>26. amandma - predlagatelj Barbara Zupanc, kjer gre tudi za to postavko.
-                           Izvršni svet ga ne podpira. Ali ga lahko umaknemo? <stage>(Ne.)</stage>
+                           Izvršni svet ga ne podpira. Ali ga lahko umaknemo? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za amandma, ki ga je predlagala Barbara Zupanc? <stage>(Za -
-                              13.)</stage> Proti? <stage>(Proti - 24.)</stage> Vzdržani?
-                              <stage>(Vzdržanih 10.)</stage> Tudi ta amandma ni sprejet.</p>
+                        <p>Kdo je za amandma, ki ga je predlagala Barbara Zupanc? <stage type="vote">(Za -
+                              13.)</stage> Proti? <stage type="vote">(Proti - 24.)</stage> Vzdržani?
+                              <stage type="vote">(Vzdržanih 10.)</stage> Tudi ta amandma ni sprejet.</p>
                         <p>27. amandma, predlagatelj Rudi Može, postavke 6,5 in 4,5 in 2,5 se
                            zmanjšajo za dve milijardi dva milijona in tako naprej. Gospod Moge umika
                            amandma.</p>
@@ -7394,10 +7394,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Želi še kdo razpravljati? <stage>(Ne.)</stage> Lahko zaključim.
+                        <p>Hvala. Želi še kdo razpravljati? <stage type="debate">(Ne.)</stage> Lahko zaključim.
                            Kdo je v ZZD za amandma Iva Daneva?</p>
-                        <p>Kdo je za? <stage>(22 delegatov.)</stage> Proti? <stage>(26
-                              delegatov.)</stage> Vzdržani? <stage>(4 delegati.)</stage>
+                        <p>Kdo je za? <stage type="vote">(22 delegatov.)</stage> Proti? <stage type="vote">(26
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma Iva Daneva pod št. 29, ni bil prejet.</p>
                         <p>32 amandma, predlagatelj Rudi Moge.</p>
@@ -7418,11 +7418,11 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. To se pravi amandma št. 32 je umaknjen.</p>
                         <p>33 amandma Peter Starc, tu gre za povečanje sredstev za zaposlovanje. IS
-                           tega amandmaja ne sprejme. Želi v zvezi s tem kdo? <stage>(Ne
+                           tega amandmaja ne sprejme. Želi v zvezi s tem kdo? <stage type="debate">(Ne
                               želi.)</stage>
                         </p>
-                        <p>Kdo je za amandma Petra Starca pod št. 33? <stage>(11 delegatov.)</stage>
-                           Proti? <stage>(27 delegatov.)</stage> In vzdržani? <stage>(11
+                        <p>Kdo je za amandma Petra Starca pod št. 33? <stage type="vote">(11 delegatov.)</stage>
+                           Proti? <stage type="vote">(27 delegatov.)</stage> In vzdržani? <stage type="vote">(11
                               delegatov.)</stage>
                         </p>
                         <p>Ta amandma ni sprejet.</p>
@@ -7512,9 +7512,9 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še želi kdo? Če ne, bi zaključil razpravo in bi glasovali o 38.
                            amandmaju, ki je povezan z Republiškim sekretariatom za energetiko, ki ga
-                           je predlagala gospa Vlasta Sagadin. Kdo je za ta amandma? <stage>(8
-                              delegatov glasuje za)</stage>. Proti? <stage>(28 delegatov)</stage>.
-                           Vzdržanih? <stage>(14 delegatov)</stage>.</p>
+                           je predlagala gospa Vlasta Sagadin. Kdo je za ta amandma? <stage type="vote">(8
+                              delegatov glasuje za)</stage>. Proti? <stage type="vote">(28 delegatov)</stage>.
+                           Vzdržanih? <stage type="vote">(14 delegatov)</stage>.</p>
                         <p>Ugotavljam, da amandma ni bil sprejet.</p>
                         <p>39. amandma, predlagatelj tudi Vlasta Sagadin, Republiški sekretariat za
                            energetiko, subvencioniranje premogovnikov in odžveplavanje
@@ -7527,8 +7527,8 @@
                            kmetijskega izobraževanja. Postavka 1.1.3/1. Izvršni svet tega amandmaja
                            ne sprejema. Je treba kaj povedati, gospod Peršolja. Umikate ali
                            ostanete? Glasujemo: Kdo je za amandma pod št. 42., ki ga je predlagal
-                           Dejan Peršolja? <stage>(11 delegatov glasuje za)</stage>. Proti?
-                              <stage>(23 delegatov)</stage>. Vzdržanih? <stage>(14
+                           Dejan Peršolja? <stage type="vote">(11 delegatov glasuje za)</stage>. Proti?
+                              <stage type="vote">(23 delegatov)</stage>. Vzdržanih? <stage type="vote">(14
                               delegatov)</stage>.</p>
                         <p>Ugotavljam, da ta amandma ni sprejet.</p>
                         <p>Potem je predlagatelj Anton Horvat, Republiški sekretariat za kmetijstvo,
@@ -7633,10 +7633,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Želi še kdo razpravljati? <stage>(Ne.)</stage> Potem imamo amandma pod
+                        <p>Želi še kdo razpravljati? <stage type="debate">(Ne.)</stage> Potem imamo amandma pod
                            številko 43., ki ga je predlagal Anton Horvat v našem zboru.</p>
-                        <p>Kdo je za njegov amandma? <stage>(15 za.)</stage> Proti njegovemu
-                           amandmaju? <stage>(17 proti.)</stage> Vzdržani? <stage>(14
+                        <p>Kdo je za njegov amandma? <stage type="vote">(15 za.)</stage> Proti njegovemu
+                           amandmaju? <stage type="vote">(17 proti.)</stage> Vzdržani? <stage type="vote">(14
                               vzdržanih.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma, ni sprejet.</p>
@@ -7759,18 +7759,18 @@
                         <p>To je amandma pod zaporedno šteivlko 45, kjer gre za sofinanciranje
                            kmetijskega izobraževanja, da se naj ta sredstva zmanjšajo. Predlagatelj
                            Rudi Moge.</p>
-                        <p>Kdo je za ta amandma? <stage>(24 delegatov je za.)</stage> Proti?
-                              <stage>(18 delegatov je proti.)</stage> Vzdržani? <stage>(6
+                        <p>Kdo je za ta amandma? <stage type="vote">(24 delegatov je za.)</stage> Proti?
+                              <stage type="vote">(18 delegatov je proti.)</stage> Vzdržani? <stage type="vote">(6
                               delegatov.)</stage>
                         </p>
                         <p>Amandma ni sprejet.</p>
                         <p>Pod št. 46 imamo amandma Franca Perka. Poveča se postavka Javna gozdarska
                            služba iz tega zneska na drugega, se pravi, gre za povečanje postavke št.
-                           2. Ali je treba tu še kaj povedati? <stage>(Ne.)</stage>
+                           2. Ali je treba tu še kaj povedati? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za amandma pod številko 46, da se poveča ta postavka? <stage>(6
-                              delegatov je za.)</stage> Proti? <stage>(26 delegatov je
-                              proti.)</stage> Vzdržani? <stage>(11 delegatov.)</stage>
+                        <p>Kdo je za amandma pod številko 46, da se poveča ta postavka? <stage type="vote">(6
+                              delegatov je za.)</stage> Proti? <stage type="vote">(26 delegatov je
+                              proti.)</stage> Vzdržani? <stage type="vote">(11 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma pod št. 46 ni bil sprejet.</p>
                         <p>47. amandma. Smo pri Prometu in zvezah. Predlagatelj je Jurij Pirš. Gre
@@ -7800,11 +7800,11 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Še kdo želi razpravljati? <stage>(Ne.)</stage> Potem bomo glasovali o tem
+                        <p>Še kdo želi razpravljati? <stage type="debate">(Ne.)</stage> Potem bomo glasovali o tem
                            amandmaju, kjer gre za povišanje sredstev, ki ga je predlagal Jurij Pirš,
                            in sicer za amandma št. 47.</p>
-                        <p>Kdo je za predlagani amandma? <stage>(10 delegatov je za)</stage>. Kdo je
-                           proti? <stage>(21 delegatov je proti)</stage>. Kdo je vzdržan? <stage>(17
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(10 delegatov je za)</stage>. Kdo je
+                           proti? <stage type="vote">(21 delegatov je proti)</stage>. Kdo je vzdržan? <stage type="vote">(17
                               delegatov)</stage>.</p>
                         <p>Amandma ni sprejet.</p>
                         <p>Potem je amandma pod št. 48, kjer tudi gre za povišanje investicijskih
@@ -7855,26 +7855,26 @@
                         <p>Samo z nižjim zneskom, ali ne? Dobro. Ali še kdo želi razpravljati? Če
                            ne, bi najprej glasovali o tem 48. amandmaju, ki ga je predlagal Jurij
                            Pirš in kjer gre za povišanje teh sredstev od 129 milijonov na 644.</p>
-                        <p>Kdo je za predlagani amandma? <stage>(21 delegatov za amandma.)</stage>
-                           Kdo je proti? <stage>(17 delegatov)</stage>. Se je kdo vzdržal?
-                              <stage>(14 delegatov)</stage>.</p>
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(21 delegatov za amandma.)</stage>
+                           Kdo je proti? <stage type="vote">(17 delegatov)</stage>. Se je kdo vzdržal?
+                              <stage type="vote">(14 delegatov)</stage>.</p>
                         <p>Amandma ni bil sprejet.</p>
                         <p>Pod št. 49 imamo amandma Petra Starca,kjer gre tudi za promet in zveze,
                            in sicer, da se tudi postavka spremeni pod točko 4.1. Cestna
                            infrastruktura, se povečajo sredstva za 400 milijonov. Ali želi povedati
-                           kdo svoje mnenje? <stage>(Ne.)</stage> Potem bi izglasovali, in sicer o
+                           kdo svoje mnenje? <stage type="debate">(Ne.)</stage> Potem bi izglasovali, in sicer o
                            amandmaju Petra Starca, kjer gre za investicijske odhodke pod točko
                            4.1.1. za cestno infrastrukturo, da se sredstva povečajo.</p>
-                        <p>Kdo je za njegov predlog? <stage>(21 delegatov je za)</stage>. Kdo je
-                           proti? <stage>(18 delegatov je proti)</stage>. Vzdržani? <stage>(10
+                        <p>Kdo je za njegov predlog? <stage type="vote">(21 delegatov je za)</stage>. Kdo je
+                           proti? <stage type="vote">(18 delegatov je proti)</stage>. Vzdržani? <stage type="vote">(10
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>Tu se sedaj smiselno, kot smo prej slišali, povezujeta amandmaja 50 in
                            48, o katerem je govorila Vlasta Sagadin. Želi tu kdo še kaj povedati? Če
                            ne, glasujemo tudi o tem amandmaju.</p>
-                        <p>Kdo je za ta amandma pod št. 50? <stage>(15 delegatov je za)</stage>.
-                           Proti? <stage>(19 delegatov je proti)</stage>. Vzdržani? <stage>(13
+                        <p>Kdo je za ta amandma pod št. 50? <stage type="vote">(15 delegatov je za)</stage>.
+                           Proti? <stage type="vote">(19 delegatov je proti)</stage>. Vzdržani? <stage type="vote">(13
                               delegatov je vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da tudi amandma pod št. 50 ni bil sprejet.</p>
                         <p>Potem je naš amandma pod št. 53, Barbara Zupanc, kjer gre še vedno za
@@ -7937,19 +7937,19 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Še želi kdo? Če ne, potem bi glasovali pod št. 53, kjer gre za povečanje
                            zneska za cestno infrasturkturo.</p>
-                        <p>Kdo je za predlagano povečanje? <stage>(29 delegatov glasuje za.)</stage>
-                           Proti? <stage>(14 delegatov glasuje proti.)</stage> Vzdržani? <stage>(8
+                        <p>Kdo je za predlagano povečanje? <stage type="vote">(29 delegatov glasuje za.)</stage>
+                           Proti? <stage type="vote">(14 delegatov glasuje proti.)</stage> Vzdržani? <stage type="vote">(8
                               delegatov vzdržanih.)</stage> Amandma št. 53 je v našem zboru
                            sprejet.</p>
                         <p>Potem je amandma 54, ki ga gospod Rudi Moge umika in amdnma št. 55. Tu so
                            tudi delegati iz vseh treh zborov. Predlagatelj Rudi Moge. Tu tudi IS
                            vsebinsko sprejema in predlaga svojega pod št. 22. Še želiš Rudi? Vseeno
-                           ostajaš pri amandmaju? <stage>(Da.)</stage> Gre seveda za postavke Brnik
+                           ostajaš pri amandmaju? <stage type="debate">(Da.)</stage> Gre seveda za postavke Brnik
                            in pa Maribor. Dve naši veliki letališči. Ne želi nihče razpravljati?
-                              <stage>(Ne.)</stage> Zaključujem razpravo. Preidemo na glasovanje.</p>
+                              <stage type="debate">(Ne.)</stage> Zaključujem razpravo. Preidemo na glasovanje.</p>
                         <p>Amandma pod št. 55, ki ga je predlagal v našem zboru Rudi Moge.</p>
-                        <p>Kdo je za predlagani amandma? <stage>(19 delegatov glasuje za.)</stage>
-                           Proti? <stage>(17 delegatov glasuje proti.)</stage> Vzdržani? <stage>(10
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(19 delegatov glasuje za.)</stage>
+                           Proti? <stage type="vote">(17 delegatov glasuje proti.)</stage> Vzdržani? <stage type="vote">(10
                               delegatov vzdržanih.)</stage> Amandma ni sprejet.</p>
                         <p>Potem je amandma št. 56. Republiški sekretariat za informiranje,
                            predlagatelj amandmaja je Franček Rudolf, kjer gre za subvencije in
@@ -8025,18 +8025,18 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Še želi kdo razpravljati? <stage>(Ne želi.)</stage> Zaključujem razpravo
+                        <p>Še želi kdo razpravljati? <stage type="debate">(Ne želi.)</stage> Zaključujem razpravo
                            o amandmaju pod številko 56. Glasujemo. Gre za subvencije in intervencije
                            v gospodarstvu in da se naj doda nov namen modernizacije časopisnega
                            tiska z zneskom (2,7 milijona mark 854).</p>
-                        <p>Kdo je za ta amandma, ki ga je predložil Franček Rudolf? <stage>(7
-                              delegatov glasuje za)</stage>. Proti? <stage>(35 delegatov)</stage>.
-                           Vzdržani? <stage>(9 delegatov)</stage>.</p>
+                        <p>Kdo je za ta amandma, ki ga je predložil Franček Rudolf? <stage type="vote">(7
+                              delegatov glasuje za)</stage>. Proti? <stage type="vote">(35 delegatov)</stage>.
+                           Vzdržani? <stage type="vote">(9 delegatov)</stage>.</p>
                         <p>Amandma ni sprejet.</p>
                         <p>Amandma številka 57, Republiški sekretariat za borce in vojne invalide in
                            Marko Jaklič je predlagatelj v našem zboru: Postavka Zveza združenj
                            borcev NOB se črta in sredstva se potem namenijo za šolstvo in šport.
-                           Gospod Jaklič želi kaj povedati? <stage>(Ne.)</stage> Izvršni svet ne
+                           Gospod Jaklič želi kaj povedati? <stage type="debate">(Ne.)</stage> Izvršni svet ne
                            sprejema amandmaja.</p>
                      </sp>
                      <sp who="sp:GodesaFranc1934" corresp="#DZ-1991-ZbZdruDel-18.sp.GodešaFranc">
@@ -8054,7 +8054,7 @@
                            sofinanciranje glasila TV 15. Sredstva v znesku se črtajo ter prenesejo v
                            točko 4, Sekretariat Izvršnega sveta Republike Skupščine ter se dodajo
                            postavki pluralizacije medijev. Tega pa mi nimamo. Želi mogoče tu v zvezi
-                           s tem 58. amandmajem, gospod Jaklič? <stage>(Ne.)</stage> Ker je povezan,
+                           s tem 58. amandmajem, gospod Jaklič? <stage type="debate">(Ne.)</stage> Ker je povezan,
                            eno je ukinitev, drugo je pa prenos tega denarja nekam drugam. Ostanete
                            pri tem. Glasujemo. Želi kdo drug, gospod Godeša mogoče.</p>
                      </sp>
@@ -8075,8 +8075,8 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Zato tudi Izvršni svet ne sprejema amandmaja. Glasujmo o amandmaju.</p>
                         <p>Kdo je za predlagani amandma, ki ga je gospod Jaklič predlagal v zvezi s
-                           sofinanciranjem glasila TV 15? <stage>(22 delegatov glasuje za)</stage>.
-                           Proti? <stage>(10 delegatov)</stage>. Vzdržanih? <stage>(15
+                           sofinanciranjem glasila TV 15? <stage type="vote">(22 delegatov glasuje za)</stage>.
+                           Proti? <stage type="vote">(10 delegatov)</stage>. Vzdržanih? <stage type="vote">(15
                               delegatov)</stage>.</p>
                         <p>Ugotavljam, da amandma ni bil sprejet.</p>
                         <p>Zdaj imamo še 59. amandma, ki je tudi v okviru tega sekretariata, da se
@@ -8172,7 +8172,7 @@
                      <sp who="sp:KosirTone" corresp="#DZ-1991-ZbZdruDel-18.sp.KoširTone">
                         <speaker>DR. TONE KOŠIR:</speaker>
                         <p>
-                           <stage>(replika)</stage> Gre za to, da je bistvena razlika, ali poskuša
+                           <stage type="comment">(replika)</stage> Gre za to, da je bistvena razlika, ali poskuša
                            neki amandma zniževati sredstva, ki jih predlaga, IS mi namreč le
                            nastopamo tukaj v imenu vlade, ali pa poskušamo zviševati oz. poskušate
                            zviševati sredstva in tu pravzaprav nimamo niti moralne pravice, da jo
@@ -8225,27 +8225,27 @@
                            sem, da ste našli postavko tako, kot je bilo v proračunu napisano, zato
                            teh številk ne bom ponavljal.</p>
                         <p>Kdo je za predlagani amandma Iva Daneva na tem področju? Kdo je za?
-                              <stage>(21 delegatov.)</stage> Proti? <stage>(21 delegatov.)</stage>
-                           In vzdržanih? <stage>(9 delegatov.)</stage>
+                              <stage type="vote">(21 delegatov.)</stage> Proti? <stage type="vote">(21 delegatov.)</stage>
+                           In vzdržanih? <stage type="vote">(9 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet. Potem imamo amandma pod številko 61.
                            Ivo Daneu je že prej povedal, da vztraja pri svojem amandmaju, kjer gre
-                           tudi za povišanje. Želi še kdo povedati svoje mnenje? <stage>(Ne
+                           tudi za povišanje. Želi še kdo povedati svoje mnenje? <stage type="debate">(Ne
                               želi.)</stage> Potem bi glasovali o amandmaju pod zaporedno številko
                            61, ki ga je predložil Ivo Daneu.</p>
-                        <p>Kdo je za njegov amandma? <stage>(20 delegatov.)</stage> Proti?
-                              <stage>(21 delegatov.)</stage> In vzdržani? <stage>(9
+                        <p>Kdo je za njegov amandma? <stage type="vote">(20 delegatov.)</stage> Proti?
+                              <stage type="vote">(21 delegatov.)</stage> In vzdržani? <stage type="vote">(9
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da amandma ni sprejet. Pod zaporedno številko 62 je amandma
                            Petra Starca, tudi ta amandma - plačilo storitev na področju družbenih
                            dejavnosti - se pri točki 2,3,3 na področju zdravstva povečajo sredstva.
-                           IS ne podpira. Želi v zvezi s tem amandmajem kdo razpravljati? <stage>(Ne
+                           IS ne podpira. Želi v zvezi s tem amandmajem kdo razpravljati? <stage type="debate">(Ne
                               želi.)</stage>
                         </p>
                         <p>Kdo je za amandma Petra Starca pod zaporedno št. 62? Kdo je za?
-                              <stage>(14 delegatov.)</stage> Proti? <stage>(21 delegatov.)</stage>
-                           In vzdržani? <stage>(12 delegatov.)</stage> Tudi ta amandma ni
+                              <stage type="vote">(14 delegatov.)</stage> Proti? <stage type="vote">(21 delegatov.)</stage>
+                           In vzdržani? <stage type="vote">(12 delegatov.)</stage> Tudi ta amandma ni
                            sprejet.</p>
                         <p>Smo pri amandmaju št. 63, Jože Arzenšek, ki tudi pravi, da bi postavko
                            2.3.3 povečali z zneskom, ki ga je predlagal.</p>
@@ -8279,10 +8279,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Še kdo? <stage>(Ne.)</stage> Potem bi glasovali o tem amandmaju
+                        <p>Hvala. Še kdo? <stage type="debate">(Ne.)</stage> Potem bi glasovali o tem amandmaju
                            pod zaporedno številko 63, kjer gre tudi za povečanje sredstev za
-                           zdravstvo. Kdo je za amandma? <stage>(23 delegatov glasuje za)</stage>.
-                           Proti? <stage>(23 delegatov)</stage>. Vzdržanih? <stage>(8
+                           zdravstvo. Kdo je za amandma? <stage type="vote">(23 delegatov glasuje za)</stage>.
+                           Proti? <stage type="vote">(23 delegatov)</stage>. Vzdržanih? <stage type="vote">(8
                               delegatov)</stage>.</p>
                         <p>Ugotavljam, da tudi ta amandma ni sprejet.</p>
                         <p>Ali moramo glasovati še o tem amandmaju v zvezi z milijardo 185 tisoč
@@ -8298,9 +8298,9 @@
                            tem. To se pravi, glasujemo o predlogu gospoda Arzenška, da se zniža
                            prispevna stopnja za ta znesek, ki znaša približno 1 milijardo 185
                            milijonov in se s tem za toliko tudi zniža integralni proračun Republike
-                           Slovenije. Ni razprave. Kdo je za ta predlog gospoda Arzenška? <stage>(30
-                              delegatov glasuje za)</stage>. Proti? <stage>(13 delegatov)</stage>.
-                           Vzdržanih? <stage>(8 delegatov)</stage>.</p>
+                           Slovenije. Ni razprave. Kdo je za ta predlog gospoda Arzenška? <stage type="vote">(30
+                              delegatov glasuje za)</stage>. Proti? <stage type="vote">(13 delegatov)</stage>.
+                           Vzdržanih? <stage type="vote">(8 delegatov)</stage>.</p>
                         <p>Ugotavljam, da je amandma sprejet.</p>
                         <p>Zdaj smo pri vzgoji, izobraževanju ter telesni kulturi. 64. amandma. Tu
                            je odbor predlagal in jaz mislim, da bi lahko glasovali o vseh treh
@@ -8314,8 +8314,8 @@
                            razpravljati? Se strinjate, da glasujemo o vseh treh amandmajih
                            istočasno? Predlagam, da skupaj glasujemo o amandmajih 64, 65 in 66. Gre
                            za majhne zneske, za financiranje šolstva in športa.</p>
-                        <p>Kdo je za predlagane amandmaje? <stage>(Za - 20.)</stage> Proti?
-                              <stage>(Proti - 2l)</stage>. Vzdržanih? <stage>(Vzdržanih -
+                        <p>Kdo je za predlagane amandmaje? <stage type="vote">(Za - 20.)</stage> Proti?
+                              <stage type="vote">(Proti - 2l)</stage>. Vzdržanih? <stage type="vote">(Vzdržanih -
                               12.)</stage> Ugotavljam, da zbor teh amandmajev ni sprejel. Izvršni
                            svet pa jih je delno že povzel.</p>
                         <p>Sedaj smo pri 67. amandmaju. Tu je predlagatelj Ivo Daneu in sicer:
@@ -8357,25 +8357,25 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Dobro, slišali ste. Želi še kdo razpravljati? Glasovali bomo.</p>
                         <p>Kdo je za amandma pod št. 67, da bi se nekaj sredstev nabralo tudi za
-                           srednje šolstvo? <stage>(Za - 21.)</stage> Proti? <stage>(Proti -
-                              19.)</stage> Vzdržanih? <stage>(Vzdržanih - 8.)</stage> Ugotavljam, da
+                           srednje šolstvo? <stage type="vote">(Za - 21.)</stage> Proti? <stage type="vote">(Proti -
+                              19.)</stage> Vzdržanih? <stage type="vote">(Vzdržanih - 8.)</stage> Ugotavljam, da
                            amandma ni sprejet.</p>
                         <p>Amandma Ivo Daneu, ponovno na področju vzgoje in izobraževanja se zopet
                            spremenijo postavke, 2, 3, 6. Tu je za zelo skromen denar. To je plačilo
                            storitev na področju družbenih dejavnosti, želi tu kdo razpravljati?
-                              <stage>(Ne.)</stage>
+                              <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Kdo je za amandma, ki ga je predlagal Ivo Daneu pod številko 68?
-                              <stage>(21 je za)</stage>. Proti? <stage>(17 proti)</stage>. Vzdržani?
-                              <stage>(12 vzdržanih)</stage>.</p>
+                              <stage type="vote">(21 je za)</stage>. Proti? <stage type="vote">(17 proti)</stage>. Vzdržani?
+                              <stage type="vote">(12 vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>69. amandma tudi iz tega področja, Peter Starc ga je predlagal in tudi tu
                            gre za plačilo storitev na področju družbenih dejavnosti 2, 3, 6, da se
                            postavke spremenijo tako kot so zapisane, kot lahko vsak od vas prebere.
-                           Želi kdo razpravljati? <stage>(Nihče.)</stage>
+                           Želi kdo razpravljati? <stage type="vote">(Nihče.)</stage>
                         </p>
-                        <p>Kdo je za predlagani amandma? <stage>(16 je za)</stage>. Kdo je proti?
-                              <stage>(22 je proti)</stage>. Vzdržani? <stage>(13
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(16 je za)</stage>. Kdo je proti?
+                              <stage type="vote">(22 je proti)</stage>. Vzdržani? <stage type="vote">(13
                            vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da ta amandma ni bil sprejet.</p>
                         <p>Amandma Vlaste Sagadin, dotacije družbenim dejvnostim se zagotovijo 2
@@ -8399,8 +8399,8 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še želi kdo v zvezi s tem? Če ne, bi tudi o tem amandmaju pod
                            zaporedno številko 74 glasovali.</p>
-                        <p>Kdo je za predlagani amandma? <stage>(21 je za)</stage>. Proti?
-                              <stage>(20 je proti)</stage>. Vzdržani? <stage>(10
+                        <p>Kdo je za predlagani amandma? <stage type="vote">(21 je za)</stage>. Proti?
+                              <stage type="vote">(20 je proti)</stage>. Vzdržani? <stage type="vote">(10
                            vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da ta amandma ni sprejet. 75. amandma Rudi Moge, tudi tu gre
                            za postavko 1, 3 srednje šole se poveča za 260 milijonov din. Postavka
@@ -8703,8 +8703,8 @@
                         <p>Sprašujem vas, koliko vas je za amandma, ki ga je predlagal Rudi Moge pod
                            zaporedno številko 75, da se postavke za srednje šole povečajo in tudi
                            postavka 2.3.6. - Plačilo storitev tudi za nekaj sredstev.</p>
-                        <p>Kdo je za? <stage>(25 delegatov je za)</stage>. Kdo je proti? <stage>(17
-                              delegatov je proti)</stage>. Kdo je vzdržan? <stage>(11 delegatov je
+                        <p>Kdo je za? <stage type="vote">(25 delegatov je za)</stage>. Kdo je proti? <stage type="vote">(17
+                              delegatov je proti)</stage>. Kdo je vzdržan? <stage type="vote">(11 delegatov je
                               vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da žal amandma ni sprejet.</p>
                         <p>Ob tej priliki moram zbor obvestiti, da odstopam kot predsednik Odbora za
@@ -8728,10 +8728,10 @@
                      <sp who="sp:RudolfFrancek1944"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.RudolfFranček">
                         <speaker>FRANČEK RUDOLF:</speaker>
-                        <p>Številke teh investicij na področju kulture je obranaval Odbor za
+                        <p>Številke teh investicij na področju kulture je obravnaval Odbor za
                            kulturo. Žal se niso uspeli s tem ukvarjati, ker so se raje ukvarjali z
                            drugimi stvarmi, o katerih raje ne bom govoril bolj natančno.
-                              <stage>(Nekaj okoli tega kako gospod minister gleda Braca Rotarja in
+                              <stage type="comment">(Nekaj okoli tega kako gospod minister gleda Braca Rotarja in
                               kako Braco Rotar gleda gospoda ministra.)</stage> Zdi se mi, da je ta
                            predlog popolnoma razumljiv in sprejemljiv. Investicij v kulturo vseeni
                            ni tako malo. Vseeno je treba to in ono, tretje obnoviti in bo tega
@@ -8760,10 +8760,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Želi še kdo razpravljati? <stage>(Ne.)</stage> Potem bi glasovali o tem
+                        <p>Želi še kdo razpravljati? <stage type="debate">(Ne.)</stage> Potem bi glasovali o tem
                            76. amandmaju.</p>
-                        <p>Kdo je za predlaganami amandma? <stage>(Za - 27.)</stage> Proti?
-                              <stage>(Proti - 15.)</stage> Vzdržanih? <stage>(Vzdržanih -
+                        <p>Kdo je za predlaganami amandma? <stage type="vote">(Za - 27.)</stage> Proti?
+                              <stage type="vote">(Proti - 15.)</stage> Vzdržanih? <stage type="vote">(Vzdržanih -
                               11.)</stage> Amandma je sprejet.</p>
                         <p>Na vrsti je 78. amandma, predlagatelj Peter Starc. Gre za raziskovalno
                            dejavnost in tehnologijo. Po postavki 11:2,3 - plačilo storitev na
@@ -8783,17 +8783,17 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Želi kdo povedati kakšno drugo mnenje za podporo? <stage>(Ne
+                        <p>Želi kdo povedati kakšno drugo mnenje za podporo? <stage type="debate">(Ne
                               želi.)</stage> Potem bi predlagal, da glasujemo o amandmaju, ki je pod
                            zaporedno številko 78, kjer gre za skromno povečanje sredstev na področju
                            raziskovalne dejavnosti.</p>
-                        <p>Kdo je za ta amandma? <stage>(19 delegatov.)</stage> Proti? <stage>(13
-                              deleagtov.)</stage> Vzdržani? <stage>(18 delegatov.)</stage>
+                        <p>Kdo je za ta amandma? <stage type="vote">(19 delegatov.)</stage> Proti? <stage type="vote">(13
+                              deleagtov.)</stage> Vzdržani? <stage type="vote">(18 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da ta amandma ni sprejet.</p>
                         <p>Potem je tu 82. amandma, Marko Jaklič, in sicer Mladinski svet Slovenije,
                            postavka 1.1., bruto osebni dohodki, se črta. Marko Jaklič umika amandma.
-                           In tu imamo še 83. amandma, to je predlog libaralcev <stage>(po
+                           In tu imamo še 83. amandma, to je predlog liberalcev <stage type="comment">(po
                               starem)</stage>, da se ta postavka poveča. Gospod Jaklič ga je
                            umaknil, vi pa povečujete. Dobro. Jaša Zlobec pravi, da umikajo
                            amandma.</p>
@@ -8878,42 +8878,42 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Še kdo želi kakšno svoje mnenje? <stage>(Ne želi.)</stage> Potem bom
+                        <p>Še kdo želi kakšno svoje mnenje? <stage type="debate">(Ne želi.)</stage> Potem bom
                            najprej glasovali o tem tretjem amandmaju k drugemu členu predloga
                            zakona, ki se glasi: "drugi odstavek se črta".</p>
-                        <p>Kdo je za ta amandma? <stage>(Za - 29.)</stage> Proti? <stage>(Proti -
-                              15)</stage>. Vzdržani? <stage>(Vzdržanih - 9)</stage>. Ugotavljam, da
+                        <p>Kdo je za ta amandma? <stage type="vote">(Za - 29.)</stage> Proti? <stage type="vote">(Proti -
+                              15)</stage>. Vzdržani? <stage type="vote">(Vzdržanih - 9)</stage>. Ugotavljam, da
                            je amandma v našem zboru sprejet.</p>
                         <p>Sedaj imamo še drugi amandma. Kljub temu, da smo izglasovali takega kot
                            je, bi vseeno predlagali, da o njem glasujemo. Kaj meni predlagatelj? Ali
-                           vztrajate? <stage>(Da.)</stage>
+                           vztrajate? <stage type="debate">(Da.)</stage>
                         </p>
                         <p>Kdo je za amandma k 2. členu pod 2. točko, to je, da se doda besedilo:
                            "če ta ni večji od desetih odstotkov." O amandmaju moramo glasovati. Ko
                            bo medzborovsko usklajevanje, je še vseeno bolje eno z drugim.</p>
                         <p>Dobro, to je moje mnenje. Glasovati pa moramo. Kdo je za ta amandma?
-                              <stage>(14 delegatov glasuje za)</stage>. Proti? <stage>(28
-                              delegatov)</stage>. Vzdržanih? <stage>(10 delegatov)</stage>.</p>
+                              <stage type="vote">(14 delegatov glasuje za)</stage>. Proti? <stage type="vote">(28
+                              delegatov)</stage>. Vzdržanih? <stage type="vote">(10 delegatov)</stage>.</p>
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>Zdaj smo pri 18. členu predloga zakona, Franci Gradišar. Besedilo v 1.
                            točki 18. člena se nadomesti z besedilom, ki se glasi, potem lahko tekst
                            sami preberete: 'obvesti Skupščino' v tretji vrstici je ena majhna
                            tiskarska napaka. Želi v zvezi s tem amandmajem kdo razpravljati in se
-                           izjasniti o svojem pogledu? <stage>(Ne želi.)</stage> Izvršni svet ne
+                           izjasniti o svojem pogledu? <stage type="debate">(Ne želi.)</stage> Izvršni svet ne
                            sprejema amandmaja. Ker ni razprave, glasujemo o tem amandmaju, ki ga je
                            predlagal naš delegat Franci Gradišar k 18. členu. Kdo je za ta amandma?
-                              <stage>(14 delegatov glasuje za)</stage>. Proti? <stage>(20
-                              delegatov)</stage>. Vzdržanih? <stage>(9 delegatov)</stage>.</p>
+                              <stage type="vote">(14 delegatov glasuje za)</stage>. Proti? <stage type="vote">(20
+                              delegatov)</stage>. Vzdržanih? <stage type="vote">(9 delegatov)</stage>.</p>
                         <p>Ugotavljam, da amandma ni bil sprejet.</p>
                         <p>Zdaj imamo k 20. členu dva amandmaja. In sicer lahko preberete v tretji
                            vrsti 7. alinee se za besedilom presega 1 milijardo din doda pika, ostali
                            tekst se črta. Predlagatelj je Franci Gradišar v imenu Kluba neodvisnih
                            in potem še 7. alinea, ki jo je pa predlagal Ivo Daneu. Izvršni svet ne
-                           sprejema amandmaja. Želi v zvezi s tem kdo? <stage>(Ne želi.)</stage>
+                           sprejema amandmaja. Želi v zvezi s tem kdo? <stage type="debate">(Ne želi.)</stage>
                            Potem bi glasovali o prvem amandmaju, pri 20. členu. Kdo je za ta
-                           predlagani 7. amandma Franca Gradišarja? <stage>(19 delegatov glasuje
-                              za)</stage>. Proti? <stage>(22 delegatov)</stage>. Vzdržanih?
-                              <stage>(5 delegatov)</stage>.</p>
+                           predlagani 7. amandma Franca Gradišarja? <stage type="vote">(19 delegatov glasuje
+                              za)</stage>. Proti? <stage type="vote">(22 delegatov)</stage>. Vzdržanih?
+                              <stage type="vote">(5 delegatov)</stage>.</p>
                         <p>Ugotavljam, da 1. amandma k 20. členu ni bil sprejet.</p>
                         <p>In še drugi amandma, pod točko 8, da se 7. alinea glasi, predlagatelj Ivo
                            Daneu.</p>
@@ -8944,31 +8944,31 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Še kdo? <stage>(Ne.)</stage> Potem bi tudi tu glasovali. Kdo je za
-                           predlagani amandma k 20. členu pod zaporedno točko številko 8? <stage>(23
-                              delegatov glasuje za)</stage>. Proti? <stage>(21 delegatov)</stage>.
-                           Vzdržanih? <stage>(3 delegati)</stage>.</p>
+                        <p>Hvala. Še kdo? <stage type="debate">(Ne.)</stage> Potem bi tudi tu glasovali. Kdo je za
+                           predlagani amandma k 20. členu pod zaporedno točko številko 8? <stage type="vote">(23
+                              delegatov glasuje za)</stage>. Proti? <stage type="vote">(21 delegatov)</stage>.
+                           Vzdržanih? <stage type="vote">(3 delegati)</stage>.</p>
                         <p>Ugotavljam, da amandma ni bil sprejet.</p>
                         <p>Smo pri 24. členu predloga zakona in 11. predlogu amandmaja.</p>
                         <p>Izvršni svet pa smiselno sprejema amandma in predlaga svoj amandma. Želi
-                           kdo tu razpravljati? <stage>(Ne.)</stage> Potem bi predlagal, da
+                           kdo tu razpravljati? <stage type="debate">(Ne.)</stage> Potem bi predlagal, da
                            glasujemo o tem amandmaju pod zaporedno številko 11 k 24. členu. Kdo je
-                           za amandma Ladislava Puca? <stage>(8 delegatov.)</stage> Proti?
-                              <stage>(19 delagatov.)</stage> Vzdržanih? <stage>(15
+                           za amandma Ladislava Puca? <stage type="vote">(8 delegatov.)</stage> Proti?
+                              <stage type="vote">(19 delagatov.)</stage> Vzdržanih? <stage type="vote">(15
                               delegatov.)</stage> Ugotavljam, da amandma ni sprejet.</p>
                         <p>S tem so vsi amandmaji iz zborov obdelani in tu so zdaj še amandmaji
                            Izvršnega sveta. Teh amandmajev je osem. Teoretično vprašanje, jih
-                           sprejmemo in obravnavamo v paketu? <stage>(Da.)</stage> Imamo amandmaje
+                           sprejmemo in obravnavamo v paketu? <stage type="debate">(Da.)</stage> Imamo amandmaje
                            Izvršnega sveta, in sicer prvi amandma k 2. členu zakona, drugi amandma k
                            8. členu, k 24. členu, 6. amandma k posebnemu delu, gre za finance, 6. za
                            energetiko, 7. za promet in zveze ter 8. za vzgojo in izobraževanje ter
                            telesno kulturo. Rekli ste, da jih lahko obravnavamo skupaj. Ali še
-                           glasujemo skupaj? <stage>(Da.)</stage> Je kdo proti temu, da glasujemo
-                           skupaj? <stage>(Ne.)</stage>
+                           glasujemo skupaj? <stage type="debate">(Da.)</stage> Je kdo proti temu, da glasujemo
+                           skupaj? <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Kdo je za predložene amandmaje Izvršnega sveta v Zboru združenega dela?
-                              <stage>(30 delegatov za.)</stage> Proti? <stage>(16
-                              delegatov.)</stage> Vzdržani? <stage>(1 delegat.)</stage> Ugotavljam,
+                              <stage type="vote">(30 delegatov za.)</stage> Proti? <stage type="vote">(16
+                              delegatov.)</stage> Vzdržani? <stage type="vote">(1 delegat.)</stage> Ugotavljam,
                            da smo amandmaje sprejeli z večino glasov.</p>
                         <p>Zdaj imamo pa še nekaj sklepov, ki jih moramo sprejeti. Glasujemo še o
                            zakonu v celoti, ampak predno glasujemo o zakonu v celoti, sklepe bomo
@@ -9001,7 +9001,7 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Ugotovimo prisotnost. <stage>(52 prisotnih)</stage>.</p>
+                        <p>Ugotovimo prisotnost. <stage type="quorum">(52 prisotnih)</stage>.</p>
                         <p>V zvezi s tem zakonom o slovenskem proračunu je več stvari. Najprej imamo
                            še glasovanje o zakonu v celoti. Pri zakonu v celoti najprej gospod
                            Avberšek.</p>
@@ -9145,21 +9145,21 @@
                            76. To so tisti originalni,ki smo jih sprejeli. Ti so pred amandmaji
                            Izvršnega sveta.</p>
                         <p>Ali glasujemo za takšen dodaten sklep?</p>
-                        <p>Kdo je za? <stage>(46 delegatov je za)</stage>. Kdo je proti? <stage>(3
-                              delegati so proti)</stage>. Vzdržani? <stage>(2 vzdržana)</stage>.</p>
+                        <p>Kdo je za? <stage type="vote">(46 delegatov je za)</stage>. Kdo je proti? <stage type="vote">(3
+                              delegati so proti)</stage>. Vzdržani? <stage type="vote">(2 vzdržana)</stage>.</p>
                         <p>Tako smo z večino glasov tudi to sprejeli.</p>
                         <p>Sedaj pa moramo glasovati še o zakonu v celoti. Poglejmo prisotnost!
                            Prisostnih je 53 delegatov.</p>
                         <p>Kdo je za zakon v celoti z amandmaji, ki smo jih sprejeli?</p>
-                        <p>Kdo je za? <stage>(34 delegatov je za)</stage>. Kdo je proti? <stage>(15
-                              delegatov je proti)</stage>. Vzdržani? <stage>(4 delegati so
+                        <p>Kdo je za? <stage type="vote">(34 delegatov je za)</stage>. Kdo je proti? <stage type="vote">(15
+                              delegatov je proti)</stage>. Vzdržani? <stage type="vote">(4 delegati so
                               vzdržani)</stage>.</p>
                         <p>Ugotavljam, da smo zakon v celoti z večino glasov sprejeli.</p>
                         <p>Ob zaključku bi dodal še štiri sklepe, in sicer: Prvi sklep: "Sestavni
                            del republiškega proračuna so tudi predlogi ukrepov, ki jih je pripravil
                            Izvršni svet". Saj je bilo tako tudi povedano, ampak meni se zdi, da je
                            vseeno prav, da imamo tudi to kot sestavni del tega proračuna.</p>
-                        <p>Ima kdo v zvezi s tem kakšno drugače mnenje? <stage>(Nima.)</stage> Drugi
+                        <p>Ima kdo v zvezi s tem kakšno drugače mnenje? <stage type="debate">(Nima.)</stage> Drugi
                            sklep:</p>
                         <p>a) "Izvršni svet naj ob prvem rebalansu republiškega proračuna predloži
                            specifikacijo vseh stroškov z informacijo, iz katere bodo razvidni
@@ -9177,9 +9177,9 @@
                            je 1.6.</p>
                         <p>d) "Zbor združenega dela nalaga Izvršnemu svetu in Sekretariatu za
                            informiranje, da do 30.6.1991 pripravi poročilo o stanju na področju
-                           časopisnega tiska v Sloveniji s predlogom ukrepov. <stage>(Franček
+                           časopisnega tiska v Sloveniji s predlogom ukrepov. <stage type="comment">(Franček
                               Rudolf)</stage>. To so zdaj 4 predlogi. Ima še kdo dodaten predlog?
-                           Gospod Grašič? <stage>(Ne.)</stage> Avberšek? <stage>(Da.)</stage>
+                           Gospod Grašič? <stage type="debate">(Ne.)</stage> Avberšek? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:AvbersekFranc1947"
@@ -9233,8 +9233,8 @@
                            gremo lepo po vrsti. Sestavni del republiškega proračuna so tudi predlogi
                            ukrepov, ki jih je pripravil za republiški proračun Izvršni svet. Se
                            strinjate s tem?</p>
-                        <p>Kdo je za ta prvi sklep? <stage>(Za - 45.)</stage>
-                           <stage>(Proti - 1)</stage>. <stage>(Vzdržani - 7)</stage>.</p>
+                        <p>Kdo je za ta prvi sklep? <stage type="vote">(Za - 45.)</stage>
+                           <stage type="vote">(Proti - 1)</stage>. <stage type="vote">(Vzdržani - 7)</stage>.</p>
                         <p>Drugi, ki je dvojen, in sicer Izvršni svet naj o prvem rebalansu
                            republiškega proračuna predloži specifikacijo vseh stroškov z
                            informacijo, iz katere bodo razvidni podatni na podlagi katerih je prišlo
@@ -9258,21 +9258,21 @@
                            bodo tako in tako sproti morali. Če ne, nas bodo pa zapeljali v ne vem
                            kakšne izgube. Jaz bi predlagal, da o tem glasujemo in bomo videli.</p>
                         <p>Kdo je za ta drugi sklep, ki je postavljen iz dveh točk iz prve in druge.
-                           Torej kdo je za? <stage>(Za - 39)</stage>. Proti - 4). <stage>(Vzdržanih
+                           Torej kdo je za? <stage type="vote">(Za - 39)</stage>. Proti - 4). <stage type="vote">(Vzdržanih
                               - 9)</stage>.</p>
                         <p>Ugotavljam, da smo tudi ta drugi sklep sprejeli. Tretji sklep, ki tudi ni
                            bil tako problmatičen, "ZZD Skupščine R Slovenije zahteva, da IS čimprej
                            in to najkasneje do 1/6-1991 pripravi zakon o OD za delavce v vzgoji in
                            izobraževanju".</p>
-                        <p>Kdo je za predlagani sklep? <stage>(47 delegatov.)</stage> Proti?
-                              <stage>(2 delegata.)</stage> In vzdržani? <stage>(4 delegati.)</stage>
+                        <p>Kdo je za predlagani sklep? <stage type="vote">(47 delegatov.)</stage> Proti?
+                              <stage type="vote">(2 delegata.)</stage> In vzdržani? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da smo ta tretji sklep sprejeli. Zdaj pa še 4. sklep: ZZD
                            nalaga IS in Sekretariatu za informiranje, da do 30/6-1991 pripravi
                            poročilo o stanju na področju časopisnega tiska v Sloveniji s predlogi
                            ukrepov. </p>
-                        <p>Kdo je za predlagani sklep? <stage>(35 delegatov.)</stage>
-                              Proti?<stage>(9 delegatov.)</stage> In vdzržani? <stage>(9
+                        <p>Kdo je za predlagani sklep? <stage type="vote">(35 delegatov.)</stage>
+                              Proti?<stage type="vote">(9 delegatov.)</stage> In vdzržani? <stage type="vote">(9
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je tudi to bilo sprejeto. Potem pa še to, kar je gospod
@@ -9378,10 +9378,10 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Še kdo? <stage>(Ne.)</stage> Glasujemo o sklepu in sicer, da ZZD
+                        <p>Hvala. Še kdo? <stage type="debate">(Ne.)</stage> Glasujemo o sklepu in sicer, da ZZD
                            predlaga IS, naj izgube itn. </p>
-                        <p>Kdo je za predlagani sklep? <stage>(35 delegatov.)</stage> Proti?
-                              <stage>(10 delegatov.)</stage> Vzdržani? <stage>(8 delegatov.)</stage>
+                        <p>Kdo je za predlagani sklep? <stage type="vote">(35 delegatov.)</stage> Proti?
+                              <stage type="vote">(10 delegatov.)</stage> Vzdržani? <stage type="vote">(8 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da smo sklep z večino glasov sprejeli. S tem bi mi tudi
                            zaključili to našo točko.</p>
@@ -9420,7 +9420,7 @@
                            48/90, ki ga je pripravila Zakonodajno-pravna komisija, in mnenje
                            Izvršnega sveta Skupščine Republike Slovenije. Jaz sem skoraj trdno
                            prepričan, da ste vi to dvoje tudi prebrali. Želi predstavnik
-                           Zakonodajno-pravne komisije besedo? <stage>(Ga ni.)</stage> Predstavnik
+                           Zakonodajno-pravne komisije besedo? <stage type="comment">(Ga ni.)</stage> Predstavnik
                            Izvršnega sveta, gospod Rojec? Bodimo korektni in še nekaj minut
                            prisluhnemo temu.</p>
                      </sp>
@@ -9691,19 +9691,19 @@
                            da pač samo obravnavamo, odločanje pa preložimo, pa je seveda drugo. Zdi
                            se mi, da ste tu trije razpravljali in podprli to obvezno razlago in se
                            mi zdi, da je bolj prav, da o tem glasujemo. Je prav tako?
-                              <stage>(Da.)</stage> V našem zboru zaključujemo razpravo pri tej točki
+                              <stage type="debate">(Da.)</stage> V našem zboru zaključujemo razpravo pri tej točki
                            dnevnega reda in se glasuje o obvezni razlagi, ki jo je pripravila
                            komisija:</p>
                         <p>"Določilo 1. odstavka 32. člena zakona o dohodnini je potrebno tolmačiti
                            tako, da so lahko zavezanci, zasebniki, ki dosegajo dobiček z
                            opravljanjem dejavnosti in so vpisani v register na območju R Slovenije
                            obdavčeni po 69. členu zakona o dohodnini, če gre za dohodke iz
-                           premoženjskih pravic". Zdaj moramo ugotoviti prisotnst. <stage>(44
+                           premoženjskih pravic". Zdaj moramo ugotoviti prisotnst. <stage type="quorum">(44
                               prisotnih delegatov.)</stage>
                         </p>
                         <p>Kdo od vas je za obvezno razlago, kot je bila predložena zboru in jo je
-                           pripravila Zakonodajno-pravna komisija? <stage>(28 delegatov.)</stage>
-                           Proti? <stage>(8 delegatov.)</stage> Vzdržanih? <stage>(8
+                           pripravila Zakonodajno-pravna komisija? <stage type="vote">(28 delegatov.)</stage>
+                           Proti? <stage type="vote">(8 delegatov.)</stage> Vzdržanih? <stage type="vote">(8
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je obvezna razlaga v našem zboru sprejeta. Zdaj prosim ,da
@@ -10619,27 +10619,27 @@
                            Sekereš tudi. Prvič, umakne naj se naslednje amandmaje, 1. amandma, ki
                            smo ga sprejeli in to k 2. členu, 2. odstavek se črta.</p>
                         <p>Slišali ste, sedaj ne bomo več ponavljali, zdi se mi da ni potrebno in
-                           moramo ugotoviti najprej prisotnost.<stage>(53 je prisotnih.)</stage>
+                           moramo ugotoviti najprej prisotnost.<stage type="quorum">(53 je prisotnih.)</stage>
                         </p>
                         <p>Kdo je za to, da Zbor združenega dela umakne amandma k 2. členu, in
-                           sicer, da se 2. odstavek črta. Kdo je za umik tega amandmaja? <stage>(27
-                              delegatov)</stage>. Kdo je proti umiku? <stage>( 26
-                           delegatov)</stage>. Koliko je vzdržanih? <stage>(1 delegat)</stage>.</p>
-                        <p>Ali lahko še enkrat ugotovimo prisotnost? <stage>(54 prisotnih.)</stage>
+                           sicer, da se 2. odstavek črta. Kdo je za umik tega amandmaja? <stage type="vote">(27
+                              delegatov)</stage>. Kdo je proti umiku? <stage type="vote">( 26
+                           delegatov)</stage>. Koliko je vzdržanih? <stage type="vote">(1 delegat)</stage>.</p>
+                        <p>Ali lahko še enkrat ugotovimo prisotnost? <stage type="quorum">(54 prisotnih.)</stage>
                            Zdaj pa zaključimo in se ne bomo več igrali.</p>
-                        <p>Kdo je za umik našega amandmaja k drugemu členu? <stage>(28 poslancev
-                              glasuje za.)</stage> Kdo je proti? <stage>(25 poslancev.)</stage>
-                           Vzdržani? <stage>(1 poslanec.)</stage>
+                        <p>Kdo je za umik našega amandmaja k drugemu členu? <stage type="vote">(28 poslancev
+                              glasuje za.)</stage> Kdo je proti? <stage type="vote">(25 poslancev.)</stage>
+                           Vzdržani? <stage type="vote">(1 poslanec.)</stage>
                         </p>
                         <p>Ugotavljam, da smo mi amandma k drugemu členu umaknili.</p>
                         <p>Drugič: Umakne se amandma Jožeta Arzenška k posebnemu delu bilanca
                            prihodkov in odhodkov proračuna republike Slovenije 2.1.- prihodki. </p>
                         <p>Tudi tu je predlog, da se ta amandma umakne.</p>
-                        <p>Kdo je za umik tega amandmaja? <stage>(27 za.)</stage> Proti? <stage>(21
-                              proti.)</stage> Vzdržani? <stage>(4 vzdržani.)</stage>
+                        <p>Kdo je za umik tega amandmaja? <stage type="vote">(27 za.)</stage> Proti? <stage type="vote">(21
+                              proti.)</stage> Vzdržani? <stage type="vote">(4 vzdržani.)</stage>
                         </p>
                         <p>Ta amandma ni umaknjen. Še enkrat. Vem, da bo zdaj prišlo do nesporazuma.
-                           Nihče ni šel ven. <stage>(Glasovi iz dvorane.)</stage>
+                           Nihče ni šel ven. <stage type="incident">(Glasovi iz dvorane.)</stage>
                         </p>
                         <p>Predlagam, da še enkrat glasujemo, ker smo tudi o prvem enako ponovno
                            glasovali.</p>
@@ -10671,36 +10671,36 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>V redu, se strinjate, ne?</p>
                         <p>Kdo je za umik amandmaja Jožeta Arzenška? Kdo je za ta umik tako kot
-                           predlaga delovna skupina delegatov? <stage>(29 za.)</stage> Kdo je proti?
-                              <stage>(21 proti.)</stage> Vzdržani? <stage>(3 vzdržani.)</stage>
+                           predlaga delovna skupina delegatov? <stage type="vote">(29 za.)</stage> Kdo je proti?
+                              <stage type="vote">(21 proti.)</stage> Vzdržani? <stage type="vote">(3 vzdržani.)</stage>
                         </p>
                         <p>Ugotavljam, da je ta amandma tudi umaknjen. Tretji amandma je amandma
                            delegata Romana Jakiča k posebnemu delu: Bilance prihodkov in odhodkov
                            proračuna Republike Slovenije. Kdo je za umik amandmaja Romana Jakiča pod
                            zaporedno številko 3?</p>
-                        <p>Kdo je za? <stage>(29 za.)</stage> Proti? <stage>(23.)</stage> Vzdržani?
-                              <stage>(Eden)</stage>.</p>
+                        <p>Kdo je za? <stage type="vote">(29 za.)</stage> Proti? <stage type="vote">(23.)</stage> Vzdržani?
+                              <stage type="vote">(Eden)</stage>.</p>
                         <p>Ugotavljam, da je tudi ta amandma umaknjen.</p>
                         <p>Četrti amandma je amandma Barbare Zupanc, Rudija Mogeta in Iva Daneua k
                            posebnemu delu pod zaporedno številko 4.</p>
-                        <p>Kdo je za umik tega amandmaja? <stage>(25.)</stage> Proti?
-                              <stage>(26.)</stage> In vzdržani? <stage>(Dva.)</stage>
+                        <p>Kdo je za umik tega amandmaja? <stage type="vote">(25.)</stage> Proti?
+                              <stage type="vote">(26.)</stage> In vzdržani? <stage type="vote">(Dva.)</stage>
                         </p>
                         <p>Ugotavljam, da zbor tega amandmaja ni umaknil.</p>
                         <p>Peti amandma je amandma delegata Petra Starca.</p>
                         <p>Pri financiranju minimalnih funkcij federacije pod točko 7.2. Ta je pod
                            zaporedno številko 5.</p>
-                        <p>Kdo je za umik tega amandmaja? <stage>(Za - 28)</stage>. <stage>(Proti -
-                              23)</stage>. <stage>(Vzdržani - 3)</stage>. Ugotavljam, da smo peti
+                        <p>Kdo je za umik tega amandmaja? <stage type="vote">(Za - 28)</stage>. <stage type="vote">(Proti -
+                              23)</stage>. <stage type="vote">(Vzdržani - 3)</stage>. Ugotavljam, da smo peti
                            amandma umaknili.</p>
                         <p>Potem imamo amandma delegata Iva Daneua k posebnemu delu, pod zaporedno
                            številko 6. Kdo je za umik amandmaja delegata Iva Daneua pod zaporedno
-                           številko 6? <stage>(Za - 27)</stage>. <stage>(Proti - 24)</stage>.
-                              <stage>(Vzdržani - 3)</stage>. Ugotavljam, da tega amandmaja tudi
+                           številko 6? <stage type="vote">(Za - 27)</stage>. <stage type="vote">(Proti - 24)</stage>.
+                              <stage type="vote">(Vzdržani - 3)</stage>. Ugotavljam, da tega amandmaja tudi
                            nismo umaknili.</p>
                         <p>In še amandma Iva Daneua pod številko 7 k posebnemu delu. Kdo je za umik
-                           amandmaja Zbora združenega dela pod zaporedno številko 7? <stage>(Za -
-                              26)</stage>. <stage>(Proti - 24)</stage>. <stage>(Vzdržani -
+                           amandmaja Zbora združenega dela pod zaporedno številko 7? <stage type="vote">(Za -
+                              26)</stage>. <stage type="vote">(Proti - 24)</stage>. <stage type="vote">(Vzdržani -
                               4)</stage>. Ugotavljam, da 7. amandmaja, kot so nam predlagali v Zboru
                            združenega dela, nismo umaknili.</p>
                         <p>In še amandma skupine delegatov iz Maribora.</p>
@@ -10742,12 +10742,12 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Poslanci seveda ne smete priporočati kolegom, kako naj glasujejo ampak
                            predvsem vi poveste, kako boste vi glasovali. Še želi kdo povedati svoje
-                           mnenje, kako bo glasoval? <stage>(Ne.)</stage>
+                           mnenje, kako bo glasoval? <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>8. amandma, ki je bil predlagan našemu zboru s strani delovne skupine
                            delegatov iz vseh treh zborov, da ga umaknemo. Kdo je za umik tega
-                           amandmaja? <stage>(17 delegatov)</stage>. Proti umiku? <stage>(31
-                              delegatov)</stage>. Vzdržani? <stage>(5 delegatov)</stage>.</p>
+                           amandmaja? <stage type="vote">(17 delegatov)</stage>. Proti umiku? <stage type="vote">(31
+                              delegatov)</stage>. Vzdržani? <stage type="vote">(5 delegatov)</stage>.</p>
                         <p>To je dokaz, da vseeno imamo kulturo radi.</p>
                         <p>In še bi predlagal, da bi glede teh umikov, ker je pač tako predlagano,
                            glasovali še o amandmaju Barbare Zupanc, ki je na 5. strani in čisto ob
@@ -10772,7 +10772,7 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Še želi kdo? <stage>(Ne želi.)</stage> Prosim gospod Zlobec.</p>
+                        <p>Še želi kdo? <stage type="debate">(Ne želi.)</stage> Prosim gospod Zlobec.</p>
                      </sp>
                      <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1991-ZbZdruDel-18.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
@@ -10806,19 +10806,19 @@
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
                         <p>Nič hudega. Jaz sem samo svoje mnenje povedal. Ni to nič problematičnega.
                            Še kdo želi v zvezi s tem? Kdo je za javno in poimensko izrekanje o tem
-                           amandmaju? Kdo je za? <stage>(14 delegatov)</stage>. Proti? <stage>(32
-                              delegatov)</stage>. Vzdržani? <stage>(8 delegatov)</stage>.</p>
+                           amandmaju? Kdo je za? <stage type="vote">(14 delegatov)</stage>. Proti? <stage type="vote">(32
+                              delegatov)</stage>. Vzdržani? <stage type="vote">(8 delegatov)</stage>.</p>
                         <p>Ugotavljam, da bomo glasovali tako, kot smo do sedaj.</p>
                         <p>Kdo je za umik amandmaja pod številko 9, ki ga je predlagala Barbara
-                           Zupanc v našem zboru? Kdo je za umik? <stage>(30 delegatov)</stage>. Kdo
-                           je proti? <stage>(23 delegatov)</stage>. Vzdržani? <stage>(1
+                           Zupanc v našem zboru? Kdo je za umik? <stage type="vote">(30 delegatov)</stage>. Kdo
+                           je proti? <stage type="vote">(23 delegatov)</stage>. Vzdržani? <stage type="vote">(1
                               delegat)</stage>.</p>
                         <p>Ugotavljam, da smo ta amandma umaknili. </p>
                         <p>Sedaj je predlagano, da bi sprejeli amandma k 24. členu. To je na strani
                            pet, doda se četrti odstavek, ki se glasi: obseg sredstev za javno porabo
                            v posebni družbenopolitični skupnosti zagotavljajo občine
                            ustanoviteljice. Obrazložitev je zapisana.</p>
-                        <p>Lahko zaključim. Kdo je za? <stage>(24 je za)</stage>. Prosim, Roman
+                        <p>Lahko zaključim. Kdo je za? <stage type="vote">(24 je za)</stage>. Prosim, Roman
                            Jakič.</p>
                      </sp>
                      <sp who="sp:JakicRoman1967" corresp="#DZ-1991-ZbZdruDel-18.sp.JakičRoman">
@@ -10837,10 +10837,10 @@
                            ne pa iz proračuna. Samo to je jasno. Saj si lahko izmislijo po občinah
                            kaj hočejo, samo če imajo denar in seveda davkoplačevalce.</p>
                         <p>Zato bi predlagal, jaz bom glasoval za sprejem tega amandmaja. Želi še
-                           kdo povedati svoje mnenje? <stage>(Ne želi.)</stage> Zaključujem.</p>
+                           kdo povedati svoje mnenje? <stage type="debate">(Ne želi.)</stage> Zaključujem.</p>
                         <p>Kdo je v Zboru združenega dela za to, da sprejmemo amandma k 24. členu,
-                           da se doda četrti odstavek. Kdo je za? <stage>(44 je za)</stage>. Proti?
-                              <stage>(1 proti)</stage>. Vzdržani? <stage>(8 vzdržanih)</stage>.</p>
+                           da se doda četrti odstavek. Kdo je za? <stage type="vote">(44 je za)</stage>. Proti?
+                              <stage type="vote">(1 proti)</stage>. Vzdržani? <stage type="vote">(8 vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da je zbor ta amandma sprejel.</p>
                         <p>O 2. in 3. točki nam ni treba glasovati, ker smo to mi že sprejeli.</p>
                         <p>Da bo malo vseeno zadeva bolj težka, je seveda tu predlagano, zaradi
@@ -10854,48 +10854,48 @@
                         <p>Prvi amandma k 2. členu. Ima v zvezi s tem amandmajem kdo svoje stališče?
                            Če ne, bi predlagal, da glasujemo kdo je za amandma Izvršnega sveta k 2.
                            členu zakona tako, kot je predloženo?</p>
-                        <p>Kdo je za? <stage>(36 je za)</stage>.Proti? <stage>(5 proti)</stage>.
-                           Vzdržani? <stage>(12 vzdržanih)</stage>.</p>
+                        <p>Kdo je za? <stage type="vote">(36 je za)</stage>.Proti? <stage type="vote">(5 proti)</stage>.
+                           Vzdržani? <stage type="vote">(12 vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da smo prvi amandma sprejeli.</p>
                         <p>Zdaj je na vrsti drugi amandma k 8. členu.</p>
-                        <p>Ima tu kdo kakšno vprašanje, stališče? <stage>(Ne)</stage>. Kdo je za
-                           amandma Izvršnega sveta k 8. členu? <stage>(36 je za)</stage>. Proti?
-                              <stage>(4 proti)</stage>. Vzdržani? <stage>(14 vzdržanih)</stage>.</p>
+                        <p>Ima tu kdo kakšno vprašanje, stališče? <stage type="debate">(Ne)</stage>. Kdo je za
+                           amandma Izvršnega sveta k 8. členu? <stage type="vote">(36 je za)</stage>. Proti?
+                              <stage type="vote">(4 proti)</stage>. Vzdržani? <stage type="vote">(14 vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da smo drugi amandma Izvršnega sveta k 8. členu sprejeli.</p>
                         <p>Tretji amandma k 24. členu: 24. člen, doda se novi četrti odstavek.</p>
-                        <p>Kdo je za predlagani amandma Izvršnega sveta k 24. členu? <stage>(38 je
-                              za)</stage>. Proti? <stage>(2 proti)</stage>. Vzdržani? <stage>(14
+                        <p>Kdo je za predlagani amandma Izvršnega sveta k 24. členu? <stage type="vote">(38 je
+                              za)</stage>. Proti? <stage type="vote">(2 proti)</stage>. Vzdržani? <stage type="vote">(14
                               vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da je tudi ta amandma sprejet.</p>
                         <p>Zdaj so amandmaji k bilanci prihodkov in odhodkov proračuna Republike
-                           Slovenije. 4 amandma. Je tukaj kaj spornega? <stage>(Ne.)</stage> Da ne
+                           Slovenije. 4 amandma. Je tukaj kaj spornega? <stage type="debate">(Ne.)</stage> Da ne
                            bi spet prišli v nasprotje sami med seboj.</p>
                         <p>Kdo je za 4. amandma k bilanci odhodkov in prihodkov proračuna Republike
                            Slovenije, kot ga je predlagal Izvršni svet. </p>
-                        <p>Kdo je za? <stage>(34 je za)</stage>. Proti? <stage>(11 proti)</stage>.
-                           Vzdržani? <stage>(9 vzdržanih)</stage>.</p>
+                        <p>Kdo je za? <stage type="vote">(34 je za)</stage>. Proti? <stage type="vote">(11 proti)</stage>.
+                           Vzdržani? <stage type="vote">(9 vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da smo ta četrti amandam sprejeli.</p>
                         <p>5. amandma, kjer gre za Republiški sekretariat za finance. Je tukaj kaj
-                           spornega? <stage>(Ni.)</stage>
+                           spornega? <stage type="debate">(Ni.)</stage>
                         </p>
                         <p>Kdo je za amandma peti po vrsti, ki ga je predlagal Izvršni svet?
-                              <stage>(44 je za)</stage>. Proti? <stage>(2 proti)</stage>. Vzdržani?
-                              <stage>(7 vzdržanih)</stage>.</p>
+                              <stage type="vote">(44 je za)</stage>. Proti? <stage type="vote">(2 proti)</stage>. Vzdržani?
+                              <stage type="vote">(7 vzdržanih)</stage>.</p>
                         <p>6. amandma k posebnemu delu, gre za Sekretariat za energetiko.</p>
-                        <p>Kdo je za ta amandma? <stage>(38 je za)</stage>. Proti? <stage>(8
-                              proti)</stage>. Vzdržani? <stage>(8 vzdržanih)</stage>.</p>
+                        <p>Kdo je za ta amandma? <stage type="vote">(38 je za)</stage>. Proti? <stage type="vote">(8
+                              proti)</stage>. Vzdržani? <stage type="vote">(8 vzdržanih)</stage>.</p>
                         <p>Ugotavljam, da je tudi ta amandma sprejet.</p>
                         <p>7. amandma, kjer gre za promet in zveze. Kakšno vprašanje?
-                              <stage>(Ne.)</stage>
+                              <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Kdo je za ta 7. amandma Izvršnega sveta? <stage>(32 je za)</stage>.
-                           Proti? <stage>(18 proti)</stage>. Vzdržani? <stage>(4
+                        <p>Kdo je za ta 7. amandma Izvršnega sveta? <stage type="vote">(32 je za)</stage>.
+                           Proti? <stage type="vote">(18 proti)</stage>. Vzdržani? <stage type="vote">(4
                            vzdržani)</stage>.</p>
                         <p>Ugotavljam, da smo ta amandma sprejeli.</p>
                         <p>Tu je še osmi, zadnji amandma Izvršnega sveta za področje vzgoje in
                            izobraževanja ter telesne kulture?</p>
-                        <p>Kdo je za ta amandma izvršnega sveta? <stage>(52 je za)</stage>. Proti?
-                              <stage>(1 proti)</stage>. Vzdržani? <stage>(2 vzdržana)</stage>. S tem
+                        <p>Kdo je za ta amandma izvršnega sveta? <stage type="vote">(52 je za)</stage>. Proti?
+                              <stage type="vote">(1 proti)</stage>. Vzdržani? <stage type="vote">(2 vzdržana)</stage>. S tem
                            smo sprejeli amandmaje Izvršnega sveta. sprejeli določene umike, nekaj pa
                            jih seveda nismo sprejeli in sedaj moramo ponovno glasovati o zakonu o
                            proračunu v celoti, z vsemi temi spremembami, ki smo jih izglasovali.</p>
@@ -11027,12 +11027,12 @@
                         <p>Hvala. Mislim, da smo slišali dve mnenji. Verjetno ni treba več
                            razpravljati o tem. Predlagal bi, da bi se mi vseeno opredelili o zakonu
                            v celoti, s sprejetimi amandmaji in seveda tudi s tistimi amandmaji, ki
-                           smo jih odklonili. Sedaj vas prosim, da pogledamo prisotnost. <stage>(53
+                           smo jih odklonili. Sedaj vas prosim, da pogledamo prisotnost. <stage type="quorum">(53
                               prisotnih)</stage>.</p>
                         <p>Kdo je za zakon z amandmaji, ki smo jih sprejeli in z umiki, ki smo jih
-                           storili, naj prosim glasuje! <stage>(30 delegatov glasuje za.)</stage> Je
-                           kdo proti? <stage>(19 delegatov glasuje prosti.)</stage> Se je kdo
-                           vzdržal? <stage>(3 delegati.)</stage>
+                           storili, naj prosim glasuje! <stage type="vote">(30 delegatov glasuje za.)</stage> Je
+                           kdo proti? <stage type="vote">(19 delegatov glasuje prosti.)</stage> Se je kdo
+                           vzdržal? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je zakon v zboru sprejet. Sedaj že drugič. Prosil bom
                            komisijo Grašič, Pirš, Rudolf, Moge, da bodo v teku današnjega dne,
@@ -11080,11 +11080,11 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JANEZ ZUPANČIČ:</speaker>
-                        <p>Hvala še kdo? <stage>(Ne.)</stage> Bomo glasovali.</p>
+                        <p>Hvala še kdo? <stage type="debate">(Ne.)</stage> Bomo glasovali.</p>
                         <p>Kdo je za sklep, ki ga je predlagala skupina delegatov,</p>
                         <p>tudi našemu zboru v zvezi s sprejemanjem zakona o proračunu Slovenije in
-                           tako naprej? <stage>(Za - 9)</stage>. <stage>(Proti - 37)</stage>.
-                              <stage>(Vzdržanih - 8.)</stage> Ugotavljam, da ta sklep v našem zboru
+                           tako naprej? <stage type="vote">(Za - 9)</stage>. <stage type="vote">(Proti - 37)</stage>.
+                              <stage type="vote">(Vzdržanih - 8.)</stage> Ugotavljam, da ta sklep v našem zboru
                            ni bil sprejet.</p>
                      </sp>
                      <sp who="sp:MurenAndrej1953" corresp="#DZ-1991-ZbZdruDel-18.sp.MurenAndrej">
@@ -11103,7 +11103,7 @@
                      <sp who="sp:MurenAndrej1953" corresp="#DZ-1991-ZbZdruDel-18.sp.MurenAndrej">
                         <p>Sedaj nas je pa ravno toliko še ostalo, da lahko obravnavamo <title>ZAKON
                               O OBRAMBI IN ZAŠČITI</title>. Ste za to, ali potrebujete pet minut
-                           odmora? <stage>(Ne.)</stage> Potem bi poročevalec, gospod Brlec, pričel z
+                           odmora? <stage type="debate">(Ne.)</stage> Potem bi poročevalec, gospod Brlec, pričel z
                            delom. </p>
                      </sp>
                      <sp who="sp:BerlecJoze1949" corresp="#DZ-1991-ZbZdruDel-18.sp.BerlecJože">
@@ -11454,12 +11454,12 @@
                            členu, ki se glasi: Doda se novi odstavek, ki se glasi, to ste prebrali
                            na 3 strani. To je, da umaknemo amandma, ki smo ga sprejeli v našem
                            zboru. To je bil eden od štirih amandmajev našega zbora, ki smo ga
-                           sprejeli najprej. Ugotovimo najprej prisotnost. <stage>(52 prisotnih
+                           sprejeli najprej. Ugotovimo najprej prisotnost. <stage type="quorum">(52 prisotnih
                               delegatov)</stage>.</p>
                         <p>Kdo je za umik amandmaja k 6. členu, tako kot predlaga skupina delegatov,
-                           naj prosim glasuje! <stage>(27 delegatov glasuje za.)</stage> Je kdo
-                           proti? <stage>(20 delegatov glasuje proti.)</stage> Se je kdo vzdržal?
-                              <stage>(5 delegatov.)</stage>
+                           naj prosim glasuje! <stage type="vote">(27 delegatov glasuje za.)</stage> Je kdo
+                           proti? <stage type="vote">(20 delegatov glasuje proti.)</stage> Se je kdo vzdržal?
+                              <stage type="vote">(5 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je zbor umaknil amandma.</p>
                         <p>Sedaj smo pri drugem amandmaju. Predlagan je amandma k 125. členu, ki se
@@ -11527,28 +11527,28 @@
                            glasovati, da se črta prvi odstavek, to je prvi del, zato vas sprašujem,
                            kdo je za umik, da se črta prvi odstavek. To je amandma, ki smo ga
                            sprejeli v našem zboru.</p>
-                        <p>Kdo je za, naj prosim glasuje! <stage>(26 delegatov glasuje za.)</stage>
-                           Je kdo proti? <stage>(21 delegatov glasuje proti.)</stage> Se je kdo
-                           vzdržal? <stage>(4 delegati.)</stage>
+                        <p>Kdo je za, naj prosim glasuje! <stage type="vote">(26 delegatov glasuje za.)</stage>
+                           Je kdo proti? <stage type="vote">(21 delegatov glasuje proti.)</stage> Se je kdo
+                           vzdržal? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da smo umik v našem zboru sprejeli.</p>
                         <p>Naša sekretarka me opozarja na pravilnost tolmačenja. Nas je bilo 52 in
                            potrebujemo 27 za sprejem, zato ta umik ni sprejet. Lahko pa še enkrat
-                           ugotovimo prisotnost. <stage>(52 prisotnih.)</stage> To se pravi, da ni
+                           ugotovimo prisotnost. <stage type="quorum">(52 prisotnih.)</stage> To se pravi, da ni
                            sprejeto, da se umakne prvi odstavek. V zvezi s tem ni potrebno glasovati
                            o dodatku.</p>
                         <p>140. člen. Umakne naj se sprejeti amandma k 140. členu, ki se glasi: Ta
                            člen se črta. Tudi v Družbenopolitičnem zboru so sprejeli enako kot mi.
                            Nisem prej nič povedal.</p>
-                        <p>Kdor je za umik, naj prosim glasuje! <stage>(27 delegatov glasuje
-                              za.)</stage> Je kdo proti? <stage>(22 delegatov glasuje
-                              proti.)</stage> Se je kdo vzdržal? <stage>(3 delegati.)</stage>
+                        <p>Kdor je za umik, naj prosim glasuje! <stage type="vote">(27 delegatov glasuje
+                              za.)</stage> Je kdo proti? <stage type="vote">(22 delegatov glasuje
+                              proti.)</stage> Se je kdo vzdržal? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da smo umaknili ta amandma.</p>
                         <p>In še zakon v celoti, kot smo predlagali.</p>
-                        <p>Kdo je za, naj prosim glasuje! <stage>(32 delegatov glasuje za.)</stage>
-                           Je kdo proti? <stage>(12 delegatov glasuje proti.)</stage> Se je kdo
-                           vzdržal? <stage>(7 delegatov.)</stage>
+                        <p>Kdo je za, naj prosim glasuje! <stage type="vote">(32 delegatov glasuje za.)</stage>
+                           Je kdo proti? <stage type="vote">(12 delegatov glasuje proti.)</stage> Se je kdo
+                           vzdržal? <stage type="vote">(7 delegatov.)</stage>
                         </p>
                         <p>Še pobuda gospoda Brleca. Bi jo mogoče še enkrat formulirali?</p>
                      </sp>
@@ -11591,7 +11591,7 @@
                            usklajevanje, ker nismo še usklajeni. Usklajevalna komisija za zakon o
                            obrambi in zaščiti bo delala v sobi 209, in to takoj. Predlagal bi pa, da
                            so v tej komisiji še naprej Brlec, Daneu, Remškar, na novo pa Prešeren in
-                           Jakič, namesto Sagadinove in Kočevarja. Ste za to? <stage>(Da.)</stage>
+                           Jakič, namesto Sagadinove in Kočevarja. Ste za to? <stage type="debate">(Da.)</stage>
                            To je komisija za usklajevanje zakona o obrambi in zaščiti, v sobi 209.
                            Ostali imamo odmor do 14.00 ure.</p>
                      </sp>
@@ -11629,9 +11629,9 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-18.sp.ZupančičJože">
                         <speaker>Predsednik JOŽE ZUPANČIČ:</speaker>
-                        <p>Slišali ste. Želi kdo o tem dodatnem sklepu razpravljati? <stage>(Ne
+                        <p>Slišali ste. Želi kdo o tem dodatnem sklepu razpravljati? <stage type="debate">(Ne
                               želi.)</stage> Ugotovimo prisotnost - 46. Kdo je za predlagani sklep?
-                              <stage>(Za - 40)</stage>. <stage>(Proti - 3)</stage>. <stage>(Vzdržana
+                              <stage type="vote">(Za - 40)</stage>. <stage type="vote">(Proti - 3)</stage>. <stage type="vote">(Vzdržana
                               2.)</stage> Eden se je nekje izgubil.</p>
                         <p>Ugotavljam, da smo sklep z večino glasov sprejeli. Če pa seveda ne bo
                            usklajen v Družbenopolitičnem zboru, pa bomo videli na skupni seji.
@@ -11660,8 +11660,8 @@
                            obravnavali. Kaj menite, bo danes vseeno še čas, da se bomo o tej zadevi
                            pogovarjali, ali jo preložimo na naslednjič? Torej predlagate, da jo
                            preložimo? Glasovali bomo o tem.</p>
-                        <p>Kdo je za preložitev te točke? <stage>(39 je za)</stage>. Proti
-                           preložitvi? <stage>(3 proti)</stage>. Vzdržani? <stage>(1
+                        <p>Kdo je za preložitev te točke? <stage type="vote">(39 je za)</stage>. Proti
+                           preložitvi? <stage type="vote">(3 proti)</stage>. Vzdržani? <stage type="vote">(1
                               vzdržan)</stage>:</p>
                         <p>Ugotavljam, da je to tudi sprejeto, tako da bomo imeli to na naslednji
                            seji, ki bo redno sklicana.</p>

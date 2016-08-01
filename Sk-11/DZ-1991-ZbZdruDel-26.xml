@@ -368,10 +368,10 @@
                               GOSPODARSKEGA STANJA V REPUBLIKI SLOVENIJI</title>.</p>
                         <p>V zvezi s predlaganim dnevnim redom odpiram razpravo. Kdo želi
                            razpravljati ? Ne želi nihče. Glasujemo o dnevnem redu, in sicer bi
-                           najprej skušali ugotoviti, koliko nas je prisotnih. <stage>(42
+                           najprej skušali ugotoviti, koliko nas je prisotnih. <stage type="quorum">(42
                               prisotnih)</stage>.</p>
-                        <p>Koliko vas je za dnevni red ? <stage>(38 poslancev)</stage>. Proti ?
-                              <stage>(Nihče)</stage>. Vzdržanih ? <stage>(Nihče)</stage>.</p>
+                        <p>Koliko vas je za dnevni red ? <stage type="vote">(38 poslancev)</stage>. Proti ?
+                              <stage type="vote">(Nihče)</stage>. Vzdržanih ? <stage type="vote">(Nihče)</stage>.</p>
                         <p>Ugotavljam, da smo soglasno sprejeli predlagani dnevni red.</p>
                      </sp>
                   </div>
@@ -2058,7 +2058,8 @@
                         <stage type="location">(Iz klopi:</stage>
                         <ab>Daj na ustrezen organ).</ab>
                      </sp>
-                     <sp who="sp:BrglezStanislav1936" corresp="#DZ-1991-ZbZdruDel-26.sp.BrglezStanislav">
+                     <sp who="sp:BrglezStanislav1936"
+                         corresp="#DZ-1991-ZbZdruDel-26.sp.BrglezStanislav">
                         <p>Zato sem diskutiral, ker ta organ tega ne naredi, ni odgovora. Bi pa rad povedal
                            še to, da ne bom oseben, lahko bi z imeni operiral, pa ne bom, da
                            tistemu, ki ima na morju vikend, pa na Gorenjskem vikend in telefon v
@@ -2303,7 +2304,7 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-26.sp.ZupančičJože">
                         <speaker>PODREDSEDNIK JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Želi kdo v zvezi s tem ? <stage>(Ne.)</stage> Besedo ima Anton
+                        <p>Hvala. Želi kdo v zvezi s tem ? <stage type="debate">(Ne.)</stage> Besedo ima Anton
                            Židanik.</p>
                      </sp>
                      <sp who="sp:ZidanikAnton1942"
@@ -3390,10 +3391,10 @@
                      <stage type="time">(SEJA JE BILA <time to="1991-07-30T18:30:00" xml:id="DZ-1991-ZbZdruDel-26.stage.t.2">PREKINJENA OB 18,30 URI</time> IN SE JE <time from="1991-07-31T10:21:00" xml:id="DZ-1991-ZbZdruDel-26.stage.t.3">NADALJEVALA 31. JULIJA 1991
                            OB 10.21 URI</time>).</stage>
                      </div>
-                  <div xml:id="DZ-1991-ZbZdruDel-26.div.1.1.2.2" 
-                     ana="#PAR.TDR" 
-                     n="1" 
-                     corresp="#DZ-1991-ZbZdruDel-26.toc.2.2">
+                  <div xml:id="DZ-1991-ZbZdruDel-26.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-ZbZdruDel-26.toc.2.2">
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-26.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
@@ -3652,8 +3653,8 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-26.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Franci, boš dal ti tudi napisati ? Prosim še kdo ?
-                              <stage>(Ne)</stage>.</p>
+                        <p>Hvala. Franci, boš dal ti tudi napisati? Prosim še kdo?
+                              <stage type="debate">(Ne)</stage>.</p>
                         <p>Dobro. Mislim da bi lahko potem to razpravo zaključili, da bi toliko
                            počakali, da bi še dopolnili s temi dopolnitvami, ali se kdo ne strinja s
                            temi dopolnitvami ? Jaz mislim, da celo ni to tako strašno obremenjujoče,
@@ -3662,13 +3663,13 @@
                            cenjenenim novinarjem, ki naše delo spremljajo. S temi dopolnitvami jim
                            bomo dali čistopis. Jaz mislim, da toliko bi pa res lahko zaupali tudi
                            naši komisiji, da bo to korektno opravila. Je prav tako, ali je kdo
-                           nezaupljiv ? Dobro. Koliko nas je tu ? <stage>(41 poslancev
+                           nezaupljiv ? Dobro. Koliko nas je tu ? <stage type="quorum">(41 poslancev
                               prisotnih)</stage>. Jaz bi vseeno predlagal, da glasujemo o sklepih s
                            temi dopolnitvami, ki so bile sedaj izražena. Nihče ni imel nič proti tem
                            dopolnitvam in vsi ki ste razpravljali, ste sklepe tudi podprli.</p>
-                        <p>Kdo je za predlagane sklepe Zbora združenega dela ? <stage>(37 poslancev
-                              glasuje za.)</stage> Proti ? <stage>(1 poslanec.)</stage> Vzdržanih ?
-                              <stage>(3 poslanci.)</stage>
+                        <p>Kdo je za predlagane sklepe Zbora združenega dela ? <stage type="vote">(37 poslancev
+                              glasuje za.)</stage> Proti ? <stage type="vote">(1 poslanec.)</stage> Vzdržanih ?
+                              <stage type="vote">(3 poslanci.)</stage>
                         </p>
                         <p>Ugotavljam, da smo z večino glasov sklepa z dopolnitvami, ki so bile
                            izražene v razpravi, sprejeli in smo na tak način zaključili delo

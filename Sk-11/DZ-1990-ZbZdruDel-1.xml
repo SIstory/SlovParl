@@ -372,7 +372,7 @@
                            predsednika najstarejši član zbora. Ker je danes ta čast padla na mene, v
                            tem trenutku slovesno odpiram 1. sejo Zbora združenega dela Skupščine
                            Republike Slovenije in vas vse navzoče prav lepo pozdravljam.
-                              <stage>(Aplavz.)</stage>
+                              <stage type="incident">(Aplavz.)</stage>
                         </p>
                         <p>Da boste vedeli, s kom imate opravka, se bom čisto na kratko predstavil.
                            Ivan Dretnik, doma sem tam, kjer je bil Prežihov Voranc, če veste kje,
@@ -459,7 +459,7 @@
                         <p>Zdaj pa, ker poslovnik določa, da moramo pri vsakem glasovanju šteti
                            navzočnost, pazimo, da ne bo kdo odšel, pa to ne bo potrebno. Drugače
                            bomo danes roke dvigovali še devetdesetkrat.</p>
-                        <p>Kdo je za? Je kdo proti? <stage>(Nihče.)</stage> Se je kdo vzdržal?</p>
+                        <p>Kdo je za? Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal?</p>
                         <p>Ugotavljam, da je komisija izvoljena z večino glasov in naj se takoj
                            sestane v sobi 58. Zato odrejam 20 minut odmora.</p>
                      </sp>
@@ -501,8 +501,8 @@
                            prosim, da z dvigom rok ponovno ugotovimo navzočnost. Prosim. Ugotovljeno
                            je, da je navzočih 79 delegatov. Da ne bo potrebno šteti, prosim, da ne
                            odhajate po nepotrebnem.</p>
-                        <p>Kdo je za? <stage>(79 delegatov.)</stage> Je kdo proti?
-                              <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(Nihče.)</stage>
+                        <p>Kdo je za? <stage type="vote">(79 delegatov.)</stage> Je kdo proti?
+                              <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je to sporočilo sprejeto soglasno.</p>
                         <p>Ugotavljam, da je v zboru verificiranih 80 mandatov. Zdaj pa lahko
@@ -557,7 +557,7 @@
                         <p>6. predlog zakona o ratifikaciji sporazuma o garanciji med SFR
                            Jugoslavijo in Mednarodno banko za obnovo in razvoj (za isti
                            projekt).</p>
-                        <p>Želi o predlaganem dnevnem redu kdo razpravljati? <stage>(Da.)</stage>
+                        <p>Želi o predlaganem dnevnem redu kdo razpravljati? <stage type="debate">(Da.)</stage>
                         </p>
                         <p>K razpravi se je prijavil Boštjan Kovačič, delegat Zbora združenega dela
                            dolenjske in posavske regije.</p>
@@ -598,7 +598,7 @@
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Hvala. Slišali smo dodatni, oziroma spremenjeni predlog poslancev
-                           Liberalne stranke. Ima še kdo kakšen drug predlog? <stage>(Da.)</stage>
+                           Liberalne stranke. Ima še kdo kakšen drug predlog? <stage type="debate">(Da.)</stage>
                            Gospod Franc Ban, delegat s področja celjske, zasavske in posavske regije
                            za področje trgovine.</p>
                      </sp>
@@ -633,7 +633,7 @@
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
-                        <p>Hvala lepa. Želi kdo razpravljati? <stage>(Da.)</stage> Gospod Jože
+                        <p>Hvala lepa. Želi kdo razpravljati? <stage type="debate">(Da.)</stage> Gospod Jože
                            Zupančič iz 35. volilne enote, neodvisni.</p>
                      </sp>
                      <sp who="sp:ZupancicJoze1936"
@@ -645,7 +645,7 @@
                            našem predsedniku in podpredsedniku in nima to nobene zveze s tistim, kar
                            je omenil. Še huje se mi pa zdi, da bi že na prvi seji načenjali nekatere
                            stvari iz preteklosti, ki so popolnoma neupravičene. in zato podpiram
-                           prvega in drugega poslanca. <stage>(Ploskanje.)</stage>
+                           prvega in drugega poslanca. <stage type="incident">(Ploskanje.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
@@ -764,8 +764,8 @@
                            za?</p>
                         <p>4. točko - izvolitev predsednika zbora in podpredsednika bomo obravnavali
                            šele po izvolitvi predsednika skupščine.</p>
-                        <p>Kdo je za? <stage>(39 delegatov.)</stage> Je kdo proti? Se je kdo
-                           vzdržal? <stage>(Nihče.)</stage>
+                        <p>Kdo je za? <stage type="vote">(39 delegatov.)</stage> Je kdo proti? Se je kdo
+                           vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da predlog ni bil sprejet z večino glasov. 40 bi jih moralo
                            biti. Eden manjka.</p>
@@ -787,14 +787,14 @@
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Prisotnih je 79 poslancev. Najprej glasujemo, če bomo šli na ponovno
                            glasovanje.</p>
-                        <p>Kdo je za? <stage>(54 delegatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(54 delegatov.)</stage>
                         </p>
-                        <p>Ugotavljam, da smo z večino glasov <stage>(54 glasov)</stage> izglasovali
+                        <p>Ugotavljam, da smo z večino glasov <stage type="vote">(54 glasov)</stage> izglasovali
                            ponovno glasovanje.</p>
                         <p>Dajem ponovno na glasovanje predlog, da se izvolitev predsednika in
                            podpredsednika Zbora združenega dela opravi po skupni seji.</p>
-                        <p>Kdo je za? <stage>(56 delegatov.)</stage> Je kdo proti?
-                              <stage>(Nihče.)</stage> Se je kdo vzdržal?</p>
+                        <p>Kdo je za? <stage type="vote">(56 delegatov.)</stage> Je kdo proti?
+                              <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal?</p>
                         <p>Tovariši, navzočih nas je 79. Izid glasovanja je tak: 56 za, 30 proti, 7
                            jih je dvakrat glasovalo.</p>
                      </sp>
@@ -809,7 +809,7 @@
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Dajem predlog, da glasujemo poimensko, na glasovanje.</p>
-                        <p>Kdo je za? <stage>(59 delegatov.)</stage> Je kdo proti? <stage>(16
+                        <p>Kdo je za? <stage type="vote">(59 delegatov.)</stage> Je kdo proti? <stage type="vote">(16
                               delegatov.)</stage> Se je kdo vzdržal? (Nekdo se je moral, zdaj nam pa
                            manjka glasov.)</p>
                         <p>Predlog je sprejet z večino glasov. Prosim za pozornost. Po 127. členu
@@ -847,7 +847,7 @@
                            predlog sprejet z večino glasov.</p>
                         <p>Torej dajem predlog dnevnega reda v celoti na glasovanje.</p>
                         <p>Kdo je za? Spremembo smo že vnesli. Ali jo še preberem?
-                              <stage>(Da.)</stage> Dobro.</p>
+                              <stage type="debate">(Da.)</stage> Dobro.</p>
                         <p>1. izvolitev Mandatno-imunitetne komisije Zbora združenega dela Skupščine
                            Republike Slovenije;</p>
                         <p>2. verifikacija mandatov delegatov v Zboru združenega dela;</p>
@@ -875,8 +875,8 @@
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Slišali ste predlog. Predlog dajem v razpravo. Želi kdo o tem
                            razpravljati? Dajem dnevni red s to pripombo na glasovanje.</p>
-                        <p>Kdo je za? <stage>(77 delegatov.)</stage> je kdo proti? Se je kdo
-                           vzdržal? <stage>(Nihče.)</stage>
+                        <p>Kdo je za? <stage type="vote">(77 delegatov.)</stage> je kdo proti? Se je kdo
+                           vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlagani dnevni red sprejet.</p>
                      </sp>
@@ -898,11 +898,11 @@
                            zborov in predlagala zboru usklajen predlog začasnega poslovnika. V
                            skupino delegatov predlagam naslednje delegate: Andreja Štera, Barbaro
                            Zupanc in Jožeta Zupančiča. Želi kdo o tem razpravljati?
-                              <stage>(Ne.)</stage>
+                              <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Ta predlog komisije dajem na glasovanje.</p>
-                        <p>Kdo je za? <stage>(77 delegatov.)</stage> Je kdo proti? <stage>(2
-                              delegata.)</stage> Se je kdo vzdržal? <stage>(Nihče.)</stage>
+                        <p>Kdo je za? <stage type="vote">(77 delegatov.)</stage> Je kdo proti? <stage type="vote">(2
+                              delegata.)</stage> Se je kdo vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog sprejet z večino glasov. odpiram razpravo o
                            poslovniku. K razpravi se je prijavil Boštjan Kovačič. Prosim.</p>
@@ -1164,7 +1164,7 @@
                         <p>Ali želi še kdo razpravljati? Ker moramo počakati na rezultate
                            usklajevanja, nadaljujemo z odmorom predvidoma do 20.45.</p>
                      </sp>
-                     <stage>V nadaljevanju seje je poročevalec Andrej Šter podal poročilo.</stage>
+                     <stage type="comment">V nadaljevanju seje je poročevalec Andrej Šter podal poročilo.</stage>
                      <sp who="sp:SterAndrej1958" corresp="#DZ-1990-ZbZdruDel-1.sp.ŠterAndrej">
                         <speaker>ANDREJ ŠTER:</speaker>
                         <p>Medzborovska skupina delegatov, ki je imela za nalogo uskladiti predloge
@@ -1277,7 +1277,7 @@
                            je bil v celi Jugoslaviji en sam politik, ki se je eksplicitno postavil
                            proti tajnemu glasovanju, in to je bil Rahman Morina, ki je izjavil, da
                            je javno glasovanje bolj demokratična oblika od tajnega. Čudi me, in ker
-                           mislim, da je <stage>(aplavz)</stage> tajno glasovanje eden
+                           mislim, da je <stage type="incident">(aplavz)</stage> tajno glasovanje eden
                            najpomembnejših dosežkov parlamentarne demokracije, lahko tukaj sedimo
                            tudi še tri dni, ampak to je stvar, o kateri jaz osebno preprosto ne
                            morem popustiti. In zato predlagam, o argumentih za in proti smo tukaj že
@@ -1368,7 +1368,7 @@
                         <p>Skupina se je uskladila glede predlaganih sprememb in dopolnitev k 12.,
                            13., 14. in 29. členu začasnega poslovnika.</p>
                         <p>Usklajene spremembe in dopolnitve so v amandmajski obliki vnešene v tekst
-                           predloga začasnega poslovnika <stage>(spremembe in dopolnitve so pisane z
+                           predloga začasnega poslovnika <stage type="comment">(spremembe in dopolnitve so pisane z
                               velikimi črkami)</stage>.</p>
                         <p>V skupini ni bilo doseženo soglasje glede spremembe k drugemu odstavku
                            10. člena, sprememb in dopolnitev k 11. členu in sprememb in dopolnitev k
@@ -1377,7 +1377,7 @@
                            dopolnitve oziroma predlog, da se ostane pri prvotnem besedilu.</p>
                         <p>Glede na navedeno, skupina predlaga, da zbori obravnavajo predlog
                            začasnega poslovnika Skupščine Republike Slovenije skupaj z amandmaji, ki
-                           so vključeni v besedilo akta <stage>(pisani z velikimi črkami)</stage> in
+                           so vključeni v besedilo akta <stage type="comment">(pisani z velikimi črkami)</stage> in
                            da se opredeli do nevtralnih naknadnih predlogov, ki jih bodo predlagali
                            Klubi delegatov."</p>
                      </sp>
@@ -1400,8 +1400,8 @@
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Hvala. Prehajamo na glasovanje. Najprej o poročilu medzborovske skupine
                            delegatov.</p>
-                        <p>Kdo je za? <stage>(78 delegatov.)</stage> Je kdo proti?
-                              <stage>(Nihče.)</stage> Se je kdo vzdržal? Nekaj glasov manjka.</p>
+                        <p>Kdo je za? <stage type="vote">(78 delegatov.)</stage> Je kdo proti?
+                              <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? Nekaj glasov manjka.</p>
                         <p>Ugotavljam, da je bilo poročilo sprejeto z večino glasov.</p>
                      </sp>
                      <sp who="sp:SterAndrej1958" corresp="#DZ-1990-ZbZdruDel-1.sp.ŠterAndrej">
@@ -1422,7 +1422,7 @@
                      <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1990-ZbZdruDel-1.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>
-                           <stage>(iz klopi)</stage> 10. člen je že tako in tako sporen glede tega
+                           <stage type="incident">(iz klopi)</stage> 10. člen je že tako in tako sporen glede tega
                            ali je 5 ali 10 delegatov. Da ne bomo glasovali dvakrat, predlagam, da
                            dve glasovanji združimo. V obeh variantah obstaja ta sprememba, črtanje
                            sekretarja. V eni varianti je najmanj 10 delegatov, v drugi varianti pa
@@ -1433,21 +1433,21 @@
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Najprej dajem na glasovanje varianto v 10. členu, drugi odstavek, najmanj
                            5 delegatov.</p>
-                        <p>Kdo je za? <stage>(51 delegatov.)</stage> Je kdo proti? <stage>(27
+                        <p>Kdo je za? <stage type="vote">(51 delegatov.)</stage> Je kdo proti? <stage type="vote">(27
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog sprejet z večino glasov.</p>
                         <p>Nadalje dajem na glasovanje amandma k 11. členu, ki ga je predlagala ZSMS
                            - Liberalna stranka.</p>
-                        <p>Kdo je za? <stage>(51 delegatov.)</stage> Je kdo proti? <stage>(26
+                        <p>Kdo je za? <stage type="vote">(51 delegatov.)</stage> Je kdo proti? <stage type="vote">(26
                               delegatov.)</stage> Se je kdo vzdržal?</p>
                         <p>Ugotavljam, da je amandma k 11. členu začasnega poslovnika sprejet z
                            večino glasov.</p>
                         <p>Na glasovanje dajem amandma k 26. členu. Drugi odstavek se črta. Četrti
                            odstavek pa se spremeni tako, da se glasi: "Volitve so tajne, glasuje se
                            z glasovnico".</p>
-                        <p>Kdo je za? <stage>(51 delegatov.)</stage> Je kdo proti? <stage>(27
-                              delegatov.)</stage> Se je kdo vzdržal? <stage>(Nekdo bi se
+                        <p>Kdo je za? <stage type="vote">(51 delegatov.)</stage> Je kdo proti? <stage type="vote">(27
+                              delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(Nekdo bi se
                               moral.)</stage>
                         </p>
                         <p>Ugotavljam, da je tudi ta amandma sprejet z večino glasov.</p>
@@ -1458,23 +1458,23 @@
                            Dosedanji tretji, četrti in peti odstavek postanejo četrti, peti in šesti
                            odstavek.</p>
                         <p>Ta amandma dajem na glasovanje.</p>
-                        <p>Kdo je za? <stage>(29 delegatov.)</stage> Je kdo proti? <stage>(59
-                              delegatov.)</stage> Se je kdo vzdržal? <stage>(Nihče.)</stage>
+                        <p>Kdo je za? <stage type="vote">(29 delegatov.)</stage> Je kdo proti? <stage type="vote">(59
+                              delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da predlagani amandma Demosa ni sprejet.</p>
                         <p>Preidimo k 29. členu. "Besedilo drugega odstavka se v celoti črta in se
                            nadomesti z naslednjim stavkom: Stalno delo v skupščini je omogočeno tudi
                            vsem drugim delegatom, ki to želijo." Ta amandma dajem na glasovanje.</p>
-                        <p>Kdo je za? <stage>(50 delegatov.)</stage> Je kdo proti? <stage>(29
+                        <p>Kdo je za? <stage type="vote">(50 delegatov.)</stage> Je kdo proti? <stage type="vote">(29
                               delegatov.)</stage> Se je kdo vzdržal?</p>
                         <p>Ugotavljam, da je ta amandma sprejet z večino glasov.</p>
                         <p>Zdaj pa dajem začasni poslovnik v celoti na glasovanje, s predlaganimi
                            amandmaji, ki smo jih sprejeli.</p>
-                        <p>Kdo je za? <stage>(51 delegatov.)</stage> Je kdo proti? <stage>(28
+                        <p>Kdo je za? <stage type="vote">(51 delegatov.)</stage> Je kdo proti? <stage type="vote">(28
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je začasni poslovnik sprejet s potrebno večino glasov.
-                              <stage>(Aplavz.)</stage>
+                              <stage type="incident">(Aplavz.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:SterAndrej1958" corresp="#DZ-1990-ZbZdruDel-1.sp.ŠterAndrej">
@@ -1547,7 +1547,7 @@
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
-                        <p>Želi o tem še kdo razpravljati? <stage>(Da.)</stage>
+                        <p>Želi o tem še kdo razpravljati? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:SkofMatija1947" corresp="#DZ-1990-ZbZdruDel-1.sp.ŠkofMatija">
@@ -1558,10 +1558,10 @@
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>začasni poslovnik je bil z večino glasov sprejet. Ali bomo to zdaj
-                           razveljavili? <stage>(Ne.)</stage>
+                           razveljavili? <stage type="debate">(Ne.)</stage>
                         </p>
                      </sp>
-                     <stage>(Potem je bila ta točka prekinjena, da se sestane medzborovska
+                     <stage type="comment">(Potem je bila ta točka prekinjena, da se sestane medzborovska
                         usklajevalna komisija.)</stage>
                   </div>
                   <div xml:id="DZ-1990-ZbZdruDel-1.div.1.1.2.2"
@@ -1586,7 +1586,7 @@
                            ker zamujamo z rokom. Moram pa odločno kritizirati dosedanjo skupščino in
                            dosedanji Izvršni svet, ker tega zakona oziroma teh dveh zakonov še niso
                            izglasovali. Imeli so čas za vse neumnosti, ki so bile v slovensko škodo,
-                           tega pa niso mogli. Hvala. <stage>(Aplavz.)</stage>
+                           tega pa niso mogli. Hvala. <stage type="incident">(Aplavz.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:ZemljicMiroslav"
@@ -1601,7 +1601,7 @@
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Hvala. Želi še kdo razpravljati? Če ne želi nihče več razpravljati,
                            končujem razpravo in dajem ta predlog na glasovanje.</p>
-                        <p>Kdo je za? <stage>(79 delegatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(79 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je bil predlog sprejet soglasno.</p>
                      </sp>
@@ -1787,8 +1787,8 @@
                            delegatov.</p>
                         <p>Zaradi nepravilnega prejšnjega glasovanja dajem ponovno na glasovanje
                            predlog amandmajev k 26. in 29. členu začasnega poslovnika.</p>
-                        <p>Kdo je za? <stage>(30 delegatov.)</stage> Je kdo proti? <stage>(39
-                              delegatov.)</stage> Se je kdo vzdržal? <stage>(7 delegatov.)</stage>
+                        <p>Kdo je za? <stage type="vote">(30 delegatov.)</stage> Je kdo proti? <stage type="vote">(39
+                              delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(7 delegatov.)</stage>
                         </p>
                         <p>Hvala. Ugotavljam, da predlog ni bil sprejet.</p>
                         <p>Zaključujem to točko dnevnega reda. Vmes smo dobili pisno prijavo za
@@ -1804,13 +1804,13 @@
                            protest in predlagamo skupščini, da naj zbori krožijo in naj bodo "v
                            savni" vsak zbor enkrat. Hvala.</p>
                         <p>
-                           <stage>(Ploskanje.)</stage>
+                           <stage type="incident">(Ploskanje.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Slišali smo predlog in z aplavzom ste dokazali, da je sprejemljiv. Želi
-                           še kdo besedo? <stage>(Nihče.)</stage> Če ne želi nihče več razpravljati,
+                           še kdo besedo? <stage type="vote">(Nihče.)</stage> Če ne želi nihče več razpravljati,
                            dajem ta predlog na glasovanje. Kdor je za to, da nas "ne bodo vrgli iz
                            prostorov skupščine", če je že tako rečeno, naj glasuje!</p>
                         <p>Ugotavljam, da je ta predlog soglasno sprejet z večino glasov.</p>
@@ -1837,9 +1837,9 @@
                            (Slovenska kmečka zveza); Barbaro Zupanc (ZSMS - Liberalna stranka);
                            Karla Vukoviča (Stranka demokratične prenove); Stanislava Brgleza
                            (Socialistična zveza Slovenije).</p>
-                        <p>Želi o tem predlogu kdo razpravljati? <stage>(Da.)</stage> Delegati
+                        <p>Želi o tem predlogu kdo razpravljati? <stage type="debate">(Da.)</stage> Delegati
                            predlagate še Zdravka Zabukovca (Neodvisni). Želi še kdo besedo?
-                              <stage>(Da.)</stage>
+                              <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:SterAndrej1958" corresp="#DZ-1990-ZbZdruDel-1.sp.ŠterAndrej">
@@ -1854,13 +1854,13 @@
                            izreka vse priznanje in mu zagotavlja svojo pripravljenost h
                            konstruktivnemu delu v zboru." Hvala lepa.</p>
                         <p>
-                           <stage>(Aplavz.)</stage>
+                           <stage type="incident">(Aplavz.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
                         <p>Hvala za priznanje. Želi še kdo o predlogu komisije razpravljati?
-                              <stage>(Da.)</stage>
+                              <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1990-ZbZdruDel-1.sp.ZlobecJašaL">
@@ -1884,7 +1884,7 @@
                         <p>Hvala. Ima še kdo kakšno pripombo? Sprejmem tudi to kritiko na znanje.
                            Navzočnost smo ugotovili. Dajem predlog te komisije na glasovanje.</p>
                         <p>Kdo je za? ugotavljam, da je to ogromna večina. Je kdo proti?
-                              <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(Nekaj
+                              <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(Nekaj
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je ta predlog sprejet z večino glasov.</p>
@@ -1912,7 +1912,7 @@
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
-                        <p>Hvala. Še kakšen predlog? <stage>(Da.)</stage>
+                        <p>Hvala. Še kakšen predlog? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:SterAndrej1958" corresp="#DZ-1990-ZbZdruDel-1.sp.ŠterAndrej">
@@ -1934,7 +1934,7 @@
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
-                        <p>Hvala. Ali je kakšen predlog? <stage>(Da.)</stage>
+                        <p>Hvala. Ali je kakšen predlog? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:ZabukovecZdravko1940"
@@ -1946,7 +1946,7 @@
                      </sp>
                      <sp who="sp:DretnikIvan1921" corresp="#DZ-1990-ZbZdruDel-1.sp.DretnikIvan">
                         <speaker>PREDSEDNIK IVAN DRETNIK:</speaker>
-                        <p>Hvala. Ali je še kakšen predlog? <stage>(Ne.)</stage> Ugotavljam, da so v
+                        <p>Hvala. Ali je še kakšen predlog? <stage type="debate">(Ne.)</stage> Ugotavljam, da so v
                            zboru predložene naslednje kandidature za predsednika in podpredsednika
                            zbora: za predsednika Zbora združenega dela je predlagan Jože Zupančič
                            (Neodvisni), to je prvi predlog, drugi predlog pa je Andrej Muren
@@ -1958,7 +1958,7 @@
                            glasujejo z glasovnicami tako, da obkrožijo številko pred imenom
                            kandidata, za katerega glasujejo. Glasovnica, iz katere se ne da
                            ugotoviti, kako je delegat glasoval, ni veljavna. Ali želi kdo v zvezi z
-                           načinom volitev razpravljati? <stage>(Ne.)</stage> Če ne želi nihče
+                           načinom volitev razpravljati? <stage type="debate">(Ne.)</stage> Če ne želi nihče
                            razpravljati, zaključujem razpravo in predlagam, da zbor na podlagi 11.
                            člena začasnega poslovnika Skupščine Republike Slovenije izvoli 3
                            delegate, ki bodo poleg dosedanje sekretarke zbora pomagali pri vodenju
@@ -1967,7 +1967,7 @@
                         <p>1. Vlasto Sagadin, Demos - združena opozicija,</p>
                         <p>2. Leopold Drame, Neodvisni,</p>
                         <p>3. Roman Jakič, ZSMS - Liberalna stranka.</p>
-                        <p>Ali ima še kdo kakšen drug ali pa dodaten predlog? <stage>(Ne.)</stage>
+                        <p>Ali ima še kdo kakšen drug ali pa dodaten predlog? <stage type="debate">(Ne.)</stage>
                            Če ni več predlogov, zaključujem razpravo in dajem ta predlog na
                            glasovanje.</p>
                         <p>Kdo je za? Je kdo proti? Se je kdo vzdržal?</p>
@@ -1996,7 +1996,7 @@
                            Skupščine Republike Slovenije je torej izvoljen kandidat Jože
                            Zupančič.</p>
                         <p>
-                           <stage>(Aplavz.)</stage>
+                           <stage type="incident">(Aplavz.)</stage>
                         </p>
                         <p>V smislu 28. člena začasnega poslovnika prosim novoizvoljenega
                            predsednika Zbora združenega dela, da poda slovesno izjavo, tako da
@@ -2005,14 +2005,14 @@
                         <p>Izjavljam, da bom ravnal po ustavi in zakonih ter da bom vestno in
                            odgovorno opravljal svojo dolžnost.</p>
                         <p>
-                           <stage>(Podpiše - aplavz.)</stage>
+                           <stage type="incident">(Podpiše - aplavz.)</stage>
                         </p>
                         <p>Prosim novoizvoljenega predsednika, da prevzame moje mesto.</p>
                         <p>V imenu vseh poslancev našega zbora vam iskreno čestitam in vam obljubim
                            naše sodelovanje, pa še želim, da bi glasovalna tehnika nikoli ne
                            zatajila.</p>
                         <p>
-                           <stage>(Aplavz.)</stage>
+                           <stage type="incident">(Aplavz.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:ZupancicJoze1936"
@@ -2026,7 +2026,7 @@
                            iskreno rad zahvalil gospodu Ivanu Dretniku za njegovo potrpežljivost in
                            za dobro vodenje našega zbora.</p>
                         <p>
-                           <stage>(Aplavz.)</stage>
+                           <stage type="incident">(Aplavz.)</stage>
                         </p>
                         <p>Rad bi se zahvalil tudi tovarišicam, ki so nam pomagale pri delu zbora.
                            In ne nazadnje velja seveda iskrena zahvala vam vsem, da ste mi to
@@ -2048,7 +2048,7 @@
                            v Sloveniji gradimo novo Slovenijo. Zato moramo najti stališča, da bo to,
                            kar smo mi vsi skupaj volivcem obljubili, tudi uresničimo.</p>
                         <p>
-                           <stage>(Aplavz.)</stage>
+                           <stage type="incident">(Aplavz.)</stage>
                         </p>
                         <p>Ker v skladu z 11. členom našega začasnega poslovnika, vodi volitve
                            podpredsednikov predsednik zbora, je seveda to delo treba opraviti še v
@@ -2097,7 +2097,7 @@
                            imenovanja sekretarja zbora opravlja to dolžnost dosedanja sekretarka
                            zbora."</p>
                         <p>Dajem predlog v razpravo. Kdo je za? Je kdo proti?
-                              <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(Nihče.)</stage>
+                              <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je sklep soglasno sprejet. Vsem se za dosedanje delo
                            najlepšem zahvaljujem.</p>

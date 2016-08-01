@@ -308,7 +308,7 @@
                         <p>Na današnji seji je prisotnih že 57 poslancev. Opravičil se danes ni
                            nihče, tako, da upamo, da bo potem poslancev še več.</p>
                         <p>Prosim, da ugotovimo, koliko nas je tukaj. Prisotnost. Ste? 51 nas je
-                           tukaj <stage>(51 prisotnih.)</stage> Ugotavljam, da je zbor sklepčen in
+                           tukaj <stage type="quorum">(51 prisotnih.)</stage> Ugotavljam, da je zbor sklepčen in
                            lahko pravno-veljavno razpravlja in sklepa.</p>
                      </sp>
                   </div>
@@ -323,9 +323,9 @@
                            Republike Slovenije. Ali želi o predlogu dnevnega reda kdo razpravljati?
                            Ne želi. Če ne želi, bi zaključil razpravo in dajem predlog dnevnega reda
                            na glasovanje.</p>
-                        <p>Kdo je za predlog dnevnega reda? <stage>(53 delegatov za.)</stage>
+                        <p>Kdo je za predlog dnevnega reda? <stage type="vote">(53 delegatov za.)</stage>
                         </p>
-                        <p>Je kdo proti? <stage>(Nihče.)</stage> Vzdržani? <stage>(Nihče.)</stage>
+                        <p>Je kdo proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je bil dnevni red sprejet soglasno.</p>
                         <p>In sedaj samo eno obvestilo. Takoj zdaj naj bi se zbori zbrali na skupnem
@@ -402,7 +402,7 @@
                            poslancev kot jih predvideva predlog nove slovenske ustave. Tako npr.
                            kanton Zürich, ki ima okrog en milijon prebivalcev, in to je le kanton in
                            ne država, ima 124 poslancev, za primer. Drugi razlog pa je, da je pri 90
-                              <stage>(devetdesetih)</stage> članih državnega zbora za sklepčnost
+                              <stage type="comment">(devetdesetih)</stage> članih državnega zbora za sklepčnost
                            dovolj že 46 poslancev, to je eden več od polovice in ti z večino 24
                            glasov lahko sprejemajo zakone in odločitve bistvenega pomena za državo
                            in narod. Tako število seveda ne more dovolj kompetentno odražati volje
@@ -438,7 +438,8 @@
                         <speaker>MARKO JAKLIČ:</speaker>
                         <p>Spoštovani, imam samo proceduralno vprašanje, če ga lahko postavim.</p>
                      </sp>
-                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-ZbZdruDel-37.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936"
+                         corresp="#DZ-1991-ZbZdruDel-37.sp.ZupančičJože">
                         <speaker>(Vmes PREDSEDNIK:</speaker>
                         <ab>Prosim.) </ab>
                      </sp>
@@ -546,7 +547,7 @@
                      <sp who="sp:ZupancicJoze1936"
                          corresp="#DZ-1991-ZbZdruDel-37.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
-                        <p>Hvala. Kdo želi še naprej razpravljati? <stage>(Aplavz.)</stage>
+                        <p>Hvala. Kdo želi še naprej razpravljati? <stage type="incident">(Aplavz.)</stage>
                         </p>
                         <p>Ne vem, ali greš ti zdaj ven, ali greš na oder na tak čuden način? Gospod
                            Jože Arzenšek.</p>
@@ -720,7 +721,7 @@
                            tem ženskem zaračunavajo mandatne kazni kadarkoli se pojavijo na cesti
                            brez feredže.</p>
                         <p>Stvar izgleda smešna, ampak tudi ta amandma je smešen, žaljiv in ogaben!
-                           Hvala. <stage>(Ploskanje.)</stage>
+                           Hvala. <stage type="incident">(Ploskanje.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:ZupancicJoze1936"
@@ -807,7 +808,7 @@
                            moški in ženske in mislim, da ne bo naš parlament tisti, jaz ne bi bila
                            rada vmes, ki bo znova spravil ženske na cesto, ker so imele edino na
                            cesti možnost povedati svoje mnenje, nas nekaj pa imamo možnost že tukaj.
-                           Hvala lepa.<stage>(Aplavz.)</stage>
+                           Hvala lepa.<stage type="incident">(Aplavz.)</stage>
                         </p>
 
                      </sp>
@@ -1066,7 +1067,7 @@
                      <sp who="sp:StarcMarjan1942" corresp="#DZ-1991-ZbZdruDel-37.sp.StarcMarjan">
                         <speaker>MARJAN STARC:</speaker>
                         <p>Imam še en predlog, verjetno ga boste še dobili na klop, bom pa prebral.
-                              <stage>(Iz dvorane, da so že dobili na klop v zvezi z narodno
+                           <stage type="incident">(Iz dvorane, da so že dobili na klop v zvezi z narodno
                               manjšino.)</stage>
                         </p>
                         <p>Ker živim na dvojezičnem območju in imam to srečo in prednost, da živimo
@@ -1183,11 +1184,13 @@
                         <speaker>DARKO BIZJAK:</speaker>
                         <p>Hvala lepa. Mislim, da imamo čas, da razpravljamo.</p>
                      </sp>
-                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-ZbZdruDel-37.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936"
+                         corresp="#DZ-1991-ZbZdruDel-37.sp.ZupančičJože">
                         <speaker>(ZUPANČIČ:</speaker>
                         <ab>Da, absolutno.)</ab>
                      </sp>
-                     <sp who="sp:BizjakDavorin1938" corresp="#DZ-1991-ZbZdruDel-37.sp.BizjakDarko">
+                     <sp who="sp:BizjakDavorin1938"
+                         corresp="#DZ-1991-ZbZdruDel-37.sp.BizjakDarko">
                         <p>Najprej bi glede na razpravo gospe Žerovnikove samo nekaj pojasnil, ker
                            mi čisto profesionalna vest ne da miru. Mislim, da je velika razlika med
                            ustavo in zakonom. Ustava se sprejema kot osnovni akt - kot magna karta,
@@ -1222,7 +1225,7 @@
                            strokovnjaki in Ustavna komisija, je za mene toliko vredno, da si
                            zaslužijo posebno priznanje tega parlamenta in našega naroda. In jaz
                            predlagam, da mi ob današnjih zaključkih to priznanje tudi izglasujemo.
-                           Hvala lepa. <stage>(Ploskanje.)</stage>
+                           Hvala lepa. <stage type="incident">(Ploskanje.)</stage>
                         </p>
                      </sp>
                      <sp who="sp:ZupancicJoze1936"
@@ -1443,22 +1446,22 @@
                            Komisije za ustavna vprašanja.</p>
                         <p>Prisotnost: 72 delegatov.</p>
                         <p>Vprašam vas: Kdo je za predlog nove ustave Republike Slovenije v celoti?
-                           Kdo je za? <stage>(62 delegatov.)</stage>
-                           <stage>(Ploskanje.)</stage> Kdo je proti? <stage>(4 delegati.)</stage>
+                           Kdo je za? <stage type="vote">(62 delegatov.)</stage>
+                           <stage type="incident">(Ploskanje.)</stage> Kdo je proti? <stage type="vote">(4 delegati.)</stage>
                            Vzdržani? (5 delegatov.)</p>
                         <p>Ugotavljam, da smo z veliko večino sprejeli predlog Ustave Republike
-                           Slovenije v celoti. <stage>(Ploskanje.)</stage>
+                           Slovenije v celoti. <stage type="incident">(Ploskanje.)</stage>
                         </p>
                         <p>Predlagam, da še enkrat ugotovimo prisotnost in da tudi glasujemo o
                            predlogu ustavnega zakona o izvedbi ustave Republike Slovenije, in sicer
                            enako, kot sem že prej dejal, o besedilu, objavljenem v Poročevalcu št.
                            30, skupaj z danes predloženim poročilom Komisije za ustavna
                            vprašanja.</p>
-                        <p>Prisotnost: <stage>(72 delegatov.)</stage>
+                        <p>Prisotnost: <stage type="vote">(72 delegatov.)</stage>
                         </p>
                         <p>Kdo je za predlog ustavnega zakona o izvedbi ustave Republike Slovenije.
-                           Kdo je za? <stage>(69 delegatov.)</stage> Proti? <stage>(1
-                              delegat.)</stage> Vzdržani? <stage>(2 delegata.)</stage>
+                           Kdo je za? <stage type="vote">(69 delegatov.)</stage> Proti? <stage type="vote">(1
+                              delegat.)</stage> Vzdržani? <stage type="vote">(2 delegata.)</stage>
                         </p>
                         <p>Ugotavljam, da smo tudi z veliko večino sprejeli predlog ustavnega zakona
                            o izvedbi Ustave Republike Slovenije.</p>

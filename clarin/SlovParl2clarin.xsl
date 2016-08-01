@@ -225,7 +225,12 @@
                     <xsl:variable name="session-type">
                         <xsl:choose>
                             <xsl:when test="$session-type-category = 'Seja'">s</xsl:when>
-                            <xsl:otherwise>z</xsl:otherwise>
+                            <xsl:when test="$session-type-category = 'Zasedanje'">z</xsl:when>
+                            <xsl:when test="$session-type-category = 'Delovna'">d</xsl:when>
+                            <xsl:when test="$session-type-category = 'Slavnostna'">sl</xsl:when>
+                            <xsl:otherwise>
+                                <xsl:message terminate="yes">Manjka session-type vrednost</xsl:message>
+                            </xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
                     <xsl:variable name="session-number">
@@ -431,11 +436,17 @@
                                                     <title xml:lang="sl">Seja <xsl:value-of select="number($session-number)"/></title>
                                                     <title xml:lang="en">Session <xsl:value-of select="number($session-number)"/></title>
                                                 </xsl:when>
-                                                <!-- drugače je črka z : zasedanje -->
-                                                <xsl:otherwise>
+                                                <xsl:when test="$session-type = 'd'">
+                                                    <title xml:lang="sl">Delovna seja <xsl:value-of select="number($session-number)"/></title>
+                                                    <title xml:lang="en">Working session <xsl:value-of select="number($session-number)"/></title>
+                                                </xsl:when>
+                                                <xsl:when test="$session-type = 'sl'">
+                                                    <title xml:lang="sl">Slavnostna seja <xsl:value-of select="number($session-number)"/></title>
+                                                </xsl:when>
+                                                <xsl:when test="$session-type = 'z'">
                                                     <title xml:lang="sl">Zasedanje <xsl:value-of select="number($session-number)"/></title>
                                                     <title xml:lang="en">Session <xsl:value-of select="number($session-number)"/></title>
-                                                </xsl:otherwise>
+                                                </xsl:when>
                                             </xsl:choose>
                                             <xsl:copy-of select="$respStmt"/>
                                         </titleStmt>

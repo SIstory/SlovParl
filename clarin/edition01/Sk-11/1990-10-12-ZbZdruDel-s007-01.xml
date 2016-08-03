@@ -24,8 +24,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega zgodovinopisja</publisher>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
             <distributor>DARIAH-SI</distributor>
+            <distributor>CLARIN.SI</distributor>
             <pubPlace>https://github.com/SIstory/SlovParl/tree/master/clarin/edition01</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
@@ -34,7 +35,7 @@
                <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
             </availability>
-            <date when="2016-07-26+02:00"/>
+            <date when="2016-08-03+02:00"/>
          </publicationStmt>
          <sourceDesc>
             <bibl>ZbZdruDel-Sk-11.xml</bibl>
@@ -45,48 +46,6 @@
             <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
                 infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
          </projectDesc>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="TEI" occurs="1"/>
-               <tagUsage gi="anchor" occurs="6"/>
-               <tagUsage gi="availability" occurs="1"/>
-               <tagUsage gi="bibl" occurs="1"/>
-               <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="date" occurs="2"/>
-               <tagUsage gi="distributor" occurs="1"/>
-               <tagUsage gi="div" occurs="66"/>
-               <tagUsage gi="encodingDesc" occurs="1"/>
-               <tagUsage gi="fileDesc" occurs="1"/>
-               <tagUsage gi="front" occurs="1"/>
-               <tagUsage gi="item" occurs="3"/>
-               <tagUsage gi="licence" occurs="1"/>
-               <tagUsage gi="linkGrp" occurs="1"/>
-               <tagUsage gi="list" occurs="1"/>
-               <tagUsage gi="p" occurs="3"/>
-               <tagUsage gi="particDesc" occurs="1"/>
-               <tagUsage gi="persName" occurs="2"/>
-               <tagUsage gi="person" occurs="1"/>
-               <tagUsage gi="profileDesc" occurs="1"/>
-               <tagUsage gi="projectDesc" occurs="1"/>
-               <tagUsage gi="ptr" occurs="332"/>
-               <tagUsage gi="pubPlace" occurs="1"/>
-               <tagUsage gi="publicationStmt" occurs="1"/>
-               <tagUsage gi="publisher" occurs="1"/>
-               <tagUsage gi="ref" occurs="2"/>
-               <tagUsage gi="resp" occurs="2"/>
-               <tagUsage gi="respStmt" occurs="2"/>
-               <tagUsage gi="setting" occurs="1"/>
-               <tagUsage gi="settingDesc" occurs="1"/>
-               <tagUsage gi="sourceDesc" occurs="1"/>
-               <tagUsage gi="teiHeader" occurs="1"/>
-               <tagUsage gi="text" occurs="1"/>
-               <tagUsage gi="timeline" occurs="1"/>
-               <tagUsage gi="title" occurs="11"/>
-               <tagUsage gi="titleStmt" occurs="1"/>
-               <tagUsage gi="u" occurs="256"/>
-               <tagUsage gi="when" occurs="6"/>
-            </namespace>
-         </tagsDecl>
       </encodingDesc>
       <profileDesc>
          <particDesc>
@@ -189,7 +148,6 @@
             <list>
                <item xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.toc-item1">
                   <title>Ugotavljanje prisotnosti delegatov</title>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.3"/>
                </item>
@@ -199,14 +157,10 @@
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.5"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.6"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.7"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-3.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-3.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.4"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.5"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.6"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.7"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.8"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.9"/>
@@ -216,16 +170,11 @@
                </item>
                <item xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.toc-item3">
                   <title>Določitev osnutka ustave Republike Slovenije</title>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.13"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-5.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-5.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-6.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-6.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-6.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-6.4"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-7.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-7.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.4"/>
@@ -233,26 +182,18 @@
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.6"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.7"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.8"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-9.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-9.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-10.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-10.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-10.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-11.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-11.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-12.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-12.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-12.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-13.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-13.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-14.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-14.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-14.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-14.4"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-14.5"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-15.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-15.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.4"/>
@@ -271,9 +212,7 @@
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.17"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.18"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.19"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-17.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-17.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.4"/>
@@ -287,100 +226,63 @@
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.12"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.13"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.14"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-19.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-19.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-20.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-20.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-20.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-20.4"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-21.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-21.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-22.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-22.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-22.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-22.4"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-23.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-23.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.4"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.5"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.6"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-25.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-25.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-26.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-26.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-27.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-27.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-27.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-27.4"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-28.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-28.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-29.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-29.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-30.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-30.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-30.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-31.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-31.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-32.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-32.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-33.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-33.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-33.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-33.4"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-34.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-34.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-35.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-35.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-36.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-36.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-36.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-36.4"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-37.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-37.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-38.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-38.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-38.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-39.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-39.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-40.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-40.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-41.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-41.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-42.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-42.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-43.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-43.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.4"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.5"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.6"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-45.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-45.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-46.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-46.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-47.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-47.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-48.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-48.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-49.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-49.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-50.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-50.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-51.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-51.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-52.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-52.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-53.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-53.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-53.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-54.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-54.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.4"/>
@@ -390,51 +292,33 @@
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.8"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.9"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.10"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-56.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-56.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-56.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-56.4"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-56.5"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-57.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-57.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-58.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-58.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-59.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-59.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-60.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-60.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-61.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-61.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.4"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.5"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.6"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.7"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.8"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.9"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.10"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.11"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.12"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.13"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.14"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.15"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.16"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.17"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.18"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.19"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.20"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-63.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-63.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-64.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-64.2"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-64.3"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.1"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.2"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.3"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.4"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.5"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.6"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.7"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.8"/>
@@ -444,8 +328,6 @@
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.12"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.13"/>
                   <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.14"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.15"/>
-                  <ptr target="#Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.16"/>
                </item>
             </list>
          </div>
@@ -476,16 +358,13 @@
          </timeline>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-1">
             <anchor xml:id="DZ-1990-ZbZdruDel-7.stage.t.1"/>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.2" who="#komentator">ZBOR ZDRUŽENEGA DELA</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.3" who="#komentator">7. seja</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.4" who="#komentator">(12. oktobra 1990)</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.5" who="#komentator">Predsedoval: Jože Zupančič, predsednik Zbora združenega dela</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.6" who="#komentator">Seja se je začela ob 10.10 uri</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.2" type="preface">ZBOR ZDRUŽENEGA DELA</note>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.3" type="preface">7. seja</note>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.4" type="preface">12. oktobra 1990</note>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.5" type="preface">Predsedoval: Jože Zupančič, predsednik Zbora združenega dela</note>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-1.6" type="time">Seja se je začela ob 10.10 uri</note>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-2">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.1"
-               who="#komentator"
-               ana="#taxonomy.2.8">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-2.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">Spoštovane poslanke in poslanci, dragi sodelavci in novinarji. Pričenjam 7. sejo Zbora združenega dela Skupščine Republike Slovenije, ki sem jo sklical na podlagi 29. člena Poslovnika Skupščine Republike, ki sem jo sklical na podlagi 29. člena Poslovnika Skupščine Republike Slovenije in na predlog Komisije za ustavna vprašanja Skupščine Republike Slovenije.</u>
@@ -506,32 +385,22 @@
                ana="#taxonomy.2.8">Predlagam, da na današnji dnevni red postavimo samo eno točko dnevnega reda in sicer določitev osnutka ustave Republike Slovenije. V zvezi s tem, pričenjamo razpravo. Želi kdo razpravljati? Ne želi nihče razpravljati? Prosim, gospod Starc.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-3">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-3.1"
-               who="#komentator"
-               ana="#taxonomy.2.8">MARJAN STARC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-3.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.2.8">V zvezi z današnjo sejo in glede na čas, ki ga imamo na razpolago do konca leta, predlagam, da bi se današnja razprava o osnutku že s posebnim sklepom smatrala kot del javne obravnave, današnje razprave in diskusije, bi bile sestavni del javne obravnave in se pod tako tudi upoštevale naprej, pri dograjevanju osnutka. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-4">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.1"
-               who="#komentator"
-               ana="#taxonomy.2.8">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">Hvala. Želi še kdo razpravljati? Ne. Podpiram stališče gospoda Starca. Na tak način lahko dejansko danes sprejmemo in določimo osnutek ustave. Želi še kdo razpravljati? Če ne, bi vas najprej prosil, da vseeno ugotovimo koliko nas je. Prosim, če dvignete kartončke, zelene, ali kakršne druge. Prosim, da jih dvignete, saj imate kartončke. Ugotavljam, da nas je 55 v dvorani.</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">Kdo je za takšen dnevni red? Zeleni lističi so da, rdeči proti, rumeni vzdržani. Hvala. Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.4"
-               who="#komentator"
-               ana="#taxonomy.2.8">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.4" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.6"
-               who="#komentator"
-               ana="#taxonomy.2.8">(1 delegat)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.6" type="vote">1 delegat</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">.</u>
@@ -550,24 +419,16 @@
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">"V primeru spremenjenih pogojev se s posebnim sklepom republiške skupščine skrajša oz. prekine. Povedal sem, verjetno bo prišlo do takšne besedne spremembe. Prepričan sem, da vam je popolnoma jasno zakaj gre in zato je seveda tudi zelo pomembno, da se danes prvič, opredelimo, da je razprava tudi del javne razprave in drugič, da pošljemo osnutek v javno razpravo čimprej. S temi besedami bi ta del zaključil. Gremo v veliko dvorano in po zasedanju v veliki dvorani, tako smo se dogovorili, je dobre pol ure čas za malico. Potem pridemo sem in bomo ločeno po zborih razpravljali o osnutku. Hvala lepa.</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.13"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Seja je bila prekinjena ob 10.20. uri in se je nadaljevala ob 11.55 uri.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-4.13" type="time">Seja je bila prekinjena ob 10.20. uri in se je nadaljevala ob 11.55 uri.</note>
             <anchor xml:id="DZ-1990-ZbZdruDel-7.stage.t.2"/>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-5">
             <anchor xml:id="DZ-1990-ZbZdruDel-7.stage.t.3"/>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-5.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-5.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Nadaljujemo s sejo. Ker smo vsi ponovno zbrani, bi pričeli z delom. Najprej vas iskreno prosim, da upoštevate naslednje. Prvič, delovno gradivo za ustavo Republike Slovenije ste prejeli s pošiljko že 6. 9. 1990. Torej delovno gradivo smo imeli že v začetku septembra. S pošiljko 8. 10. 90 pa ste prejeli predlog osnutka ustave Republike Slovenije. V besedilu, kot ga je sprejela Komisija za ustavna vprašanja na 8. in 11. seji. Skupaj z razlago in osnutkom sklepa. Danes ste slišali tudi uvodno besedo gospoda Franceta Bučarja, predsednika Ustavne komisije in vi tudi sami dobro veste, da smo se o ustavi oz. o tem osnutku pogovarjali tudi na dveh sejah klubov, tako, da je bilo v zvezi s to vsebino kar veliko povedanega. Na tak način je res težko reči, da nismo imeli prvič prilike, da bi se seznanil z gradivom in drugič na kraju vseh krajev med vami poslanci jih je cela vrsta, ki znate dobro pisati, sukati pero, tako, da ste se že s svojimi prispevki itak pojavljali v zvezi s temi vprašanji. In zato bi predlagal, da pričnemo z vsebinsko razpravo o tej točki dnevnega reda in določitvi osnutka ustave Republike Slovenije. Po vsebinskih vprašanjih. Kot prvi se je javil gospod Jože Arzenšek.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-6">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-6.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">DR. JOŽE ARZENŠEK:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-6.2"
                who="#ArzensekJoze1942"
                ana="#taxonomy.3.1.1">Spoštovano predsedstvo, spoštovani zbor, Jože Arzenšek, 40 volilna enota. Postavil bi bolj pripombo. Prebral sem tole ustavo in vprašujem ali ne bi kazalo, da bi ustava kot taka bila krajša, razumljiva ljudstvu, da bi imela malo členov, pa tiste skrajno dorečene, vse ostalo pa urejevano po znani poti zakonodaje, ustavnih zakonov, itd.</u>
@@ -579,17 +440,11 @@
                ana="#taxonomy.3.1.1">Ko se pogovarjamo o urejenosti parlamenta - enodomnosti z imenom državni zbor (120, varianta 150 članov), da bi se vprašali ali je možno, da je v enodomnem zboru takšen ključ, da so praktično zastopani interesi tako političnega odločanja, potem regijskih značilnosti, pa tudi značilnosti - posameznih dejavnosti, s čemer se sedaj v delu preživetij ukvarja predvsem zbor združenega dela. V kolikor ta državni zbor - enodomni te vsebine ne bi izpolnil, potem vsekakor sodim, da je treba zelo, zelo podrobno in odgovorno pred končno odločitvijo razpravljati o tem, kadarkoli razpravljati o dvodomnem sistemu, ki je v tekstu kot varianta in napisan pač kot zbor regij. Znova se sprašujem, ali bo določen ključ tak, da bo praktično poleg regije, poleg političnega odločanja prisotna tudi zastopanost vsebine, posameznih dejavnosti tudi takoimenovanih družbenih dejavnosti. Sicer mi ta način ni simpatičen. Gre za zastopanost vseh dejavnosti. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-7">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-7.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-7.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Domio Marino.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-8">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">DOMIO MARINO:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-8.2"
                who="#DomioMarino1950"
                ana="#taxonomy.3.1.1">Sinquor presidente, kolegice in kolegi. Italijanska in madžarska avtohtona narodna skupnost ne moreta skriti svoje globoke zaskrbljenosti ob dejstvu, da smo v dosedanjih razpravah o temeljni listini suverene republike Slovenije morali uporabiti največ energije za ohranjanje dosedanjega ustavnega položaja narodnih skupnosti in to kljub izraženi volji vseh strank, da se doseženi nivo zaščite ne samo ohrani temveč celo izboljša.</u>
@@ -613,17 +468,11 @@
                ana="#taxonomy.3.1.1">Zato predlagam, da se v 3. členu variantni dodatek vključi v osnovni tekst: da se v 61. členu oba variantna dodatka vključita v osnovni tekst; da se v 63. členu variantni dodatek črta; da se v 85. členu variantni dodatek vključi v osnovni tekst in da v 92. členu se variantni dodatek št. 2 vključi v osnovni tekst.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-9">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-9.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-9.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. G. Tone Židanik.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-10">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-10.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">DR. ANTON ŽIDANIK:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-10.2"
                who="#ZidanikAnton1942"
                ana="#taxonomy.3.1.1">Želim govoriti o 48. členu osnutka ustave. In sicer glede na dejstvo, da je zdravje največje možno doseganje fizičnega, psihičnega in socialnega blagostanja ter da je predpogoj za srečo posameznika, kvaliteto življenja in končno tudi višjo produktivnost ter glede na to, da družba v največji meri vpliva na krepitev oz. ohranjanje zdravja, mora postati zdravje temeljna človekova pravica. Zato me čudi kako je sploh možno, da je pravica do zdravja v 1. odstavku 48. člena prišla kot variantni dodatek. Predlagamo, da se 1. odstavek 48. člena glasi:</u>
@@ -632,17 +481,11 @@
                ana="#taxonomy.3.1.1">"Vsakdo ima pravico do zdravja in zdravstvenega varstva."</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-11">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-11.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-11.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Primož Rode.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-12">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-12.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">DR. PRIMOŽ RODE:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-12.2"
                who="#RodePrimoz1942"
                ana="#taxonomy.3.1.1">Jaz imam dve pripombi. In sicer najprej na 8. člen. Piše: "Republika Slovenija ima zastavo, himno in grb. Zastava je belo-modro, rdečo s tremi enakimi vodoravnimi polji. Predlagam, da se 8. člen spremeni tako: "Republika Slovenija ima zastavo, himno in grb. Zastavo, himno in grb predpiše ustavni zakon".</u>
@@ -651,17 +494,11 @@
                ana="#taxonomy.3.1.1">Potem bi se vrnil na člen 48. Strinjam se z dr. Židanikom, vsakdo ima pravico do zdravja in zdravstvenega varstva. Nekje bi morali povedati, da je za zdravje dolžan skrbeti tudi vsak sam. Seveda to ne pomeni neka zakonska prisila, v kolikor se to ne vrši, vendar mislim, da v ustavni zakon to spada. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-13">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-13.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-13.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Franc Perko.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-14">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-14.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MAG. FRANC PERKO:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-14.2"
                who="#PerkoFranc1942"
                ana="#taxonomy.3.1.1">O dveh stvareh bi poskušal spregovoriti. Prvo je poglavje štiri. Državna ureditev. Zavzemam se za pravi dvodomni parlament. Zato predlagam, da bi v 85. členu vključili varianto, s tem, da bi se ta varianta dopolnila. Parlament Slovenije sestavljata državni zbor, drugi zbor je pa zbor regij in interesnih dejavnosti. Podal bi tudi kratko obrazložitev tega predloga. Če oblikujemo enodomni parlament, je velika verjetnost, da bo sestava bodočega državnega sveta zelo podobna trenutni sestavi Družbenopolitičnega zbora.</u>
@@ -676,17 +513,11 @@
                ana="#taxonomy.3.1.1">Zadnje tri odstavke v 69. členu naj se črta, ker je za dva odstavka, ki govorita o varstvu kmetijskih zemljišč to rešeno z varianto, o kateri sem prej rekel, da bi veljala, skrb za družinske kmetije pa ne sodi v poglavju o naravnih bogastvih, ampak, če to sploh sodi v ustavo, potem sodi na neko drugo mesto, v nek družbenoekonomski del. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-15">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-15.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-15.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Šter Andrej.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-16">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">ANDREJ ŠTER:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-16.2"
                who="#SterAndrej1958"
                ana="#taxonomy.3.1.1">Želim v kratkem predstaviti prispevek Slovenske demokratične zveze k skupščinski razpravi o današnji točki dnevnega reda. Na vprašanje ali je predlog osnutka nove slovenske ustave, ki ga je priložila Ustavna komisija dovolj izdelan, da ga je mogoče danes sprejeti kot osnutek ustave republike Slovenije in na vprašanje ali je mogoče sprejeti predlog za javno razpravo o osnutku, ki naj traja do 30. novembra letos, odgovarjata članstvo in poslanski klub Slovenske demokratične zveze, z da. Slovenska demokratična zveza je v razpravah v organih vodstva stranke, v Izvršnem odboru in svetu že ocenila delovni osnutek, ki ga je predložila strokovna skupina Ustavni komisiji kot dovolj izdelan, da bi bilo mogoče o njem začeti javno razpravo. Nato smo poslanci iz vrst Slovenske demokratične zveze v Ustavni komisiji sodelovali v dograjevanju besedila in sprejeti tezo, da je za javno razpravo lahko koristno uvrstiti v osnutek tudi variantne predloge k posameznim rešitvam, ker bodo državljani in strokovnjaki na ta način še bolj opozorjeni na posamezna odprta vprašanja, na katera bo treba odgovoriti z večinsko politično odločitvijo, ali s strokovno dodelavo ponujene rešitve. Pri predlaganih variantah nismo nasprotovali nobeni, ki je dobila vsaj minimalno podporo, čeprav sami nismo vsiljevali svojih predlogov, ki niso bili dovolj podprti v Ustavni komisiji.</u>
@@ -743,17 +574,11 @@
                ana="#taxonomy.3.1.1">Zato še enkrat predlagam, da danes sprejmemo predlog Ustavne komisije in svoje dodatne zamisli in predloge predložimo kot izziv in dodatno gradivo za javno razpravo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-17">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-17.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-17.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Jakič Roman.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-18">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">ROMAN JAKIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-18.2"
                who="#JakicRoman1967"
                ana="#taxonomy.3.1.1">Jaz bi vas rad seznanil z enim delom variantnih predlogov, za katere v naši stranki želimo, da se vnesejo v ta predlog osnutka ali osnutek ali kakor že.</u>
@@ -795,17 +620,11 @@
                ana="#taxonomy.3.1.1">Potem je pa še 63. člen. Namreč tu je pa stališče tako, da bi v tem oklepaju, ko piše posebne pravice italijanske in madžarske narodne manjšine, dodali še: ter pravice romske etične skupnosti in iz tega izhajajoč tudi variantni predlog, da se doda nov člen, ki glasi takole: "z zakonom se določijo pravice romske etične skupnosti in način njihovega uresničevanja". Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-19">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-19.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-19.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospa Žerovnik.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-20">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-20.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MAG. ANGELCA ŽEROVNIK:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-20.2"
                who="#ZerovnikAngelca1944"
                ana="#taxonomy.3.1.1">Moje so bolj pripombe k prispevku javne razprave. Osnutek ustave Republike Slovenije nakazuje, da gremo naproti novemu načinu življenja v ustavi. Moderna država temelji na človekovih pravicah. Zajeten del ustave Republike Slovenije govori o človekovih pravicah, preambola govori celo o svetosti življenja. Vendar pa v 52. členu ustava skrči človekove pravice s stavkom: "Vsakdo ima pravico, da svobodno odloča o rojstvu otroka". Torej se celo od staršev ta pravica razširi na vsakogar, kar pa je nedopustno.</u>
@@ -817,17 +636,11 @@
                ana="#taxonomy.3.1.1">In še tretje. Na diskusijo 13. člena "ne glede na spolno usmerjenost". Ker je bila ta pripomba že v stranki in sem skušala izbrati nekoliko podatkov o tem kako je drugje to zapisano, je ta izraz "ne glede na spolno usmerjenost" zelo nevaren, kajti spolna usmerjenost je lahko tudi do otrok, do živali, do kipov itd. Tako ohlapen izraz omogoča oz. celo podpira patologijo, tako, da tu tisti, ki predvidevajo večjo svobodo glede spolne usmerjenosti, se bodo morali pač bolj strokovnega termina poslužiti. Tako je tudi v drugih ustavah, ki to imajo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-21">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-21.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-21.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Zabukovec boste vi?</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-22">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-22.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">ZDRAVKO ZABUKOVEC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-22.2"
                who="#ZabukovecZdravko1940"
                ana="#taxonomy.3.1.1">Jaz bi se teh vprašanj dotaknil. Prvo vprašanje bi bilo stališče kluba neodvisnih glede enodomnosti oz. dvodomnosti. Približno tako stališče ali pa tako rekoč enako, kot je delegat Perko že svoje stališče podal, smo zavzeli v klubu neodvisnih. Torej zavzemamo se za dvodomnost. Primerjali smo prednost enodomnega in dvodomnega parlamenta, vendar izkušnje, ki jih doživljamo nas učijo, da stojijo ob strani marsikatera regionalna vprašanja in marsikatera predvsem gospodarska vprašanja drugih panog, dejavnosti. Tako mislimo, da bi bila to oblika skozi katero bi lahko rešili obstoječa nereševanja dokaj perečih vprašanj. Ker, če se bo ta način nadaljeval, da jih ne bomo reševali poleg tako rekoč čisto političnih vprašanj, tudi zelo pereča zlasti gospodarska vprašanja in na njih temelječa vprašanja zdravstva, prosvete, kulture itd., potem bo ta družba lahko zašla v precejšnje, še težje probleme kot je sedaj.</u>
@@ -839,17 +652,11 @@
                ana="#taxonomy.3.1.1">In še rahlo razmišljanje oz. odgovor na vprašanje obsega ustave. Sem tudi član Ustavne komisije in eden tistih, ki so se vedno borili za zelo kratko ustavo. Mislim, da je narejen precejšen korak naprej, saj smo od približno 460 členov prišli na približno 160, kar je precejšen premik, morda pa bi se res dalo še izločiti določene formulacije. Npr. sam sem v ustavni komisiji celo predlagal, da bi črtali preambulo, zaradi tega, ker so se skoraj pol ure na začetku lovili okrog besede svetost življenja itd. In posledic, ki iz tega lahko izhajajo in potem sem se pričel razmišljati, da vse, kar ni strogo normativnega oz. rahlo vizionarskega značaja v ustavi, ker vsaka ustava mora en določen del svojih besed uporabiti tudi za nadaljnjo vizijo družbe, ne sme pa to biti prevelik delež teh besed, ki vlečejo vizijo, torej, da bi tisti nenormativni del rigorozno skrajšali. To seveda je nadaljnjo vprašanje s katerim se bomo še srečali. Moram pa reči, da me ni nihče pri predlogu, da bi preambulo kot nenormativni del ustave črtali, podprl. Toliko za sedaj. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-23">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-23.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-23.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Moge.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-24">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">RUDI MOGE:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-24.2"
                who="#MogeRudi1944"
                ana="#taxonomy.3.1.1">Poskušal bi razmišljati o dveh stvareh. Najprej o 54. členu, ki govori o pravici do izobrazbe in šolanja, potem pa še mogoče kak preblisk o lokalni samoupravi, to so tisti členi od 135. pa nekje naprej.</u>
@@ -867,25 +674,16 @@
                ana="#taxonomy.3.1.1">In pa 137. člen "razdelitev republike na lokalne enote se uredi z zakonom".</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-25">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-25.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-25.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala lepa. Gospod Zlobec.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-26">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-26.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-26.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.1.1">Lepo pozdravljeni! Mislim, da imamo pred sabo velik problem, ker sploh ne vemo, v kakšnem statusu smo trenutno. Mislim, da bi se v tistem trenutku, ko je nastopil kolega Šter in predlagal spremembo statusa našega današnjega govorjenja, morali odločati. Ali sedaj govorimo o predlogu osnutka oz. o osnutku predloga, ali je to že del javne razprave? O tem se sploh nismo razjasnili, o tem nismo glasovali. glede3 na to, da se o tem nismo izjasnili in nismo glasovali, si predstavljam, da še zmeraj govorimo o predlogu osnutka; sicer pa predlog osnutka z vsemi temi amandmaji oz. novimi variantami vsekakor ne bo mogel biti sprejet s konsenzom, sicer teh variant sploh ne bi bilo. Osebno mislim, da nima pravega smisla, da zdaj vsi mi delegati s 150 variantami prihajamo na govorniški oder in predlagamo te variante, ker tako o njih ne bomo ne razpravljali ne glasovali, ampak da vse te variante, ki so tako in tako izdelane, pismeno predajo predsedniku Zupančiču in jih komisija - Ustavna komisija - avtomatično vključi v predlog osnutka, in to pomeni, da lahko ta sestanek tako rekoč v pol ure končamo. Ker namreč obstaja zadrega, ki jo je materializiral kolega Šter in se je pokazala že v zaključnih dveh odstavkih govora predsednika Bučarja. Ker namreč v predzadnjem odstavku pravi, da je bilo večinsko mnenje vodij klubov delegatov, naj bi današnja razprava, sugestije, že štele kod prvi prispevek k javni razpravi. To isto zgodbo je ponovil kolega Šter, medtem ko nam je vsem v zadnjem odstavku predsednik Bučar predlagal, naj po končani razpravi določimo osnutek nove slovenske ustave in naj ga Skupščina Republike Slovenije da v javno razpravo. Se pravi, da sta dva stavka v kontradikciji. Mislim, da moramo izbrati najbolj racionalno in najbolj smiselno rešitev, in to je ta, da dejansko enakopravno sprejmemo vse nove amandmaje oz. variante, ki niso dane kar tako na pamet, ampak so plod debat posameznih strank in interesnih skupin poslancev, ker mislim, da bo neprimerno kvalitetnejši osnutek za javno razpravo tisti, ki bodo o tem osnutku razpravljali, lahko tehtali že med predloženimi različnimi variantami, ker namreč marsikje je nehote v kakšnem členu kakšne pomanjkljivost ali past, ki bo opazna šele s temi variantami in amandmaji. Skratka, predlagam, da prekinemo to razpravo, da se vse variante, amandmajske variante dajo predsedniku, da zahtevamo od ustavne komisije, naj vse te variante sprejme v osnutek ustave, kar pomeni, da gre lahko ta osnutek že jutri, ker to je čisto tehnično delo, da gre lahko ta osnutek že jutri v javno razpravo.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-27">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-27.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-27.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Predlagal bi naslednje: Mi bi delali še vseeno naprej. Med tem časom pa naj vsi tisti ki ste imeli do sedaj konkretne predloge greste postopoma s svojimi predlogi, nekaj jih imate napisane, nekatere imate v konceptu, v sosednji prostor, kjer je naša gospa Mira. Predloge bo napisala z vašim narekom, z vašimi utemeljitvami. Na tak način bi danes kar sproti vse predloge dali tudi Ustavni komisiji.</u>
@@ -897,25 +695,16 @@
                ana="#taxonomy.3.1.1">Besedo moram dati gospodu Zlobcu.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-28">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-28.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-28.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.1.1">Le kratka replika. To ni razprava, kar mi zdaj delamo. To je samo nizanje predlogov, ki so pa tako in tako že pismeno pripravljeni. To je eno, drugo je pa vprašanje zakaj mi, oziroma si ne predstavljam kako bo Ustavna komisija tehtala kaj je sprejemljivo in kaj ni. To je popolnoma absurdno. Intenca mojega predloga je bila popolnoma drugačna.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-29">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-29.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-29.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Prosim gospod Zabukovec.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-30">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-30.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">ZDRAVKO ZABUKOVEC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-30.2"
                who="#ZabukovecZdravko1940"
                ana="#taxonomy.3.1.1">To vprašanje delegata Zlobca je begalo tudi mene. Je pravzaprav pravno vprašanje, ki ga včasih v stiski ali euforiji ali kakorkoli hočemo reči, časovni stiski, preskočimo. Torej, če hočemo, da so pripombe na osnutek, moramo najprej potrditi osnutek. Če hočemo, da je razprava o osnutku. To je zdaj ključno vprašanje.</u>
@@ -924,25 +713,16 @@
                ana="#taxonomy.3.1.1">Imam en predlog. Morda bi se najprej javili k razpravi delegati, ki menijo, da gradivo ni zrelo za to, da bi ga potrdili kot osnutek. Če slučajno takih predlogov ne bi bilo, potem mi lahko glasujemo, da je gradivo po mnenju Zbora združenega dela zelo za osnutek. In potem se opredelimo ali naj razpravljamo naprej ali naj damo pismene pripombe. Zelo pa dvomim, da bi lahko danes Ustavna komisija pregledala pripombe vseh treh zborov. Računam, da je to delo za dva, tri dni. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-31">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-31.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-31.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Domio.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-32">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-32.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MARINO DOMIO:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-32.2"
                who="#DomioMarino1950"
                ana="#taxonomy.3.1.1">Mi imamo na dnevnem redu predlog osnutka za ustavo. Jaz mislim, da je treba kot predlog osnutka zadevo obravnavati. To pa vemo, kaj pomeni. Da se lahko osnutek dopolni in tako naprej, v postopku, to je na dnevnem redu predlog osnutka. In mi ga moramo na koncu določiti. Verjetno bo Ustavna komisija morala tu povedati svoje.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-33">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-33.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-33.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Še kdo želi razpravljati v zvezi s tem? S tem smo zdaj še vseeno, glede na to, da delamo v konsenzualni obliki, malo v pat poziciji. Dejstvo je, da nobena stranka, upam da ne bo prišlo do tega, da si mogoče izmišljam, ni imela načeloma nič proti temu osnutku, da je na primer nezrel za javno razpravo. Če rabim ta izraz tako, da do zdaj takšne pobude, v tej smeri ni bilo. Ne tu, ne kje drugje, ne na poslanskih klubih, v katerih sem tudi sodeloval.</u>
@@ -954,25 +734,16 @@
                ana="#taxonomy.3.1.1">Zato pa menim, zato sem tudi predlagal, in prav je da se tako dogovorimo, da naj te vaše variantne predloge, tako kot je Roman Jakič povedal, zapišemo, ker jih moramo vseeno dati Ustavni komisiji, ki mora dati svoje mnenje. Zakaj se ne bi Ustavna komisija, ki je nosilec tega, opredelila in nam predlagala svoje, potem ko bo ona rekla svoje, bomo pa še mi. Ali ne? Gospod Starc.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-34">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-34.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MARJAN STARC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-34.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.3.1.1">A lahko tukaj govorim kar iz klopi? Menim, da na ta način enostavno ne bomo nikoli končali, ker je popolen konsenz doseči na nivoju osnutka skorajda nemogoče. In zakaj bi tudi insistirali na tem, saj to je bila naloga predhodne faze, da to uredi in mi smo mimo te faze, da sprejmemo osnutek, do te stopnje je osnutek toliko poenoten v vseh mogočih variantah. In da potem tukaj, kot sem že uvodoma, ko smo določali dnevni red, namreč to je bila moja misel, da ko sprejmemo osnutek potem, da bi današnja razprava bila že del razprave, enakopravne javne razprave. Če ne bomo nikoli končali. To bo šlo kar naprej. To je kot začaran krog. Zato predlagam, da se izjasnimo o osnutku, osnutek potrdimo tak kot je, v vseh teh mogočih variantah in potem začnemo razpravljati. In današnja razprava je sestavni del javne obravnave. In bodo to strokovne službe, komisije in tako naprej obravnavale vse naše diskusije. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-35">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-35.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-35.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Gospod Bizjak.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-36">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-36.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">DAVORIN BIZJAK:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-36.2"
                who="#BizjakDavorin1938"
                ana="#taxonomy.3.1.1">Jaz se strinjam s tem, kar je bilo zdaj rečeno, s tem, da bi sprejeli mi v bistvu dve različni stvari. Prvo bi se morali odločiti, ali je ta osnutek primeren za javno razpravo in jaz predlagam, da se odločimo, da je primeren za javno razpravo.</u>
@@ -984,17 +755,11 @@
                ana="#taxonomy.3.1.1">Zato mislim, da je treba stvar razdeliti. Da predlog razdelimo na dva dela in da o prvem delu lahko takoj glasujemo, da je ta osnutek primeren za javno razpravo. In da drugi sklep, da se vse razprave kot povzetek ali pa kot konkretni predlogi, dajo v javnost kot tisti del razprave, ki je bil v skupščini podan. In da se pozove javnost, da je maksimalno aktivno v tem roku in da se po možnosti, seveda tako kot je bilo rečeno, tudi ta javna razprava organizira in vodi. Če hočemo v dveh mesecih prit do končne odločitve.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-37">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-37.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-37.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Še kdo mogoče o tem? Gospod Perko.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-38">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-38.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MAG. FRANC PERKO:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-38.2"
                who="#PerkoFranc1942"
                ana="#taxonomy.3.1.1">Trenutno smo v stanju, da je Ustavna komisija namesto zborov sprejela osnutek ustave. Tako je dejansko stanje. No zdaj pa lahko to tudi drugače tolmačimo. Bi bilo tudi sprejemljivo, ker drugače bi moral razpravo voditi zbori, potem na osnovi razprave zborov bi morala Ustavna komisija ponovno zasedati, pripraviti osnutek in potem ta osnutek sprejmejo zbori in šele ko jih sprejmejo gre lahko v imenu zborov v javno razpravo. Taka je tale skupščinska procedura, tako bi moralo iti.</u>
@@ -1003,49 +768,31 @@
                ana="#taxonomy.3.1.1">Zdaj in na ta način pa danes verjetno ne bi uspeli sprejeti osnutka. Zdaj, če se tako mudi ali pa je konsenz strank, da gre to hitreje v razpravo, pa bi predlagal vsaj to, da na osnovi današnje razprave Ustavna komisija popravi ali pa dopolni ta osnutek in da potem gre tak osnutek šele v razpravo.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-39">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-39.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-39.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Prosim.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-40">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-40.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MIRKO KRAJEC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-40.2"
                who="#KrajecMirko1954"
                ana="#taxonomy.3.1.1">Kmečka stranka ravno tako podpira predlog, da se ta koncept osnutka sprejme, da je pa vsa nadaljnja razprava že povezana z javno razpravo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-41">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-41.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-41.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Gospod Škof.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-42">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-42.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">DR. MATIJA ŠKOF:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-42.2"
                who="#SkofMatija1947"
                ana="#taxonomy.3.1.1">Mislim, da smo zdaj toliko daleč gospod predsednik, da dajmo na glasovanje oz. prej še na razpravo. Če ima kdo kakšne pripombe vsebinskega značaja na predlog osnutka, smo rekli, če ne dajmo takoj na glasovanje ali se strinjamo s tem, da ta osnutek postaja predlog osnutka s strani tega zbora, kar jaz osebno mislim, da je pametno v tem trenutku takoj narediti, ker mislim, da nas je večina zato, da ta predlog osnutka postaja uradno določen s strani tega zbora. Vse razprave, vse variante 120, 20, 30, ki jih bo potem, se pa naj že priložijo kot sestavni del javne razprave. In eventualno lahko se še javna razprava lahko vodi po tej določitvi tega predloga osnutka. Vse ostalo mislim, da je absolutno neproduktivno in bo vzelo preveč časa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-43">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-43.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-43.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Še gospod Dretnik.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-44">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">IVAN DRETNIK:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-44.2"
                who="#DretnikIvan1921"
                ana="#taxonomy.3.1.1">Spoštovano predsedstvo, spoštovani zbor! Jaz sem mnenja, da se mi vsi skupaj vse premalo zavedamo ne samo časti ampak tudi velike odgovornosti, ki jo imamo kot člani slovenskega parlamenta, ki je zakonodajna oblast, ko dajemo ta osnutek v javno razpravo in ko jo bomo v končni fazi tudi sprejeli.</u>
@@ -1063,73 +810,46 @@
                ana="#taxonomy.3.1.1">Drugo bom pa povedal iz lastne izkušnje, se boste smejali ampak lahko udarim po mizi, zato, ker sem to doživel. Lovski zakon. Glejte, lansko leto sem psa spustil za četrt ure na sprehod. Mi ga je lovec ustrelil. Jaz sem moral biti lepo tiho, ker sem vedel, da zakon ščiti lovca ne pa mene. Malo pozneje mi je srnjad na njivi zrele pšenice naredila hudiča in pol. Oprostite izrazu, s tem hočem povedati, kako sem jaz bil takrat v svoji nemoči ogorčen. Nisem mogel nič opraviti v prvem slučaju, v drugem tak isto nič. Kmetje upravičeno pričakujemo, da bo v bodoče lovski zakon, ki bo v bližnji prihodnosti najbrž že sprejel, dal kmetom tudi malo več pravic. Da zaključim s tistim znanim slovenskim pregovorom, ki pravi: "kako si bomo postlali tako bomo ležali". Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-45">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-45.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-45.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Prosim.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-46">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-46.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MARINO DOMIO:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-46.2"
                who="#DomioMarino1950"
                ana="#taxonomy.3.1.1">Jaz bi se vrnil in bi se pridružil predlogu dr. Škofa, da bi dali osnutek na glasovanje. Če je to po postopku možno.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-47">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-47.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-47.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Mi imamo seveda to možnost. Zdaj vas dejansko vprašam ali ima proti temu osnutku zaradi tega, ker bomo mi s tem v bistvu osnutek določili, samo s to pripombo, da morajo iz razprave predlogi biti zajeti tudi v nadaljnji razpravi, tako, da bo javnost točno vedela zakaj gre, kakšni predlogi so, kaj proti? Zdaj imamo samo eno vprašanje in to se moramo skupaj dogovoriti. Zdaj teoretično potem lahko še nekaj časa razpravljamo, imamo še vsebinske dopolnitve itn. v bistvu pa dejansko ničesar ne bomo več spremenili, ne. Zdaj vas je še veliko. Ali je res kaj zelo nujnega, drugačnega? Prosim gospod Domio.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-48">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-48.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MARINO DOMIO:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-48.2"
                who="#DomioMarino1950"
                ana="#taxonomy.3.1.1">Jaz imam samo eno vprašanje. In sicer kako je bilo dogovorjeno vodstvo skupščine, da se ta osnutek sprejme? Jaz se bojim. Od kar jaz poznam postopek, ki ste ga določili v vodstvu skupščine, je bil predviden, da v zborih se vodi razprava o predlogu, na predlog normalno se dajo pripombe, Ustavna komisija naredi končni, določi osnutek, ki ga potem zbori sprejmejo.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-49">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-49.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-49.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Gospod Domio nismo se tako dogovorili. Pa ne gre zato ali se tako dogovarjamo ali pa drugače dogovarjamo. Ampak glede na razmere, sedaj bo zopet kdo rekel, da človek dela pritisk na vas ali pa kaj drugega. Pa to ni res. Moram to odločno odkloniti. Smo pač ugotavljali, da bi dejansko lahko zbori danes sprejeli to in določili osnutek za javno razpravo zaradi tega, ker mi enostavno, če tega danes ne naredimo, bomo dali vse številne predloge Ustavni komisiji. Ustavna komisija pa se lahko zopet trikrat ali štirikrat sestane in bo kupčkala gor in dol. Rešitev pa ne bo. Moram dati besedo še gospodu Zlobcu.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-50">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-50.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-50.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.1.1">Saj bom zelo kratek. Namreč obstaja ta nevarnost. Danes smo slišali vrsto zelo tehtnih variant in pripomb na obstoječi osnutek. Obstaja namreč ta nevarnost, da bo imel ta osnutek eno težo , vsa današnja razprava in te amandmajske variante pa bodo četrtorazredni dokument, ki ne bo prišel v resnici do javne razprave. Zato predlagam, da se zelo precizno - če že vztrajate pri tem predlogu - o tem predlogu pove, da je današnja razprava skupščine - ker pazite, to ni razprava petnajstih ljudi, ki se dobijo na gostilniškem vrtu - integralen del in se priloži kot integralen del k osnutku ustave.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-51">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-51.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-51.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Mislim, da to trenutno niti ni tako sporno kar je sedaj rekel gospod Zlobec, ker smo se vsi, gre seveda samo za ta tehnični vidik, kako to lahko zapišemo poleg objave. Vi ste videli, prebrali ste tudi sklepe kako bo ta dokument objavljen, da je to pač treba dodelati na nekak, da bom rekel enostaven način, tako, da bodo točno vedeli v javnosti zakaj je pri nas tudi šlo. In jaz mislim, da bo tudi v ostalih zborih enako in po vsej verjetnosti bo prišlo do tega, da bo npr. marsikaj enakega v vseh teh zborih. Zlasti glede na strankarsko pripadnost. Potem ne bo tako gromozanski dodatni tekst še iz razprave. ali je kdo proti temu? Prosim gospod Aksentijević, potem bi pa počasi zaključili. Prosim, Milan bi prišel sem.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-52">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-52.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">MILAN AKSENTIJEVIĆ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-52.2"
                who="#AksentijevicMilan1935"
                ana="#taxonomy.3.1.1">Spoštovani gospod predsednik, spoštovani kolegice in kolegi! Res se strinjam s predlogom gospoda Zlobca, ampak tudi imam določene konkretne pripombe, ki poudarjajo te naše predloge ustave Republike Slovenije. Prvič sem za dodatek. Ne bom diskutiral, ker bi se po tem javil za besedo, ker vem, da se mudi. Konkreten predlog imam, da se v našem osnutku ustave konkretno v enem členu zapiše tako, kot piše v sedanji veljavni ustavi Republike Slovenije: "državljani drugih socialističnih republik Jugoslavije imajo enake pravice kot državljani Republike Slovenije". In morda še bolj, da so državljani Republike SLovenije vsi prebivalci, ki imajo z dnem sprejetja te ustave, ki imajo pravico delati, stanovati, to se pravi, ki so redno prijavljeni na matičnih uradih. Širšo razlago tega bi lahko dal če hočete, če hočete pa ne.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-53">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-53.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-53.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Bogo Rogina mi je povedal jaz mislim, da smo v bistvu tako prišli do enega sklepa kot on, ki je bil zdaj tudi na posebnem sestanku. Ustavna komisija se bo sestala verjetno ob 14.00 uri in bo vse predloge pregledala. Od druge ure naprej bomo imeli odmor.</u>
@@ -1138,17 +858,11 @@
                ana="#taxonomy.3.1.1">Jaz bi bil pa vseeno zato, da bi, ker smo se toliko poenotili, da je to zdaj vseeno možno, da sprejmemo vse z razprave, da bodo potem člani Ustavne komisije tam naše stališče tudi zagotovili. Odprtih vprašanj je samo nekaj. Dogovorili se bomo in dokončno sprejeli tiste sklepe, kot so predlagani.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-54">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-54.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">BOGO ROGINA:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-54.2"
                who="#RoginaBogo1947"
                ana="#taxonomy.3.1.1">Dogovorili smo se nekako tako, da bi v poštev prišli samo tisti predlogi, ki jih boste uspeli kot variante napisati ne pobude in predlogi ampak res variante, ki bi potem bile sestavni del tega osnutka. Zato se bo tudi Ustavna komisija sestala in vse te pisne variante in predloge dala zraven kot sestavni del osnutka.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-55">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-55.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Prosim vas, za vse pisne predloge, ki jih imate. Že prej sem povedal, da greste k Miri, če imate še kaj takega, da se lahko napiše. Prosim bi nadaljevali? Jaz ne vem, mislim, da nimamo kaj, zdaj moramo počakati na zaključke ostalih zborov. Ali lahko še to povem? Jaz mislim, da bo potem čista situacija naslednjič. Mi moramo biti usklajeni z ostalim dvema zboroma do vsake besede, kot se temu reče pri obeh sklepih in vi veste sami, da moramo sprejeti dva oz. tri sklepe.</u>
@@ -1178,9 +892,6 @@
                ana="#taxonomy.3.1.1">No zdaj ste pa prejeli še tudi stališče sindikatov o tem, dobro to je samo stališče, ki se lahko ali pa se ne upošteva. Ima še mogoče kdo kakšen predlog? Gospod Daneu.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-56">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-56.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">IVO DANEU:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-56.2"
                who="#DaneuIvo1937"
                ana="#taxonomy.3.1.1">Spoštovani predsednik, spoštovani kolegi! Ker ste me že izzvali, bi želel nekaj čisto na kratko povedati. Seveda, ker zastopam športno sfero se zavzemam za to, da v ustavi, ki je za mene moram reči izredno komplicirana in mislim, da tu med nami, če so morda trije, štirje, ki se spoznajo na vse te člene in amandmaje, da bi velika večina želela, da bi ta naša ustava bila mnogo bolj enostavna, da bi jo razumeli tudi ljudje, prebivalci Slovenije.</u>
@@ -1195,70 +906,46 @@
                ana="#taxonomy.3.1.1">Zato bi se pridružil kolegu Škofu in predlagal, da damo na glasovanje, da to sprejmemo, da pa lahko potem še naprej razpravljamo in damo svoje pripombe, ki naj jih ta naša Ustavna komisija pač upošteva ali pa ne. In nam da potem spremenjen predlog. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-57">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-57.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-57.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Še kdo? Ja, verjetno boste razočarani, na glasovanje nimamo kaj dajati, ne dokler se ne sestane Ustavna komisija. Tako, da to mora biti moramo počakati da vidimo, kaj je. Potem pa še vedno lahko rečemo svoje kot zbor, ne. A je prav tako?</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-58">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-58.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">IVO BAN:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-58.2"
                who="#BanFranc1938"
                ana="#taxonomy.3.1.1">ali lahko kdo, počakajte prosim malo, koliko časa bo trajala resna razprava Ustavne komisije v 200, 300 predlogih, ki bodo v treh zborih podani? Poslušajte, mi ne moremo časa tu zapravljati. Mi lahko čakamo do jutri zjutraj ali bo pa to neka volonterska razprava. Na hitro bodo razmetali sem in tja in bo zadeva rešena. Tu je bilo najmanj sto predlogov, če bi jih približno seštel. Koliko jih je v Družbenopolitičnem zboru in v Zboru občin in kako naj zdaj Ustavna komisija v nekaj urah. Nemogoče je, da kaj resnega reče. Mislim, da gre za zelo praktično vprašanje.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-59">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-59.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">BOGO ROGINA:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-59.2"
                who="#RoginaBogo1947"
                ana="#taxonomy.3.1.1">Jaz mislim, da čisto tako ni. Dogovor je bil, jaz sem vam ga tudi posredoval, da bodo samo variantni predlogi, ki se pripravijo, vključeni v osnutek. Tako kot je zdaj en kup variantnih predlogov, ki niso sprejemljivi in bodo pri razpravi pometani ven, tako je tu, ravno zaradi tega dogovorjeno, da samo pismeni variantni predlogi grejo noter. To pa jaz mislim, da je lahko dosti hitro gotovo.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-60">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-60.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-60.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Prosim.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-61">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-61.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">JOŽE BERLEC:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-61.2"
                who="#BerlecJoze1949"
                ana="#taxonomy.3.1.1">Nekako mi ni jasno in logično, kako bodo lahko v teh urah vse to dejansko uskladili. Pri pripravi tega osnutka so sodelovale vse stranke. Vse stranke so imele možnost posredovati svoje mnenje in to je bilo potem nekako usklajeno. Torej imamo več ali manj medstrankarsko usklajen osnutek ustave. Kako je možno, da bodo zdajle v nekem delu popoldneva uskladili vse te naše predloge, ki niso niti strokovno preverjeni iz vseh strani. Lahko da nekdo zelo dober predlog, samo vendarle ga je treba z vseh strani pregledati. V tem kratkem času mislim da je to nemogoče res kvalitetno izdelati. In moje mnenje je, če oni potem to usklajujejo naj usklajujejo in naj bo to potem kot priloga tega osnutka. Osnutek pa takšen kot je, dajmo ga na glasovanje in ga sprejmimo.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-62">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Ima kdo drugačno mnenje? Jaz bi najprej ugotovil koliko nas je najprej tu, da vidimo. 56 nas je. Razdelil bi sklepe na dva dela. Prvi del, prvi stavek bi bil takšen, da Zbor združenega dela Skupščine Republike Slovenije določa osnutek ustave Republike Slovenije. V javno razpravo morajo sočasno tudi predlogi iz razprave Zbora združenega dela. Je prav?</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Kdo je za takšen predlog?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.4"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(55 delegatov.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.4" type="vote">55 delegatov.</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Hvala. Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.6"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.6" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Kdo se je vzdržal?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.8"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.8" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Potem imamo tak predlog sedaj sprejet.</u>
@@ -1271,21 +958,15 @@
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Kdo je za teh 5 sklepov?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.13"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(56 delegatov.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.13" type="vote">56 delegatov.</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.14"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Kdo je proti?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.15"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.15" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.16"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Kolikor se vas je vzdržalo?</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.17"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.17" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-62.18"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Soglasno sprejeto.</u>
@@ -1297,30 +978,19 @@
                ana="#taxonomy.3.1.1">1. da dejansko v javni razpravi sodelujete. Javne razprave bo veliko ali na okroglih mizah ali v strankah ali v podjetjih, v časopisih itd. Bodite vi sami tudi med organizatorji. Mogoče bo danes Ustavna komisija drugače sklenila če se bomo mogoče prihodnji eden še enkrat dobili. Daje zdaj mi malo počakati, da se dogovorimo ali je to vse ali moramo vseeno počakati. Prosim gospod Škof.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-63">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-63.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">DR. MATIJA ŠKOF:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-63.2"
                who="#SkofMatija1947"
                ana="#taxonomy.3.1.1">Gospod predsednik jaz bi vseeno predlagal, da ne bi mi kakšen proceduralni kiks naredili, da ne bomo potem omogočili, da ne bi bil ta predlog danes sprejeti, da se vi dva s podpredsednikom zdaj konzultirata z ostalimi, da vidimo kakšna je situacija, mi pa še malo počakamo, da za vsak slučaj ne bi potem torej napravili kakšnega problema.</u>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-64">
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-64.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-64.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Jaz bi, vi vsi ste tudi praktiki, predlagal, da se dogovorimo o naslednjem. Mislim, da če bo Ustavna komisija naš predlog sprejela da bo vse v pol ure gotovo. Če bodo pa šli v razpravljanje, kar ste vi povedali v 100 različnih predlogov, potem pa danes ne bo nič. Dajmo se dogovoriti, da imamo prosto do pol treh. Jaz mislim, da je čisto zadosti, ker bomo tam takoj videli kakšna je situacija. Jaz bom, tudi šel na sejo, ob pol treh pa vsi tukaj, vidimo kaj in kako je. Velja.</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-64.3"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Seja je bila prekinjena ob 13.25 uri in se je nadaljevala ob 14.30 uri.)</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-64.3" type="time">Seja je bila prekinjena ob 13.25 uri in se je nadaljevala ob 14.30 uri.</note>
             <anchor xml:id="DZ-1990-ZbZdruDel-7.stage.t.4"/>
          </div>
          <div xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.div-65">
             <anchor xml:id="DZ-1990-ZbZdruDel-7.stage.t.5"/>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Najprej moramo ugotoviti koliko nas je. Vseh nas je 52. Dogovoriti se moramo o več zadevah. Najprej gre za pisne dopolnitve v zvezi z našimi sklepi, ki bodo objavljeni skupaj z osnutkom. Najprej gre za čas.</u>
@@ -1330,12 +1000,10 @@
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Samo lepo vas prosim, vem, da vas velika večina zna delati sobote in nedelje. Tisto kar imate, boste tudi napisali, ker morate v nedeljo oddati na pošto, da bo to v ponedeljek res tu.</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.5"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Medklic:</u>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.5" type="location">Medklic:</note>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.6"
                who="#unknown"
-               ana="#taxonomy.3.1.1">Gospod predsednik, kaj pa če se zmenimo, da v ponedeljek oddamo, pa da dobite v torek?)</u>
+               ana="#taxonomy.3.1.1">Gospod predsednik, kaj pa če se zmenimo, da v ponedeljek oddamo, pa da dobite v torek?</u>
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Ne, ker gre verjetno v torek, če bo vse posreči v tisk. Torej v ponedeljek.</u>
@@ -1360,12 +1028,12 @@
             <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.14"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Ima še kdo kakšno vprašanje? Meni je po eni strani žal, po drugi pa sem seveda vesel, da s tem zaključujem 7. sejo Zbora združenega dela.</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.15"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Aplavz.)</u>
-            <u xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.16"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Seja je bila zaključena ob 14.45 uri.)</u>
+            <incident xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.15"
+                      who="#komentator"
+                      ana="#taxonomy.3.1.1">
+               <desc>Aplavz.</desc>
+            </incident>
+            <note xml:id="Sk-11.1990-10-12.ZbZdruDel.s007-01.u-65.16" type="time">Seja je bila zaključena ob 14.45 uri.</note>
             <anchor xml:id="DZ-1990-ZbZdruDel-7.stage.t.6"/>
          </div>
       </body>

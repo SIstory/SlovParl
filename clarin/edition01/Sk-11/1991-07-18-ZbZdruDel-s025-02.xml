@@ -24,8 +24,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega zgodovinopisja</publisher>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
             <distributor>DARIAH-SI</distributor>
+            <distributor>CLARIN.SI</distributor>
             <pubPlace>https://github.com/SIstory/SlovParl/tree/master/clarin/edition01</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
@@ -34,7 +35,7 @@
                <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
             </availability>
-            <date when="2016-07-26+02:00"/>
+            <date when="2016-08-03+02:00"/>
          </publicationStmt>
          <sourceDesc>
             <bibl>ZbZdruDel-Sk-11.xml</bibl>
@@ -45,48 +46,6 @@
             <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
                 infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
          </projectDesc>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="TEI" occurs="1"/>
-               <tagUsage gi="anchor" occurs="4"/>
-               <tagUsage gi="availability" occurs="1"/>
-               <tagUsage gi="bibl" occurs="1"/>
-               <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="date" occurs="2"/>
-               <tagUsage gi="distributor" occurs="1"/>
-               <tagUsage gi="div" occurs="94"/>
-               <tagUsage gi="encodingDesc" occurs="1"/>
-               <tagUsage gi="fileDesc" occurs="1"/>
-               <tagUsage gi="front" occurs="1"/>
-               <tagUsage gi="item" occurs="8"/>
-               <tagUsage gi="licence" occurs="1"/>
-               <tagUsage gi="linkGrp" occurs="1"/>
-               <tagUsage gi="list" occurs="1"/>
-               <tagUsage gi="p" occurs="3"/>
-               <tagUsage gi="particDesc" occurs="1"/>
-               <tagUsage gi="persName" occurs="2"/>
-               <tagUsage gi="person" occurs="1"/>
-               <tagUsage gi="profileDesc" occurs="1"/>
-               <tagUsage gi="projectDesc" occurs="1"/>
-               <tagUsage gi="ptr" occurs="503"/>
-               <tagUsage gi="pubPlace" occurs="1"/>
-               <tagUsage gi="publicationStmt" occurs="1"/>
-               <tagUsage gi="publisher" occurs="1"/>
-               <tagUsage gi="ref" occurs="2"/>
-               <tagUsage gi="resp" occurs="2"/>
-               <tagUsage gi="respStmt" occurs="2"/>
-               <tagUsage gi="setting" occurs="1"/>
-               <tagUsage gi="settingDesc" occurs="1"/>
-               <tagUsage gi="sourceDesc" occurs="1"/>
-               <tagUsage gi="teiHeader" occurs="1"/>
-               <tagUsage gi="text" occurs="1"/>
-               <tagUsage gi="timeline" occurs="1"/>
-               <tagUsage gi="title" occurs="16"/>
-               <tagUsage gi="titleStmt" occurs="1"/>
-               <tagUsage gi="u" occurs="386"/>
-               <tagUsage gi="when" occurs="4"/>
-            </namespace>
-         </tagsDecl>
       </encodingDesc>
       <profileDesc>
          <particDesc>
@@ -225,7 +184,6 @@
             <list>
                <item xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.toc-item1">
                   <title>Ugotavljanje prisotnosti delegatov</title>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.3"/>
                </item>
@@ -240,7 +198,6 @@
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.7"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.8"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.9"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.4"/>
@@ -251,13 +208,9 @@
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.9"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.10"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.11"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-154.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-154.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-155.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-155.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-156.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-156.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.4"/>
@@ -265,70 +218,46 @@
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.6"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.7"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.8"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-158.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-158.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-159.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-159.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-159.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-159.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-159.5"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-160.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-160.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-161.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-161.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-162.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-162.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.6"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-164.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-164.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-165.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-165.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-165.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-166.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-166.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-167.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-167.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-167.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-168.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-168.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.6"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.7"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-170.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-170.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-171.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-171.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-172.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-172.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-173.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-173.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-173.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-173.4"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-174.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-174.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-175.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-175.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-176.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-176.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-177.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-177.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-178.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-178.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-179.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-179.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-179.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-180.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-180.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.4"/>
@@ -341,13 +270,9 @@
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.11"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.12"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.13"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-182.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-182.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-183.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-183.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-184.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-184.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.4"/>
@@ -356,48 +281,34 @@
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.7"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.8"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.9"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-186.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-186.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-186.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-186.4"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-187.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-187.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-188.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-188.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-188.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-189.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-189.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-189.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-189.4"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-190.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-190.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.4"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.6"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.7"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.8"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.9"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.10"/>
                </item>
                <item xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.toc-item4">
                   <title>Predlog za izdajo zakona o zdravstvenem varstvu in zdravstvenem zavarovanju, z osnutkom zakona (5. TOČKO.)</title>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.11"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.12"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-192.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-192.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-192.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.6"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-194.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-194.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.4"/>
@@ -406,180 +317,118 @@
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.7"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.8"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.9"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-196.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-196.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.6"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.7"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-198.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-198.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.6"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.7"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-200.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-200.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-201.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-201.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-202.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-202.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-203.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-203.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-203.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-204.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-204.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-205.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-205.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-206.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-206.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-207.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-207.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-207.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-207.4"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.4"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-209.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-209.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-209.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-209.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-209.5"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.6"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.7"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.8"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.9"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.10"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.11"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.12"/>
                </item>
                <item xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.toc-item5">
                   <title>Predlog za izdajo zakona o lekarniški dejavnosti, z osnutkom zakona (6. TOČKO DNEVNEGA REDA)</title>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.13"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-211.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-211.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.5"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.6"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.7"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.8"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.9"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.10"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.11"/>
                </item>
                <item xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.toc-item6">
                   <title>Soglasje k statutarnem sklepu Univerze v Mariboru (9. TOČKA DNEVNEGA REDA)</title>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.12"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.13"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.14"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.15"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.16"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.17"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.18"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.19"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.20"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.21"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.22"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.23"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.24"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.25"/>
                </item>
                <item xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.toc-item7">
                   <title>Obravnava poročila Mandatno-imunitetne komisije Zbora združenega dela (11. TOČKI)</title>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.26"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.6"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.4"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-215.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-215.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-216.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-216.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-217.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-217.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-217.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-218.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-218.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-219.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-219.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-220.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-220.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-221.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-221.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-221.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-222.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-222.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-223.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-223.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-224.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-224.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-225.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-225.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-225.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-226.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-226.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-227.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-227.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-228.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-228.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-229.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-229.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-230.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-230.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-231.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-231.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-232.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-232.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-233.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-233.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-233.3"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-233.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-233.5"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-234.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-234.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-235.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-235.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-236.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-236.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-237.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-237.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-238.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-238.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-239.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-239.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-239.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.4"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.5"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.6"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.7"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.8"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.9"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.10"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.11"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.12"/>
                </item>
                <item xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.toc-item8">
@@ -587,51 +436,33 @@
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.13"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.14"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.15"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.16"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.17"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.18"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.19"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.20"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.21"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.22"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.23"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.24"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.25"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.26"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.27"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.28"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.29"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.30"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.31"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.32"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.33"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.34"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.35"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.36"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.37"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.38"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.39"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.40"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.41"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.42"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.43"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.44"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.45"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.46"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.47"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.48"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.49"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-241.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-241.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-242.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-242.2"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-243.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-243.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-243.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.1"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.2"/>
                   <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.3"/>
-                  <ptr target="#Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.4"/>
                </item>
             </list>
          </div>
@@ -655,9 +486,6 @@
          </timeline>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-152">
             <anchor xml:id="DZ-1991-ZbZdruDel-25.stage.t.7"/>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.1"
-               who="#komentator"
-               ana="#taxonomy.2.8">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-152.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">Drage poslanke, poslanci,dragi gostje! Nadaljujemo s 25. sejo Zbora združenega dela Skupščine Republike Slovenije, ki smo jo včeraj 17.7.1991 prekinili. Na današnji seji je prisotnih žal samo 41 poslancev. Opravičenih je petnajst. Toliko nas je, da lahko začnemo z delom. Trdno sem prepričan, da bo nekaj poslancev še prišlo. Za današnjo obravnavo so ostale še naslednje tri točke:</u>
@@ -684,9 +512,6 @@
                ana="#taxonomy.3.9.6.2">Želijo poročevalci delovnih teles besedo? Prosim, gospod Jože Arzenšek, v imenu Odbora za zdravstvo.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-153">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">DR. JOŽE ARZENŠEK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-153.2"
                who="#ArzensekJoze1942"
                ana="#taxonomy.3.9.6.2">Spoštovano predsedstvo, spoštovani zbor, kolegice, kolegi, poslanci! Danes se je ob 9,30 uri sestal Odbor za zdravstvo pri Skupščini Republike Slovenije, s tem da smo obravnavali stališča Ministrstva za zdravstvo, družino in socialno varstvo do zbranih pripomb k osnutkom zdravstvenih zakonov. Povzel bi čisto na kratko nekaj sklepov iz razprave.</u>
@@ -719,33 +544,21 @@
                ana="#taxonomy.3.9.6.2">Zraven bi podal tudi to: predlog je, da bi se praktično vsi člani odbora posamično javili v razpravi po posamezni zakonodaji in podali svoja mnenja in predloge in seveda pričakuje se, da bi se tudi že v tej fazi predloga za izdajo zakona vključili vsi člani našega zbora, kolegice poslanke in kolegi poslanci, zato, da bi največji dele - pripomb, sprememb, predlogov itd., vključno mogoče tudi z vprašanji danes opravili, zato da bi bil osnutek čim kvalitetnejši in vsebinsko dorečen ali pa vsaj do neke mere usklajen med zakonodajalcem in izvajalci ter koristniki. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-154">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-154.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-154.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala lepa. naslednji razpravljalec je gospod Remškar.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-155">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-155.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">DR. JANEZ REMŠKAR:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-155.2"
                who="#RemskarJanez1947"
                ana="#taxonomy.3.9.6.2">Spoštovani. Tudi jaz bi pravzaprav kar združil 4. in 5. točko, če je dovoljeno. Mislim da ne bomo...</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-156">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-156.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-156.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Bolje je ločeno.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-157">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">DR. JANEZ REMŠKAR:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-157.2"
                who="#RemskarJanez1947"
                ana="#taxonomy.3.9.6.2">Torej zdravstvena dejavnost. V zvezi s tem bi rekel naslednje: pred časom, ko smo sprejemali proračun, se je v okviru denarja za zdravstvo razvila zelo burna debata oz. diskusija. Tedaj se je sekretariat postavil na stališče, da bodo pač v zdravstvu, glede na splošne razmere v Sloveniji, potrebne določene omejitve in pri tem tudi predlagal ukrepe. Iskreno rečeno, sam sem temu pritrdil. Te razmere dobro poznam po dvajsetih letih dela v zdravstvu, ocenjujoč delo sekretariata kot vzpodbudno in na novo zastavljeno. Zakaj? Do sedaj smo sprejemali najrazličnejše racionalizacije v zdravstvu, vendar so ti ukrepi zajemali le nepomembne segmente. Racionalizacija pa se ni nikjer in nikdar dotaknila, če hočete - po moji oceni - bistvenega, torej organiziranosti v zdravstvu, in sicer regionalne razdrobljenosti. S predlogi sekretariata sem menil - ocenil sem tako - da je zapihal nov veter, skratka, da so se končno pojavili ljudje, ki bodo ugriznili v zelo kislo jabolko in pričeli resno ukrepati. Vendar sta me nadalji potek dogodkov in pa še predložena zakonodaja v določeni meri pravzaprav razočarali. Glede zdravstvene dejavnosti bi govoril na osnovi stališča zdravnikov Gorenjske. Zdravniki zahtevamo predvsem bistveno večje kompetence zbornice, v primerjavi s tem, kar je predvideno v zakonu, in s tem tudi manjše vpletanje države.</u>
@@ -769,17 +582,11 @@
                ana="#taxonomy.3.9.6.2">Na drugi strani si sami postavljamo spet dodatni otežilni pogoj, preverjanje znanja na pet do sedem let. Povejte mi grupo ljudi, ki bo sama sebi postavljala take pogoje in na drugi strani spet ponovno izjemno netolerantnost in nazupanje sekretariata. Rad bi vam pokazal, če je možno, bomo tudi fotokopirali anketo, ki je bila opravljena med zdravniki in bo prišla v javnost. Zaenkrat imam odgovor 645 zdravnikov, kjer so se opredeljevali na eni strani do stališč tako, kot so postavljena v zakonu, na drugi strani tako, kot so bili napi predlogi predlogi zdravnvištva. Lahko vam zagotavljam - to so razultati, ki bodo prišli v javnost - da so se v veliki večini, in to od 85 % in navzgor zdravniki odločali za sedaj navedene moje argumente in ne za stališča sekretariata. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-158">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-158.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-158.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala lepa. Gospod Židanik.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-159">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-159.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. ANTON ŽIDANIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-159.2"
                who="#ZidanikAnton1942"
                ana="#taxonomy.3.9.6.2">Glede na to, ker je bil sklep tega zbor, da se ob razpravi okrog zdravstvene zakonodaje razpravlja tudi o problematiki zdravstva, bi svojo razpravo razširil, posebno še glede na to, ker sem same pripombe na zakonodajo dal preko raznih inštitucij, kjer sodelujem in so bile že posredovane Sekretariatu za zdravstvo. Glede na trifazni postopek pa bo še dovolj časa za poglobljeno razpravo okrog same zakonodaje. Danes je stanje v zdravstvu takšno, da je pred zlomom, in sicer imajo zdravstvene delovne organizacije neporavnanih računov v višini 1,2 milijarde din. Čeprav to izgleda ogromno, moramo priznati, da glede na to, ko smo sprejemali proračun in ugotavljali, da je proračun za 2,3 milijarde prekratek, ugotavljali,, da je proračun za 2,3 milijarde prekratek, pomeni teh 1,2 milijarde v polovici leta pričakovan izpad in ni nič presenetljivo. Mi že ves čas v zdravstvu opozarjamo na ta izpad v samem proračunu. Ko smo proračun sprejemali, smo istočasno sprejemali tudi določene ukrepe, ki jih je predložila vlada, vendar se je sama vlada in sekretariat oz. po novem Ministrstvo za zdravstvo ustavilo na pol poti. Že prej smo kolega Remškarja slišali, da tiste ukrepe, ki bi jih morali izvesti v smislu omejevanja pravic do zdravstvenih storitvah, krčenje glede kapacitete, ki jih ocenjujejo, d aso predimenzionirane; ti ukrepi so bili ustavljeni in tu praktično nismo nadaljevali. Kot veste, smo že dalj časa ugotavljali, da inflacija dela svoje in zdravstvo posluje na cenah iz meseca decembra, praktično že šest mesecev nespremenjeno in ko je zadnjič tekla razprava okrog dvigovanja osebnih dohodkov ali sredstev za osebne dohodke za delavce v državni upravi oz. za funkcionarje, je bil tudi sklep tega parlamenta, da naložimo Izvršnemu svetu, da enako renominacijo sredstev pripravi za ostale koristnike proračuna, se pravi za družbene dejavnosti. Moram reči, da je Izvršni svet temu prisluhnil in je po enakih kriterijih kot za državno upravo tudi za družbene dejavnosti pripravil renominacijo v višini 38 % za materialne stroške in 18,5 % za osebne dohodke. Davi slišimo, da je Sekretariat za finance zamrznil tako renominacijo, s tem da je seveda zaradi novih pogojev, ki so nastali ob agresiji v Sloveniji, dal prioritete, mislim da so tudi upravičene, vendar sprašujem se, ali je lahko Ministrstvo za finance te prioritete določilo. Mislim, da je najmanj Izvršni svet tisti, ki lahko odloča o tem, vsekakor pa je to v domeni parlamenta.</u>
@@ -794,33 +601,21 @@
                ana="#taxonomy.3.9.6.2">Dalj časa že opozarjam na to, da v družbenih dejavnostih še nimamo podpisane kolektivne pogodbe, da ne govorim o tem, da v zdravstvu nimamo podpisane kolektivne pogodbe; in končno vprašanje, ki sem ga tudi kot delegat postavil, pa nanj nisem dobil odgovora, to je zaradi zamikov pri financiranju. V zdravstvu najemamo zelo drage kredite. Kdo nam bo te kredite oziroma obresti na najete kredite plačeval, je pa seveda še naslednje vprašanje. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-160">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-160.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-160.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Gospa Keber.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-161">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-161.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. IRENA KEBER:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-161.2"
                who="#KeberIrena1947"
                ana="#taxonomy.3.9.6.2">Spoštovani poslanci in poslanke! Rada bi spregovorila samo o enem členu zakona o zdravstveni dejavnosti in sicer o zasebni zdravstveni dejavnosti, o kateri je govoril že kolega Remškar. Popolnoma podpiram njegovo izvajanje. Rada bi vam sporočila mnenje večine zdravnikov v Kliničnem centru, ki menijo, da je taka določba v zakonu, ki onemogoča popoldansko zasebno delo oziroma samoplačniško zasebno delo, lahko zelo škodljiva. Zaradi česa škodljiva? Zato, ker bo lahko privedla do bega velikih strokovnjakov, ki jih je malo na določenih področjih, iz državnega zdravstva v javno zdravstvo. Ob tem se nam lahko porušijo cele stroke v Kliničnem centru. Onemogočeno je pedagoško delo na medicinski fakulteti in tudi raziskovalno delo. Zato menimo, da bi moral predlagatelj upoštevati želje večine zdravnikov, da se to vključi v zakonodajo. To imajo sprejeto tudi druge države, v katerih gre bodisi za pretežno zasebno zdravstvo, kot je v ZDA in pa tudi tiste, kjer gre pretežno za državno zdravstvo: Švedska ima na ta način urejeno, Nemčija tudi omogoča in predlagam, da se upošteva predlog zdravstvenega sveta, ki predlaga, da se omogoči popoldansko zasebno delo vsaj tistim strokovnjakom v državnem zdravstvu, ki so se izkazali z dosedanjim delom, ki imajo nazive profesor, docent; ki imajo druge nazive. S tem bomo stimulirali zdravnike v državnem zdravstvu, da bodo težili k večji strokovnosti in hkrati zaščitili državno zdravstvo. Mislim, da moramo tudi državno zdravstvo zaščititi. Ne si želeti, da bi bil pretežni del zdravstva v privatnih rokah. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-162">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-162.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-162.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala lepa. Gospod Rode.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-163">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. PRIMOŽ RODE:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-163.2"
                who="#RodePrimoz1942"
                ana="#taxonomy.3.9.6.2">Hvala lepa. Najprej bi se dotaknil vprašanja sekundariata, ko končaš medicinsko fakulteto, se seveda postavlja vprašanje, moram samokritično povedati, kako veliko je tvoje praktično znanje, ki ga boš lahko v trenutku uporabil oziroma ga boš moral uporabiti pri svojih bolnikih? Iz izkušenj, ne samo mojih, tudi moj predhodnik kolega Remškar je na to opozoril, je to relativno znanje. Zato ga je treba, v kolikor lahko začneš normalno delati, utrditi, predvsem pa na novo vzpostaviti. Poglejte, če vzamemo da 19-letnik konča gimnazijo, ima potem šest let medicinske fakultete, je star 25 let in seveda mi on njega zahtevamo še sekundariat. Osebno menim in tudi kolegi, s katerimi sem se pogovarjal, da je sekundariat nujno potreben, vendar mora biti natančno opredeljen. Kaj naj v tem sekundariatu kandidat dobi? Torej kandidat mora predvsem obvladati stroko v tem smislu, da bo lahko na nekem določenem področju deloval. Recimo, rečemo na splošnem kot splošni zdravnik. To mu mora po mojem mnenju sekundariat dati in šele kot tak, z zagotovljenim sekundariatom gre lahko bodisi v splošno prakso, vprašanje je seveda, ali pa potem na specializacijo. Vendar pa ne smemo zardi tega, ker je sedaj star že 27 let oziroma med 25 in 27 letom in ima družino, pa ga pri tem prikrajšati. Zaradi tega je treba urediti predvsem financiranje in tukaj v zakonu ne vidim od kod se bo ta denar za tega zdravnika dobil. Je pa to odločilno vprašanje.</u>
@@ -838,17 +633,11 @@
                ana="#taxonomy.3.9.6.2">Še glede zbornice. Moramo si biti na jasnem, da si želimo, da bi v zbornici delali največji strokovnjaki z določenega področja, ki bi bili pravzaprav monitorni za delovanje zdravnikov in mislim, da bi se morali prav v zbornici in vas prosim, da podprete ta predlog, da je zbornica tista, ki kontrolira delo zdravnika po končani medicinski fakulteti. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-164">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-164.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-164.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala lepa. V našem zboru imamo šest zdravnikov poslancev. Pet jih je govorilo, gospod Mikuš je upravičeno odsoten, ker je že več mesecev bolan, tako da glede na to kar je gospod Arzenšek rekel, smo slišali del zdravnikov poslancev, na drugi strani pa smo videli oziroma prebrali predlog vlade, tretji pa smo koristniki in naj zdaj slišimo še kaj menijo o tem koristniki. Prvi se je prijavi gospod Prelovec.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-165">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-165.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">VALENTIN PRELOVEC:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-165.2"
                who="#PrelovecValentin1934"
                ana="#taxonomy.3.9.6.2">Spoštovani zbor! Kar lepo vas je bilo poslušati, kako pazljivo ste svojo lastno zakonodajo preštudirali in prišli povedati kje, kaj, kako bi se dalo, da bi bilo boljše. Nastopam kot nepristranski ali pa, kot je rekel gospod predsednik, kot potrošnik teh dobrin in istočasno nastopam tudi kot nekdo iz gospodarstva, ki že dolgo opaža, da je skozi našo zakonodajo, ki smo jo tukaj sprejemali non-stop bežalo nekaj, ena srž v raznih delovnih zakonodajah, pred katero si zatiskamo oči in o kateri pravzaprv nočemo jasno in glasno govoriti. Namreč, dr. Remškar je veliko povedal o prizadetosti tistega kadra, ki mu na ta način ne bi bilo dovoljeno popoldne delati. To se pravi, spet smo pri popoldanski dejavnosti. Sam krivim zakonodajo, pa ne ex legalis, kakor tukaj piše, posebno zakonodajo, ki bi morala za vsakega posebej urejevati, kako naj bi delal.</u>
@@ -857,17 +646,11 @@
                ana="#taxonomy.3.9.6.2">Nedolgo tega smo imeli na mizi osnutek, preložili smo razpravo oz. smo razpravljali. To je zakon o registraciji dejavnosti, kjer lepo pove, da bo za delo v zdravstvu pač skrbel poseben zakon. Mislim, da postavljamo stvari nekako na glavo. Na tem mestu sem mogoče že trikrat povedal, da vsakokrat, ko pride nekdo iz Izvršnega sveta razlagati o novem predlogu zakona, se najprej pohvali, da je to sodobna zakonodaja, ki sloni na zahodnih utemeljitvah; tako pač delajo naši sosedje in če bomo mi delali tako, ne moremo pogrešiti. Temu vsekakor dajem prav. Mimo nas pa ponovno beži srž vsega skupaj, delovni urnik. Zamislite si, koliko dilem manj bi bilo, če bi imeli tudi mi evropski delovni urnik. Delat se gre ob 8.00 ali 8.30 in potem, kako naj še razmišljamo o popoldanskem delu? Krivico delamo tudi tu, mogoče je popoldansko delo naša iznajdba, da se razumemo. Okarektizirali smo novi zakon o osebnem delu, kjer sem imel neslavno nalogo, da ga tu notri miniram, pa potem tudi prvi osnutek obrtnega zakona, kjer ponovno vlečemo popoldansko delo. Jaz pa vprašam nekaj drugega. Kaj ne bi lahko nekdo bil, gospod Remškar, zaposlen v ordinaciji ali pa mogoče kje v bolnici s pogodbo za šest ur, pa da ima svojo specialno ordinacijo za dve ali tri ure, ki pa je tudi registrirana za tolikšen čas? Ali ne bi stvari prekvalificirali, preimenovali drugače? Npr. registracija za nepolni delovni čas, ampak registrirano kot normalno delo. To ni nič novega v svetu. Jaz sam sem opazoval in potem tudi vprašal na sredi Ženeve, ko je ženska-policaj usmerjala promet dve uri in je to bila njena celotna služba. Ona je prišla na tisto delovno mesto, delal dve uri v špici in odšla. To je bila njena cela služba. Zakaj ne bi v naš prostor končno te prepire, ki jih imamo o tem, ali delati popoldne ali ne delati popoldne, enkrat za vselej naredili temu konec in rekli v zakonu o registraciji dejavnosti, da je dovoljeno delati nepolni delovni čas; izhajam tudi iz potreb občinstva oziroma občanov. Občani imajo potrebo za nepolnega obrtnika, če izhajam iz svojega resorja za nekoga, ki bo vse te usluge opravil v treh urah, pa tudi zdravnik bi to opravil v treh urah v taki in taki ambulanti tam gor nekje v hribih, recimo enkrat ali pa dvakrat na teden. V to zakonodajo, v register dejavnosti moramo vnesti te elemente. Kako jih vnesti? Nisem strokovnjak za to. Samo pokazal bom, kaj bi bilo potrebno potem pa dajte vi v Izvršnem svetu pomisliti pa nam prinesite pred naš zbor oz. pred skupščino predloge. In ne tukaj spravljati ljudi v nemogoč položaj, da nam bo iz Kliničnega centra specialist pobegnil, ker mu pač z zakonom ne bomo dovolili delati dve uri popoldne ali zvečer. Popolnoma normalno se mi zdi, da bo nekdo operiral tri ure, da bo nekdo delal v specialni ordinaciji naslednji dve uri in da bo mogoče delal dve uri nekje popoldan; samo naj bo registrirano z zakonom. Za toliko časa bo registriran in za toliko bo delal. To so tisti prepusti, ki smo jih vseskozi prepuščali, pa se nam vračajo kot bumerang nazaj pri specialnih zakonih. Mogoče bo zdaj prišel drug zakon na vrsto pa bomo spet imeli isto na vrsti. zaradi tega bi usmeril diskusijo oziroma pazljivost v drugo smer, da rešimo to skozi zakonodajo in naredimo enkrat za vselej mir. To se pravi: delovni urnik naj bo evropski, če že hočemo v Evropo in imeti tako zakonodajo, kjer se bo dovoljevalo katerikoli dejavnosti za toliko in toliko ur regularne dejavnosti, ne pa pod nazivom popoldanska itd. Saj nam je vendar to zakon o zavarovanju - včeraj smo ga imeli tu na diskusiji - že dejansko rešil. osnovo bomo pač plačevali, če bo nekdo hotel bo pa še nekaj več plačeval. Mislim, da je to, kar sem rekel, čisto upravičeno. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-166">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-166.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-166.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala. Replika gospoda Remškarja.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-167">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-167.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. JANEZ REMŠKAR:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-167.2"
                who="#RemskarJanez1947"
                ana="#taxonomy.3.9.6.2">Čisto kratko. Mislim, da se popolnoma ujemava z gospodom Prelovcem, kajti tudi sam sem že omenil, da pravzaprav termin "popoldansko delo" sploh ni ustrezen in dezavuira in dezinformira ljudi, kajti gre, moram še enkrat poudariti in mislim da smo vsi, ki smo govorili o tem problemu, mislili, da gre v bistvu na prvi stopnji za samoplačniške ordinacije, ki ne bodo na noben način in naj ne bi na noben način obremenjevale skupne kase.</u>
@@ -876,17 +659,11 @@
                ana="#taxonomy.3.9.6.2">Druga stvar, ki ste jo omenili, to je evropski delovni čas pa je v zdravstvu gotovo na nek način potrebe, še toliko bolj, kajti v finančni stiski kakršni smo, bo seveda tudi taka razporeditev dela na cel dan pomenila racionalizacijo. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-168">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-168.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-168.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala lepa. Tu je pisno oddal razpravo Roman Jakič tudi v imenu Liberalno-demokratske stranke, ki ima potem tudi nekaj konkretnih predlogov k posameznim členom in kar precej materiala so pripravili v okviru Zveze svobodnih sindikatov Slovenije, ki postavljajo tudi neke določene zahteve, kar pa menim, da ni prav, saj mora Izvršni svet presoditi, kaj je prav in kaj ni. Ne moreš postavljati kar zahtev in bi jih tudi dali h gradivu. Tako da imamo tu še dve pisni razpravi. Želi še kdo? Prosim, Majda Oblak.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-169">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">MAJDA OBLAK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-169.2"
                who="#OblakMajda1946"
                ana="#taxonomy.3.9.6.2">Jaz ne bom, bom pa v imenu Petra Starca, ki me je prosil, da naj podam njegovo razpravo k zakonu o zdravstveni dejavnosti, če se do konca razprave ne bo vrnil. Žal se doslej še ni vrnil in bom v njegovem imenu prebrala njegov predlog popravkov tega zakona.</u>
@@ -907,33 +684,21 @@
                ana="#taxonomy.3.9.6.2">V primerjavi s prejšnjo zakonodajo določila osnutka bistveno natančneje urejajo področje zdravstvene dejavnosti v socialnih zavodih. Legalizirajo stvari, ki so dejansko obstajale, npr., pri priročni zalogi zdravil, 24. člen osnovnega zakona o lekarniški dejavnosti in jih je mogoče tako strokovno ustrezno urejati. Potrebno pa bi bilo v zakonih zagotoviti pogoje, po katerih bi bilo nujno pripraviti doponilne podzakonske akte ministrstva, da bi lahko določili obseg zdravstvene dejavnosti v socialnih zavodih, odgovornost in pristojnosti za organizacijo in izvajanje le-te, normative in merila za izvajanje zdravljenja in zdravstvene nege v socialnih zavodih. No ko sem že pri besedi, bi tudi sama v svojem imenu predlagala, da v ministrstvu razmislite o povezavi, in sicer predlagam povezavo soodgovornosti obratnega zdravnika. Vem, da bodo kolegi zdravniki sedaj mogoče negativno reagirali, vendar mislim, da mi v gospodarstvu prevečkrat čutimo pomanjkanje čuta soodgovornosti za določene zadeve v podjetjih. Obratni zdravnik za zdravstveno stanje delavca v tistem podjetju, za katerega bodi obratno ambulanto, bi moral biti na nek način stimuliran ali soodgovoren, ne vem kaj, za koriščenje bolniškega staleža teh delavcev in pa seveda za urejanje vse dokumentacije v zvezi z invalidsko upokojitvijo, če je delavec resnično bolan. Pri nas, v mojem podjetju lahko iz lastnih izkušenj povem, imamo zaradi tega ker pač zdravljenje ni končano, če je človek pač tako bolan, traja pet ali šest let, bolniški stalež je skoraj neprekinjen ali s prekinitvijo par dni. Mislim, da mora obratni zdravnik vedeti, da ta delavec ne more več delati in mora tej invalidski komisiji to na nek način znati tudi dopovedati. Mislim, da bi pri teh stvareh morali izpeljati neko povezavo, ker v podjetjih tudi ne moremo imeti na spisku ljudi, delavcev, ki so po več let odsotni ali pa prihajajo samo za dan ali dva pa se spet ne čuti več zmožnega delati, invalidska komisija pa kontra temu, kjer so tudi zdravniki, trdi, da lahko dela. Na nek način je treba to soodgovornost obratnega zdravnika in zdravnika invalidske komisije in delavcev, ki smo strokovno zadolženi v podjetju, da se te stvari skupaj urejajo, ne pa, da je to res nedorečena zadeva. Opravičujem se kolegom zdravnikom, ampak stanje je dejansko tako.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-170">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-170.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-170.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Druga replika g. Remškar.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-171">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-171.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. JANEZ REMŠKAR:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-171.2"
                who="#RemskarJanez1947"
                ana="#taxonomy.3.9.6.2">Mislim, da je očitek popolnoma upravičen in ga tudi sprejemamo in je posledica tistega stanja, o katerem sem jaz prej govoril. V splošni ordinaciji, na žalost, ko naj bi imeli zrele, sposobne ljudi, imamo pri nas začetnike. In zaradi tega se, ne povsod, velikokrat dogaja, da ljudje na tak ali drug način izsilijo to bolniško. Zdravnik v ordinaciji si ne zna pomagati, piše predloge na komisijo, komisija seveda to, kot ste sami rekli, zavrača in potem se igra s tem bolniko pink-ponk. In v tem smislu, kot je predlog v teh zakonodaji, bi marsikateri problem rešili ravno na račun izkušenosti zdravnikov.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-172">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-172.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK dr. JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-172.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala. Gospod Vili Sekereš še predlaga: meni, da bi bilo potrebno v čim krajšem času urediti vprašanje lastninjenja, ki pogojuje v nekaterih primerih organiziranje zavodov. Gospa Prešernova.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-173">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-173.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">TATJANA PREŠEREN:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-173.2"
                who="#PreserenTatjana1954"
                ana="#taxonomy.3.9.6.2">Danes smo prejeli stališča Ministrstva za zdravstvo, družino in socialno varstvo do številnih pripomb, ki so bile posredovane k osnutkom zdravstvene zakonodaje. Rada bi izrazila zadovoljstvo nad stališčem ministrstva, da sprejema večino pobud, ki jih je posredovala Zveza društev za cerebralno paralizo. Namreč, da je zdravstveno varstvo otrok in mladine z motnjami v razvoju potrebno celoviteje vključiti v vse zakone s področja zdravstvenega varstva.</u>
@@ -945,49 +710,31 @@
                ana="#taxonomy.3.9.6.2">Obenem pa bi v imenu koristnikov zdravstvenih storitev oz. predvsem koristnic rada izrazila tudi določeno bojazen nad določili osnutka zakona o zdravstveni dejavnosti, ki odpirajo možnost ukinjanja dispanzerjev v zdravstvenih domovih - 10. člen. Mislim tu predvsem na dispanzerje za žene pri zdravstvenih domovih. Bojim se namreč, da bi se ukinitev teh dispanzerjev, tu izražala v negativnem smislu tako na področju preventivnih pregledov žena, kontracepcije in na sploh slabših možnosti oz. manjši dostopnosti teh storitev. Ocenjujem, da je dosedanje delo teh dispanzerjev zelo koristno in kvalitetno in da bi ga bilo smiselno obdržati tako tudi v bodoče. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-174">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-174.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-174.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala. Še kdo? Gospod Dretnik.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-175">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-175.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">IVAN DRETNIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-175.2"
                who="#DretnikIvan1921"
                ana="#taxonomy.3.9.6.2">Ob predlogu za izdajo zakona o zdravstvenem varstvu in zdravstvenem zavarovanju daje Komisija za socialo pri Slovenski kmečki zvezi - Ljudski stranki naslednja stališča.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-176">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-176.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-176.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">To gre za zdravstveno dejavnost gospod Dretnik. To, kar ste bi napovedali, je druga točka.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-177">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-177.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">IVAN DRETNIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-177.2"
                who="#DretnikIvan1921"
                ana="#taxonomy.3.9.6.2">Bom pozneje. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-178">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-178.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-178.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Prosim. Gospod Bizjak.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-179">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-179.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">DAVORIN BIZJAK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-179.2"
                who="#BizjakDavorin1938"
                ana="#taxonomy.3.9.6.2">Rad bi samo opozoril, ker ni bilo rečeno v dosedanji razpravi s strani predsedujočega, da je tudi Skupnost slovenskih naravnih zdravilišč dala pripombe na zakon o zdravstveni dejavnosti v dosedanji razpravi. Ne bi vas moril s temi pripombami, ker so bile v pismeni obliki poslane ministrstvu, bi pa prosil, da se v zapisnik uvede, da jih je dolžno ministrstvo ali predlagatelj upoštevati pri izdelavi osnutka zakona.</u>
@@ -996,17 +743,11 @@
                ana="#taxonomy.3.9.6.2">V glavnem se vse pripombe nanašajo na ekzaktnejšo vlogo slovenskih naravnih zdravilišč v okviru zdravstvene dejavnosti naše države, nekatere pomenijo samo jasnejše formulacije, nekatere pa morda malo poudarjene preventivne vloge in poslanstva zdravstva na sploh. Ker se je že zgodilo, da so se nekateri taki pismeni materiali potem v nadaljnji razpravi izgubili, bi prosil, da se to obvezno upošteva in da so se o usodi teh predlogov na naslednji seji ob obravnavi osnutka poroča. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-180">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-180.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-180.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Da bo to tudi jasno. Pisni predlogi, če pridejo, ne obveljajo pri nas. Mi jih seveda posredujemo naprej. Tako kot pa je sedaj gospod Bizjak povedal, pa seveda obveljajo, ker je o njih govoril poslanec v našem zboru in je to avtomatično v zapisniku in to tudi seveda ve Izvršni svet. Na tak način je veliko bolje, da se ne zanašete na pisanje, ki prihaja na Skupščino ampak, da ga vi ustno tu posredujete in je seveda to tisto pravo. Besedo ima gospa Osterman.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-181">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">ANKA OSTERMAN:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-181.2"
                who="#OstermanAnka1940"
                ana="#taxonomy.3.9.6.2">Hvala za besedo. Prinašam pripombe na osnutek o zdravstveni dejavnosti, ki smo jih oblikovali skupaj z zdravniškim društvom v Ptuju, resornem organu občine in pa v stranki SDP. Večino strokovnih pripomb ne bom podajala, ker so jih zdravniki iz Ptuja že podali preko svoje stanovske organizacije, pač pa samo nekatere.</u>
@@ -1045,33 +786,21 @@
                ana="#taxonomy.3.9.6.2">In v 71. členu menimo, da bi bolj enostavno in boljše bilo napisano, če prve tri vrstice: izvajalci javne zdravstvene službe in drugi izvajalci zdravstvene dejavnosti, ne pa samo zdravstveni zavodi ustanovijo združenje izvajalcev in potem našteva tako naprej. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-182">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-182.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-182.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala. Eno uro in dvajset minut razpravljamo o tej točki dnevnega reda. Mislim, da smo povedali že večino pripomb. Če je zdaj še kaj zelo pomembnega, nekaj takšnega, kar še ni bilo povedano, prosim! Ivo Daneu.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-183">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-183.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">IVO DANEU:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-183.2"
                who="#DaneuIvo1937"
                ana="#taxonomy.3.9.6.2">Hvala za besedo. Ni bilo povedano, ker smo športniki vedno na koncu. Rad bi samo opozoril, da ne bi pozabili na 7. člen v tem zakonu, to je pod II, vsebina zdravstvene dejavnosti, kjer je že itak bilo predlagano s strani odbora, da bi za šesto alineo dodali novo in sicer gre za zdravstvene preglede športnikov in antidoping kontrole, pa da ne bi še enkrat hodil iz klopi, isto velja tudi za tisti naslednji zakon , isto 7. člen, kjer bi se dodali pregledi nabornikov in športnikov ter antidoping kontrole. Ker šport tega denarja že doslej ni imel in ga tudi v bodočem proračunu verjetno ne bo imel, moramo pa verjetno paziti na to, da bodo tile naši otroci, čeprav so doslej bili pregledani v okviru šolskih poliklinik, vendar to ni isto, zato bi prosil, da se na to ne pozabi, bom pa budno spremljal, ko bomo imeli osnutek zakona. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-184">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-184.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-184.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala lepa. Je še kdo? kakšna replika? Če ne, predlagam, da mi, bi vi doktor radi še kaj? Prosim, besedo ima dr. Marija Mencej, svetovalka v Ministrstvu za zdravstvo, družino in socialno varstvo.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-185">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. MARIJA MENCEJ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-185.2"
                who="#MencejMarija"
                ana="#taxonomy.3.9.6.2">Gospod predsednik, spoštovani zbor. Mislim, da moram vendarle nekaj besed reči v pojasnilo nekaterih stvari, ki ste jih v razpravi omenili.</u>
@@ -1098,9 +827,6 @@
                ana="#taxonomy.3.9.6.2">Nekaj odprtih vprašanj je v osnutku odkrog formulacije oz. okrog opredelitve primarnega zdravstvenega varstva oz. osnovne zdravstvene dejavnosti; se strinjam. Na to je opozorila tudi dosedanja razprava in položaj in obseg dela. Celotno področje primarnega zdravstvenega varstva bo treba v okviru strokovnih skupin posebej obdelati, ravno tako tudi razmejitev do specialistične dejavnosti, ki jo bo treba posebej obravnavati, tako kot ste lahko prebrali tudi v tem našem komentarju, ki ste ga danes dobili. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-186">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-186.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK dr. JANEZ REMŠKAR:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-186.2"
                who="#RemskarJanez1947"
                ana="#taxonomy.3.9.6.2">Samo dve točki. Omenili ste, kdor bo delal dopoldne, bi lahko še tudi popoldne. Sprašujem vas, kako imajo to urejeno v Avstriji in Nemčiji? Ali vam je poznano?</u>
@@ -1112,17 +838,11 @@
                ana="#taxonomy.3.9.6.2">Omenili ste, da večina zdravnikov ni profesorjev. jaz sem vam pokazal anketo, ki ni bila poslana profesorjem, v kateri se večina zdravnikov, bom pa kar konkreten: zasebni zdravstveni delavec lahko opravlja zasebno zdravstveno dejavnost po naslednjimi pogoji: prva alinea v vašem predlogu, da ni v delovnem razmerju, 2 % neveljavnih odgovorov, 28 % za ta vaš predlog in 70 % proti vašemu predlogu. Torej ne gre za stališče večine zdravnikov, ki niso profesorji kot ste rekli, ampak gre za stališče sekretariata in nekaterih upravnih delavcev.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-187">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-187.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-187.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Hvala. Jaz bi počasi zaključil to razpravo. Še dva zakona imamo s tega področja, pa lahko še tudi to poveste. Prosim, gospod Jože Arzenšek bi še rad.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-188">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-188.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. JOŽE ARZENŠEK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-188.2"
                who="#ArzensekJoze1942"
                ana="#taxonomy.3.9.6.2">Imam samo en predlog. Prosil bi Ministrstvo za zdravstvo, da se mora pripaviti glede na veliko toleranco in pripravljenost na komunikativno sodelovanje in sokreiranje nadaljnje usode zakonodaje, da se trenutno ogradi od teh stvari in da bo moralo začeti rešpektirati tudi mnenje tistih, ki so nosilci teh stvari. Reči moram, da nisem danes govoril nič o tem, da je bil eden od očitkov odbora to, da se bojimo tega, recimo, da je izvajanje zdravstvene dejavnosti in storitev iz tega področja spet pod zelo veliko tako imenovano državno kontrolo, za kar pa moram reči, da je vprašljivo, če imamo funkcijo zdravniške zbornice in še kaj drugega in čeprav v stališčih piše, da temu ni tako. Ker to ni predmet današnje razprave, predlagam, da se ne pooblasti, ampak da odbor v nadaljnjih postopkih zavzame o tem stališča, po potrebi tudi on sam koga poprosi za mnenje in da se te stvari usklajuje z ministrstvom, vendar po načelu rešpektiranja drug drugega. Reči moram, da ta način, tudi to, da so bili upoštevani vsi pogoji ali pa že bistveno drugače spremenjene alinee pri funkciji zdravniške zbornice, to povsem ne drži. Bile so s posameznimi skupinami. Mi smo pa za to tu, da damo integralni tekst, da damo tako vsebino, ki bi nam zagotavljala nemoteno izvajanje zdravstvenega varstva, s čim manj težav in s čim manj podzakonskih aktov itd. Mora pa biti jasen in kratek.</u>
@@ -1131,9 +851,6 @@
                ana="#taxonomy.3.9.6.2">Predlagam, da tovrstne razprave tu ne bi bilo in mislim, da to lahko zaključimo, ampak da se pa dejansko sprejme. To pa predlagam predsedniku: predlog odbora je, kar je ponudil na seji odbora ministrstvu, da v fazi opredeljevanj ed ene faze obravnave do druge že sam sodeluje in skuša, preden bi ocenjeval delo oz. izdelek predlagatelja, kot se temu reče, že takrat sodelovati, da bi bilo čim manj pripomb in nesoglasij. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-189">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-189.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-189.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Izgleda, da bomo lahko zaključili, in če lahko povem še to: menim, da bo počasi postalo našim ministrom v Izvršnem svetu in tudi njihovim sodelavcem jasno, da ne gre več skozi skupščino vse tako kot si pač oni predstavljajo. Tu imamo razmišljujoče ljudi, predstavnike različnih institucij in je na tak način treba s tem računati. V skrajnem primeru se pač stvari odlagajo in se na tak način tudi pokaže določeno stališče. Menim, še hujše: v primeru, npr., da kakšen zakon ne bo sprejet, bi moral tisti minister takoj razmisliti, ali je še potreben na tistem ministrstvu. In bi počasi v našem demokratičnem sistemu morali tudi priti do tega, da je pač čisto normalno, da nekdo odstopi. Samo to verjetno v nekaterih glavah še ni zraslo oziroma dozorelo, ampak izgleda pa, da bo počasi do tega prišlo. Tako je pač treba. Zato se mi zdi normalno, da če bi bili ministri pametni, bi že v teku snovanja določenih aktov pridobile vse tiste, ki se na ter stvari spoznajo; ne pa, da jih odvrnejo. Trdno sem prepričan, da bo počasi do tega prišlo in bo na tak način vsak dokument, ki ga bomo v kasnejših mesecih sprejemali, bolj kakovosten in bo zadovoljil ene in druge.</u>
@@ -1145,17 +862,11 @@
                ana="#taxonomy.3.9.6.2">Ali želi o tem sklepu kdo razpravljati? Gospod Židanik.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-190">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-190.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. ANTON ŽIDANIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-190.2"
                who="#ZidanikAnton1942"
                ana="#taxonomy.3.9.6.2">Predlagal bi, da vsem trem zakonom zdravstvene zakonodaje dodamo še en sklep: da se zadolži sekretariat oz. Ministrstvo za zdravstvo, pa tudi vodstvo skupščine, da vse faze terminsko opredelijo tako, da bomo v letošnjem letu sprejeli te zakone, da bodo s 1. januarjem 1992 (tako kot smo predvideli) začeli veljati. Da se nam ne bi sedaj, ko smo prišli v trifazni postopek, cela stvar zavlekla v drugo leto. Namreč, moram reči, da smo zdravstveni delavci zainteresirani, da gremo ven iz proračunskega financiranja in ravno ta zakonodaja nam omogoča, da z uvedbo lastne zavarovalnice gremo iz tega proračuna.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-191">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Tu bi dodal samo to, kar je gospod Židani sedaj povedal - na koncu te 2. točke "v odboru dogovorjeni terminski plan" - nič drugega ni treba. je dovolj? Takoj, ko mi sprejmemo samo to: "Zbor združenega dela Skupščine Republike Slovenije sprejema predlog za izdajo zakona o zdravstveni dejavnosti", je gotovo, ne, in zato sem to tudi posebej izpostavil. Je v redu?</u>
@@ -1165,37 +876,26 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Kdo je za ta dva sklepa?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.5"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">(45 za.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.5" type="vote">45 za.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Je kdo proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.7"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.7" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.9"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.9" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Ugotavljam, da je zbor predlagani sklep sprejel soglasno.</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Sedaj imamo 5. TOČKO. Jaz bi predlagal, da bi namesto 5. točke - PREDLOG ZA IZDAJO ZAKONA O ZDRAVSTVENEM VARSTVU IN ZDRAVSTVENEM ZAVAROVANJU, Z OSNUTKOM ZAKONA (tako še imamo v dnevnem redu) - obravnavali po bolj prijetni točki dnevnega reda. Predlagam, da se dogovorimo, da se dobimo ob 12.45 uri zopet vsi tukaj.</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.12"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">(Seja je bila prekinjena ob 11.50 uri in se je nadaljevala ob 13. uri)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-191.12" type="time">Seja je bila prekinjena ob 11.50 uri in se je nadaljevala ob 13. uri</note>
             <anchor xml:id="DZ-1991-ZbZdruDel-25.stage.t.8"/>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-192">
             <anchor xml:id="DZ-1991-ZbZdruDel-25.stage.t.9"/>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-192.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-192.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Prosim, da nadaljujemo. Obravnavamo 5. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O ZDRAVSTVENEM VARSTVU IN ZDRAVSTVENEM ZAVAROVANJU. Kot vidite - nisem prebral več "z osnutkom zakona", ker smo se prej dogovorili, da govorimo samo o prvi fazi.</u>
@@ -1204,9 +904,6 @@
                ana="#taxonomy.3.9.6.1">Predlog za izdajo zakona z osnutkom zakona je v obravnavo predložil Izvršni svet Skupščine Republike Slovenije, objavljen je bil v poročevalcu št. 16. Tudi o tem zakonu so razpravljali Odbor za zdravstvo, Komisija za žensko politiko, Zakonodajno-pravna komisija, Komisija za vprašanja invalidov in Odbor za varstvo potrošnikov. Tako je bilo že do danes opravljenih kar veliko razprav, ki so že dale veliko misli in sugestij. Tudi pri tej točki dnevnega reda ste poslušali uvodno obrazložitev že včeraj, ki jo je podal gospod Matija Malešič v imenu Izvršnega sveta. In sedaj vas sprašujem, če želi kdo v imenu delovnih teles razpravljati? Gospod Arzenšek.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-193">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">Dr. JOŽE ARZENŠEK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-193.2"
                who="#ArzensekJoze1942"
                ana="#taxonomy.3.9.6.1">Spoštovani zbor, spoštovano predsedstvo! Povedal bi samo dve stvari, ker je bilo pač posebej poudarjeno na samem odboru, čeprav ste sprejeli to dodatno poročilo; dobili ste tudi s strani Ministrstva za zdravstvo načelne pripombe oz. njihova stališča z ozirom na naše pripombe. Čeprav ugotavljamo, da je bilo razmeroma malo pripomb na zakon o zdravstvenem varstvu in zdravstvenem zavarovanju pa razen s strani izvajalcev, apeliramo na to, ker je to sfera, ki pomeni novo področje, drugačen način financiranja zdravstva, potreba - kot sem že uvodoma rekel - kakršnakoli oblika javnega mnenja, da se zagotovi, da se s tem seznanimo, da vidimo vse pozitivne, prednostne strani takega sistema in seveda tudi tiste skrite, eventualne zanke, ki bi nam znale delati težave, ko bomo s tem začeli 1.1.1992. Tu bi dobesedno podčrtal to , kar piše v stališčih s torkove seje odbor, da recimo odbor ocenjuje, da predložena zakona ne zagotavljata povsem, da bo vpletanje države odpravljeno, in da je to zlasti razvidno iz nekaterih členov osnutka zakona o zdravstvenem varstvu in zdravstvenem zavarovanju, in to zlasti iz 22. člena. V tem 22. členu se namreč opredeljujejo načelno, po skupinah posamezni zavarovalni razredi oziroma tiste stvari, ki so v celoti oproščene kakršnegakoli plačevanja oz. samo na osnovi tistega obveznega prispevka kot obvezno zdravstveno zavarovanje, in določeni procenti, ko piše, da naj bi z obveznim zavarovanjem bilo zagotovljeno plačilo najmanj 95 % vrednosti, najmanj 85 % in podobne stvari. O tem je bilo na seji odbora v torek tudi precej govora. Mi smo tudi skrbno prebrali načelne pripombe ministrstva - in mislim, da ste jih tudi vi - kjer določene stvari negira, češ da praktično ni razumeti ta zakon tako, da bi bil omejevalen, da bi recimo imel Izvršni svet oz. resorni organ ne vem kako veliko vlogo pri tem in da se prepušča v večini primerov, da zavarovaalnica sama odloča o deležih za posamezne kategorije skupin - recimo storitev, ki naj bi se opravljale. S tem, da bi bil varnostni mehanihem, da pri večjem številu storitev, ki so manj strokovno upravičene, avtomatski delež posameznika pri zavarovanju večji. To je vzor Zahoda. Mislim, da je bilo rečeno tudi to, da je bil pri obveznem zavarovanju eden od predlogov, da bi praktično že sama prispevna stopnja bila dovolj, da ne bi bila potrebna participacija. Čeprav na današnji seji Odbora, ki smo jo imeli pred to nadaljevalno sejo, ta možnost vključevanja participacije v predhodnem obdobju sploh ni bila izključena iz tega. Jaz sedaj ne bi bral posameznih kategorij, moram pa posebej opozoriti na zadnji odstavek tega 22. člena, kjer le piše odstotke iz tistega prostovoljnega oz. drugega dela, ki ni obvezno, iz 2., 3., 4., 5. in 6. točke prvega odstavka tega člena določi Zavod za zdravstveno zavarovanje Slovenije v soglasju z Izvršnim svetom Skupščine RS. Odstotki za posamezne vrste storitev v okviru teh točk so lahko različni. In moramo reči, da bi na to, kljub stališčem, ki jih je posredovalo Ministrstvo za zdravstvo, družino in socialno varstvo, dal poseben poudarek. Dal bi tudi poudarek o tem, če dejansko drži zagotovilo ministrstva, da naj bi s 1.1. ta zavarovalnica ali Zavod za zdravstveno zavarovanje zaživela in dobila svojo obliko, da je treba priprave izvršiti že v letošnjem letu. In spomnil bi na to, da tu, v teh tezah (če je predlog za izdajo zakona) piše v "prehodnih določbah", da bi Skupščina Republike Slovenije imenovala - oziroma najprej bi morala sprejeti Statut delovanja tega Zavoda za zdravstveno zavarovanje - prvo skupščino, ki bi potem bila zadolžena po tripartitnem sistemu za to, da nadzoruje izvajanje teh stvari.</u>
@@ -1224,17 +921,11 @@
                ana="#taxonomy.3.9.6.1">Moram povedati tudi to, da je v razpravi na seji odbora bilo danih tudi par drugih pripomb na to temo: ali to pomeni avtomatsko preoblikovanje Republiškega odbora oziroma uprave za zdravstveni zavod za zdravstveno zavarovanje. Bil je dan predlog, naj bi bilo več zavarovalnic kot se temu reče in bi med seboj delale konkurenco, ker bi ponudile z ozirom na pogoje. Eden od predlogov, ki sem ga dolžan povedati, ki ga je dal kolega iz Družbenopolitičnega zbora dr. Jože Magdič, ko je pač rekel, da nikjer ni zavedeno, ali je možno, da se pojavi kot v zavarovalniškem sistemu s področja zdravstva tudi tuja zavarovalnica. Te stvari so, čeprav je samo nekoliko členov, bistveno nove. Predstavljajo preobrat in ob dobro urejeni taki službi pomeni urejenost financiranja zravstva. Zato je treba biti na to posebej pozoren, ker se bistveno spreminja od tega, kar je sedaj, ko je financer proračun na nivoju republike kot ena rizična skupnost z vsemi znanimi težavami. Kljub temu, da smo upali, da bo prineslo - to je bilo pa leta 1989 oziroma 1990 to, da se bodo odpravile vse tiste velike težave, ki so bile zadnjih 5 ali 6 let prisotne in smo včasih menili, da ima pri tem veliko vlogo tudi regionalizem in podobne stvari. Hvala zaenkrat.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-194">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-194.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-194.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Predno pričnemo z razpravo, naj povem, da so pisno oddali razprave v zvezi s tem zakonom naš obrtniški lobi Rogina, Puc, Drame, Prelovec, potem Roman Jakič v imenu Liberalno-demokratske stranke in tu imamo še tudi stališča Zveze svobodnih sindikatov Slovenije. Prvi se je prijavil gospod Remškar.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-195">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">Dr. JANEZ REMŠKAR:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-195.2"
                who="#RemskarJanez1947"
                ana="#taxonomy.3.9.6.1">Spoštovane kolegice in kolegi, običajno sem bolj tiho, danes sem pa večkrat tu. Skušal bom biti čim bolj kratek. Imam nekaj splošnih pripomb glede zakona oziroma predloga zakona o zdravstvenem varstvu in zavarovanju, pa tudi eno čisto konkretno pripombo glede dosedanje procedure v samem pisanju zakonodaje, ki vsaj deloma opravičuje določeno nazaupanue do sestavljalca. Upam sicer, da bomo vse te stvari zgladili, pa vendarle mislim, da je prav, da se slišimo. Torej vsebinsko je predlog zakona po mojem mnenju neuravnotežen. Na začetku imamo torej dokaj podrobne razčlembe o zavarovancih, pravicah, nadomestilih, nekaj smo že slišali okoli 22. člena, kasneje pa so stvari dokaj nedorečene.</u>
@@ -1261,17 +952,11 @@
                ana="#taxonomy.3.9.6.1">In 87. teza člane prve skupščine ZSS imenuje Skupščina Republike Slovenije na predlog zbornic, drugih splošnih združenj, sindikatov in drugih organizacij. Če bo to tako ostalo v zakonu, se bojim, da ne bo možno spraviti v tekst tega zakona oziroma operacionalizacije zavarovalništva s 1.1.1992. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-196">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-196.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-196.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Besedo ima gospod Židanik.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-197">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">Dr. ANTON ŽIDANIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-197.2"
                who="#ZidanikAnton1942"
                ana="#taxonomy.3.9.6.1">Glede na to, ker gremo v bistvu na spremembo financiranja, mislim, da je danes čas, da se začnemo pogovarjati tudi o globalu sredstev za zdravstvo. Vsi veste, da v svetovnem merilu, svetovna zdravstvena organizacija priporoča vsaj 7 % družbenega proizvoda za potrebe zdravstva in da priporoča, da letno namenjo države 0,1 % sredstev več. Zakaj? Mi vemo, da se prebivalstvo stara; mi vemo, da medicina seveda tehnološko napreduje; mi vemo, da so potrebe vedno večje in da je zato potrebno tudi vedno več sredstev za zdravstvo. Kolega Remškar se je danes že dvakrat primerjal z Avstrijo in Zapadno Evropo, potem si pa dovoljujem to primerjavo tudi glede sredstev. Če se primerjamo z državami OECD-ja imamo štiri in polkrat manj sredstev za zdravstvo na prebivalca, če se primerjamo s Švedsko, Nemčijo ali pa Ameriko, imamo tudi kar do osemkrat manj sredstev. Seveda ne terjamo, da imamo na glavo prebivalstva enako, kakor ima Švedska ali pa Amerika, ampak da je delež družbenega proizvoda neka konstanta. Tako, da ve gospodarstvo, koliko sredstev lahko pričakujemo.</u>
@@ -1292,17 +977,11 @@
                ana="#taxonomy.3.9.6.1">Konkretno imam pa na 93. člen pripombo. Ostale pripombe sem, kot sem že prej omenil, pisno posredoval prek ostalih inštitucij. V 93. členu jasno piše: na zavod za zavarovanje Slovenije se ne prenesejo neporavnane sprejete obveznosti proračunov iz zdravstvenega varstva za leto 1991. Nič pa se ne reče: kdo pa tiste sprejete obveznosti proračuna pokrije? Meni je logično, če je proračun iz letošnjega leta imel neke obveznosti, ki jih ni poravnal, da se to prenese v proračunska sredstva v leto 1992 in bi morali torej tudi v to zakonodajo - v prehodne določbe - napisati, da svoje neporavnane obveznosti pokrije seveda iz proračunskih sredstev naslednjega leta. Enako je bilo, kot vemo, v letošnjem proračunu, ker lanski proračun ni zagotovil kompletnega financiranja in smo zadnjih 20 dni prenesli v letošnji proračun. In to obvezo bi morali imeti v tem zakonu navedeno. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-198">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-198.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-198.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Kdo želi še razpravljati? Besedo ima gospod Dretnik.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-199">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">IVAN DRETNIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-199.2"
                who="#DretnikIvan1921"
                ana="#taxonomy.3.9.6.1">Hvala za besedo gospod predsednik in se opravičujem, ker sem prej zamešal ti dve sorodni točki dnevnega reda. Upam, da mi ni nihče zameril. Uvodoma sem že prej povedal, da prinašam samo stališče Slovenske kmečke zveze - ljudske stranke. Kljub temu, da gre šele za prvo fazo sprejemanja zakonov pa poslanci ob tem ne bodo mogli zaobiti katastrofalnega finančnega stanja, v katerem se je znašlo slovensko zdravstvo. Prav zaradi tega je pričakovati, da bo ta realnost v ospredju, čeprav je sprememba zakonodaje na zdravstvenem področju izrazito dolgoročna, toda izredno občutljiva kooperacija, ki posega v samo jedro socialnega položaja državljanov.</u>
@@ -1323,33 +1002,21 @@
                ana="#taxonomy.3.9.6.1">19. člen, ki govori o poškodbah pri delu in poklicni bolezni. Predlagamo, da se zagovarja stališče, da se v 1. točko 19. člena uvrstijo tudi kmetje in bi se prva točka 19. člena glasila v predlagani variantni obliki: zavarovalnici od 1. do 11. in 16. točke omenjenega člena. 22. člen, ki govori o plačilu zdravstvenih storitev. Ta člen je z vidika bolnikov oz. potencialnih bolnikov najbolj boleč. Predlagamo, da se dializo uvrsti v prvo točko tega člena, kar pomeni, da je zagotovljeno plačilo v celoti. 24. člen je nedorečen in nepopoln predlog. Z zakonom naj bodo opredeljene pravice oz. kriteriji, na podlagi katerih bo Zavod za zdravstveno zavarovanje določil tiste zdravstvene storitve, za katere bo zagotovljeno plačilo v celoti. Nasploh je treba proučiti vlogo Zavoda za zdravstveno zavarovanje Slovenije. 69. člen se opredeli, kako se pravico do proste izbire zdravnika ali zdravstvenega zavoda tudi izvaja. To mora biti v zakonu precizno določeno. V zakonu o zdravstvenih dejavnostih - 4. člen ne opredeli vloge občinskega upravnega organa pri dodeljevanju sredstev za opravljanje osnove zdravstvene dejavnosti. 6. člen - kdo je odgovoren za izvajanje osnovne zdravstvene dejavnosti. 13. člen govori, da inštitut ne more izvajati bolnišničnega zdravljenja bolnikov. Kaj pa Onkološki inštitut? Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-200">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-200.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-200.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Hvala lepa. Gospod Starc prosim.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-201">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-201.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PETER STARC:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-201.2"
                who="#StarcPeter1943"
                ana="#taxonomy.3.9.6.1">Spoštovani! Govorim v imenu socialnih zavodov Slovenije. Pri 55. členu menimo, da bi bilo potrebno določiti vlogo oz. omogočiti aktivno soudeležbo socialnim zavodom pri določanju izhodišč za izvajanje programov. Pri 56. členu pa menimo pri sklepanju pogodb, oz. sprašujemo, kako bo urejeno sklepanje pogodb z zdravniki zasebniki, ki bodo morebitno opravljali svoje delo v Socialnih zavodih - ali v Zdravstveni dom ali Socialni zavod. Pri 62. členu, ali bodo socialni zavodi zastopani v skupščini Zavoda za zdravstveno zavarovanje glede na to, da opravljajo zdravstveno nego za svoje oskrbovance. Želimo, da bi bili. Na koncu bi povedal še tole, da imamo v domovih za stare okoli 12 tisoč starostnikov v Sloveniji. Tako kot v samem zdravstvu, se tudi v naših domovih močno pozna znižanje sredstev zdravstvenega dinarja. Zato apeliramo in dajemo pobudo k predlogu, da bi se zbran denar, ki se zbira za zdravstveno dejavnost, dejansko namenil zdravstveni dejavnosti. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-202">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-202.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-202.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Hvala. Tu je tudi Vili Sekereš, ki bo oddal pisno razpravo k zakonu o zdravstvenem varstvu in zdravstvenem zavarovanju. Tako, da imamo več teh pisnih pripomb. Želi še kdo razpravljati? Prosim, gospa Oblak.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-203">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-203.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">MAJDA OBLAK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-203.2"
                who="#OblakMajda1946"
                ana="#taxonomy.3.9.6.1">12 volilna enota. Predlagatelja bi vprašala, kaj je v povezavi členov 9, kjer je v osmi alinei navedeno, da je za nadomestilo osebnega dohodka med začasno zadržanostjo od dela zaradi bolezni ali poškodbe do 30 dni, to se pravi, to je obveznost podjetja oz. delodajalca. Zanima me v povezavi s 43. členom, mislim, da tu v prvi alinei nekaj manjka. Manjka namreč beseda bolezni. Ker v prvi alinei pravimo: zdravstvene storitve in nadomestila nad 30 dni za. Nato piše: poškodbe pri delu in poklicne bolezni, ostale bolezni pa niso naštete, razen če tu ni mišljeno besedilo iz druge alinee, kjer pravi druga nadomestila. Mislim, da bolezni kot take pod ruga nadomestila skoraj ne spadajo. To je samo vprašanje, ali je to ali ni. Če ni v drugi alinei to zaobseženo, potem mislim, da tu manjka v 43. členu.</u>
@@ -1358,33 +1025,21 @@
                ana="#taxonomy.3.9.6.1">Pa še eno vprašanje oz. sugestijo bi dala glede 32. člena. Že prej sem razpravljala o teh invalidskih izostankih in pa določanju invalidnosti in obveznosti zdravnikov, predvsem obratnih zdravnikov, kjer mislim, da bi bilo treba neko stimulacijo uvesti in soodgovornost, vendar je to stvar zakonodajalca in pa predlagatelja, kako to razrešiti. Mislim, da bi bilo treba v 2. odstavku ta rok 12 mesecev skrajšati, skrajšati vsaj na polovico na 6 mesecev, obvezno predlagati invalidski komisiji v ocenitev in pa, da se na koncu stavka pripiše še, da zdravnik, ki je obvezen dati predlog prej, če je narava bolezni taka, da oceni, da bi bil lahko ta bolnik ocenjen za invalida glede na zdravstveno stanje, kakršno je, tudi prej. To se pavi ne 12 mesecev, ampak skrajšati dobo vsaj na polovico in dati obvezo, da če je narava bolezni in če je jasno in stoprocentno tako stanje, da bo invalidnost ocenjena takoj, da se to izvrši tudi takoj. Ne pa da se 12 mesecev ali več po bolniški človek evidentira, v resnici je pa invalid. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-204">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-204.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-204.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Hvala lepa. Želi še kdo razpravljati. Murn Andrej, prosim!</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-205">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-205.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">ANDREJ MURN:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-205.2"
                who="#MurenAndrej1953"
                ana="#taxonomy.3.9.6.1">Ministrstvu za zdravstvo bi postavil samo eno kratko vprašanje glede na komentar tega zakona o zdravstvenem varstvu. V drugi točki, ki pravi: ocena zdravstvenega stanja prebivalcev. V sistem zdravstvenega varstva so v Sloveniji vključeni vsi prebivalci Slovenije ter vsi tisti, ki so v Sloveniji zaposleni in njihovi družinski člani, ne glede na stalno prebivališče. Število vseh uporabnikov je za 15,8 % večje od števila prebivalcev Slovenije. Ali to pomeni, da obstaja na tem področju avtomatično odtekanje denarja iz Slovenije in če temu tako, predlagam, da se ta avtomatizem prekine na ta način, da imajo svojci v Sloveniji zaposlenih pravico uveljavljanja zdravstvenega varstva samo na področju Slovenije, ne pa kjerkoli na svetu.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-206">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-206.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-206.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Hvala lepa. Prosim Anka Osterman.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-207">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-207.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">ANKA OSTERMAN:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-207.2"
                who="#OstermanAnka1940"
                ana="#taxonomy.3.9.6.1">Hvala za besedo. Nov način zdravstvenega zavarovanja očitno prinaša spremembe v našem ustaljenem načinu, ki nam ga je sicer marsikdo zavidal. Gre torej za povsem nov pristop, ki bo lahko povzročil tudi določene socialne razlike oz. premika na tem področju in mislim, da bi zakonodajalec oz. predlagatelj prav naredil, če bi vendarle poskušal izpeljati temeljno oceno, kaj bo to pomenilo. To bi bilo najmaj, kar je pošteno do tistih, ki bomo zdravstveno zavarovanje koristili zlasti pa do delegatov, ki o tem razpravljamo in bomo odločali o tem. Zato predlagam tudi, da bi morda vendarle poiskali eno javno mnenje, kaj mislijo Slovenci o tej bodoči zakonodaji. Zdi se mi pa pravilna ta usmeritev v večjo odgovornost vsakega posameznika za njegovo zdravje. Pri tem pa se sprašujem, kako bo to zlasti v sedanjih razmerah lahko uspešno, ko se materialna situacija velike večine prebivalstva bistveno slabša, država pa to breme nalaga prav na posameznika. Obenem pa je v zakonu še vedno precej prisotna solidarizacija z delodajalci. zdi se mi, da bi tamo bilo potrebno malo bolj zavezati delodajalca, da skrbi za ugodne delovne pogoje, da preprečuje poklicne bolezni in poškodbe pri delu.</u>
@@ -1396,23 +1051,15 @@
                ana="#taxonomy.3.9.6.1">Še ena pripomba okoli svobodne izbire zdravnika, ki jo zakon najprej določa, omogoča, nato pa v drugem odstavku istega člena, to je 69. člen, to pravico omejuje in tudi v 23. členu v bistvu vidim omejitev te pravice, ko gre za uživalce denarnih pomoči. Kratki roki se mi zdijo v prehodnih določbah. Ne vem, če je to mogoče, da zdravstveno varstvo, ki je po eni strani tako velikanski sistem, po drugi strani pa tako zelo pomembno za vsakega posameznika, lahko take bistvene spremembe, kot so načrtovanje sedaj brez večjih pretresov prenese v bistvu v tako kratkem času. Predlagam, da se to še vseeno prouči. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-208">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Hvala. Še želi kdo razpravljati?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.3"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">(Ne.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.3" type="debate">Ne.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-208.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Bo treba kaj odgovoriti? Dobro, prosim, besedo ima dr. Marija Mencej, svetovalka v Ministrstvu za zdravstvo, družino in socialno varstvo.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-209">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-209.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">Dr. MARIJA MENCEJ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-209.2"
                who="#MencejMarija"
                ana="#taxonomy.3.9.6.1">Spoštovani zbor, spoštovani gospod predsednik . Bilo je par konkretnih vprašanj in mislim, da je treba nanje odgovoriti. V zvezi z nadomestili v tistem členu, torej za nesreče pri delu in poklicne bolezni bodo nekatere kategorije zavarovancev za prispevek plačevale samo ta del. Zato mora biti izločen, vsa ostala nadomestila so tam notri v 2. alinei. To je bilo eno vprašanje.</u>
@@ -1427,9 +1074,6 @@
                ana="#taxonomy.3.9.6.1">Potem pa splošna težnja iz razprave, kolikor jo je do sedaj bilo v zvezi s pravicami je ta, da naj bi po možnosti ohranili v obveznem zavarovanju vse pravice, ki jih imamo do sedaj za večino ljudi, da ne bomo praktično kaj dosti naredili v primerjavi s sedanjim sistemom in predlagam, da takšne pobude še enkrat proučite ali so res potrebne. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-210">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Hvala lepa. Še kdo? Če ne, bi predlagal pri tej 5. točki, da bi zaključili z razpravo in sprejeli dva sklepa, in sicer:</u>
@@ -1445,21 +1089,15 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Kdo je za ta dva sklepa?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.7"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">(43 delegatov.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.7" type="vote">43 delegatov.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Kdo je proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.9"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.9" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Kdo se je vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.11"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.11" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-210.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.1">Ugotavljam, da smo soglasno sprejeli ta dva sklepa.</u>
@@ -1468,17 +1106,11 @@
                ana="#taxonomy.3.9.6.2">Sedaj imamo 6. TOČKO DNEVNEGA REDA to je: PREDLOG ZA IZDAJO ZAKONA O LEKARNIŠKI DEJAVNOSTI Z OSNUTKOM ZAKONA. Tudi ta zakon je pripravil Izvršni svet Skupščine Republike Slovenije in je tudi bil objavljen v Poročevalcu št. 16. Predlog so obravnavali že b delovnih telesih Skupščine, Odbor za zdravstvo, Zakonodajno-pravna komisija in še nekateri. Tudi tu smo slišali uvod že včeraj in sprašujem poročevalce delovnih teles, če želi kdo besedo? Jože Arzenšek, prosim!</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-211">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-211.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">Dr. JOŽE ARZENŠEK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-211.2"
                who="#ArzensekJoze1942"
                ana="#taxonomy.3.9.6.2">Odbor pač posebej ni obravnaval pri načelni obravnavi predloga za izdajo zakona o lekarniški dejavnosti z ozirom na dejstvo, da je bila že dana na predpretekli seji, da je praktično sama dejavnost pripravila vse okvire, katere je ministrstvo sprejelo za to dejavnost in kakšnih bistvenih pripomb tudi ni bilo posredovanih, razen v enih dveh lekarn. Te pa smo podali v pismeni obliki. Velja pa trifazni postopek.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-212">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Tu je potem pisna razprava Vilija Sekereša in Romana Jakiča. Želi še kdo razpravljati? Ne želi. Če ne, bi tudi tu potem predlagal dva sklepa, in sicer:</u>
@@ -1491,21 +1123,15 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Kdo je za ta predlog sklepa?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.6"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">(41 delegatov.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.6" type="vote">41 delegatov.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.8"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.8" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Je kdo proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.10"
-               who="#komentator"
-               ana="#taxonomy.3.9.6.2">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.10" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.6.2">Ugotavljam, da smo soglasno sprejeli tudi ta predlog zakona.</u>
@@ -1515,15 +1141,11 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Statutarni sklep je predložila Univerza v Mariboru. Obravnavala sta ga: Odbor za visoko šolstvo in Zakonodajno-pravna komisija. K statutarnemu sklepu ste prejeli mnenje Izvršnega sveta Skupščine Republike Slovenije. Danes pa ste prejeli odlok o soglasju k statutarnemu sklepu. Želi mogoče tu kdo razpravljati? Predstavnik Univerze, predstavnik Izvršnega sveta?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.14"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(Ne.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.14" type="debate">Ne.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.15"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Morda poročevalci delovnih teles? Kdo želi razpravljati?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.16"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.16" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.17"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Če ne želi nihče razpravljati, zaključujem to in bi glasovali.</u>
@@ -1533,21 +1155,15 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.19"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Kdo je za ta odlok?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.20"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(42 delegatov.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.20" type="vote">42 delegatov.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.21"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Je kdo proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.22"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.22" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.23"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.24"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.24" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-212.25"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Ugotavljam, da smo odlok o soglasju sprejeli soglasno.</u>
@@ -1556,9 +1172,6 @@
                ana="#taxonomy.2.7.1">Potem smo pri 11. TOČKI, in sicer. OBRAVNAVA POROČILA MANDATNO-IMUNITETNE KOMISIJE ZBORA ZDRUŽENEGA DELA. Z njo smo mi tudi razširili dnevni red. Vi ste prejeli tudi poslanci in poslanke to poročilo in bi prosil najprej predsednika, gospoda Jožeta Studenčnika, da poda to poročilo.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-213">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">JOŽE STUDENČNIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-213.2"
                who="#StudencnikJoze1956"
                ana="#taxonomy.2.7.1">Poleg včerajšnje pobude, pisne pobude poslancev, ki je bila dana za razširitev dnevnega reda, se je na nočni seji, ki se je verjetno vsi spomnite, to je iz 29. na 30., pravzaprav že prvič pojavil ta problem, že takrat je bil izdan predlog, da naj naša komisija to temo pač obravnava. Glede na to je Komisija za mandatno-imunitetna vprašanja imela potem sestanek 5.7., kjer je tudi pripravila ta sklep. Tako, da je bil ta sklep že pripravljen, predno je bila v našem zboru podana pobuda, da se dnevni red razširi. Po razpravi je komisija sprejela naslednji sklep:</u>
@@ -1576,39 +1189,25 @@
                ana="#taxonomy.2.7.1">Kakor je iz tega razvidno, je osnovni razlog, mislim, v tem: tako mi, kot slovenski narod, verjetno ne priznavamo več legitimnosti JA, da je branitelj našega naroda, ampak je s temi dejanji, ki so se v zadnjem času zgodila, resnično spontano prišlo do tega, da je ta oborožena sila Teritorialna obramba. Ne samo po zakonski osnovi, ker smo sprejeli osamosvojitev, mislim, da je tudi moralno prišlo pri našem narodu do tega. In zaradi tega sklepam, da je nujno, da ta predlagan sklep, ki ga daje Mandatno-imunitetna komisija, vi v zboru potrdite.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-214">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala lepa. Želi kdo razpravljati?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.3"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">(Da.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.3" type="debate">Da.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-214.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Besedo ima Zdravko Zabukovec.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-215">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-215.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">ZDRAVKO ZABUKOVEC:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-215.2"
                who="#ZabukovecZdravko1940"
                ana="#taxonomy.2.7.1">Spoštovani! Nisem dobro razumel s strani poročevalca, ali je bil naš dosedanji oziroma še sedanji delegat Milan Aksentijević dejansko obveščen, in ali je dejansko dokazano, da je zavrnil pristop k Teritorialni obrambi. Iz sredstev javnega obveščanja vemo, da so nekatere kasarne bile pod določeno komunikacijsko zaporo. Ali gre samo za domnevo, da ne želi pristopiti, ali je to dejansko dokazano? Ta podatek zelo rabim, da bom vedel, kako se odločiti. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-216">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-216.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">BOGO ROGINA:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-216.2"
                who="#RoginaBogo1947"
                ana="#taxonomy.2.7.1">Jaz sicer ne bi direktno odgovoril gospodu Zabukovcu, bi pa navedel nekaj dejstev, ki mislim, da tudi so odgovor na njegovo vprašanje. Z oziroma na to, da smo v klubu neodvisnih o članstvu gospoda Aksentijevića razpravljali že pred to sejo in smo v končni fazi tudi Aksentijevića izključili iz članstva v našem klubu, se je predhodno naš klub nekako zadolžil, da navežemo z gospodom Aksentijevičem stike, da se prepričamo. Ne želim o njem kot človeku reči nič slabega, da se pa ne morem strinjati, da predstavnik JA sedi z menoj za isto mizo in sem to takrat tudi povedal. Opravil sem ta telefonski razgovor z gospodom Aksentijevićem, iz katerega je bilo evidentno, da je on trmasto na pozicijah JA in tudi celotnega njenega vodstva. Prepričeval me je celo o takšnih stvareh kot npr., da je popolnoma jasno, kdo je napadalec, saj se vidi, da ima TO samo štiri mrtve, medtem ko jih ima JA 40. To, da gospod Aksentijević ne bi imel možnosti opraviti tega prestopa, v to močno dvomim, saj vemo, da je bil prisoten zadnjič na seji vseh zborov. Vemo, da je bil včeraj tudi na skupni seji vseh zborov Skupščine, da je tudi govoril s predsednikom. Meni je zadnjič sicer navrgel, da ne ve, če bo lahko prišel v Skupščino, ker ne ve, kje ga bodo aretirali itd. Mislim, da je njegova dvakratna prisotnost sedaj v tem času v Skupščini dokazala, da slovenska oblast ne počenja takih stvari, da bi poslance kar na poti nekje aretirala in odpeljala neznano kam. Meni osebno je uspelo poslanca Aksentijevića prepričati, da ta armada res ne more več imeti poslanca v tem našem zboru.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-217">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-217.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">BARBARA ZUPANC:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-217.2"
                who="#ZupancBarbara1963"
                ana="#taxonomy.2.7.1">Spoštovani kolegi, jaz bi vam rada predstavila stališče - moje osebno in pa tudi stališče mojega poslanskega kluba glede tega vprašanja. Takole smo si mi to zamislili. Sklep o prenehanju mandata Milanu Aksentijeviću se nam v tem trenutku zdi politično nesmotern, saj bo v tujini, ki razmer v Sloveniji prav gotovo v celoti ne poznajo, zanesljivo ocenjen kot nedemokratičen in kot nadaljnje zaostrovanje odnosov z JA, še zlasti slednja, torej armada, si bo ta sklep tako razlagala. Ker je sklep očitno v nasprotju z duhom Brionske deklaracije, je že to več kot zadostni razlog, da ga zavrnemo. Poleg politične neprimernosti je povsem nesprejemljiv tudi z vidika pravnega reda in pravne države. 1. člen, še zlasti pa tudi drugi odstavek 4. člena Ustavnega zakona izrecno govorijo o prevzemu pristojnosti, ki so jih doslej imeli organi in organizacije SFRH, kar pa JA niu. Poleg tega pa ta isti Ustavni zakon v 9. členu določa prehodni režim prevzema JA do konca leta 1993. Poslansko mesto Milana Aksentijevića je del z republiškim ustavnim sistemom in zakonodajno urejenega skupščinskega sistema. Do spremembe tega sistema je pač po njem treba tudi ravnati. 2. točka 29. člena zakona o volitvah v skupščine, s katero se predlog sklepa dodatno utemeljuje, namreč govori o tem, da delegatu preneha mandat, če iz katerega koli razloga zgubi pravico biti voljen. Ti razlogi niso navedeni. Pač pa tretji odstavek 3. člena zakona o določitvi volilnih enot za volitve delegatov v zbore Skupščine Republike Slovenije in Zvezni zbor Skupščine SFRJ izrecno pravi, da aktivne vojaške osebe in civilne osebe v službi v oboroženih silah volijo enega delegata. To je, kar zadeva to. Mogoče, če mi dovolite zgolj čisto kratko osebno razmišljanje. Vem, da je pravi razloga, da ne želimo, oziroma nekateri, ne želijo imeti več gospoda Aksentijevića v naši družbi; ta, kot ga je navedel Bogo Rogina, da namreč ne želi več sedeti s pripadnikom jugoslovanske armade za isto mizo oziroma v isti dvorani in da je imunitetna komisija, katere delo zelo spoštujem, po svojih najboljših močeh skušala vso zadevo nekako pravno formalno opravičiti.</u>
@@ -1617,33 +1216,21 @@
                ana="#taxonomy.2.7.1">Kar bi pa jaz rada povedala, predvsem o tem, pa se mi zdi, da je ravno sklepanje o tem, ali bomo gospoda Aksentijevića izključili iz naše skupščine ali ne tista točka, na kateri bomo preizkusili celotno demokratičnost neša skupščine in naše volje v bistvu do tega, da je ta skupščina in naš celoten sistem demokratičen. Namreč, ali smo sposobni in pripravljeni v svojih vrstah gledati in tudi včasih poslušati človeka, ki drugače misli, kot misli večina. Mislim, da bo to ključen kamen in opozarjam vas na zalo negativne posledice sprejema tega sklepa komisije. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-218">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-218.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-218.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala. Prosim gospod Šter.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-219">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-219.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">ANDREJ ŠTER:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-219.2"
                who="#SterAndrej1958"
                ana="#taxonomy.2.7.1">Torej, da imamo voljo in sposobnost se soočati z različnimi mnenji, po mojem, je debata dokaz za to. Sam pa želim pokazati, ali pa vam predočiti dilemo, v kateri smo se že znašli. S predlaganim sklepom sem močno prepričan, da bomo dali možnost tudi Milanu Aksentijeviću, da ohrani svoj lik tak, kot ga mi poznamo. Ta predlog ni naperjen proti osebi Milana Aksentijevića, pač pa proti temu, kar je on večkrat tudi s tega in drugih govorniških odrov v tej skupščini povedal, da je on predstavnik oboroženih sil Jugoslavije in je grozil v najslabši maniri vojnega predstavnika. Mesto takšnih ljudi, ki vsekakor bodo še med nami, pa trdim, ni v tej skupščini, ampak v pogajalskih telesih, ki se zdaj oblikujejo in ki že delajo. To pa tale skupščina ni. Formalni razlog je povedal predstavnik Mandatno-imunitetne komisije in mislim, da tistemu ni mogoče verodostojno oporekati. Lahko so mnenja različna, ampak "za božjo voljo" dovolite, da se tudi predstavnik armade, dovolite mu možnost umika, dajte možnost tudi nam, da ohranimo svojo lastno integriteto. Jaz jo bom v nasprotnem primeru težko, za vas pa ne vem.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-220">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-220.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-220.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Zdaj bi bilo verjetno najbolj prav, da bi sploh prvi razpravljal o tem, zaradi tega, ker vi lahko tudi zahtevate mojo odgovornost. Zakaj pravzaprav nisem takoj po pobudi, ki je prišla na nočni seji, katere ste se vi vsi udeležili, takoj ukrepali. Tudi nisem dajal večje pobude mandatno imunitetni komisiji, da bi se sestala kljub temu, da jasno vsi vemo iz poslovnika, da lahko vsako delovno telo skupščine in tudi 20 poslancev predlaga sklic izredne seje zbora. Več razlogov sem imel za to. prvi razlog je bil ta, da sem do danes in nenehno bil prepričan, da bo gospod Milan Aksentijević v naših vrstah v teritorialni obrambi. Nesporno sem menil to ves čas. Žal se to ni izpolnilo in žal se je to tudi pokazalo, ko smo lahko prebrali, ne samo slišali, njegov intervju v predzadnji številki Mladine, ker se je postavil praktično čisto na drugo stran. No inko je izhlapelo upanje, da bomo gospoda Aksentijevića videli pri nas, sem potem še vedno upal v njegovo poštenost, na katero je on nenehno opozarjal, ne samo na dialog, ampak na poštenost ravnanja do vsega in vsakogar. In zato sem menil, da on sam ne bo prenesel te dvojnosti človeka, da hodi v parlament, ki je njemu sovražen, na nasproten. In zaradi tega sem menil, da bo prišel k meni in bo rekel: "Jože Zupančič, predsednik Zbora združenega dela, jaz vračam svoj mandat in odstopam." To sem menil, da bo lahko storil še tudi danes. Tudi tega ni storil. Torej, človek ne more več verjeti, ali je on res tako pošten, kot se je v naših razpravah, na naših sejah ali pa tudi na skupnih sejah kazal. Vedno bolj sem spoznaval v njemu res klasičnega predstavnika jugoslovanske armade, ki je Slovenijo napadla. In tu je seveda bil ta čisto človeški, bom tako rekel, razlog, da nisem sam dal tega na dnevni red, ampak sem se pustil postaviti pred dejstvo, da ste izsilili točko v dnevni red. Res je pa, da je tudi še tretji razlog. Ta tretji razlog je pa, klju temu enako kot so predhodni razpravljalci povedali, jaz cenim delo mandatno imunitetne komisije, da vseeno, tudi če bomo mi danes sprejeli ta sklep, verjetno čisto formalno-pravno ni čist, zlasti zaradi tega, ker imamo zdaj to čudno zakonodajo. V ustavnem zakonu mi še vedno pišemo o jugoslovanski armadi in o njenem triletnem delovanju. Potem imamo res ta Brionska stališča; potem tega ni nikjer napisanega, tudi v zakonu o volitvah in tako naprej. Tako da čista situacija ni, ampak iz moralnega stališča je pa situacija jasna in vidite tu je potem ta dilema, v kateri sem sam tudi bil in sem zaradi tega tudi omahoval. In meni se zdi bolj pošteno to, da bi naj nam Komisija za volitve in imenovanja - ali pa tista, ki sploh vodi volitve do naslednje sejje odgovorila, na podalgi katerih pravnih točk mi lahko to delo tudi opravimo. Mislim, da boste potem z mano vred imeli tudi po tej plati čisto vest. Mi smo danes obravnavali to pobudo, prišli do tega stanja kakršno pač je in jaz mislim, če bi imeli čez en teden to razčiščeno, nam potem tudi nihče ne bi mogel tega očitati, kar je omenila Barbara. Ker jaz sem tudi za to. kakorkoli smo čustveno prizadeti in to nesporno smo, na tak način da tu ne dela samo um, ampak nam sedaj veliko stvari veleva tudi srce in si ne smemo dopustiti, da nam eden kakorkoli vzame, očita da smo nedemokratični, da ne spoštujemo pravnega sistema, ko tako opozarjamo vse ostale na pravni sistem in tako dalje. Lepa vas prosim ne iti v to, da ti nekdo reče: Kaj, saj oni tako ničesar ne upoštevajo, pa ničesar ne spoštujejo. S tem se mi ne moremo na tak balkansko orientalski nivo spuščati. Mi hočemo biti v Zahodni Evropi, če ne v Srednji Evropa in zato mora biti seveda ta demokratični utrip v nas. Ne v srcih sedaj, ampak sedaj mora biti v glavah. In zato bi rajši videl, razen če mi gospod Studenčnik kot predsednik komisije pove, da je ta situacija čista, drugače bi pa rajši videl, da en teden počakamo in da se to te stvari potem rs na pošten način opredelimo. Jaz še enkrat povem, meni se tudi ne zdi, tako kot sem prej povedal, da on sedi med nami, če on zagovarja njihov interes, ampak tu so pa sedaj nekateri drugi elementi, ki pa jih moramo seveda tudi upoštevati. Prosim, da moje sporočilo vzamete na znanje in da ga tudi upoštevate pri nadaljnji razpravi. Gospod Studenčnik.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-221">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-221.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">JOŽE STUDENČNIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-221.2"
                who="#StudencnikJoze1956"
                ana="#taxonomy.2.7.1">Jaz cenim to razlago, kot tudi tovarišice. Res je, mi smo se v komisiji trudili, da bi našli resnično formalno-pravno podlago, tisto tapravo; iskali smo pomoč pri različnih pravnikih tu, tovarišica sekretarka je pomagala pri tem, da je iskala te strokovnjake. Bil je tu Tomažič prisoten, predsednik Zakonodajno-pravne komisije in mislim da kaj posebno novega se verjetno ne bo dalo najti, tudi če bomo čakali do naslednjič. Dvomom, da imamo v zakonodaji možnosti, ker ti volilni zakoni, pa volilne enote, pa ta zakonodaja, ki smo jo nazadnje sprejeli, ta osamosvojitev in vse skupaj. Ni druge možnosti. Po drugi strani tudi po poslovniku, ki je bil samo delno dopolnjen, saj je tu neka stara zakonodaja in tu ni drugih.</u>
@@ -1652,33 +1239,21 @@
                ana="#taxonomy.2.7.1">Mi ga osebno res nismo obveščali, mislim pa da kot predstavnik vojske je to zelo dobro vedel, zato obvestilo, da se o tem spraševati, ali je on to vedel ali ne, se mi zdi skoraj neumno.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-222">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-222.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">ZDRAVKO ZABUKOVEC:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-222.2"
                who="#ZabukovecZdravko1940"
                ana="#taxonomy.2.7.1">Lahko dejansko obstaja neka njegova izjava, da je prestopil.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-223">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-223.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">JOŽE STUDENČNIK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-223.2"
                who="#StudencnikJoze1956"
                ana="#taxonomy.2.7.1">Ne ne obstaja, to sem že prej rekel.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-224">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-224.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-224.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Preverjeno je dvoje. Da smo si tu na čistem. On zanesljivo do naprimer 12.00 ure danes ni prestopil v teritorialno obrambo Republike Slovenije. To je eno in drugo, on je zanesljivo tudi bil seznanjen z možnostjo prestopa in poziva Predsedstva Republike Slovenije. To ni sporno. To smo se mi, predsednik Kluba neodvisnih se je z njim pogovarjal, Bogo se je pogovarjal, zato sem mu dal prej tudi besedo, tako da je ta situacija čista. Pa da bo še bolj čista, včeraj ko je prišel popoldne v Skupščino, ni prišel na sejo, ampak je prišel seveda opozarjat na možnosti, ki bodo grozljive, če ne bo Ljubljana priklopila elektrike in vsega tistega na njihovo kasarno, zaradi tega ker on pravi: Generali in politika so eno, vojska, ki živi kot bom povedal tako kot je on povedal: svonja sedaj v kasarni, je pa drugo. In mi seveda s takšnimi metodami pritiskamo neposredno na revolt teh ljudi, ki so v kasarnah. To opozorilo je seveda na mestu. Ampak on ni želel priti na sejo zbora, ampak je povedal, da pride danes in takrat sem mu tudi povedal, da je predlog da se ga razreši in da bomo to danes razpravljali. Gospod Židanik je bil prvi.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-225">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-225.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">Dr. ANTON ŽIDANIK:  </u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-225.2"
                who="#ZidanikAnton1942"
                ana="#taxonomy.2.7.1">Verjetno se mi danes niti ne zavedamo tega, kako veliko politično vprašanja je ta današnja odločitev; zato bi jaz priporočil, da sprejmemo stališče in priporočilo našega predsednika, da to prestavimo na naslednjo skupščino in da takrat pridobimo tudi mnenje naših poslanskih klubov. Moram reči, naš poslanski klub socialistični ni razpravljal, osebno se pa pridružujem mnenju Liberalno-demokratske stranke, ker se mi zdi dosti razumsko. Namreč zato, če ima nekdo drugačno mnenje od mojega, to še ne pomeni, da ga moram eleminirati, ampak bom šel z njim v dialog.</u>
@@ -1687,65 +1262,41 @@
                ana="#taxonomy.2.7.1">Drugo pa, če bi ravnali do sedaj pri vseh naših poslancih-kolegih, ki so izgubili volilno bazo enako, da jim vzamemo seveda mandat, potem bi jaz takoj danes dvignil roko. Ker tega nismo delali, je za sedaj tudi ta postopek dosti vprašljiv.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-226">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-226.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-226.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala. Gospod Ban.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-227">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-227.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">FRANC BAN:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-227.2"
                who="#BanFranc1938"
                ana="#taxonomy.2.7.1">Jaz sem med tistimi, ki sem pobudo podpisal. Tako, da tu ni dvoma. Morda sem eden redkih, ki Milana Aksentijevića pozna 20 let in več in ne računati na to, da bo on predajo in prehod v teritorialno obrambo v Sloveniji podpisal. To ne pričakovati in mislim, da to tudi naj ne bi bil moto. Sem pa absolutno za to, da upoštevamo ta predlog predsednika. Že iz enega preprostega razloga: poglejte, koliko nas je danes tu, če Liberalno-demokratska stranka ne glasuje za to, smo pogoreli in bomo še več "fiaskov" doživeli. Sem absolutno za to, da nič ne hitimo, in naj še kdo drug odloči in oceni, kaj to pomeni, da ne bi bili sami. Mi smo se podpisali, imaš 35 poslancev podpisanih. Naj o tej pobudi še kdo kaj odgovorno reče, ker gre za občutljivo politično vprašanje. Mi smo svoje naredili. Jaz sam sem Milanu tudi rekel: Milan, pustimo stvari pri miru. Ti modro ravnaj in svojo delegatsko bazo obvesti, naj te pusti pri miru, naj te razreši in ne hodi ve sem. To bi bilo najboljše. Vendar on tega nikoli ne bo naredil. Zato predlagam, da resnično rešpektiramo ta predlog, ki si ga ti na nek način oblikova, ker je to občutljivo za ta čas, občutljivo politično vprašanje. Lahko resnično pride do tega čez 14 dni, da bomo rekli in da bodo v Ljubljani, Mariboru, v Bistrici rekli, zakaj pa nismo opozorilo tega človeka upoštevali, ki je morebiti preveč rekel okrog zapetljajev, ki se potencirajo. Vprašajte ljudi, Domžalčane, Prekmurce, kaj so včeraj doživljali z nanižjimi preleti najmodernejših migov. Stavi se nam resnično komplicirajo. Daleč od tega, da odstopam od izjave, da nisem pripravljen z njih sodelovati itd., ampak mislim, da bi morali v tem trenutku ravnati modro in tako kot je menda Židanik predlagal, naj še kdo drug reče kaj okrog tega in da skupno ocenimo ali je to modro v tem trenutku ali ne. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-228">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-228.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-228.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala. Replika je tu.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-229">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-229.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">BOGO ROGINA:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-229.2"
                who="#RoginaBogo1947"
                ana="#taxonomy.2.7.1">Jaz sebe nikoli nisem štel v vrste ekstremistov in tudi z Aksentijevićem sem imel, kolikior se je to dalo, zelo dobre odnose. Vendar, če analiziram stvari, so se Aksentijevićeve grožnje iz kar nekaj sej, tistih pred 23. majem in pred 26. junijem uresničile in včeraj je bil zopet v tej hiši zato, da bi grozil. Če pogledamo intervju, ki ga je omenil predsednik, v Mladini, je v tem intervjuju točno povedal, da je z vodstvom 5. armadnega območja precizno analiziral vse svoje govore v Skupščini. Po osebnih kontaktih, ki sem jih imel z njim, jaz sem prej omenil, je nedvoumno bilo možno zaključiti, da hoče svojo pozicijo v parlamentu izkoristiti za koristi vojske, ne pa za koristi slovenskega naroda. Smer, v katero gremo v tem trenutku se mi zdi prelaganje naše odgovornosti na nekoga drugega. O mandatu jugoslovanske armade v tem zboru odloča ta zbor in njegova imunitetna komisija. Če si danes ne upate dvigniti roke za tisto kar smo podpisali in se tudi dogovorili, potem je to bežanje od odgovornosti in vprašujem se, kako bodo Slovenci gledali na naše mandate, če se o tem ne upamo sami odločati.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-230">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-230.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-230.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Jaz teke razprave nimam rad. Moram povedati. Ne more meni nihče groziti s tem, kako bodo Slovenci gledali na mene, kako se bom danes v zvezi z Milanom Aksentijevićem opredeljeval. Žal ni tu nobenega poslanca, ki ne bi zastopal stališča svojega ceha. Vi obrtniki zastopate svojega, mi iz prosvete svojega in tako Milan Aksentijević tudi svojega. Zato takšnega zastopanja ne očitati človeki, prvič, ki ga ni tu niti se mi ne zdi to pošteno. Najprej je treba, da vsak pred svojim pragom počisti, potem pa lahko seveda tudi kamenje mečeš na drugega. Gremo naprej. Peter Starc se še ni oglasil, pa Rudi Moge, potem pa pridete še ostali, pa Perko.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-231">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-231.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PETER STARC:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-231.2"
                who="#StarcPeter1943"
                ana="#taxonomy.2.7.1">Jaz mislim, da ne bi smeli takole govoriti kot smo sedaj na koncu, ampak da bi šlo predvsem za modrost. Jaz sem tudi podpisal tisto izjavo, pa moram reči, da sem bil dolgo časa dober z njim, mislim, ko sem ga gledal kot človeka in ko so se začeli Mariborski dogodki, sem mu enkrat ob priliki rekel, da preneham, da prekinem ta odnos, ki sva ga imela in moram reči, da je bil nad tem zelo presenečen. Po očeh sem videl, kako je gledal, ker je mislil, da ima pač še vedno to zaslombo, ker sem se v tistih prejšnih časih z njegovimi pripombami strinjal, ne z vsemi ampak bom rekel z večino. Najbolj pa me je zmotilo pred kakšnim mesecem, ko ne vem ali smo sprejeli deklaracijo ali kaj je bilo, takrat ko je pač on sam vstal in ko sva šla ven, je rekel: E, neka vam bude srečno! Ampak tisti srečno me je tako zbodlo v srce, da sem rekel potem ne vem komu, če se kaj bojim, pa se bojim tega njegovega srečno. Ampak hotel bi povedati samo to, da končam, mogoče res čustva sedaj igrajo, ampak dejansko pa to ni nobena bojazen. Jaz nisem noben bojazljivec. Zdi se mi, da je bolj modro, da kakšen teden to potegnemo, ker dejansko se mi zdi sedaj to zelo važno politično vprašanje. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-232">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-232.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-232.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala. Rudi Moge.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-233">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-233.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">RUDI MOGE:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-233.2"
                who="#MogeRudi1944"
                ana="#taxonomy.2.7.1">Spoštovane poslanke in poslanci! Govorim o dveh rečeh. Eno je čustvo, drugo je razum. Po čustveni plati sem sam bil za to in sem gospodu Šteri to podpisal, ker enkrat moramo to stvar razčistiti, ampak da jo rešimo ne po čustveni plati, ampak po racionalni. Zakaj tako govorim? Poglejte, bil sem za talca takrat, ko so se Mariborski dogodki dogajali v Pekrah. Takrat sem vso noč prebil z našimi teritorialci, obkrožen z vojno policijo, obkrožen s tanki, in obkrožen zadaj s pehoto. In ko so te tanke naperjali in ko so potegnili zaklepe, smo mi tam gor čakali, da nas bodo pokosili. Verjemite mi, da sem se takrat na tej svobodni zemlji, kjer sem doma, ker imam Pohorje v malem prstu, počutil dokaj klavrno in me je bilo sram, da sem Slovenec, In kaj bi lahko takrat napravil. Rekel bi: dajte mi puško, tako kot vsi ostali, pa bomo streljali, pa bomo videli sedaj, kdo ima prav. zdi se mi, da je tak način balkanski način obračunavanja in če smo mi res demokratično izvoljeni, moramo drugače ravnati.</u>
@@ -1760,49 +1311,31 @@
                ana="#taxonomy.2.7.1">Poglejte! On je vedno v svojih govorih izkoriščal naša emocialna čustva. Če se spomnite njegovega konflikta z ministrom Pirnatom. Kdo je v tistem konfliktu postal moralni zmagovalec na zunaj? Pirnat je po moje čustveno reagiral, pa ni pustil, da bi on govoril hrvatsko. On je takrat govoril, ampak na koncu je on postal, človek bi rekel, zmagovalec. In mi si te njegove strategije tukaj v parlamentu po mojem ne smemo več privoščiti zaradi tega, ker če smo mi Skupščina, ki delamo zakone, potem te zakone spoštujmo in delajmo zakonito po zakonih. On je doselj naša čustva, če malo analizirate, skoraj vedno izkoriščal in jaz bi tole povedal: dajmo, saj nismo tako "zarukan" narod, da ne bi mogli v njegovem ravnanju oz. vsem tem, kar se je zgodilo, najti ene vzrok, ki je zakonsko določen, potem bom pa tudi jaz, Rudi Moge, obe roki dvignil za to, da ne sedi več z nami v klopeh. ne pustimo se mu pa zopet, kot prej, sprovocirati, da bi zdaj mi potegnili en korak, potem bi pa vsi več ali manj pisali. Malo dvomljivo je. Že sam predsednik pravi, on tudi ni čist v to prepričan ali je to v redu ali ne. Po čustveni plati, kot sem rekel, iz svojih izkušenj vam pravim, sem za to, ampak kot varuhi zakonitosti, kot mi moramo biti tukaj, ko si izmišljujemo zakono, sem pa za to, da mi ne bi bili Pirnat II, ampak da smo malo bolj modri od njega in če je že tako dolgo med nami sedel, zdaj mislim, če ima ta status ali ne, to nič ne pomeni. Počakajmo še teden dni in točko lepo čez teden dni tudi z razumom, ki nam bo dal zadoščenje, dviiignimo in bomo potem tudi šli iz te skupščine kot zmagovalci. Če bomo pa danes dvignili roke, pa se prepustimo samo čustvom in damo tole gor, se mi zdi, da bi lahko na koncu, ne v Sloveniji, ampak kje drugje, bil on moralni zmagovalec, ne pa mi.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-234">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-234.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-234.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala. Gospod Perko.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-235">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-235.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">Mag. FRANC PERKO:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-235.2"
                who="#PerkoFranc1942"
                ana="#taxonomy.2.7.1">Osebno ne želim več delati skupaj s predstavnikom JLA v Skupščini, to je popolnoma jasno. Hkrati pa želim, da to uredimo pravno in predlagam nekaj stvari. Da bi le poslali ta predlog naše mandatne komisije v preverbo ustreznim komisijam v skupščini. Predlagam tudi, da po potrebi, če na osnovi sedanjih zakonov ne moremo tega storiti, da v Skupščini tudi določen zakon spremenimo, samo da ga bomo pravno izključili in te Skupščine, da ne bi nerodnost nastala. Mogoče bi bilo zdaj to. Povedali ste, da ste se z njim pogovarjali. Ali ga lahko v imenu zbora pokličemo, da odstopi? Ne. Tudi to, drugače pa pravim tisti prvi prdlog. Predlagam, da tudi zakone spremenimo, da ga regularno izločimo iz Skupščine. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-236">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-236.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-236.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala. Andrej Šter.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-237">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-237.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">ANDREJ ŠTER:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-237.2"
                who="#SterAndrej1958"
                ana="#taxonomy.2.7.1">Dosti je bilo že govora o zahtevi, ki smo jo podpisovali, moram reči, da pravzaprav večina. Ta zahteva se je glasila tako: da zbor obravnava</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-238">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-238.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-238.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Nismo več sklepčni in lahko prekinemo s sejo. Ali res ne morete biti še deset minut tu, da se bomo to pogovorili? Mladinci si izmislijo, ker imajo eno francosko delegacijo, mi se pa pogovarjamo o tekšnih stvareh, ki naenkrat postanejo vzporedne za nekatere.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-239">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-239.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">ANDREJ ŠTER:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-239.2"
                who="#SterAndrej1958"
                ana="#taxonomy.2.7.1">Saj bom jaz čisto hitro. Tista zahteva ima čisto jasno dikcijo, da se odpre vprašanje poročila mandatno-imunitetne komisije in da se o tem odločimo. To ni bilo napisano namenoma v pogromaškem stilu, da obračunamo z Milanom Aksentijevićem in tega tudi nihče ne zahteva. Zato mislim, da sploh ni nobenega zadržka, da dobimo vsa mnenja, ampak mislim, da je podpredsednik, mogoče v napačni obliki, ampak zelo dobro povedal: namesto nas se ne bo nobeden odločil; nihče nam ne bo dal pisnega pooblastila, Andrej Šter glasuj za ali pa Andrej Šter, glasuj proti! Ne bo. Zato so na svetu pravniki, da čiste stvari zakomplicirajo. Jaz sem eden med njimi.</u>
@@ -1811,39 +1344,28 @@
                ana="#taxonomy.2.7.1">Pa še nekaj želim povedati. Tako kot je gospod Zabukovec ponovil svoje vprašanje, ki ima svojo težo, tako tudi jaz ponavljam: prepričan sem, pa ne znam, ne morem tega argumentirati drugače kot tako, da globoko v srcu čutim, da bomo s tem razrešili tudi dilemo, ki mori našega kolega. Ker dejansko za vojaka ni vdaje in on je tukaj točno povedal, kaj dela in to bo delal. Ne upam se postavljati sebe v njegov položaj, v kakšne dileme prihaja. Ampak prepričan sem, da mu bomo z odločitvijo pomagali, ali mu verificiramo ali odvzamemo mandat. Oboje mu bo pomagalo.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-240">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.1"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Hvala. Franček, poglej, če lahko tako povem. Jaz bi namreč skušal tako formulirati sklep, bomo pa imeli seveda tudi tega, ki ga je gospod Studenčnik predlagal. Jaz bi tako predlagal: ZZD je razpravljal o poslanskem mandatu Milana Aksentijevića v ZZD. Po poročilu predsednika Mandatno-imunitetne komisije in razpravi je sprejel ZZD s k l e p:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">O odvzemu mandata ponovno razpravlja na naslednji seji, ko bodo pridobljena stališča ustreznih komisij (Republiška volilna komisija in Zakonodajno-pravna komisija) in poslanskih klubov. Ste res za to?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.4"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">(da.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.4" type="debate">da.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Dobro. Koliko nas je zdaj tu? 45 nas je bilo.</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Kdo je za predlagani sklep?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.7"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">(45 delegatov glasuje za.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.7" type="vote">45 delegatov glasuje za.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Kdo je proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.9"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.9" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.11"
-               who="#komentator"
-               ana="#taxonomy.2.7.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.11" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.7.1">Torej je sklep soglasno sprejet. Zbor bo zdaj posredoval to pisno na ustrezne naslove in bomo počakali, ker moramo imeti tudi pisno njihova mnenja.</u>
@@ -1856,21 +1378,15 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.15"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Kdo je za to, da sprejmemo to pobudo kot pobudo Zbora združenega dela?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.16"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(41 delegatov.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.16" type="vote">41 delegatov.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.17"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Ali je kdo proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.18"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(En delegat.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.18" type="vote">En delegat.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.19"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Ali se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.20"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.20" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.21"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">To je sprejeto.</u>
@@ -1880,21 +1396,15 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.23"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Kdo je za to javno zahvalo?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.24"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(42 delegatov.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.24" type="vote">42 delegatov.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.25"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Ali je kdo proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.26"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.26" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.27"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Ali se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.28"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.28" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.29"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Zahvala je soglasno sprejeta.</u>
@@ -1904,21 +1414,15 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.31"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Kdo je za takšno izjavo in sklep?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.32"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(44 delegatov.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.32" type="vote">44 delegatov.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.33"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Ali je kdo proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.34"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.34" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.35"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Ali se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.36"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.36" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.37"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Soglasno sprejeto.</u>
@@ -1931,54 +1435,37 @@
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.40"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Kdo je za to pobudo?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.41"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(44 za.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.41" type="vote">44 za.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.42"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Je kdo proti?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.43"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.43" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.44"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Vzdržani?</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.45"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.45" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.46"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Formalno!</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.47"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Iz klopi:</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.47" type="location">Iz klopi:</note>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.48"
                who="#unknown"
-               ana="#taxonomy.4.3.3">Za naslednjo sejo smo predlagali, naj pridejo na sejo, pa samo enih pet od nas še pride.)</u>
+               ana="#taxonomy.4.3.3">Za naslednjo sejo smo predlagali, naj pridejo na sejo, pa samo enih petod nas še pride.</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-240.49"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Se moramo dogovoriti katerih pet. (Jaz bom tisti, recimo.) Glede tega se moramo takoj pogovoriti o dveh stvareh. Prvič,naslednja seja ima nov sveženj zakonov s področja gospodarstva. To se pravi, če bomo zdaj ugotavljali, da ti ljudje niso zainteresirani, da bi sodelovali pri oblikovanju teh zakonov, se mi zdi, da je treba potem vprašati njihove volilce, kako je s to zadevo. Na ta način se mi zdi normalno, da bodo 31.7.1991 prišli in da bomo skupaj v veliko večjem številu, zlasti pe, ker bomov majhni dvorani in bo bolj hladno in se bomo bolj prijetno počutili. Potem pa še naslednje. Mi smo se dogovarjali za izredno sejo. Za to izredno sejo moram zopet dvoje povedati. Prvič, od ministrov so zopet danes tu samo tisti,ki so bili včeraj. Drugič, predlagam, da bi imeli to izredno sejo v torek 30.7.1991 ob 14.uri, do takrat bomo pa skušali skupaj z gospodarskim ministrom dobiti dvoje: Prvič, nas ne zanimajo več ne vem kakšne ocene, ampak nas zanimajo predvsem ukrepi, in to kratkoročni in dolgoročni; ker so pa bolj potrebni kratkoročni, je treba jasno tu opredeliti, s čim bodo prišli. Ne tako, kot včeraj nisem se hotel oglasiti, ko je gospod Umek govoril. Saj on je samo našteval restrikcije, kako bi zbirali denar, nikakor pa ne odlokov in zakonov, s katerimi bi pospeševali določene gospodarske dejavnosti. In za mene je seveda interesantno pri tem, da dobimo motive za to, da bomo lahko delali, ne pa za to, da bomo obremenjevali še tisto, kar je. Na ta način bi se skušali dogovoriti. Če bo ustrezno gradivo, ga dobite prej. Če ne bo nič, vabilo boste dobili zanesljivo. Morajo priti s pisnimi predlogi, tako kot smo od njih zahtevali. Če pa pisnega ni, seje ne bo. Mi moramo dobiti tri dni prej konkretno gradivo. Absolutno se strinjam z vami. Mi moramo ta odnos, kljub temu, da , jaz sem že včeraj tudi povedal - mi predstavnike iz Izvršnega sveta lahko cenimo, o nekaterim imamo verjetno tudi pomisleke glede na njihovo delo - ampak zdaj je pa treba res pokazati, kaj zna kdo narediti. In, če ne znajo, zato sem tudi že pri zdravstvenem zakonu povedal, če se nič ne upošteva, pa nič ne naredijo, je pa res treba začeti drugače razmišljati in tudi govoriti v skupščino; ne samo po "kuloarjih". Zdaj je res taka situacija, da ni več lahko. Ali bi za takšen delovni dan bili? Ali lahko še to, da bo ta zadeva čista? Tudi tam, ker imamo zdaj odprt zakon o organiziranju in financiranju šolstva. O tem smo se tudi tako dogovorili, da so zdaj vsi trije zbori pristali na to, tudi Družbenopolitični zbor je spremenil, da niso obravnavali osnutka, ampak tudi predlog; ampak o predlogu bomo razpravljali 31.7.1991. Še prej se bo sestal Odbor za šolstvo in šport, obravnaval vse amandmaje, ki jih je kar velik paket,in na ta način dobil bolj čisto situacijo tudi za spremljanje. Upam, da bo do takrat vse v redu. Minister Vencelj se pa opravičuje zaradi nespretnosti, do katere je prišlo včeraj, ker nekaterih stvari niso opravili, ki bi jih morali po zadolžitvi, ne samo Odbora za šolstvo, ampak tudi našega Zbora združenega dela. Toliko da veste, da tudi njemu ni bilo vseeno. Prosim.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-241">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-241.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">Neidentificiran govornik (iz klopi):</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-241.2"
                who="#unknown"
                ana="#taxonomy.4.3.3">Jaz sem ravno glede te seje želel dopolniti to, da naj na zasedanje samo pridejo uslužbenci s polno odgovornostjo. Mislim, da ste me razumeli, kaj sem hotel povedati.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-242">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-242.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-242.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Člani vlade. To se pravi, ne njihovi namestniki in svetovalci. Samo to si spet ne morete predstavljati, da bo zdaj vseh 20 in toliko ministrov tu sedelo zaradi tega; vsaj glavni odgovorni pa morajo biti. Prosim, Franc Avberšek.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-243">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-243.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">FRANC AVBERŠEK:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-243.2"
                who="#AvbersekFranc1947"
                ana="#taxonomy.4.3.3"> Na prejšnjo pobudo,ki smo jo izglasovali, torej na pobudo gospoda Kocijančiča, da se letališča odprejo, imam jaz naslednjo pobudo. Nuklearna elektrarna Krško je bila zaprta zaradi groženj o napadu, še posebej iz zraka. Sedaj je Nuklearna elektrarna pričela zopet obratovati. Menim, da dokler ne bodo odprta slovenska letališča, ni pogojev za varno obratovanje Nuklearne elektrarne Krško in dajem vladi pobudo, da do odprtja letališč Nuklearno elektrarno ponovno zapre.</u>
@@ -1987,18 +1474,13 @@
                ana="#taxonomy.4.3.3">Jaz vem, da gre za elektriko, sem tudi predstavnik proizvajalca, ampak vedite, da to nima nobene zveze s tem. Če so grozili iz zraka in se niso pripravljeni odpovedati temu, mislim, da groženj iz zraka ni konec. Če niso letališče odprli, mislim da elektrarna je bila zaprta točno zaradi teh groženj, ne pa zaradi kakršnihkoli tehničnih problemov, se Nuklearka toliko časa zapre. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.div-244">
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3"> Jaz mislim, da tudi to od vas ni bilo preveč fer, ker nekateri menite, da on predlaga to iz konkurenčnih razlogov, da bo več premoga prodal; da je zato. To ne gre! Je čisto tehnično in ima prav. Zaradi tega, ker dokler je tu zračni prostor zaprt, je vedno možnost agresije; saj to je jasno mislim vsem.</u>
             <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Je še kakšna zelo pomembna pobuda? Če ne, bi se vam zahvalil in zaključil to 25. oziroma prvo zasedanje.</u>
-            <u xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.4"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">/Seja je bila končana ob 14.55 uri/</u>
+            <note xml:id="Sk-11.1991-07-18.ZbZdruDel.s025-02.u-244.4" type="time">/Seja je bila končana ob 14.55 uri/</note>
             <anchor xml:id="DZ-1991-ZbZdruDel-25.stage.t.10"/>
          </div>
       </body>

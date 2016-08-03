@@ -285,11 +285,11 @@
                             <!-- najprej dodam vsebino, ki je vedno pred prvim div/div/sp -->
                             <div>
                                 <anchor xml:id="{tei:stage/tei:time[@from]/@xml:id}" n="{substring-before(tei:stage/tei:time/@from,'T')}"/>
-                                <u who="{concat('#',$idCommentator)}" type="preface"><xsl:value-of select="normalize-space(../tei:head)"/></u>
-                                <u who="{concat('#',$idCommentator)}" type="preface"><xsl:value-of select="normalize-space(tei:head)"/></u>
-                                <u who="{concat('#',$idCommentator)}" type="preface"><xsl:value-of select="normalize-space(tei:docDate)"/></u>
-                                <u who="{concat('#',$idCommentator)}" type="preface"><xsl:value-of select="normalize-space(tei:castList)"/></u>
-                                <u who="{concat('#',$idCommentator)}" type="time"><xsl:value-of select="normalize-space(tei:stage)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(../tei:head)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:head)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:docDate)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:castList)"/></u>
+                                <u who="{concat('#',$idCommentator)}"><xsl:value-of select="normalize-space(tei:stage)"/></u>
                             </div>
                             <!-- procesiram prejšnjo variablo -->
                             <xsl:apply-templates select="$govori-var2" mode="govori-var3-ciscenje"/>
@@ -358,7 +358,6 @@
                                                             </xsl:for-each>
                                                         </xsl:attribute>
                                                     </xsl:if>
-                                                    <xsl:call-template name="stage-type-attribute"/>
                                                     <xsl:value-of select="."/>
                                                 </u>
                                             </xsl:when>
@@ -377,7 +376,6 @@
                         </xsl:variable>
                         
                         <!-- Na koncu naredim iz vseh xml:id unikatne identifikatorje (dodam uniqueId TEI dokumenta) -->
-                        <!-- u/@type spremenim v adekvatne note in incident elemente -->
                         <xsl:variable name="uniqueId" select="concat($folder-mandate,'.',current-grouping-key(),'.',$chamber,'.',$session-type,$session-number,'-',$dategroup-number)"/>
                         <xsl:variable name="govori-var12">
                             <xsl:for-each select="$govori-var11/tei:div">
@@ -385,73 +383,16 @@
                                     <xsl:for-each select="node()">
                                         <xsl:choose>
                                             <xsl:when test="xs:string(node-name(.)) = 'u'">
-                                                <!-- glede na morebitni type atribut iz u naredim nove elemente note in incident -->
-                                                <xsl:choose>
-                                                    <xsl:when test=".[@type='incident']">
-                                                        <incident xml:id="{concat($uniqueId,'.',@xml:id)}" who="{@who}">
-                                                            <xsl:call-template name="ana-attribute"/>
-                                                            <desc>
-                                                                <xsl:call-template name="remove-parenthesis"/>
-                                                            </desc>
-                                                        </incident>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='quote']">
-                                                        <writing xml:id="{concat($uniqueId,'.',@xml:id)}" who="{@who}">
-                                                            <xsl:call-template name="ana-attribute"/>
-                                                            <xsl:value-of select="."/>
-                                                        </writing>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='location']">
-                                                        <xsl:call-template name="note">
-                                                            <xsl:with-param name="uniqueId" select="$uniqueId"/>
-                                                        </xsl:call-template>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='speaker']">
-                                                        <!-- speaker ne procesiram -->
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='preface']">
-                                                        <xsl:call-template name="note">
-                                                            <xsl:with-param name="uniqueId" select="$uniqueId"/>
-                                                        </xsl:call-template>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='comment']">
-                                                        <xsl:call-template name="note">
-                                                            <xsl:with-param name="uniqueId" select="$uniqueId"/>
-                                                        </xsl:call-template>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='time']">
-                                                        <xsl:call-template name="note">
-                                                            <xsl:with-param name="uniqueId" select="$uniqueId"/>
-                                                        </xsl:call-template>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='quorum']">
-                                                        <xsl:call-template name="note">
-                                                            <xsl:with-param name="uniqueId" select="$uniqueId"/>
-                                                        </xsl:call-template>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='vote']">
-                                                        <xsl:call-template name="note">
-                                                            <xsl:with-param name="uniqueId" select="$uniqueId"/>
-                                                        </xsl:call-template>
-                                                    </xsl:when>
-                                                    <xsl:when test=".[@type='debate']">
-                                                        <xsl:call-template name="note">
-                                                            <xsl:with-param name="uniqueId" select="$uniqueId"/>
-                                                        </xsl:call-template>
-                                                    </xsl:when>
-                                                    <!-- drugače je govor u -->
-                                                    <xsl:otherwise>
-                                                        <u xml:id="{concat($uniqueId,'.',@xml:id)}" who="{@who}">
-                                                            <xsl:call-template name="ana-attribute"/>
-                                                            <!-- če bo dodalo type atribut, kateri ni bil procesiran z when,
-                                                                bo shema javila napako, saj u ne sme imeti type atributa -->
-                                                            <xsl:call-template name="stage-type-attribute"/>
-                                                            <xsl:value-of select="."/>
-                                                        </u>
-                                                    </xsl:otherwise>
-                                                </xsl:choose>
+                                                <u xml:id="{concat($uniqueId,'.',@xml:id)}" who="{@who}">
+                                                    <xsl:if test="@ana">
+                                                        <xsl:attribute name="ana">
+                                                            <xsl:value-of select="@ana"/>
+                                                        </xsl:attribute>
+                                                    </xsl:if>
+                                                    <xsl:value-of select="."/>
+                                                </u>
                                             </xsl:when>
-                                            <!-- drugače je anchor, ki ga samo kopiramo -->
+                                            <!-- drugače je anchor, ki je že od prej podedoval unikatni id -->
                                             <xsl:otherwise>
                                                 <xsl:copy-of select="."/>
                                             </xsl:otherwise>
@@ -553,8 +494,7 @@
                                     <front>
                                         <div type="contents">
                                             <list>
-                                                <!-- procesira samo elemente u, ki nimajo atributa type -->
-                                                <xsl:for-each-group select="$govori-var10//tei:u[not(@type)]" group-by="@corresp">
+                                                <xsl:for-each-group select="$govori-var10//tei:u" group-by="@corresp">
                                                     <item xml:id="{concat($uniqueId,'.toc-item',position())}">
                                                         <xsl:variable name="naslov-kazalo">
                                                             <xsl:for-each select="document($toc-document)//tei:item[substring-after(@corresp,'corp:') = current-grouping-key()]">
@@ -611,14 +551,12 @@
         </sp>
     </xsl:template>
     
-    <!-- procesira div/stage -->
     <xsl:template match="tei:stage" mode="govori-1">
         <xsl:variable name="sp-who" select="substring-after(@who,'sp:')"/>
         <xsl:variable name="div-id" select="parent::tei:div/@xml:id"/>
         <xsl:choose>
             <xsl:when test=".[@type = 'time']">
                 <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
-                    <xsl:call-template name="stage-type-attribute"/>
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
                 <xsl:if test="tei:time/@to">
@@ -630,12 +568,12 @@
             </xsl:when>
             <xsl:otherwise>
                 <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
-                    <xsl:call-template name="stage-type-attribute"/>
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    
     
     <xsl:template match="tei:speaker" mode="govori-2">
         <xsl:param name="div-id"/>
@@ -644,7 +582,6 @@
         </speaker>
     </xsl:template>
     
-    <!-- procesira sp/p -->
     <xsl:template match="tei:p" mode="govori-2">
         <xsl:param name="sp-who"/>
         <xsl:param name="div-id"/>
@@ -656,22 +593,19 @@
         </p>
     </xsl:template>
     
-    <!-- procesira sp/ab -->
     <xsl:template match="tei:ab" mode="govori-2">
         <xsl:param name="sp-who"/>
         <xsl:param name="div-id"/>
         <p who="{concat('#',$sp-who)}" divId="{$div-id}">
-            <xsl:call-template name="remove-parenthesis"/>
+            <xsl:value-of select="normalize-space(.)"/>
         </p>
     </xsl:template>
     
-    <!-- procesira sp/stage -->
     <xsl:template match="tei:stage" mode="govori-2">
         <xsl:param name="div-id"/>
         <xsl:choose>
             <xsl:when test=".[@type = 'time']">
                 <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
-                    <xsl:call-template name="stage-type-attribute"/>
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
                 <xsl:if test="tei:time/@to">
@@ -683,46 +617,15 @@
             </xsl:when>
             <xsl:otherwise>
                 <p who="{concat('#',$idCommentator)}" divId="{$div-id}">
-                    <xsl:call-template name="stage-type-attribute"/>
                     <xsl:value-of select="normalize-space(.)"/>
                 </p>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
     
-    <!-- možen sp/quote, ki vsebuje več p child elementov (kateri ne vsebujejo stage child elementov)  -->
-    <xsl:template match="tei:quote" mode="govori-2">
-        <xsl:param name="sp-who"/>
-        <xsl:param name="div-id"/>
-        <xsl:apply-templates mode="govori-3">
-            <xsl:with-param name="sp-who" select="$sp-who"/>
-            <xsl:with-param name="div-id" select="$div-id"/>
-        </xsl:apply-templates>
-    </xsl:template>
-    
-    <!-- procesira sp/p/stage -->
     <xsl:template match="tei:stage" mode="govori-3">
         <xsl:param name="div-id"/>
         <stage who="{concat('#',$idCommentator)}" divId="{$div-id}">
-            <xsl:call-template name="stage-type-attribute"/>
-            <xsl:value-of select="."/>
-        </stage>
-    </xsl:template>
-    
-    <!-- procesira sp/p/quote -->
-    <xsl:template match="tei:quote" mode="govori-3">
-        <xsl:param name="sp-who"/>
-        <xsl:param name="div-id"/>
-        <stage who="{concat('#',$sp-who)}" divId="{$div-id}" type="quote">
-            <xsl:value-of select="."/>
-        </stage>
-    </xsl:template>
-    
-    <!-- procesira sp/quote/p (nima child elementov) -->
-    <xsl:template match="tei:p" mode="govori-3">
-        <xsl:param name="sp-who"/>
-        <xsl:param name="div-id"/>
-        <stage who="{concat('#',$sp-who)}" divId="{$div-id}" type="quote">
             <xsl:value-of select="."/>
         </stage>
     </xsl:template>
@@ -738,7 +641,7 @@
     </xsl:template>
     
     <xsl:template match="tei:speaker" mode="govori-var3-ciscenje">
-        <u who="{@who}" divId="{@divId}" type="speaker">
+        <u who="{@who}" divId="{@divId}">
             <xsl:value-of select="normalize-space(.)"/>
         </u>
     </xsl:template>
@@ -749,14 +652,12 @@
     
     <xsl:template match="tei:p" mode="govori-var3-ciscenje">
         <u who="{@who}" divId="{@divId}">
-            <xsl:call-template name="stage-type-attribute"/>
             <xsl:apply-templates mode="govori-var3-ciscenje2"/>
         </u>
     </xsl:template>
     
     <xsl:template match="tei:stage" mode="govori-var3-ciscenje2">
         <stage>
-            <xsl:call-template name="stage-type-attribute"/>
             <xsl:value-of select="."/>
         </stage>
     </xsl:template>
@@ -803,29 +704,11 @@
     </xsl:template>
     
     <xsl:template match="tei:stage" mode="govori-var5-ciscenje2">
-        <xsl:param name="kdo"/>
         <xsl:param name="divID"/>
         <u who="{concat('#',$idCommentator)}" divId="{$divID}">
-            <xsl:call-template name="stage-type-attribute"/>
             <xsl:value-of select="normalize-space(.)"/>
         </u>
     </xsl:template>
-    
-    <!--<xsl:template match="tei:stage" mode="govori-var5-ciscenje2">
-        <xsl:param name="divID"/>
-        <u divId="{$divID}">
-            <xsl:attribute name="who">
-                <xsl:choose>
-                    <xsl:when test=".[@type='quote']">quote</xsl:when>
-                    <xsl:otherwise>
-                        <xsl:value-of select="concat('#',$idCommentator)"/>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </xsl:attribute>
-            <xsl:call-template name="stage-type-attribute"/>
-            <xsl:value-of select="normalize-space(.)"/>
-        </u>
-    </xsl:template>-->
     
     <xsl:template match="node()|@*" mode="govori-var6-doda_id">
         <xsl:copy>
@@ -840,7 +723,6 @@
                 <xsl:choose>
                     <xsl:when test="xs:string(node-name(.)) eq 'u'">
                         <u xml:id="{concat('u-',$divPosition,'.',position())}" who="{@who}">
-                            <xsl:call-template name="stage-type-attribute"/>
                             <!-- atr divId začasno shranim v atr corresp (uvodne komentatorjeve besede (docDate ipd.) nimajo tega atributa, zato preferem if) -->
                             <xsl:if test="@divId">
                                 <xsl:attribute name="corresp">
@@ -910,8 +792,11 @@
     
     <xsl:template match="tei:u" mode="govori-var-11-ciscenje">
         <u xml:id="{@xml:id}" who="{@who}">
-            <xsl:call-template name="ana-attribute"/>
-            <xsl:call-template name="stage-type-attribute"/>
+            <xsl:if test="@ana">
+                <xsl:attribute name="ana">
+                    <xsl:value-of select="@ana"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:value-of select="normalize-space(.)"/>
         </u>
     </xsl:template>
@@ -966,50 +851,5 @@
             <xsl:apply-templates mode="taxonomy-remove_ana"/>
         </category>
     </xsl:template>
-    
-    <!-- vsi stage elementi imajo orgininalno atribut type, vrednost katerih je potrebno ohraniti,
-        ker se na njihovi podalgi na koncu dodeluje type elementa note in incident -->
-    <xsl:template name="stage-type-attribute">
-        <xsl:if test="@type">
-            <xsl:attribute name="type">
-                <xsl:value-of select="@type"/>
-            </xsl:attribute>
-        </xsl:if>
-    </xsl:template>
-    
-    <xsl:template name="ana-attribute">
-        <xsl:if test="@ana">
-            <xsl:attribute name="ana">
-                <xsl:value-of select="@ana"/>
-            </xsl:attribute>
-        </xsl:if>
-    </xsl:template>
-    
-    <xsl:template name="remove-parenthesis">
-        <xsl:analyze-string select="." regex="^(\()(.*?)(\)?)$" flags="m">
-            <xsl:matching-substring>
-                <xsl:value-of select="normalize-space(regex-group(2))"/>
-            </xsl:matching-substring>
-            <xsl:non-matching-substring>
-                <xsl:analyze-string select="." regex="^(\()?(.*?)(\))$" flags="m">
-                    <xsl:matching-substring>
-                        <xsl:value-of select="normalize-space(regex-group(2))"/>
-                    </xsl:matching-substring>
-                    <xsl:non-matching-substring>
-                        <xsl:value-of select="normalize-space(.)"/>
-                    </xsl:non-matching-substring>
-                </xsl:analyze-string>
-            </xsl:non-matching-substring>
-        </xsl:analyze-string>
-    </xsl:template>
-    
-    <xsl:template name="note">
-        <xsl:param name="uniqueId"/>
-        <note xml:id="{concat($uniqueId,'.',@xml:id)}">
-            <xsl:call-template name="stage-type-attribute"/>
-            <xsl:call-template name="remove-parenthesis"/>
-        </note>
-    </xsl:template>
-    
     
 </xsl:stylesheet>

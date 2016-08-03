@@ -24,8 +24,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega zgodovinopisja</publisher>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
             <distributor>DARIAH-SI</distributor>
+            <distributor>CLARIN.SI</distributor>
             <pubPlace>https://github.com/SIstory/SlovParl/tree/master/clarin/edition01</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
@@ -34,7 +35,7 @@
                <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
             </availability>
-            <date when="2016-07-26+02:00"/>
+            <date when="2016-08-03+02:00"/>
          </publicationStmt>
          <sourceDesc>
             <bibl>ZbZdruDel-Sk-11.xml</bibl>
@@ -45,48 +46,6 @@
             <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
                 infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
          </projectDesc>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="TEI" occurs="1"/>
-               <tagUsage gi="anchor" occurs="2"/>
-               <tagUsage gi="availability" occurs="1"/>
-               <tagUsage gi="bibl" occurs="1"/>
-               <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="date" occurs="2"/>
-               <tagUsage gi="distributor" occurs="1"/>
-               <tagUsage gi="div" occurs="94"/>
-               <tagUsage gi="encodingDesc" occurs="1"/>
-               <tagUsage gi="fileDesc" occurs="1"/>
-               <tagUsage gi="front" occurs="1"/>
-               <tagUsage gi="item" occurs="2"/>
-               <tagUsage gi="licence" occurs="1"/>
-               <tagUsage gi="linkGrp" occurs="1"/>
-               <tagUsage gi="list" occurs="1"/>
-               <tagUsage gi="p" occurs="3"/>
-               <tagUsage gi="particDesc" occurs="1"/>
-               <tagUsage gi="persName" occurs="2"/>
-               <tagUsage gi="person" occurs="1"/>
-               <tagUsage gi="profileDesc" occurs="1"/>
-               <tagUsage gi="projectDesc" occurs="1"/>
-               <tagUsage gi="ptr" occurs="471"/>
-               <tagUsage gi="pubPlace" occurs="1"/>
-               <tagUsage gi="publicationStmt" occurs="1"/>
-               <tagUsage gi="publisher" occurs="1"/>
-               <tagUsage gi="ref" occurs="2"/>
-               <tagUsage gi="resp" occurs="2"/>
-               <tagUsage gi="respStmt" occurs="2"/>
-               <tagUsage gi="setting" occurs="1"/>
-               <tagUsage gi="settingDesc" occurs="1"/>
-               <tagUsage gi="sourceDesc" occurs="1"/>
-               <tagUsage gi="teiHeader" occurs="1"/>
-               <tagUsage gi="text" occurs="1"/>
-               <tagUsage gi="timeline" occurs="1"/>
-               <tagUsage gi="title" occurs="10"/>
-               <tagUsage gi="titleStmt" occurs="1"/>
-               <tagUsage gi="u" occurs="391"/>
-               <tagUsage gi="when" occurs="2"/>
-            </namespace>
-         </tagsDecl>
       </encodingDesc>
       <profileDesc>
          <particDesc>
@@ -188,22 +147,18 @@
             <list>
                <item xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.toc-item1">
                   <title>Predlog za izdajo zakona o spremembah in dopolnitvah zakona o delovnih razmerjih z osnutkom zakona (10.a točka dnevnega reda)</title>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-295.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-295.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-295.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-295.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-295.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-296.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-296.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-296.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-296.4"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.6"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.4"/>
@@ -214,9 +169,7 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.9"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.10"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.11"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-299.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-299.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.4"/>
@@ -228,17 +181,13 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.10"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.11"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.12"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-301.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-301.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.6"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-303.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-303.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.4"/>
@@ -256,13 +205,9 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.16"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.17"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.18"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-305.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-305.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-306.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-306.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-307.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-307.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.4"/>
@@ -275,23 +220,17 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.11"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.12"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.13"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-309.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-309.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-310.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-310.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-310.3"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-311.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-311.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.7"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-313.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-313.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.4"/>
@@ -300,22 +239,16 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.7"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.8"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.9"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-315.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-315.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-316.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-316.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-316.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-316.4"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-317.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-317.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-318.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-318.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-318.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-318.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-318.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-319.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-319.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.4"/>
@@ -324,9 +257,7 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.7"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.8"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.9"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-321.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-321.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.4"/>
@@ -336,9 +267,7 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.8"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.9"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.10"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-323.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-323.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.4"/>
@@ -346,16 +275,12 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.7"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.8"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-325.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-325.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-326.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-326.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-326.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-326.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-326.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-327.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-327.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.4"/>
@@ -364,27 +289,18 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.7"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.8"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.9"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-329.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-329.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.6"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-331.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-331.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-332.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-332.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-333.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-333.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.4"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-335.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-335.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.4"/>
@@ -399,42 +315,28 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.13"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.14"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.15"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-337.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-337.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-338.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-338.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-339.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-339.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-340.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-340.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-340.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-340.4"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-341.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-341.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.7"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-343.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-343.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-344.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-344.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-345.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-345.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-345.3"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-346.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-346.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-347.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-347.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.3"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.4"/>
@@ -442,18 +344,12 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.7"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.8"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-350.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-350.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-351.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-351.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-352.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-352.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-353.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-353.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-354.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-354.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-354.3"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.4"/>
@@ -464,58 +360,38 @@
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.9"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.10"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.11"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-356.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-356.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.7"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-358.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-358.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-359.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-359.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-359.3"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-360.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-360.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-361.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-361.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-362.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-362.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-363.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-363.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-363.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-363.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-363.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-364.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-364.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-364.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-364.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-364.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-365.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-365.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-366.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-366.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-367.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-367.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-368.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-368.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-369.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-369.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-370.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-370.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.3"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.7"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.8"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.9"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.10"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.11"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.12"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.13"/>
@@ -524,64 +400,40 @@
                   <title>Predlog zakona o intervencijah v gospodarstvu (14. točka dnevnega reda)</title>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.14"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.15"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.7"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-373.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-373.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-374.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-374.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-375.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-375.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-376.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-376.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-377.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-377.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-378.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-378.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-379.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-379.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-380.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-380.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-381.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-381.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-382.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-382.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-383.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-383.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-384.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-384.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.3"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.5"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.6"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-386.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-386.2"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.1"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.2"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.3"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.4"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.5"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.6"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.7"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.8"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.9"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.10"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.11"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.12"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.13"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.14"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.15"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.16"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.17"/>
                   <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.18"/>
-                  <ptr target="#Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.19"/>
                </item>
             </list>
          </div>
@@ -598,9 +450,6 @@
          </timeline>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-295">
             <anchor xml:id="DZ-1990-ZbZdruDel-11.stage.t.7"/>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-295.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-295.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Nadaljujemo s sejo, ki smo jo prekinili včeraj ob 18.40 uri. Ugotavljam, da nas je zdaj tu zbranih že 61.</u>
@@ -615,9 +464,6 @@
                ana="#taxonomy.3.9.5.1">Za uvod mogoče čisto neformalno, zadeva, ki bi jo Bogo Rogina povedal.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-296">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-296.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">BOGO ROGINA:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-296.2"
                who="#RoginaBogo1947"
                ana="#taxonomy.3.9.5.1">Hvala, predsednik. Nekako smo se dogovorili, upam pa da bo dosežen konsenz o predlogu, da bi zaradi pomanjkanja takih sej, ki so trajale dolgo v noč, to nekako nadomestili 19.12.1990, ko je dvodnevna seja, z enim novoletnim praznovanjem tega zbora. Do zdaj se nismo uspeli kot zbor dobiti skupaj, da se malo boljše spoznamo in je zdaj predlog, da bi 19.12. v Ljubljani, v obokani dvorani kletnih prostorov ŽG Ljubljana, na Pražakovi, organizirali za zbor in strokovne službe zbora silvestrovanje - recimo, da temu tako rečemo.</u>
@@ -629,9 +475,6 @@
                ana="#taxonomy.3.9.5.1">Mislim pa, da bi bilo prav, da se dobimo in da smo enkrat skupaj tudi pri prijetnem delu, ne pa samo pri tem napornem.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-297">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-297.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Velja. Torej predloge in vse te stvari se dogovorite z bogom in, če je kaj drugega, dokončna odločitev naj bi pa bila potem pač v torek oziroma kdaj bomo imeli ta tretji del seje, do takrat pa dajte konstruktivne predloge itn. Saj po vsej verjetnosti je prav. Saj ne gre tu za takšen "grozen" dogodek (v narekovaju seveda).</u>
@@ -649,9 +492,6 @@
                ana="#taxonomy.3.9.5.1">Odbor za splošno gospodarske zadeve na ravni Skupščine Republike Slovenije predlaga zborom, da predlog za izdajo zakona, z osnutkom zakona, sprejmejo. Odbor za delo, zaposlovanje in socialno politiko na ravni Skupščine Slovenije in Komisija za vprašanja invalidov so pa tudi povedali svoje o obeh zakonih. Predstavnica predlagateljev je tu danes Nataša Belopavlovič, namestnica republiške sekretarke za delo, ki bo uvodoma povedala, jaz menim, da kar o obeh zakonih nekaj. Prosim.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-298">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">NATAŠA BELOPAVLOVIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-298.2"
                who="#BelopavlovicNatasa1949"
                ana="#taxonomy.3.9.5.1">Hvala lepa. Spoštovani zbor, gre za spremembo in dopolnitev zakona, ki se v bistvu nanaša samo na en segment, in sicer na segment razreševanja problematike presežnih delavcev. Po oceni Izvršnega sveta je to v kontekstu priprave nove zakonodaje s področja zaposlovanja in zavarovanja za primer brezposelnosti, ki je danes tudi v obravnavi. To je eno tistih vprašanj, ki ga je treba v okviru delovne zakonodaje rešiti in obravnavati prioritetno, ne nezadnje tudi zaradi tega, ker je prišlo iz delegatskih klopi te skupščine precej pobud v tej smeri.</u>
@@ -684,17 +524,11 @@
                ana="#taxonomy.3.9.5.1">Mogoče le dve besedi še o tem zakonu pod točko b) zakon o spremembah zakona o delavcih v državnih organih. Gre v bistvu za čisto prilagoditev tega sistema presežnih delavcev v upravi, s sistemom ostalih delavcev, skratka z zakonom o delovnih razmerjih. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-299">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-299.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-299.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Mogoče kdo od predstavnikov delovnih teles? Želi kdo iz delovnih teles? Če ne, bi odprl razpravo. Prosim vse vabljene goste, da se držite 5-minutnega roka vaše razprave. Prosim, gospod Skledar iz neodvisne konference novih sindikatov (vedno manj razumem tudi to).</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-300">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">ŠTEFAN SKLEDAR:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-300.2"
                who="#SkledarStefan"
                ana="#taxonomy.3.9.5.1">No jaz bom dopolnil, spoštovane gospe poslanke, spoštovani poslanci, spoštovano predsedstvo, hvala lepa za besedo. Najprej bi se predstavil: sem Štefan Skledar, član predsedstva Neodvisnosti, konfederacije novih sindikatov Slovenije.</u>
@@ -730,17 +564,11 @@
                ana="#taxonomy.3.9.5.1">Obrazložitev: v Franciji so npr. sindikalni zaupniki imenovani oziroma jih imenuje sindikat, med drugim tudi zato, da se s tem prepreči vpliv delodajalca na odločanje o tem, kdo bo zaupnik. Tudi naš sindikat jih imenuje zaradi tega. Izraz "dokončnost" je potrebno zamenjati z izrazom "pravnomočnost"; delavcu naj torej preneha delovno razmerje po pravnomočnosti sklepa o prenehanju delovnega razmerja. S tem se delavcu odpre možnost pritožbe na sodišče. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-301">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-301.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-301.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala lepa. Gospod Suvorov iz gospodarske zbornice.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-302">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PETER SUVOROV:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-302.2"
                who="#SuvorovPeter"
                ana="#taxonomy.3.9.5.1">Pogled na ta zakon s stališča delodajalcev je seveda skoraj povsem diametralen od onega, kot ga je predhodnik že omenil oziroma iz pogleda delojemalcev povedal. Na pohodu v tržno gospodarstvo, v želji za vstop v Evropo in za prestrukturiranje gospodarstva ne moremo napraviti koraka naprej, dokler ne počistimo zaposlitvenih, finančnih in premoženjskih bilanc. Če bomo nekatere rešitve (tako na področju prestrukturiranja razvoja, prelastninjenja ali delovno-pravnih razmerij) predlagali in delali moratorije, potem se lahko od Evrope že včeraj poslovimo, ne samo danes.</u>
@@ -758,17 +586,11 @@
                ana="#taxonomy.3.9.5.1">Nekaj več pripomb smo imeli, ampak smo jih že na strokovnem nivoju s predlagateljem zakona in na predhodnih sejah skupščinskih organov usklajevali, zato jaz tukajle tega ne bi ponavljal.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-303">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-303.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-303.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala lepa. Besedo ima gospod Peter Starc.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-304">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PETER STARC:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-304.2"
                who="#StarcPeter1943"
                ana="#taxonomy.3.9.5.1">Spoštovani! Pripravljajoče se spremembe in dopolnitve zakona o delovnih razmerjih predstavljajo idealno priložnost, da se brez večjih posegov v strukturo zakona vsaj deloma popravijo napake veljavnega zakona glede dosledne izpeljave nove koncepcije delovnega razmerja kot dvostransko pogodbenega razmerja. Največjo deviacijo v tem smislu prav gotovo predstavlja socialna ureditev sistema avtonomnih pravnih virov delovnega prava po veljavnem zakonu, predvsem tistih s katerimi se urejajo delovna razmerja na nivoju posamezne organizacije oziroma podjetja. Brez dvoma obstoja vrsta pravic, obveznosti in odgovornosti delavcev iz delovnega razmerja, ki jih je potrebno kljub splošnim in panožnim kolektivnim pogodbam konkretno urediti tudi na nivoju organizacije podjetja oziroma delodajalca z avtonomnimi pravnimi akti.</u>
@@ -822,33 +644,21 @@
                ana="#taxonomy.3.9.5.1">Na koncu bi vprašal, ali nimajo poslovodni organi pri tako pomembnih odločitvah kot so delovna razmerja le nekoliko prevelikega vpliva? Ali ni skrajšanje časa z dveh let na šest mesecev, ko naj bi odvečni delavci našli svoje mesto na zavodu za zaposlovanje, ob težkih pogojih, preoster ukrep? Po drugi strani pa omenjeno skrajšanje prav gotovo ne stimulira direktorjev pri iskanju rešitev za nove programe zaposlovanja, temveč bodo gledali, da se odvečnih delavcev čimprej znebijo. V kranjski Iskri je že nastal primer, ko so postavili nove programe in te delavce iščejo, ker niso stimulirani, da jih imajo doma, jih kličejo nazaj, sedajle bo prišlo do tega, da se jih bomo čimpreje rešili in koliko nas bo zunaj, bomo pa kmalu videli. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-305">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-305.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-305.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Besedo ima gospod Pušnik.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-306">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-306.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽEF PUŠNIK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-306.2"
                who="#PusnikJozef1951"
                ana="#taxonomy.3.9.5.1">Jaz osnutek zakona podpiram, ker menim, da omogoča primerno, in posebej v povezavi z zakonom o zaposlovanju za primer brezposelnosti, razrešitev problemov v gospodarstvu. Sedaj bi pa imel samo vprašanje vezano na vsebino 29. in 30. člena. Ali je potrebno zaporedje dogodkov tako, da se mora najprej realizirati začasno prenehanje potrebe po delu delavcev v okviru šestih mesecev in potem šele nastopi eventualna varianta trajnih razlogov za prenehanje potrebe po delu delavca? Želel bi seveda odgovor predlagatelja. Zavzemal bi se pa za to, da ni potrebno to zaporedje teh dogodkov. To je vse. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-307">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-307.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-307.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Še kdo. Gospod Šketa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-308">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽE ŠKETA: (Zveza svobodnih sindikatov):</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-308.2"
                who="#SketaJoze"
                ana="#taxonomy.3.9.5.1">Spoštovani delegati! Opravičim naj se vam, če se mi bo mogoče ob nekaterem mojem izvajanju malo tresel glas. Moram povedati, da se v tem trenutku zavedam strahotne odgovornosti, ko nastopam pred tem zborom zato, da bi uveljavil tisto, kar smo v zadnjih dneh doživljali na Zvezi svobodnih sindikatov Slovenije ob obravnavi tega zakona oziroma osnutka in pa predvsem ob številnih pozivih delavcev, da če ne bomo v tem trenutku drugače zaščitili njihovih</u>
@@ -887,17 +697,11 @@
                ana="#taxonomy.3.9.5.1">Povsem na koncu bi pa rekel še nekaj. Razumem potrebe, da preidemo v tržni sistem, samo sodimo, da bi morala tudi ta zakonodaja, če se že gremo tržno ekonomijo, upoštevati tudi tržni element, ki mu pravimo delovna sila. In še na koncu: ne pozabimo, da je Jugoslavija podpisala preko 70 mednarodnih konvencij, ki opredeljujejo zaščito delavcev in seveda tudi v tem sistemu pravico sindikata oziroma sindikalnega gibanja in bi predlagal in prosil delegate, da nas v naših prizadevanjih, poudarjam, za mehkejšo varianto tega zakona, podprete. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-309">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-309.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-309.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Še predstavnik tretjega sindikata gospod Rafko Plohl.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-310">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-310.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">RAFKO PLOHL (Neodvisni sindikat Ptuj):</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-310.2"
                who="#PlohlRastko"
                ana="#taxonomy.3.9.5.1">Pozdravljeni. Tukaj se ne bom spuščal v točke tega samega zakona in to zaradi tega, ker se že po mišljenju našega sindikata stvari temeljno razlikujejo v samem bistvu. Menimo, da današnji pristop z raznimi zakoni reševanje brezposelnosti in tega, ni začetek reševanja problemov naše družbe. Mislim, da bi bilo potrebno, da vlada izdela razvojne programe gospodarstva, zatem podjetja naj izdelajo svoje razvojne programe, ker če tega ne bo, potem bomo na koncu vsi skupaj brezposelni.</u>
@@ -906,17 +710,11 @@
                ana="#taxonomy.3.9.5.1">Kaj hočem povedati? Ena stvar, recimo danes gledamo, sprejemali bomo dva zakona o delavcih. Prvi je ta in kasneje pride še druga stvar na vrsto. Problem je v tem; če gledamo za vodstvene strukture dejansko ni nobenega zakona glede njihove odgovornosti za poslovanje oziroma upravljanje s podjetji. Se pravi vso krivico nosijo delavci, ki so dejansko še najmanj krivi pri tem in ti bi naj dejansko bili brezposelni. Se pravi, zelo pogrešamo zakon o "direktorjih" oziroma teh vodilnih. Če niso uspeli do zdaj voditi in upravljati podjetja, menim, da jih tudi v bodoče v tržnem gospodarstvu ne bodo uspeli oziroma bo še slabše. Vse breme pa bodo nosili delavci. Dejansko sem hotel to povedati, v kaj več se pa ne bi spuščal.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-311">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-311.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-311.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Še kdo želi razpravljati? Gospod Muren.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-312">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">ANDREJ MUREN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-312.2"
                who="#MurenAndrej1953"
                ana="#taxonomy.3.9.5.1">V imenu SDS bi prebral nekaj ugotovitev in pripomb k temu osnutku zakona. Torej naša osnovna ugotovitev je, da je predloženi osnutek precej restriktivnejši od sedaj veljavnega zakona. In bi podal sledeče ugotovitve:</u>
@@ -937,17 +735,11 @@
                ana="#taxonomy.3.9.5.1">Dodal bi še nekaj konkretnih pripomb. Pri 29. in 33. členu osnutka podpiramo variante k drugemu odstavku. Pri 36.a členu: četrti odstavek tega člena naj ostane. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-313">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-313.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-313.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala, gospod Muren. Gospod Vili Sekereš je oddal pisne pripombe na posamezne člene in se odpoveduje razpravi. Prosim, gospod Vukovič.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-314">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">KAREL VUKOVIČ (10. volilna enota):</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-314.2"
                who="#VukovicKarel1942"
                ana="#taxonomy.3.9.5.1">Ko je predstavnik sindikata govoril o trši oziroma blažji varianti, sem se spomnil, ker sem s področja premogovništva, da je bil pred časom minister Tomšič pri nas in je razlagal dve varianti glede reševanja premogovništva. Ena je angleška, ko je Thatcherjeva s trdo roko uredila določene zadeve v premogovništvu, druga je pa nemška, kjer z določenimi subvencijami dovolj uspešno, gospodarsko in socialno rešujejo premogovništvo. Ni povedal, za kaj se bo naša vlada odločila, vendar je med drugim rekel, da je treba imeti za nemško varianto denar, mi ga pa nimamo in mislim, da ne samo na področju premogovništva, na vseh področjih bo trda varianta v ospredju.</u>
@@ -974,17 +766,11 @@
                ana="#taxonomy.3.9.5.1">Skratka, da zaključim, jaz predlagam, da do predloga za izdajo tega zakona dobimo s strani Izvršnega sveta projekcijo, ki naj opredeljuje konkretno in tudi rokovno razreševanja gospodarske krize. Brez takšne projekcije mislim, da tudi tega zakona ne moremo sprejeti, ker ta zakon lahko pomeni v prehodnem obdobju določene težave, siromaštvo. Vendar, če je to po dveh letih izboljšanje, potem, tako kot smo rekli ob razpravi glede suverene Slovenije, da smo pripravljeni jesti tudi takšen in drugačen krompir, bodo delavci to sprejeli. Vendar morajo imeti pred seboj vizijo, da se bodo začele razmere izboljševati in za to mora odgovornost prevzeti Izvršni svet. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-315">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-315.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-315.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospod Arzenšek.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-316">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-316.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">DR. JOŽE ARZENŠEK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-316.2"
                who="#ArzensekJoze1942"
                ana="#taxonomy.3.9.5.1">Spoštovani predsednik, predsedstvo, spoštovani zbor. Jaz bi imel dve, tri mogoče bolj splošni vprašanji v zvezi s tem. Ali je, glede na to, da smo pred kratkim sprejemali zakon o delovnih razmerjih, da se pogovarjamo o takoimenovanih splošnih kolektivnih pogodbah za gospodarstvo in za družbene dejavnosti, kjer so te stvari tudi opredeljene, ali je sploh potrebna taka sprememba?</u>
@@ -996,17 +782,11 @@
                ana="#taxonomy.3.9.5.1">To je ena zadeva. In druga stvar, sprašujem čisto tehnično, ali recimo če je v zakonu splošna kolektivna pogodba (in recimo tam vem, da so določeni členi, ki govorijo o tem), ali je to potrebno ali pa je mogoče potrebnih samo par popravkov, ki dajo večja pooblastila delodajalcu? In pa drugo, jaz mislim, da to brez nekega tako imenovanega socialnega programa in pa ene projekcije presežnih delavcev in podobnih stvari, se je dejansko zelo težko opredeljevati okrog teh stvari. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-317">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-317.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-317.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Gospod Šter. Kolegi in kolegice, iskreno vas prosim, dajte sodelovati, drugače pa, če potrebujete odmor, pa povejte.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-318">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-318.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">ANDREJ ŠTER:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-318.2"
                who="#SterAndrej1958"
                ana="#taxonomy.3.9.5.1">Spoštovani! Podpiram osnovno usmeritev predlagane delovne zakonodaje, pri kateri so seveda možne posamezne modifikacije. O tem je bilo že precej govora. Spregovoriti pa želim o nastopu sindikalnih predstavnikov. Eden je govoril o padcu na beton, drugi je opozarjal na tresljaj v glasu, tretji je govoril o direktorjih. Jaz sem zelo vesel, da se sindikalisti zdaj zavedajo svoje vloge, ampak dajte se malo vprašati dragi sindikalni predstavniki, kje ste bili do zdaj, zakaj je zadnji, to se pravi pred dvemi dnevi je bil prvi enotni sestanek, pa moramo ugotoviti, da niti ne vseh dindikatov v Sloveniji. Še so sindikati, ki niso vključeni zdaj v to eno asociacijo, pa kakorkoli se ji že reče ali je konfederacija ali združba, društvo, to ni varstvo delavskih pravic, to je vaša borba za obstanek in pri tem je treba povedati, da doslej svoje vloge niste opravili.</u>
@@ -1021,17 +801,11 @@
                ana="#taxonomy.3.9.5.1">Jaz sem govoril neposredno, mogoče sem koga prizadel, ampak prosim, da vsak skuša razumeti. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-319">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-319.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-319.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Anka Osterman.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-320">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">ANKA OSTERMAN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-320.2"
                who="#OstermanAnka1940"
                ana="#taxonomy.3.9.5.1">Hvala za besedo. Mislim, da približno vemo, kakšni so cilji oziroma nameni zakona, sprememb zakona o delovnih razmerjih. Jaz bi vključila v to tudi ta zakon o delavcih v državni upravi. Vsekakor je bil dosežen že zdaj en cilj, ne vem, če je bilo točno tako namenjeno, vendar je dejstvo, da so ljudje prestrašeni, ne samo nezadovoljni. Mislim, da še bolj prestrašeni, veliko ljudi se je ustrašilo, kaj bo jutri z njimi, kar je verjetno slabo za naš nadaljnji razvoj.</u>
@@ -1058,17 +832,11 @@
                ana="#taxonomy.3.9.5.1">Istočasno pa bi, ko sem že pri besedi, omenila samo še tale zakon o delavcih v državni upravi, s katerim se nikakor ne morem strinjati in to iz istih razlogov, kot sem jih že prej navajala. Pri tem moram vseeno opozoriti, da vendar ni možno Izvršnemu svetu dati v roke možnosti, da sam določi kriterije, kdaj bo nekdo lahko odpuščen in seveda tudi o višini nadomestila. Ne razumem tega ali ne berem prav, ampak meni se zdi to popolnoma nevzdržno. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-321">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-321.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-321.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospod Franc Ban.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-322">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">FRANC BAN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-322.2"
                who="#BanFranc1938"
                ana="#taxonomy.3.9.5.1">Jaz se strinjam z vsemi tistimi, ki so opozarjali na težavnost tematike, o kateri danes razpravljamo, o kompleksnosti problema, pri čemer pa moram reči, da mislim, da velike izbire sploh nimamo. Mi bomo morali v to kislo jabolko ugrizniti, proces je stekel, treba bo najti ustrezne rešitve in moram najprej reči, da se mi zdi, da bi bilo preveč demagoško rečeno, če bi govoril, da gre samo za viške delavcev. Jaz sem tako razumel.</u>
@@ -1098,17 +866,11 @@
                ana="#taxonomy.3.9.5.1">Torej zdi se mi, če bomo sprejeli katerokoli trdo, mehko, posredno varianto te spremembe zakona, bi morali dobiti jasnejši odgovor, kdaj in v katero smer in kako bo izdelan socialni program kot edina bilka, ki jo ljudje, ki zdaj ostajajo tako ali drugače na cesti, še v zadnjem trenutku iščejo.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-323">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-323.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-323.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospod Avberšek.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-324">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">MAG. FRANC AVBERŠEK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-324.2"
                who="#AvbersekFranc1947"
                ana="#taxonomy.3.9.5.1">Moram reči, da sem zmeden po tej razpravi, predvsem sindikalnih funkcionarjev, ker še nismo prišli do pravega konflikta med njimi in poslovodno strukturo. Bom pa na začetku rekel, da sem poslovodni delavec ali direktor, če lahko rečemo, je pa to danes že kar malce huda zadeva.</u>
@@ -1132,17 +894,11 @@
                ana="#taxonomy.3.9.5.1">Poglejte, ali je socialno ogrožen delavec, ki ima avto boljši od Juga 45? Dajmo se vprašati te zadeve. Potem pa tolčimo po direktorjih kolikor hočemo. Jaz sem, moram reči ne glede na to, da se bom zavzemal v firmi, imamo v filozofiji firme napisano: "človek na pravo mesto" in bom na vsak način se zavzemal, da nobenega ne bomo na silo odpustili, pa da se ne bo nič naredilo. Ampak podpiram trdo varianto in to do konca. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-325">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-325.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-325.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospa Lončarjeva.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-326">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-326.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">MARIJA LONČAR:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-326.2"
                who="#LoncarMarija1947"
                ana="#taxonomy.3.9.5.1">V skupščini moram podpirati in zastopati interese volilne baze, ki me je pooblastila, da v celoti podprem stališče Svobodnih sindikatov Slovenije, ki so svoje pripombe poslali pismeno Izvršnemu svetu Slovenije, od katerega pričakujemo, da bo te pripombe v največji možni meri vključil v zakon.</u>
@@ -1157,17 +913,11 @@
                ana="#taxonomy.3.9.5.1">Predlagam, da se ta zakon podpre, ker se bo s tem rešilo vsaj še nekaj, kar mislim, da se v današnjih katastrofalnih razmerah rešiti še da.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-327">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-327.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-327.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospod Mak.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-328">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">VILJEM MAK (2. volilna enota, industrija in rudarstvo):</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-328.2"
                who="#MakViljem1937"
                ana="#taxonomy.3.9.5.1">Nisem nameraval priti pri tej točki in niti nisem kaj posebej pripravljen. Pa bom kar tako poskušal, na kratko.</u>
@@ -1194,17 +944,11 @@
                ana="#taxonomy.3.9.5.1">Tisti delavci, ki bodo pa v tem prešolanju se izgubili, mislim, ker ne bodo pripravljeni delati; mislim jaz smatram to delo, da se bo učil, tisti bo pa žal, pa sindikati ste veseli ali pa ne, tisti bo pa odletel. Ker tisti, ki se ne bo uspel izšolati, bo v določenem procesu sam odstopil in se bo znašel v vrsti tistih, ki bodo na socialnem programu. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-329">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-329.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-329.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospod Aksentijević.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-330">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">MILAN AKSENTIJEVIĆ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-330.2"
                who="#AksentijevicMilan1935"
                ana="#taxonomy.3.9.5.1">Gospod predsednik, spoštovane kolegice in kolegi! Med diskutanti in kolegi smo poslušali direktorje. Vidim v vsakem od njih željo, da v svojem podjetju, v svoji delovni organizaciji, se govori, da ne dovoli, da niti en delavec ne gre iz podjetja, da ne bo vržen na cesto, ne pade pod cesto, tako kot je rekel kolega, dokler se mu ne da vsaka možnost, da z delom zasluži to. To je vidite želja naših tovarišev, gospodov direktorjev za svoje podjetje. In to je lepo in prav. Jaz se strinjam, da se vsak v svojem podjetju tako postavi in mislim, da je potrebno, da se in družba in država tako obnašata nasproti svojemu delavskemu razredu, kot ti naši direktorji, ki so nam obljubili, da ne bodo dovolili, da nobeden po krivici ne gre na cesto.</u>
@@ -1222,55 +966,39 @@
                ana="#taxonomy.3.9.5.1">Naloga vseh nas, vseh tistih je, da tega delavca ne vržemo na cesto. In zato sem iskreno, da se in država postavi kot ti naši direktorji, da damo vsakemu možnost, da se v teh pogojih prestrukturira, na novo pripravi za delo, ki mu ga v tej naši situaciji lahko ponudimo. In zato mi je najbližja ta blažja, ljudska, civilizacijska varianta. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-331">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-331.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-331.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Vseeno se mi zdi, da tisti poslanci, ki še niste razpravljali, naj imajo prednost. Gospod Avberšek, potem pa samo...</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-332">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-332.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">MAG. FRANC AVBERŠEK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-332.2"
                who="#AvbersekFranc1947"
                ana="#taxonomy.3.9.5.1">Samo tule bi lahko. Očitno sem bil napačno razumljen. Jaz razumem pod trdo varianto predloženi zakon, ne pa, da bomo delavce na cesto metali, ker tudi ta zakon ne predvideva, da jih bomo metali na cesto. Ta zakon je tak, da se bomo pokrili s tako dolgo odejo, kakor dolgo imamo. Sicer bomo morali pa noge skrčiti. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-333">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-333.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-333.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Razpravljati želi Boštjan Kovačič.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-334">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">MAG. BOŠTJAN KOVAČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.2"
                who="#KovacicBostjan1950"
                ana="#taxonomy.3.9.5.1">Jaz imam tudi samo repliko. Mislim, da ni socialnih pravic brez socialnih fondov. Imam konkreten predlog. Če samo za 1% zmanjšamo tiste 3% prometnega davka, ki so direktno namenjeni za armado, s tem bi mislim da dobili solidno materialno osnovo za socialne programe.</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.3"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">(Aplavz)</u>
+            <incident xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.3"
+                      who="#komentator"
+                      ana="#taxonomy.3.9.5.1">
+               <desc>Aplavz</desc>
+            </incident>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-334.4"
                who="#KovacicBostjan1950"
                ana="#taxonomy.3.9.5.1">. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-335">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-335.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-335.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Dajmo se nekaj dogovoriti. Oprostite, v primeru, da katerakoli stranka sklicuje seje med sejami zborov, bom jaz prekinil sejo. In gremo lahko domov. Ne dovolim tega. Zaradi tega, ker saj smo vendar tu poslanci in ne pa ne vem kaj drugega. Dajte se pogovarjati o teh stvareh izven sej zborov. Ne mi zameriti za to. Je že tako težko, ker se nekateri odbori sestajajo, ampak dobro, to je procedura, ker pač moramo nekatere stvari uskladiti, ne pa da skličemo, potem pa je res bolje, da prekinemo. Gospod Starc, razprava.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-336">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">MARJAN STARC:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-336.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.3.9.5.1">Spoštovane kolegice in predsedstvo. Znašli smo se v situaciji, ko moramo popravljati zgodovino. Če bi mi na nek evolucijski način, organski se razvijali, verjetno bi stvari ne bile tako travmatične, kakršne šele bodo nastale. Namreč bojim se, da večina ljudi niti v sanjah ne sluti, kako se bodo dogodki razvijali v naslednjih letih, v naslednjih mesecih, v naši in v vseh teh vzhodnoevropskih družbah, ki so postale žrtev zgrešenega zgodovinskega modela oziroma ene zgodovinske zablode.</u>
@@ -1315,33 +1043,21 @@
                ana="#taxonomy.3.9.5.1">Sedajle jaz mislim, da smo prišli v tistih normah - 6-mesečna plača, da damo nekomu to, mogoče bomo še zmogli. Katera tovarna pa je zmogla 24 plač dati ljudem, da jih odpusti? Mislim, da je to zelo zelo mehka varianta in bi bil zadovoljen, da bi uspela ta mehka varianta od Izvršnega sveta. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-337">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-337.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-337.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Besedo ima gospod Židanik.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-338">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-338.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">DR. ANTON ŽIDANIK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-338.2"
                who="#ZidanikAnton1942"
                ana="#taxonomy.3.9.5.1">Sem za dopolnitev zakona o delovnih razmerjih, vendarle kot zdravnik in kot socialist ne morem mimo osebnih in družinskih travm, ki so posledica nezaposlenosti oziroma izgube delovnega mesta. Namreč mi vsi dobro vemo, da je pomembna sestavina zdravja tudi socialna komponenta. Zato mora biti ena od prioritet vlade, da najprej ponudi ustrezen socialni program, takoj nato pa vzpostavi pogoje, da se armada nezaposlenih ustrezno in obvezno aktivira. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-339">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-339.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-339.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospod Toplek.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-340">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-340.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">MAG. DANILO TOPLEK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-340.2"
                who="#ToplekDanilo1952"
                ana="#taxonomy.3.9.5.1">Bom zelo kratek. Govorim o dopolnilih zakona o delovnih razmerjih, vendar, če smo dosedaj poslušali večino govornikov, človek ima občutek, da govorimo le o delovnih razmerjih v gospodarstvu. Smo res prepričani, da je na drugih področjih s produktivnostjo vse v najlepšem redu, da število delavcev odgovarja oziroma število zaposlenih odgovarja obsegu in kvaliteti nalog, ki jih je na teh področjih treba izvajati. Ste že kdaj mogoče slišali koga iz državnih organov, da tako prostodušno priznava nujnost zmanjšanja zaposlenih, kot so to pred menoj naredili nekateri moji kolegi direktorji? Jaz tega do danes nisem slišal, kvečjemu obratno.</u>
@@ -1353,17 +1069,11 @@
                ana="#taxonomy.3.9.5.1">Ne glede na ta moj uvod, da ne bo nesporazuma, smatram, da je dopolnila k temu zakonu potrebno sprejeti, potrebno sprejeti, vendar ga je treba izvajati povsod, ne pa s prstom kazati samo na gospodarstvo, ne za brezposelnost za gospodarstvo, pri tem pa pozabiti, da marsikateri od teh tako imenovanih preveč zaposlenih v gospodarstvu naredi vsaj dvakrat, trikrat toliko kot nekateri, ki s prstom kažejo nanj, da je odvečen. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-341">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-341.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-341.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Še kdo od poslancev? Gospod Plohl, replika. Prosim!</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-342">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">RASTKO PLOHL (Neodvisni sindikati Ptuj):</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-342.2"
                who="#PlohlRastko"
                ana="#taxonomy.3.9.5.1">Jaz bi tu dal repliko na prejšnje govore in bi hotel povedati, za kaj dejansko gre. Na primer, če se ta zakon sprejme, normalno slej kot prej, v zahodnih državah so ti zakoni odvisni tudi od vsebine, ker veže se šele naslednji zakon na te stvari, če se ta sprejme o odpuščanju.</u>
@@ -1384,25 +1094,16 @@
                ana="#taxonomy.3.9.5.1">Dejansko gre za to, rešiti moramo mi samo gospodarstvo in to mora biti strokovni pristop. In hotel sem povedati eno. Kje so kriteriji za uspešno poslovanje? Direktor. Ker oni bodo samo odpuščali, ni dela, odpustimo, ni dela; naslednja runda odpustimo. Se pravi, potrebno je v skladu s tem narediti nekaj drugega, postaviti tudi merila, tudi direktorji, kdo garantira oziroma vodilni delavci kdo garantira, da so ti najboljši oziroma, da se bodo ti njihovi programi izvajali.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-343">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-343.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">FRANC BOŠTJANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-343.2"
                who="#BostjancicFranc1935"
                ana="#taxonomy.3.9.5.1">Sindikati nas bodo reši...</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-344">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-344.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-344.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Gospod Boštjančič, ne tak nivo.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-345">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-345.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">RASTKO PLOHL:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-345.2"
                who="#PlohlRastko"
                ana="#taxonomy.3.9.5.1">Gre za to, enostavno obstajata dve strani, to je normalno, sindikat - stran delavcev pa direktorji. Tudi na zahodu imamo te stvari. Lastniki podjetij pa njihovi menadžerji. To sem hotel povedati, da v kolikor ne bomo kompleksno pristopili k stvari, bodo v glavnem delavci tisti, ki bodo krivi in dejansko vse posledice nosili.</u>
@@ -1411,42 +1112,32 @@
                ana="#taxonomy.3.9.5.1">Gre še za eno stvar. Prehajamo v tržni sistem gospodarstva. Rad bi vprašal, delavci so bili oziroma vsi državljani smo bili lastniki te neidentificirane družbene lastnine. Govorilo se je o neidentificirani. To ni res. Ve se, kdo je bil lastnik. En drug problem je te družbene lastnine. Družbena lastnina ni bila deljiva, ne pa, da se ni vedelo, kdo je njen lastnik. Brez privolitve delavcev se dejansko gre v razprodajo podjetij, čeprav vsi vemo, da moramo iti. Se pravi, jaz mislim, da bi ena prava pravna pot verjetno bila referendum o tem, da se izrečemo, da gremo v tržno gospodarstvo in šele na osnovi tega...</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-346">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-346.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-346.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">To ni replika, to je pa zdaj že razprava o naslednjih točkah.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-347">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-347.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">RASTKO PLOHL:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-347.2"
                who="#PlohlRastko"
                ana="#taxonomy.3.9.5.1">Dobro. Bom jaz to končal, samo hočem te stvari povedati, da dejansko se dogaja to, da bodo delavci hlapci Jerneji, tega pa ne smemo dopustiti.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-348">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Jaz mislim, da se zelo motite in da zelo grdo govorite. Takšne konstatacije v tem zboru sploh ne morem sprejeti. In poleg tega, če bomo ostali pri teh kompleksnih ocenah, bomo ostali pri preteklih štiridesetih letih, ker smo se lahko vsi za vse skrili. Individualno je treba opredeliti,</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">kdo kaj dela in kdo kaj zna. In na kraju vseh krajev videti, ali je zaslužek ali pa ni.</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.4"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">(Aplavz)</u>
+            <incident xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.4"
+                      who="#komentator"
+                      ana="#taxonomy.3.9.5.1">
+               <desc>Aplavz</desc>
+            </incident>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-348.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Gospod Boštjančič še vseeno.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-349">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">FRANC BOŠTJANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-349.2"
                who="#BostjancicFranc1935"
                ana="#taxonomy.3.9.5.1">Jaz priznam, da je med direktorji dosti deviantnih oseb. Lahko sem tudi jaz med njimi, osebno tudi, ker sem nor, da sem toliko let direktor - 22 let sem direktor - in da sem ob tem družbenem premoženju vztrajno preganjal ljudi, da bi se zavedli svojih dolžnosti in malo manj pravic.</u>
@@ -1470,41 +1161,26 @@
                ana="#taxonomy.3.9.5.1">In tukaj druga stvar. Zakaj državni organi ne bi bili izenačeni s podjetji, gospa. Kateri so vaši argumenti, gospa poslanka?</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-350">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-350.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-350.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Ostermanova je.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-351">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-351.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">FRANC BOŠTJANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-351.2"
                who="#BostjancicFranc1935"
                ana="#taxonomy.3.9.5.1">Zakaj ne bi bili izenačeni? Zakaj so imeli oni zmeraj prednosti zaradi tega, ker so bili od bivšega režima ljudje zbrani in zaradi tega naj bi imeli več pravic? Zakaj ne bi bili izenačeni z navadnimi delavci kakor smo vsi ostali. Ne vidim razlogov. In zdaj se izenačuje.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-352">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-352.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">ANKA OSTERMAN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-352.2"
                who="#OstermanAnka1940"
                ana="#taxonomy.3.9.5.1">To sem hotela jaz, ampak ta zakon meni tega ne daje. Zato sem to govorila. Meni ni to videti tako. Če se motim, upam, da mi bo pojasnjeno.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-353">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-353.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">FRANC BOŠTJANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-353.2"
                who="#BostjancicFranc1935"
                ana="#taxonomy.3.9.5.1">Tukaj imamo sekretarko, ki bo povedala, kjer razlaga, da se te stvari izenačuje. In sem za to in večno sem bil za to, da se izenačijo in da se ne dela krivic različnim organom. Če ne, bomo razpravljali o tem, da se to izenačuje, da kvečjemu te stvari popravimo. Samo prosim vas, ne zavlačujmo stvari, kar nam dokazuje, dokazujemo, ne vem, narodu ali delavcem, da ne poznamo situacije. To je pa najbolj žaljivo kar mora biti za poslovni svet.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-354">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-354.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-354.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Gospod Boštjančič je iz replike napravil razpravo, kar je imel tudi pravico, ker je prvič razpravljal.</u>
@@ -1513,9 +1189,6 @@
                ana="#taxonomy.3.9.5.1">Želi še kdo? Je pa, če se zdaj že smejete, je pa prinesel tudi v naš zbor nekaj iz onega življenja, kot so rekli v DPZ, seksualnega. Želi še kdo razpravljati? Če ne, bi prosil gospo Belopavlovičevo, namestnico republiškega sekretarja za delo, da bi odgovorila na nekatera vprašanja.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-355">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">NATAŠA BELOPAVLOVIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-355.2"
                who="#BelopavlovicNatasa1949"
                ana="#taxonomy.3.9.5.1">Hvala. Jaz mislim, da je tudi iz te razprave jasno, da je bil predlagatelj upravičeno v precepu, ko je ponudil ta zakon, ker se tu tepeta dva interesa: podjetniški in socialni. Jaz moram povedati, da ni slučajno, da smo mi oba zakona predložili skupaj in v istih fazah, kot se to pravi kot osnutka, zakon o delovnih razmerjih in pa zakon o zaposlovanju. Če ta zakon, o katerem ste zdaj razpravljali, o spremembah zakona o delovnih razmerjih, zasleduje bolj podjetniške interese, moram reči, da pa ta drugi zakon o zaposlovanju zasleduje socialne interese in da se te stvari potem kompenzirajo in se skladno peljejo naprej. Jaz razumem tudi skrbi vseh sindikatov, ki so se danes pojavili. Nezaposlenost je hud problem, ampak pod zaposlenost, neproduktivna zaposlenost je ravno tako hud problem, ki lahko pripelje do istih oziroma do še večjih zlomov. Mi vidimo, da tam, kjer teh presežnih delavcev ni mogoče reševati v takšnem obsegu, ko se pojavljajo s takimi pravicami, ki jih imajo v obstoječem sistemu, to se pravi s temi pravicami za dve leti, prihaja do stečajev in pridejo vsi delavci na cesto, da rečem poenostavljeno, to se pravi, da ne rešimo niti zdravega dela, ampak enostavno potopimo celo organizacijo.</u>
@@ -1548,17 +1221,11 @@
                ana="#taxonomy.3.9.5.1">Mislim, da sem na en del poizkusila odgovoriti. Naša sekretarka bo pa verjetno še kaj več povedala o socialnih programih.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-356">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-356.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-356.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala, gospa Belopavlovičeva. Bi še gospa ministrica?</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-357">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽICA PUHAR:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-357.2"
                who="#PuharJozica1942"
                ana="#taxonomy.3.9.5.1">Lepo pozdravljeni, hvala za besedo. Nisem se mislila oglasiti, glede na to, da imam tukaj sodelavce, ampak moram reči, da ste me s svojo razpravo, kolikor mi jo je uspelo poslušati, sprovocirali k debati. Namreč, pa ne bi rada zavlačevala, samo nekatera videnja bi rada povedala, tako vladna kot svoja.</u>
@@ -1579,17 +1246,11 @@
                ana="#taxonomy.3.9.5.1">Dodali bomo pa še eno komponento, ki jo zahtevate in vi iz poslanskih klopi in tudi sindikati, v kolikor bo to možno, in sicer kako bodo tudi drugi resorji vlade in pa seveda vlada kot celota poskrbeli za razvojno komponento in ustvarjanje novih delovnih možnosti. To bomo dodali in zaradi tega ta socialni program nekoliko kasni. Če pa si predstavljamo to tako, in jaz mislim, da si vsaj v teh klopeh tega zbora ne, da bomo povedali, koliko bo recimo v določenem roku presežnih delavcev ali pod zaposlenih prišlo ven, iz katerih programov, na katere bodo šli, kdo bo to delal itd., potem mislim, da se prvič varamo, drugič pa, da smo še bolj socialistični in administrativni, kot to očitamo marsikomu drugemu. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-358">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-358.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-358.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Ali bi potem mogoče potem pri drugem zakonu? No, lepo prosim, jaz mislim, kaj še menite gospod Tratnik.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-359">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-359.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽE TRATNIK (namestnik republiškega sekretarja za pravosodje in upravo):</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-359.2"
                who="#TratnikJoze"
                ana="#taxonomy.3.9.5.1">Dovolite, da odgovorim na pripombo gospe Ostermanove glede delovnih razmerij oziroma sprememb zakona o delovnih razmerjih delavcev v državnih organih. Namen predlagatelja ni, da bi zmanjševal pravice glede na ostale delavce, glavni namen predlagatelja je, da se pravice izenačijo, tako da se z 24 na 6 mesecev zmanjša tista doba, kot za vse ostale delavce. Pripombe, ki so se pa glasile glede intervencije Izvršnega sveta oziroma pristojnosti Izvršnega sveta pri določanju nadomestil in pa kriterijev, so pa sledeče: nadomestila OD in druga nadomestila bodo v skladu z zakonom in je tudi predlagano, da bo v tekstu, ki ga bo Izvršni svet pripravil za predlog zakona, to tudi dopolnjeno, tako da bo stvar bolj jasna in ne bo vzbujala dvomov.</u>
@@ -1598,33 +1259,21 @@
                ana="#taxonomy.3.9.5.1">Kar pa se tiče kriterijev za ugotavljanje nepotrebnih delavcev, je pa treba ugotoviti, da je delo v državni upravi specifično, da je Izvršni svet tisti, ki je odgovoren za kompletno delo državne uprave nasproti skupščini in da je Izvršni svet tisti, ki mora določiti kriterije. Seveda zavedati se moramo tudi tega, da delovna razmerja lahko ureja zakon ali pa kolektivna pogodba. V gospodarstvu to ureja kolektivna pogodba, za delo v državni upravi pa zakon. In zakon daje tudi tukaj izhodišče, da Izvršni svet pripravi kriterije. Kriteriji bodo splošni po zakonu o delovnih razmerjih in pa specifični, ki se bodo nanašali na organizacijo in trenutne potrebe državne uprave, take državne uprave, kot si bo izbrala skupščina ob reformi oziroma reorganizaciji. Nič pa ne bo zmanjševanja, nič pa ne bo slabših pogojev za delavce v državni upravi. Upam, da sem odgovoril.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-360">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-360.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-360.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Gospa Osterman, replika.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-361">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-361.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">ANKA OSTERMAN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-361.2"
                who="#OstermanAnka1940"
                ana="#taxonomy.3.9.5.1">Recimo ravno pri kriterijih; tu se recimo sindikatov sploh ne omenja. Ali imajo možnost sodelovati tudi drugi ali je to zgolj stvar Izvršnega sveta, da te stvari postavi pa konec; ker v tem niso izenačeni z ostalimi delavci? Ker v tem 31. ali 36. členu je poslovodni organ vsaj dolžan obvestiti sindikat o programu, ki ga je sprejel, tu pa tega ne govori. Jaz mislim, da je to zelo nejasno in jaz želim samo to, da zakoni veljajo za vse enako, ne glede na to, kje kdo je.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-362">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-362.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽE TRATNIK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-362.2"
                who="#TratnikJoze"
                ana="#taxonomy.3.9.5.1">Že prej sem rekel, da splošne določbe o kriterijih zakona o delovnih razmerjih veljajo tudi za delavce v državni upravi. Specifika, ki jo pa terja državna uprava, pa seveda mora biti v rokah Izvršnega sveta. Če bo Izvršni svet ugotovil, da je treba reorganizirati upravo in bo na novo postavil državne organe, bo seveda tukaj od koncepta te organizacije odvisno, kakšna struktura delavcev bo ostala, kakšna bo ta njihova izobrazba, kakšne bodo zahtevnosti del in nalog. Seveda ob tem, če bo pa možnost izbirati med kadri, tistimi, ki bodo ostali in tisti, ki bodo na čakanju, seveda se bo pa predstojnik organa v konkretnih odločbah pa gotovo obrnil tudi na sindikat, če bo ta deloval v državni upravi.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-363">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-363.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-363.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Predlagal bi, da bi počasi zaključili to točko (saj sem rekel, da to predlagam, še ne zapiram razprave), da bi v zvezi s tem mi vseeno sprejeli tri sklepe. Dva ustaljena, 1. zbor sprejema predlog za izdajo zakona o spremembah in dopolnitvah zakona o delovnih razmerjih z osnutkom zakona;</u>
@@ -1639,9 +1288,6 @@
                ana="#taxonomy.3.9.5.1">To ste zahtevali. Gospod Studenčnik še želi razpravljati.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-364">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-364.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽE STUDENČNIK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-364.2"
                who="#StudencnikJoze1956"
                ana="#taxonomy.3.9.5.1">Jaz bom čisto kratek. V 29. členu bi želel, da se nekje vnese en moment, kjer bi zaščitil določeno strokovnost, ker vemo, da do zdaj se praktično na tem področju ni nič delalo, bi rekel, tudi to se je kdaj politično usmerjalo. Da se ne bi zdaj v tem trenutku odpuščanja delavcev dogajalo podobno, bi se mogoče vključila še ena alinea zraven, in sicer v tem smislu:</u>
@@ -1656,84 +1302,55 @@
                ana="#taxonomy.3.9.5.1">Ali lahko še malenkost? Bilo bi fino, zaradi tega, ker je tule, ne vem v katerem členu točno so zapisani ti odstotki: 10%, 25%, kdaj se kakšen postopek izbere in koga se obvešča. Zaradi tega predlagam, da bi bilo fino, če bi bilo napisano, da se mora ta plan odpuščanja delavcev narediti vsaj za eno leto vnaprej, da ne bo prišlo do samovolje. Namreč, s tega stališča, da pojasnim, razmišljam o tem, da ne bi nekdo prvi mesec naredil pod 10%, čez tri mesece pa se bo spet spomnil pod 10%, da bo čimmanj obveščal ljudi o tem. Zaradi samovolje torej.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-365">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-365.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-365.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">To je razprava. Gospod Berlec.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-366">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-366.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽE BERLEC:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-366.2"
                who="#BerlecJoze1949"
                ana="#taxonomy.3.9.5.1">Replika na tole: Menim, da ta predlog, ki ga je dal gospod Studenčnik, ni najbolj primeren. Zakaj? Če nekoga premestimo samo za določen čas na neko nižje delovno mesto, s tem njegovim predlogom potem porušimo kompletno hierarhijo, ki jo imamo v delovni organizaciji. Mislim pa to: začasna premestitev tega ne bi smela povzročiti. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-367">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-367.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-367.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Hvala. Prosim.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-368">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-368.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">FRANC BOŠTJANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-368.2"
                who="#BostjancicFranc1935"
                ana="#taxonomy.3.9.5.1">Zaradi tretjega sklepa, ki ste ga tam navedli, tisto je nemogoče. Izvršni svet tega ne bo naredil, ker jaz sem živel 22 let v opoziciji na položaju, zdaj sem spet v opoziciji, samo od vlade tega ne moremo zahtevati, ker je nemogoče pripraviti. Ker če to pogojujemo za sprejem zakona, potem tega pogoja ne bo, potem ne bo sprejema zakona. Gospod Vukovič, to so iluzije. To je bilo lepo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-369">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-369.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-369.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Ja, jaz sem neuničljiv romantik, mogoče pa bo gospa Puharjeva.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-370">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-370.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">JOŽICA PUHAR:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-370.2"
                who="#PuharJozica1942"
                ana="#taxonomy.3.9.5.1">Jaz upam, da bi lahko nadomestili to zahtevo ta predloženi program, ki bo pokazal, kakšne ukrepe ima pravzaprav vlada na posameznih področjih. In glede na to, da smo zdajle v fazi pripravljanja tega skupaj s tem interventnim zakonom, ki ste ga danes že tudi omenili, bi mogoče vsaj v teh oblikah šlo. Ne morem pa garantirati, glede na to, da mnogo stvari poteka naenkrat.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-371">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Saj mi vemo, dali smo domačo nalogo. Če v šoli damo domačo nalogo, jo tudi vsi ne izpolnijo, ali pa nekateri samo napol, pa potem rečemo: saj je dobro. In jaz mislim, da je vseeno dobro, da majčkeno obvezujemo vsaj eno ali pa drugo področje, ker prav pa je, ker smo mi imeli že tri seje nazaj to stališče. In to ni bilo opravljeno. Zaradi tega sem dodal to besedo "da ponovno".</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Jaz bi vas vseeno vprašal najprej koliko nas je prisotnih.</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.4"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">(62 prisotnih.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.4" type="quorum">62 prisotnih.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Kdo je za predlagane tri sklepe? Za vse tri da.</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.6"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">(57 za.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.6" type="vote">57 za.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.8"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.8" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">Koliko vzdržanih?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.10"
-               who="#komentator"
-               ana="#taxonomy.3.9.5.1">(Dva, trije, trije, oprostite)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.10" type="vote">Dva, trije, trije, oprostite</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-371.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.5.1">.</u>
@@ -1751,9 +1368,6 @@
                ana="#taxonomy.3.7.2.3">in to zaradi tega, ker je, prvič, ta zakon za naš zbor, za naše volilce izredno pomemben, drugič, ker je tu Izvršni svet izredno hitro ukrepal in delal, tako da ga lahko pohvalimo, saj je na zahtevo Odbora za splošne gospodarske zadeve od včeraj na danes nekatere stvari bistveno spremenil in Odbor za splošne gospodarske zadeve se s tem predlogom, z dopolnili strinja. In menim, da bi najprej o tem zakonu spregovoril gospod Franc Grašič, potem pa samo, če je še nujna razprava, pa bi se o njem tudi opredelili. Gospod Grašič! Bi še teh 10 minut vzdržali?!</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-372">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">FRANC GRAŠIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-372.2"
                who="#GrasicFranc1941"
                ana="#taxonomy.3.7.2.3">Jaz bom tukaj poskušal na kratko obrazložiti postopek, ki je tekel pod vodstvom Odbora za splošne gospodarske zadeve, povezan s tem zakonom. Mi smo včeraj vsi dobili prvotni tekst tega zakona, včeraj smo začeli z 10. sejo Odbora za splošno gospodarske zadeve in na osnovi razprave na tem delu te seje ugotovili, da so utemeljeni razlogi za zakon, da je utemeljenost hitrega postopka za sprejem, da je pa kar nekaj potrebnih vsebinskih sprememb še v tem zakonu treba narediti; in s tem se je tudi predlagatelj strinjal. Katere so te naše pripombe bile, ste včeraj dobili tudi v pismenem poročilu našega odbora.</u>
@@ -1774,111 +1388,70 @@
                ana="#taxonomy.3.7.2.3">Predlagam, da s temi redakcijskimi amandmaji ta zbor ta zakon po hitrem postopku sprejme.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-373">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-373.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-373.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Hvala. Želi kdo razpravljati? Glede na to, da je bila razprava o tem, ne sicer na sami seji zbora, ampak v času odmorov in tudi drugače, od včeraj na danes res temeljita, se mi zdi, da kakšne izrazito polemične razprave v zvezi s tem ne bi smelo biti. Ali še želi kdo ta zakon podkrepiti? Gospod Mak! Lahko kar od tu.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-374">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-374.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">VILJEM MAK:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-374.2"
                who="#MakViljem1937"
                ana="#taxonomy.3.7.2.3">Lahko od tu, ker mislim itak samo par besed. Rad bi samo poudaril, da vsi poznamo problem mariborskega bazena, zasavskega bazena, strojegradnje, železarstva in tako naprej in zato smatram, da kakšna posebna diskusija o tem zakonu, ki je dober, najbrž res ni potrebna in bi ga rad samo odločno podprl. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-375">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-375.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-375.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Hvala. Še želi kdo razpravljati? Gospod Ban!</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-376">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-376.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">FRANC BAN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-376.2"
                who="#BanFranc1938"
                ana="#taxonomy.3.7.2.3">Jaz imam predlog samo pri 8. členu. In sicer, ko gre za sodelovanje delavcev pri financiranju razvojne sanacije. Včeraj sem slučajno dobil tudi predlog osnutka odloka o kriterijih za predhodno soglasje agencije in tako naprej. Morda bi gospa ministrica lahko rekla, če bi ta odlok bil sprejet, to pomeni reševanje v tem vmesnem obdobju, dokler ne bo zakonodaje s področja privatizacije. In ker gre tu za obvezo ljudi pri sodelovanju pri sanacijskih programih, bi najbrž ta odlok bil za to vmesno obdobje v nekem mesecu zelo dobrodošel.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-377">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-377.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-377.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Se pravi, da ga podpiraš?</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-378">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-378.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">FRANC BAN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-378.2"
                who="#BanFranc1938"
                ana="#taxonomy.3.7.2.3">Da.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-379">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-379.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-379.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Hvala. Prosim gospod Jaklič.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-380">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-380.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">MARKO JAKLIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-380.2"
                who="#JaklicMarko1930"
                ana="#taxonomy.3.7.2.3">Peta alinea 8. člena mora imeti namesto "svetovalne organizacije" - "svetovalnih organizacij, ki jih določi, da..."</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-381">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-381.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-381.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Saj je to v redakcijskem poročilu napisano. To je že zajeto. Še gospod Muren.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-382">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-382.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">ANDREJ MUREN:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-382.2"
                who="#MurenAndrej1953"
                ana="#taxonomy.3.7.2.3">Samo eno kratko vprašanje bi postavil. Pri drugem delu, kjer sredstva za intervencije znašajo 700 milijonov DM. Ali bo to dovolj glede na to situacijo?</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-383">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-383.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-383.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Gospod Grašič.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-384">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-384.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">FRANC GRAŠIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-384.2"
                who="#GrasicFranc1941"
                ana="#taxonomy.3.7.2.3">Takole bi odgovoril. S strani podpredsednika Izvršnega sveta, dr. Mencingerja, je bilo povedno, da je po njihovi oceni to zgornja meja možnega, v tem smislu, ker je to le oblika zadolževanja. Je bil po svoje tudi ustrezen dvom izražen v tem smislu, ali bo sploh mogoče do tega plafona priti. Namreč servisiranje potem teh dolgov je tisto, kar limitira možnost.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-385">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Jaz bi potem zaključil razpravo o tem zakonu. In sicer moramo, ker je zakon, ugotoviti najprej prisotnost.</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.3"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(62 prisotnih.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.3" type="quorum">62 prisotnih.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-385.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Najprej glede redakcijskih amandmajev. Kdo je za to, da se v 5. členu v prvi vrsti beseda "določa" zamenja z besedo "predpiše", glede na to, da se postopek predpisuje enkratno.</u>
@@ -1890,59 +1463,41 @@
                ana="#taxonomy.3.7.2.3">v 11. členu se v prvi vrsti beseda "osmi" nadomesti z besedo "naslednji". Prosim.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-386">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-386.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">FRANC GRAŠIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-386.2"
                who="#GrasicFranc1941"
                ana="#taxonomy.3.7.2.3">Tam naj bi ostalo v ednini svetovalne organizacije, ker ena bo dala tisto mnenje, ne bo pa teh več. In tam bo dal licenco, če lahko tako rečem, Izvršni svet. Zato ta dodatek ni potreben.</u>
          </div>
          <div xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.div-387">
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">To se pravi ta dodatek; jaz mislim, da je vseeno, vemo vsi, za kaj gre, to se pravi, da ostanejo redakcijski amandmaji, tako kot so predloženi v tekstu.</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Kdo je za to?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.4"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(60 delegatov.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.4" type="vote">60 delegatov.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.6"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.6" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.8"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.8" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Ugotavljam, da so redakcijski amandmaji soglasno sprejeti.</u>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Kdo je za sprejem zakona o intervencijah v gospodarstvu o amandmajih v celoti?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.11"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(58 delegatov.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.11" type="vote">58 delegatov.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.13"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.13" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.14"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.15"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.15" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.16"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Ugotavljam, da je zakon o intervencijah v gospodarstvu soglasno sprejet.</u>
@@ -1952,9 +1507,7 @@
             <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.18"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">In še drugo obvestilo. Ob 13.00 uri je tudi poslanski klub Demosa. Mi se pa dobimo ob 14.00 uri v veliki skupščinski dvorani. Vsi morate svoje lističe za glasovanje nesti zraven, ker danes tam glasujemo z listki. Še to: če bo seja zaključena do pete ure, pridemo nazaj in nadaljujemo sejo.</u>
-            <u xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.19"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(SEJA JE BILA PREKINJENA 6. DECEMBRA 1990 OB 13.00 URI IN SE JE NADALJEVALA 11. DECEMBRA 1990 OB 10.30 URI.)</u>
+            <note xml:id="Sk-11.1990-12-06.ZbZdruDel.s011-02.u-387.19" type="time">SEJA JE BILA PREKINJENA 6. DECEMBRA 1990 OB 13.00 URI IN SE JE NADALJEVALA 11. DECEMBRA 1990 OB 10.30 URI.</note>
             <anchor xml:id="DZ-1990-ZbZdruDel-11.stage.t.8"/>
          </div>
       </body>

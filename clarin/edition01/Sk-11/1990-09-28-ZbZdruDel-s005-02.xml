@@ -24,8 +24,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega zgodovinopisja</publisher>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
             <distributor>DARIAH-SI</distributor>
+            <distributor>CLARIN.SI</distributor>
             <pubPlace>https://github.com/SIstory/SlovParl/tree/master/clarin/edition01</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
@@ -34,7 +35,7 @@
                <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
             </availability>
-            <date when="2016-07-26+02:00"/>
+            <date when="2016-08-03+02:00"/>
          </publicationStmt>
          <sourceDesc>
             <bibl>ZbZdruDel-Sk-11.xml</bibl>
@@ -45,48 +46,6 @@
             <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
                 infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
          </projectDesc>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="TEI" occurs="1"/>
-               <tagUsage gi="anchor" occurs="2"/>
-               <tagUsage gi="availability" occurs="1"/>
-               <tagUsage gi="bibl" occurs="1"/>
-               <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="date" occurs="2"/>
-               <tagUsage gi="distributor" occurs="1"/>
-               <tagUsage gi="div" occurs="12"/>
-               <tagUsage gi="encodingDesc" occurs="1"/>
-               <tagUsage gi="fileDesc" occurs="1"/>
-               <tagUsage gi="front" occurs="1"/>
-               <tagUsage gi="item" occurs="9"/>
-               <tagUsage gi="licence" occurs="1"/>
-               <tagUsage gi="linkGrp" occurs="1"/>
-               <tagUsage gi="list" occurs="1"/>
-               <tagUsage gi="p" occurs="3"/>
-               <tagUsage gi="particDesc" occurs="1"/>
-               <tagUsage gi="persName" occurs="2"/>
-               <tagUsage gi="person" occurs="1"/>
-               <tagUsage gi="profileDesc" occurs="1"/>
-               <tagUsage gi="projectDesc" occurs="1"/>
-               <tagUsage gi="ptr" occurs="284"/>
-               <tagUsage gi="pubPlace" occurs="1"/>
-               <tagUsage gi="publicationStmt" occurs="1"/>
-               <tagUsage gi="publisher" occurs="1"/>
-               <tagUsage gi="ref" occurs="2"/>
-               <tagUsage gi="resp" occurs="2"/>
-               <tagUsage gi="respStmt" occurs="2"/>
-               <tagUsage gi="setting" occurs="1"/>
-               <tagUsage gi="settingDesc" occurs="1"/>
-               <tagUsage gi="sourceDesc" occurs="1"/>
-               <tagUsage gi="teiHeader" occurs="1"/>
-               <tagUsage gi="text" occurs="1"/>
-               <tagUsage gi="timeline" occurs="1"/>
-               <tagUsage gi="title" occurs="17"/>
-               <tagUsage gi="titleStmt" occurs="1"/>
-               <tagUsage gi="u" occurs="179"/>
-               <tagUsage gi="when" occurs="2"/>
-            </namespace>
-         </tagsDecl>
       </encodingDesc>
       <profileDesc>
          <particDesc>
@@ -213,20 +172,15 @@
             <list>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item1">
                   <title>Sklep Ustavne komisije o napotkih za delo delegacije Skupščine Republike Slovenije v Zveznem zboru Skupščine SFRJ (k 9. točki dnevnega reda)</title>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.3"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.4"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.5"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.6"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.7"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.8"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.9"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.10"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.11"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.12"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.13"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.14"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.15"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.16"/>
                </item>
@@ -235,14 +189,10 @@
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.17"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.18"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.19"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.20"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.21"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.22"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.23"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.24"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.25"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.26"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.27"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.28"/>
                </item>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item3">
@@ -250,20 +200,14 @@
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.29"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.30"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.31"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.32"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.33"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.34"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.35"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.36"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.37"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.38"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.39"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.40"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.41"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.42"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.43"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.44"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.45"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.46"/>
                </item>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item4">
@@ -271,22 +215,16 @@
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.47"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.48"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.49"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.50"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.51"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.52"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.53"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.54"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.55"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.56"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.57"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.58"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.59"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.60"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.61"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.62"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.63"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.64"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.65"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.66"/>
                </item>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item5">
@@ -295,20 +233,13 @@
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.68"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.69"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.70"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.71"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.72"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.73"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.74"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.75"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.76"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.77"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.78"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.79"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.80"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.81"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.82"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.83"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.84"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.85"/>
                </item>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item6">
@@ -317,32 +248,22 @@
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.87"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.88"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.89"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.90"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.91"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.92"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.93"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.94"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.95"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.96"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-132.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-132.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-132.3"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-132.4"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-133.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-133.2"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-134.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-134.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-134.3"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-134.4"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-134.5"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.3"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.4"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.5"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.6"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.7"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.8"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.9"/>
                </item>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item7">
@@ -350,48 +271,33 @@
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.10"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.11"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.12"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.13"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.14"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.15"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.16"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.17"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.18"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.19"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.20"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.21"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.22"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.3"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.4"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.5"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.6"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.3"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.4"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-138.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-138.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-138.3"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.2"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.3"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.4"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.5"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.6"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.7"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.8"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.9"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.10"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.11"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.12"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.13"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.14"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.15"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.16"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.17"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.18"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.19"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.20"/>
                </item>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item8">
@@ -401,21 +307,15 @@
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.23"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.24"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.25"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.26"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.27"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.28"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.29"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.30"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.31"/>
                </item>
                <item xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.toc-item9">
                   <title>Proceduralne zadeve</title>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.32"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-140.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-140.2"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-141.1"/>
                   <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-141.2"/>
-                  <ptr target="#Sk-11.1990-09-28.ZbZdruDel.s005-02.u-141.3"/>
                </item>
             </list>
          </div>
@@ -432,9 +332,6 @@
          </timeline>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-131">
             <anchor xml:id="DZ-1990-ZbZdruDel-5.stage.t.7"/>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Nadaljujemo z včerajšnjo sejo. Obravnavali bi samo to, kar je še odprto, potem bi pa še mogoče dva ali tri sklepe sprejeli ob zaključku.</u>
@@ -453,27 +350,19 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Želi kdo razpravljati o tem sklepu? Delegacija je tudi zadovoljna s takšnim sklepom in ji na takšen način omogočamo delo. Želi kdo razpravljati? Če ne, je seveda sedaj vseeno normalno, da pregledamo prisotnost.</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.8"
-               who="#komentator"
-               ana="#taxonomy.4.7">(51 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.8" type="vote">51 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za takšen sklep?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.10"
-               who="#komentator"
-               ana="#taxonomy.4.7">(51 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.10" type="vote">51 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.12"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.12" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.14"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.14" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.15"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je sklep soglasno sprejet in s tem ima naša delegacija obilo možnosti za delo.</u>
@@ -489,30 +378,22 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.19"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Želi kdo razpravljati?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.20"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Ne želi.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.20" type="debate">Ne želi.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.21"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Na glasovanje dajem predlog odloka o soglasju k predlogu zakona o ratifikaciji sklepov št. 3/89 in 4/89, Sveta za sodelovanje med SFRJ in EGS o spremembi protokola št. 3 k sporazumu z dne 2. aprila 1980.</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.22"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za takšen sklep?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.23"
-               who="#komentator"
-               ana="#taxonomy.4.7">(52 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.23" type="vote">52 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.24"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.25"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.25" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.26"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.27"
-               who="#komentator"
-               ana="#taxonomy.4.7">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.27" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.28"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je z večino glasov odlok sprejet.</u>
@@ -525,21 +406,15 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.31"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za? Vse so se tudi strinjali, ne?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.32"
-               who="#komentator"
-               ana="#taxonomy.4.7">(51 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.32" type="vote">51 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.33"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.34"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.34" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.35"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.36"
-               who="#komentator"
-               ana="#taxonomy.4.7">(3 delegati.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.36" type="vote">3 delegati.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.37"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej, je najprej odlok sprejet in še.</u>
@@ -552,21 +427,15 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.40"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za sprejem tega dodatnega sklepa?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.41"
-               who="#komentator"
-               ana="#taxonomy.4.7">(50 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.41" type="vote">50 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.42"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.43"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.43" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.44"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.45"
-               who="#komentator"
-               ana="#taxonomy.4.7">(2 delegata.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.45" type="vote">2 delegata.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.46"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je ta dodatni sklep z večino glasov sprejet.</u>
@@ -579,21 +448,15 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.49"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.50"
-               who="#komentator"
-               ana="#taxonomy.4.7">(48 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.50" type="vote">48 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.51"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.52"
-               who="#komentator"
-               ana="#taxonomy.4.7">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.52" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.53"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Seje kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.54"
-               who="#komentator"
-               ana="#taxonomy.4.7">(5 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.54" type="vote">5 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.55"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je odlok sprejet z večino glasov.</u>
@@ -612,21 +475,15 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.60"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za sprejem tega dodatnega sklepa?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.61"
-               who="#komentator"
-               ana="#taxonomy.4.7">(54 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.61" type="vote">54 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.62"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.63"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.63" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.64"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.65"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.65" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.66"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je dodatni sklep soglasno sprejet. Tu je sedaj naslednja</u>
@@ -642,48 +499,34 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.70"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za? Saj lahko glasujete.</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.71"
-               who="#komentator"
-               ana="#taxonomy.4.7">(46 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.71" type="vote">46 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.72"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.73"
-               who="#komentator"
-               ana="#taxonomy.4.7">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.73" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.74"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.75"
-               who="#komentator"
-               ana="#taxonomy.4.7">(4 delegati.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.75" type="vote">4 delegati.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.76"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je ta odlok z večino glasov sprejet.</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.77"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">In tu je še dodatni sklep, ki je sestavljen tudi iz dveh točk, precej dolgi sta, o katerem pa seveda izražamo naša stališča v zvezi s tem odlokom. Želi kdo razpravljati o tem?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.78"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Ne želi!)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.78" type="debate">Ne želi!</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.79"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za ta dodatni sklep k odloku, ki smo ga ravnokar sprejeli?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.80"
-               who="#komentator"
-               ana="#taxonomy.4.7">(50 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.80" type="vote">50 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.81"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.82"
-               who="#komentator"
-               ana="#taxonomy.4.7">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.82" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.83"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.84"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.84" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.85"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je z večino glasov dodatni sklep sprejet.</u>
@@ -699,21 +542,15 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.89"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za ta odlok?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.90"
-               who="#komentator"
-               ana="#taxonomy.4.7">(49 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.90" type="vote">49 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.91"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.92"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.92" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.93"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.94"
-               who="#komentator"
-               ana="#taxonomy.4.7">(2 delegata.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.94" type="vote">2 delegata.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-131.95"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je odlok sprejet.</u>
@@ -722,9 +559,6 @@
                ana="#taxonomy.4.7">Na glasovanje dajem še sklep k predlogu zakona, ki smo ga ravno sedaj oziroma odlok, ki smo ga ravno sedaj sprejeli. Tudi ta je sestavljen iz treh točk, pomembnejša je predvsem zadnja. O ratifikaciji predloženega protokola bi bilo treba vedeti, kako in pod kakšnimi pogoji bodo jugoslovanski dolžniki odplačali dolg, ki je predmet protokola. Od teh pogojev je namreč odvisna vnovčljivost omenjenih potrdil. Želi v zvezi s tem dodatnim sklepom kdo razpravljati? Prosim, gospod Mirko Krajec.</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-132">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-132.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">MIRKO KRAJEC:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-132.2"
                who="#KrajecMirko1954"
                ana="#taxonomy.4.7">Malo mi gre to vse skupaj na živce, ker gremo po tistih starih postopkih, ker smo to že na skupščini obravnavali, dali smo določena mnenja in izgleda, da ta skupščina ima tudi takšen postopek, da če enkrat ne gre, gre pa drugič itn.. Potem pa dokler se delegati ne naveličajo, potem pa pride do tega, kar delamo sedaj. Se pravi, da glasujemo za tisto, kar smo dobili pred tremi meseci proti.</u>
@@ -736,17 +570,11 @@
                ana="#taxonomy.4.7">Mislim, da je prvo tisto, kaj hočemo, potem pa gremo na sprejemanje sklepa. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-133">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-133.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-133.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Dobro, kaj menite ostali? Gospod Mlinar, bi vi kaj?</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-134">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-134.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">MARTIN MLINAR: (vodja delegacije Skupščine Republike Slovenije v Zboru republik in pokrajin Skupščine SFRJ).</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-134.2"
                who="#MlinarMartin"
                ana="#taxonomy.4.7">Spoštovani predsednik, spoštovane tovarišice, tovariši delegati. Saj morda bi bilo bolj primerno, da bi predstavnik IS na tole odgovoril. Ratifikacije nekih mednarodnih pogodb, tako se to imenuje, ti memorandumi ali protokoli ali pač nekaj drugega, se lahko sprejemajo ali pa zavračajo z odlokom. Dopolnilni sklepi, ki jih je sedaj tu pri teh točkah predsednik obrazložil, so v bistvu vprašanja, ki jih je potrebno razčistiti, preden delegacija, kljub pooblastilu k odloku, da soglasje.</u>
@@ -761,30 +589,21 @@
                ana="#taxonomy.4.7">Takrat smo videli, da nimamo v rokah protokola, ki je osnova za ta zakon in delegacija je rekla, če se boste spomnili, tudi v poročilu, da mi ne bomo začeli usklajevati tega zakona oziroma to končali, dokler ne vidimo protokola. Ko smo sedaj dobili v ratifikacijo protokol, ko bomo ratificirali protokol o razčiščevanju tistih treh točk, o katerih se v dopolnilnem sklepu govori, bomo pa videli. Ko bomo imeli to razčiščeno, bomo ratificirali protokol in potem lahko nadaljujemo razpravo in usklajevanjem vsebine zakona, ki pa naše notranje, dinarske odnose ureja v sistemu predčasnega odplačevanja dolgov in zmanjšanja suficita. hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-135">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Hvala. Želi še kdo razpravljati? Če ne, bi ta dodatni sklep dal na glasovanje.</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.4"
-               who="#komentator"
-               ana="#taxonomy.4.7">(56 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.4" type="vote">56 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.6"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.6" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.8"
-               who="#komentator"
-               ana="#taxonomy.4.7">(2 delegata.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.8" type="vote">2 delegata.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Ugotavljam, da je tudi to z večino glasov sprejeto.</u>
@@ -797,21 +616,15 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.13"
-               who="#komentator"
-               ana="#taxonomy.4.7">(55 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.13" type="vote">55 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.14"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.15"
-               who="#komentator"
-               ana="#taxonomy.4.7">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.15" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.16"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.17"
-               who="#komentator"
-               ana="#taxonomy.4.7">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.17" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-135.18"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Ugotavljam, da je odlok sprejet.</u>
@@ -829,9 +642,6 @@
                ana="#taxonomy.4.7">Izvršni svet se s tem dopolnilom strinja. In jaz mislim, da tudi v sami delegaciji. Gospod Mlinar, vodja delegacije Skupščine RS v Zboru republik in pokrajin Skupščine SFRJ.</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-136">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">MARTIN MLINAR:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-136.2"
                who="#MlinarMartin"
                ana="#taxonomy.4.7">Jaz nimam nobenih pomislekov glede dopolnitve okrog carin. Ker mi v sklepu govorimo o znižanju temeljnega prometnega davka, tam je bil pa še predlog znižanja uvoznih dajatev, če enostavno povem.</u>
@@ -849,23 +659,15 @@
                ana="#taxonomy.4.7">Na to naši delegati Zbora republik in pokrajin včeraj, ko sem jaz poslušal sejo Družbenopolitičnega zbora, niso opozorili, niti ni predstavnik Izvršnega sveta na to opozoril. Kakor sem jaz to poslušal in sem dal že tukaj to storiti. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-137">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Hvala. Kaj menite? Saj mi lahko ostanemo pri svojem sklepu, da se prav razumemo. Samo to bi prečital, ker je to potrebno, da vemo, kaj so v ostalem zboru obravnavali in sprejeli. Tako da to ni vprašanje. Kaj menite? Želi kdo razpravljati o tem? Če ne želi nihče razpravljati, potem bi predlagal, da glasujemo. Mislim, da glasujemo skupaj kljub temu, da gre za različne stvari. Ampak tu gre za princip, poenotenje stališča v bistvu.</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo v našem zboru se opredeli z za. Prosim. Menite, da glasujemo ločeno?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.4"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Da.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-137.4" type="debate">Da.</note>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-138">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-138.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">MARTIN MLINAR:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-138.2"
                who="#MlinarMartin"
                ana="#taxonomy.4.7">Če dobro preberete zadnjo točko sklepa, kjer je opredeljeno pooblastilo tistega, ki ga je ta zbor že sprejel in ki je bil predlagan s strani delegacije in Izvršnega sveta, vidite, da je imperativni mandat na treh, štirih točkah, če jih mi ne uresničimo, sploh ne damo soglasja in je usklajevanje končano. In to je to, kar sem prej pozabil. In zato me čudi, da je prišlo do dopolnilne formulacije: "po potrebi poroča".</u>
@@ -874,30 +676,21 @@
                ana="#taxonomy.4.7">Ker tam je zelo jasno napisano, tole pa tole morate narediti. Če vse to naredite, daste soglasje, če pa ne naredite, pa ne daste soglasja. In s tem zaključimo proces usklajevanja, ne pa odlagamo vse še za en mesec, pa pridemo z isto stvarjo v sredini novembra v Zbor republik in pokrajin. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-139">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.1"
-               who="#komentator"
-               ana="#taxonomy.4.7">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Še kdo želi? Jaz bi predlagal naslednje, tako kot sem prej pričel. Kdo je za to, da ostanemo pri sklepu, ki smo ga sprejeli mi včeraj na naši seji.</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za naš sklep?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.4"
-               who="#komentator"
-               ana="#taxonomy.4.7">(53 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.4" type="vote">53 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.6"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.6" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.8"
-               who="#komentator"
-               ana="#taxonomy.4.7">(4 delegati.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.8" type="vote">4 delegati.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej ostanemo pri našem sklepu in predlagamo Družbenopolitičnemu zboru, da sprejme tak sklep, kot smo ga mi predložili.</u>
@@ -907,30 +700,22 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Ali menite, da moramo imeti posebno usklajevalno komisijo?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.12"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Ne.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.12" type="debate">Ne.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej nastopajo v funkciji usklajevanja matični odbori Zbora združenega dela.</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.14"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Kdo je za to?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.15"
-               who="#komentator"
-               ana="#taxonomy.4.7">(53 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.15" type="vote">53 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.16"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.17"
-               who="#komentator"
-               ana="#taxonomy.4.7">(1 delegat.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.17" type="vote">1 delegat.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.18"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.19"
-               who="#komentator"
-               ana="#taxonomy.4.7">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.19" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.20"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.7">Torej je tudi to sprejeto.</u>
@@ -949,21 +734,15 @@
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.25"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.2">Kdo je za takšno stališče?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.26"
-               who="#komentator"
-               ana="#taxonomy.3.1.2">(57 delegatov.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.26" type="vote">57 delegatov.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.27"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.2">Je kdo proti?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.28"
-               who="#komentator"
-               ana="#taxonomy.3.1.2">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.28" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.29"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.2">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.30"
-               who="#komentator"
-               ana="#taxonomy.3.1.2">(Nihče.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.30" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-139.31"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.2">Stališče je soglasno podprto in sprejeto.</u>
@@ -972,23 +751,15 @@
                ana="#taxonomy.2.8">Preden bi zaključil, mogoče še samo to: danes je še mogoče da bo še kaj. Mi ne vemo kako bo skupno zasedanje potekalo še naprej. Jaz bi vas iskreno prosil, da prvič - nas je 57 - praktično smo na meji tistega števila poslancev in poslank, ki morajo biti prisotni da imamo dvotretjinsko večino. In zato vas res iskreno prosim, da ostanete, tudi, če bomo kakorkoli glasovali je prav, da smo tu. Zaradi tega še enkrat apeliram, da res ostanete in da smo do kraja tu na seji.</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-140">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-140.1"
-               who="#komentator"
-               ana="#taxonomy.2.8">ANDREJ ŠTER:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-140.2"
                who="#SterAndrej1958"
                ana="#taxonomy.2.8">Zakon o amnestiji?</u>
          </div>
          <div xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.div-141">
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-141.1"
-               who="#komentator"
-               ana="#taxonomy.2.8">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-141.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">Nima naš zbor, zato ker ne sodi v pristojnost našega zbora. Zdaj, če ni kaj takega. Mi se bomo verjetno zopet ponovno sestali že sredi oktobra. Točno še ne vemo datuma. S tem bi zaključil sejo.</u>
-            <u xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-141.3"
-               who="#komentator"
-               ana="#taxonomy.2.8">(Seja je bila končana 28. septembra 1990 ob 14.45 uri.)</u>
+            <note xml:id="Sk-11.1990-09-28.ZbZdruDel.s005-02.u-141.3" type="time">Seja je bila končana 28. septembra 1990 ob 14.45 uri.</note>
             <anchor xml:id="DZ-1990-ZbZdruDel-5.stage.t.8"/>
          </div>
       </body>

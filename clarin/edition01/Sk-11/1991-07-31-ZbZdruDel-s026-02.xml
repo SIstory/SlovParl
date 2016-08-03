@@ -24,8 +24,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega zgodovinopisja</publisher>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
             <distributor>DARIAH-SI</distributor>
+            <distributor>CLARIN.SI</distributor>
             <pubPlace>https://github.com/SIstory/SlovParl/tree/master/clarin/edition01</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
@@ -34,7 +35,7 @@
                <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
             </availability>
-            <date when="2016-07-26+02:00"/>
+            <date when="2016-08-03+02:00"/>
          </publicationStmt>
          <sourceDesc>
             <bibl>ZbZdruDel-Sk-11.xml</bibl>
@@ -45,48 +46,6 @@
             <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
                 infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
          </projectDesc>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="TEI" occurs="1"/>
-               <tagUsage gi="anchor" occurs="4"/>
-               <tagUsage gi="availability" occurs="1"/>
-               <tagUsage gi="bibl" occurs="1"/>
-               <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="date" occurs="2"/>
-               <tagUsage gi="distributor" occurs="1"/>
-               <tagUsage gi="div" occurs="13"/>
-               <tagUsage gi="encodingDesc" occurs="1"/>
-               <tagUsage gi="fileDesc" occurs="1"/>
-               <tagUsage gi="front" occurs="1"/>
-               <tagUsage gi="item" occurs="1"/>
-               <tagUsage gi="licence" occurs="1"/>
-               <tagUsage gi="linkGrp" occurs="1"/>
-               <tagUsage gi="list" occurs="1"/>
-               <tagUsage gi="p" occurs="3"/>
-               <tagUsage gi="particDesc" occurs="1"/>
-               <tagUsage gi="persName" occurs="2"/>
-               <tagUsage gi="person" occurs="1"/>
-               <tagUsage gi="profileDesc" occurs="1"/>
-               <tagUsage gi="projectDesc" occurs="1"/>
-               <tagUsage gi="ptr" occurs="65"/>
-               <tagUsage gi="pubPlace" occurs="1"/>
-               <tagUsage gi="publicationStmt" occurs="1"/>
-               <tagUsage gi="publisher" occurs="1"/>
-               <tagUsage gi="ref" occurs="2"/>
-               <tagUsage gi="resp" occurs="2"/>
-               <tagUsage gi="respStmt" occurs="2"/>
-               <tagUsage gi="setting" occurs="1"/>
-               <tagUsage gi="settingDesc" occurs="1"/>
-               <tagUsage gi="sourceDesc" occurs="1"/>
-               <tagUsage gi="teiHeader" occurs="1"/>
-               <tagUsage gi="text" occurs="1"/>
-               <tagUsage gi="timeline" occurs="1"/>
-               <tagUsage gi="title" occurs="9"/>
-               <tagUsage gi="titleStmt" occurs="1"/>
-               <tagUsage gi="u" occurs="50"/>
-               <tagUsage gi="when" occurs="4"/>
-            </namespace>
-         </tagsDecl>
       </encodingDesc>
       <profileDesc>
          <particDesc>
@@ -123,10 +82,8 @@
             <list>
                <item xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.toc-item1">
                   <title>Nadaljevanje seje 31.7.1991, Nadaljevanje obravnave 1. točke dnevnega reda, Kratkoročni in dolgoročni ukrepi za izboljšanje gospodarskega stanja v Republiki Sloveniji</title>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-77.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-77.2"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-77.3"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.2"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.3"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.4"/>
@@ -137,42 +94,25 @@
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.9"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.10"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.11"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-79.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-79.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-79.3"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-80.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-80.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-81.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-81.2"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-81.3"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-82.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-82.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-83.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-83.2"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-83.3"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-84.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-84.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-85.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-85.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-86.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-86.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-87.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-87.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.1"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.2"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.3"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.4"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.5"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.6"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.7"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.8"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.9"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.10"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.11"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.12"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.13"/>
                   <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.14"/>
-                  <ptr target="#Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.15"/>
                </item>
             </list>
          </div>
@@ -196,9 +136,6 @@
          </timeline>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-77">
             <anchor xml:id="DZ-1991-ZbZdruDel-26.stage.t.3"/>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-77.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-77.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Spoštovane poslanke in poslanci, dragi gostje in novinarji ! Najprej bi poskusili z nadaljevanjem včerajšnje seje. Včeraj so nam ostali še izoblikovani predlogi oziroma sklepi z naše včerajšnje seje. Odbor za splošno gospodarske zadeve se je danes zjutraj sestal in pripravil sklepe. Predlagam, da bi predsednik našega odbora, gospod Grašič, sedaj te sklepe predstavil. Če pa želite te sklepe imeti pisno tudi pri sebi, bi pa mogoče to vseeno še prestavili za kakšno uro, da bi lahko sklepe razmnožili. Tehnika je pri nas še vseeno tako zaostala, da to ni bilo možno, razen, če vseeno ne bi okvirno sklepe predstavili in jih vmes razmnožili in razdelili, tako da bi to delo vseeno opravili. Mislim, da bi tvegali dobrih deset minut, da nam gospod Grašič pove, kaj so v komisiji upoštevali, potem bi pa počakali na razmnožen tekst. Tačas bi nadaljevali z današnjo sejo in ko pridemo do tega, se lahko dogovorimo; tako, da smo kreativni.</u>
@@ -207,9 +144,6 @@
                ana="#taxonomy.3.6.9">Iskreno vas danes prosim: prvič, da aktivno sodelujete tu v dvorani in drugič, da smo danes do šestih res s sejo pri zaključku, ker drugače bomo še jutri tu sedeli. Ob šestih zvečer je napovedana skupna seja vseh zborov, ki se lahko zavleče dolgo v noč. Vidite, da imamo možnosti, da intenzivno marsikaj lepega in dobrega opravimo. Kosilo je ob 12,45., tako da bi lahko do kosila marsikaj opravili. Ste za to, da bi mogoče Franc Grašič najprej povdeal,kaj so se dogovorili, tako, da vidite, potem pa boste lahko tudi aktivno posegli, ko dobite tekst razmnožen. V redu ? Dobro. Prosim gospod Grašič.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-78">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">FRANC GRAŠIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-78.2"
                who="#GrasicFranc1941"
                ana="#taxonomy.3.6.9">Spoštovani predsednik, poslanke in poslanci ! Tako kot je bilo že povedano in kot smo dobili zadolžitev, smo se danes zjutraj vsedli skupaj Odbor za gospodarske zadeve zbora združenega dela in na osnovi koncepta predlaganih zaključkov bogate razprave, ki je včeraj potekala v tem zboru, dopolnili oziroma izoblikovali tisto, kar vam ponujamo, da bi tudi po zaključku te razprave sprejeli. Rad bi rekel še to, da smo poskušali vse najbolj pomembne stvari, ki so bile v razpravi izpostavljene, povzeti in vnesti v ta dokument. Verjetno bo najbolje, da ga na hitro tudi v celoti predstavim; predvsem sklepe. Oblikovali smo jih devet.</u>
@@ -242,30 +176,19 @@
                ana="#taxonomy.3.6.9">9. Za reševanje devizne nelikvidnosti je treba nujno pridobiti devizna sredstva; podpiramo vlaganja tujega kapitala v nekatere infrastrukturne objekte v Republiki Sloveniji, potrebno pa je tudi omogočiti zadolževanje podjetij v tujini, pri čemer je potrebno zagotoviti strokovno verificiranje projektov in ustrezne garancije. To je to, kar je odbor oblikoval in vam po razpravi ponuja v potrditev. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-79">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-79.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-79.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Hvala. Slišali ste in glede na to, da ste izrazili željo, bi sedaj počakali na pisni predlog, ki bo razmnožen v teku pol ali tričetrt ure. Potem bi bilo prav, da tisti, ki boste imeli dodatno stališče, tudi to napišete, tako da imamo pisni predlog - dva, tri, mogoče štiri stavke, da potem lahko hitro dopolnimo te sklepe oziroma morate pa tudi povedati, če se s čim ne strinjate, da bi pač tisti stavek črtali. Operativno boste to delo potem opravili. Še enkrat bi to našo včerajšnjo sejo prekinil in bi jo potem nadaljevali ko bo primeren čas.</u>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-79.3"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">(26. seja je bila prekinjena  ob 10.30 uri in se je nadaljevala ob 14,05 uri).</u>
+            <note xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-79.3" type="time">26. seja je bila prekinjena  ob 10.30 uri in se je nadaljevala ob 14,05 uri).</note>
             <anchor xml:id="DZ-1991-ZbZdruDel-26.stage.t.4"/>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-80">
             <anchor xml:id="DZ-1991-ZbZdruDel-26.stage.t.5"/>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-80.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-80.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Nadaljujemo prekinjeno 26. sejo in vas sprašujem, kdo ima kakšne konkretne pomisleke k predlogu, ki so ga pripravili v našem odboru ?</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-81">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-81.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">FRANC BAN:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-81.2"
                who="#BanFranc1938"
                ana="#taxonomy.3.6.9">Spoštovane poslanke in poslanci ! V bistvu sprejemam in se strinjam z večino predlogov sklepov. Predlagam pa pri dveh, treh točkah, da konkretno stvari dopolnimo. Pri 1. točki 1. sklepa predlagam, da bi se začetek besedila glasil takole: "Zbor združenega dela Skupščine Republike Slovenije sprejema predloge kratkoročnih ukrepov" in da tu vstavimo besede, ki jih je predložil Izvršni svet, Gospodarska zbornica in tiste, ki so bili oblikovani v razpravi, in nadaljevanje, " in nalaga Izvršnemu svetu itd.". Mislim, da ne gre za avtomatizem. Mi smo razpravljali o predloženih predlogih ukrepov Izvršnega sveta in jih dopolnjevali. Zato se mi zdi, da bi bilo to umestno. Enako se mi zdi - bilo bi dobro, da poveste drugi poslanci, da pri 3. sklepu iz razprave na seji zbora izhaja ugotovitev o zaskrbljujočem stanju s področja družbenih dejavnosti. Zbor podpira program ukrepov Izvršnega sveta. To ni točno. Mi podpiramo predlog programa, ki ga je dal, ampak je treba dodati; upoštevajoč vse pripombe v razpravi, dopolnila itd. Predlagam, da bi tu enako dopolnili ta 3. sklep. Pri 5. sklepu predlagam - da nas ne bi vodili žejne čez vodo - spremembo tega sklepa iz zelo preprostega razloga. Približno en mesec velja odlok SDK Slovenije. Ali se mu reče odlok ali ne, to ne vem. Vem, da so bili pred dobrim mesecem vsi SDK Slovenije obveščeni pismeno o začasnem moratoriju na stečaje. Torej, nekdo je to že naredil. Zato predlagam, da bi se glasil 5. člen takole: "Zbor združenega dela podpira začasni moratorij za stečajne postopke. "Operativni del je bil v tem odloku tudi napisan, ker mi tu predlagamo, da bi operacionaliziral Izvršni svet. Pri 6. sklepu, 2. alinei, predlagam naslednjo dopolnitev. 2. alinea pravi takole; "Izterjavo vseh davkov in prispevkov ter uvedbo davkov (le siva ekonomija) in odpravi pomanjkljivosti pri odvajanju prometnega davka."</u>
@@ -274,17 +197,11 @@
                ana="#taxonomy.3.6.9">Predlagam naslednjo spremembo, da se začne stavek; "Dosledno izterjavo vseh davkov in prispevkov", da ne pišemo "ter uvedbo davkov". Mislim, da ni logično, da pozivamo vlado, da nam predpiše davke in odpremo takšne ali drugačne davke, ker nismo dosti pri tem dorečeni, da izpustimo tisto, kar je v oklepaju "le siva ekonomija", ker pri izterjavi davkov in prispevkov gre za široko paleto stvari in se mi zdi nepotrebno, da ti dve stvari pišemo. Pri 9. sklepu predlagam naslednje: 2. stavek se začne takole: "Podpiramo vlaganja tujega kapitala v nekatere infrastrukturne objekte v Republiki Sloveniji (ceste)." Predlagam, da se glasi stavek: "Podpiramo vlaganja tujega kapitala v infrastrukturne objekte v Republiki Sloveniji." Spustimo besedo "nekatere" in spustimo besedo "ceste". Infrastruktura je širok pojem in najbrž gre še za kaj drugega in najbrž plediramo še za kakšna druga vlaganja v infrastrukturne objekte, ne samo ceste. In dalje, zadnji stavek predlagam, mislim, da je včeraj dosti jasna razprava o tem tekla, potrebno je omogočiti zadolževanje Republike Slovenije in podjetij v tujini, pri čemer je potrebno ... itn. Torej ne gre samo za možnost zadolževanja podjetij, ampak tudi Republike Slovenije. Včeraj, če se spomnite, je v tej smeri minister Šešok, predvsem pa podpredsednik Ocvirk nekaj rekel.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-82">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-82.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-82.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Hvala. Bili so konkretni. Gospod Arzenšek še.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-83">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-83.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">DR. JOŽE ARZENŠEK:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-83.2"
                who="#ArzensekJoze1942"
                ana="#taxonomy.3.6.9">Spoštovani zbor, spoštovano predsedstvo ! Glede na to, da je to reševanje v naslednjih treh mesecih, moram reči, da bi moj predlog bil načeln, da bi bili postavljeni določeni roki, ne pa splošne načelne opredelitve. Drugače bi pa imel k 3. točki, ko je razprava o družbeni dejavnosti, bi podprl besedilo, ki ga je posredoval gospod Ban, ampak zraven nadaljeval dopolnilo tu, kjer piše: Zbor podpira program ukrepov Izvršnega sveta. Jaz moram reči, da bi moralo slediti tole: v skladu je s čimprejšnjo realizacijo že sprejetih sklepov o renominaciji proračuna, ko je bilo npr. za zdravstvo 18,5 in 38 za materialne stroške, v morebitnem rebalansu proračuna moral upoštevati gibanje inflacije, devalvacije. Posebej smo se pogovarjali, da so problematični osebni dohodki in da zajedajo maso tudi materialnih stroškov. Zato smo mi tu postavili in smo takrat sprejeli sklep junija in zakaj naj bi ne pisalo tudi v teh sklepih: osebni dohodki v družbeni dejavnosti se spreminjajo, valorizirajo sočasno s spremembami OD v državnih organih uprave.</u>
@@ -293,83 +210,56 @@
                ana="#taxonomy.3.6.9">Pa še ena stvar, vsi zavodi s področja družbenih dejavnosti morajo takoj pripraviti dodatne programe racionalizacije poslovanja in jamčiti njihovo uresničevanje in to vsebinsko. V 6. točki - dve stvari pa je že gospod Ban povedal in se ne bi ponavljal - bi pa pri prvi alinei, tu piše namreč: zmanjšanje zakonskih obveznosti podjetij na najmanjšo možno mero in podaljšanje roka plačila teh obveznosti ter zmanjšanje zamudnih obresti za nepravočasna plačila. In tu, ko piše: in podaljšanje roka plačila teh obveznosti s 6 dni na 15 dni, to se pravi, da opredelimo čas, nadaljnje besedilo, da se črta, ali pa navede stopnjo zmanjšanja, vezano na čas zamude plačevanja obveznosti. Ker jaz moram reči, da edino na ta način, če bomo čim bolj dorečeni, imajo ti sklepi obvezujočo vsebino. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-84">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-84.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-84.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Hvala. Naslednji prosim, gospod Lovrenčič.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-85">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-85.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">FRANC LOVRENČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-85.2"
                who="#LovrencicFranc1946"
                ana="#taxonomy.3.6.9">Jaz imam dve pripombi k temu, in sicer bi rad, da bi v 7. točki, v drugi alinei, ko gre "ukine dodatnih 30 oz. 40 % uvoznih obremenitev na blago široke potrošnje", to je že dejansko narejeno, ampak dobro, naj piše "in stimulira odkup deviz". Jaz imam predlog in želim, da bi se program ali, to je celo moj predlog včeraj bil, da je ta odkup deviz od občanov naredil kot nacionalni program in bi želel, da bi bil izpostavljen kot posebna alinea, kot nacionalni program na področju pridobivanja deviz od občanov, ne pa kot neki dodatek. Izpade, kot da je to nekaj mimogrede. In v točki 9, ko gre za definicijo. Strinjam se tako, kot je gospod Ban dal, jaz pa še dodatno pravim: podpiramo vlaganje tujega kapitala v infrastrukturne objekte in podjetja v Republiki Sloveniji. Mi prav tako podpiramo vlaganja v podjetja. Isto kvaliteto pa imamo v naslednjem stavku, ko izenačujemo zoper zadolževanje republike in podjetij. To je dodatni predlog.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-86">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-86.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-86.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Hvala. Še kje kaj ? Prosim, gospod Perko ! Lepo prosim, dajte to vsi napisati, ker to so v bistvu amandmaji.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-87">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-87.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">MAG. FRANC PERKO:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-87.2"
                who="#PerkoFranc1942"
                ana="#taxonomy.3.6.9">Tu bi odgovoril gospodu Banu. Pri pozivanju na nove davke gre za zahtevo - ker sem jaz diskutiral tudi o tem med drugim - po pravičnejšem obremenjevanju vseh in enakomernejšem prispevku vseh za skupne javne potrebe, tako za obremenitev določenih storitev kot vseh izdelkov, tako da bomo vsi enaki ali pa, da bodo vsi enaki pri tem. Samo za to gre. Seveda to, kar je pa v oklepaju, pa ni vse; je še cela vrsta drugih stvari, gre pa za celoto. Bi lahko mogoče preformulirali, da gre tudi za uvedbo davkov na storitve in izdelke vseh vrst, da prispevajo za to.</u>
          </div>
          <div xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.div-88">
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.2"
                who="#ZupancicJoze1936"
-               ana="#taxonomy.3.6.9">Hvala. Franci, boš dal ti tudi napisati ? Prosim še kdo ?</u>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.3"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">(Ne)</u>
+               ana="#taxonomy.3.6.9">Hvala. Franci, boš dal ti tudi napisati? Prosim še kdo?</u>
+            <note xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.3" type="debate">Ne</note>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">.</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Dobro. Mislim da bi lahko potem to razpravo zaključili, da bi toliko počakali, da bi še dopolnili s temi dopolnitvami, ali se kdo ne strinja s temi dopolnitvami ? Jaz mislim, da celo ni to tako strašno obremenjujoče, da ne bi mogli teh naših sklepov sprejeti, zaradi tega, ker bi pač ta čistopis, ki ga bomo poslali Izvršnemu svetu, potem tudi izročili našim cenjenenim novinarjem, ki naše delo spremljajo. S temi dopolnitvami jim bomo dali čistopis. Jaz mislim, da toliko bi pa res lahko zaupali tudi naši komisiji, da bo to korektno opravila. Je prav tako, ali je kdo nezaupljiv ? Dobro. Koliko nas je tu ?</u>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.6"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">(41 poslancev prisotnih)</u>
+            <note xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.6" type="quorum">41 poslancev prisotnih</note>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">. Jaz bi vseeno predlagal, da glasujemo o sklepih s temi dopolnitvami, ki so bile sedaj izražena. Nihče ni imel nič proti tem dopolnitvam in vsi ki ste razpravljali, ste sklepe tudi podprli.</u>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Kdo je za predlagane sklepe Zbora združenega dela ?</u>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.9"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">(37 poslancev glasuje za.)</u>
+            <note xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.9" type="vote">37 poslancev glasuje za.</note>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Proti ?</u>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.11"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">(1 poslanec.)</u>
+            <note xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.11" type="vote">1 poslanec.</note>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Vzdržanih ?</u>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.13"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">(3 poslanci.)</u>
+            <note xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.13" type="vote">3 poslanci.</note>
             <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.14"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.9">Ugotavljam, da smo z večino glasov sklepa z dopolnitvami, ki so bile izražene v razpravi, sprejeli in smo na tak način zaključili delo včerajšnje 26. seje Zbora združenega dela.</u>
-            <u xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.15"
-               who="#komentator"
-               ana="#taxonomy.3.6.9">(Seja je bila končana ob 14,20 uri.)</u>
+            <note xml:id="Sk-11.1991-07-31.ZbZdruDel.s026-02.u-88.15" type="time">Seja je bila končana ob 14,20 uri.</note>
             <anchor xml:id="DZ-1991-ZbZdruDel-26.stage.t.6"/>
          </div>
       </body>

@@ -24,8 +24,9 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega zgodovinopisja</publisher>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
             <distributor>DARIAH-SI</distributor>
+            <distributor>CLARIN.SI</distributor>
             <pubPlace>https://github.com/SIstory/SlovParl/tree/master/clarin/edition01</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
@@ -34,7 +35,7 @@
                <p xml:lang="sl">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Priznanje avtorstva 4.0 mednarodna licenca</ref>.</p>
             </availability>
-            <date when="2016-07-26+02:00"/>
+            <date when="2016-08-03+02:00"/>
          </publicationStmt>
          <sourceDesc>
             <bibl>ZbZdruDel-Sk-11.xml</bibl>
@@ -45,48 +46,6 @@
             <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
                 infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
          </projectDesc>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="TEI" occurs="1"/>
-               <tagUsage gi="anchor" occurs="4"/>
-               <tagUsage gi="availability" occurs="1"/>
-               <tagUsage gi="bibl" occurs="1"/>
-               <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="date" occurs="2"/>
-               <tagUsage gi="distributor" occurs="1"/>
-               <tagUsage gi="div" occurs="117"/>
-               <tagUsage gi="encodingDesc" occurs="1"/>
-               <tagUsage gi="fileDesc" occurs="1"/>
-               <tagUsage gi="front" occurs="1"/>
-               <tagUsage gi="item" occurs="13"/>
-               <tagUsage gi="licence" occurs="1"/>
-               <tagUsage gi="linkGrp" occurs="1"/>
-               <tagUsage gi="list" occurs="1"/>
-               <tagUsage gi="p" occurs="3"/>
-               <tagUsage gi="particDesc" occurs="1"/>
-               <tagUsage gi="persName" occurs="2"/>
-               <tagUsage gi="person" occurs="1"/>
-               <tagUsage gi="profileDesc" occurs="1"/>
-               <tagUsage gi="projectDesc" occurs="1"/>
-               <tagUsage gi="ptr" occurs="744"/>
-               <tagUsage gi="pubPlace" occurs="1"/>
-               <tagUsage gi="publicationStmt" occurs="1"/>
-               <tagUsage gi="publisher" occurs="1"/>
-               <tagUsage gi="ref" occurs="2"/>
-               <tagUsage gi="resp" occurs="2"/>
-               <tagUsage gi="respStmt" occurs="2"/>
-               <tagUsage gi="setting" occurs="1"/>
-               <tagUsage gi="settingDesc" occurs="1"/>
-               <tagUsage gi="sourceDesc" occurs="1"/>
-               <tagUsage gi="teiHeader" occurs="1"/>
-               <tagUsage gi="text" occurs="1"/>
-               <tagUsage gi="timeline" occurs="1"/>
-               <tagUsage gi="title" occurs="21"/>
-               <tagUsage gi="titleStmt" occurs="1"/>
-               <tagUsage gi="u" occurs="552"/>
-               <tagUsage gi="when" occurs="4"/>
-            </namespace>
-         </tagsDecl>
       </encodingDesc>
       <profileDesc>
          <particDesc>
@@ -300,7 +259,6 @@
             <list>
                <item xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.toc-item1">
                   <title>Ugotavljanje prisotnosti poslancev</title>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.3"/>
                </item>
@@ -317,7 +275,6 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.9"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.11"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.4"/>
@@ -329,27 +286,18 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.11"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.12"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-219.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-219.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-220.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-220.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-221.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-221.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-221.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-221.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.8"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.9"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.11"/>
                </item>
@@ -358,7 +306,6 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.13"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.14"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.4"/>
@@ -372,9 +319,7 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.13"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.14"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-224.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-224.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.4"/>
@@ -382,25 +327,17 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.6"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.8"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-226.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-226.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-227.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-227.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-227.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.6"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.7"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.8"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.9"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.11"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.13"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.14"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.15"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.16"/>
                </item>
@@ -411,7 +348,6 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.19"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.20"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.21"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.4"/>
@@ -420,15 +356,11 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.8"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.9"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-230.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-230.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-230.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-231.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-231.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-231.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-232.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-232.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.4"/>
@@ -440,14 +372,10 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.11"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.12"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-234.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-234.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-235.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-235.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-235.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-236.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-236.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.4"/>
@@ -462,36 +390,24 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.13"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.14"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.15"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-239.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-239.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-239.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-240.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-240.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-241.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-241.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-241.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-241.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-241.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.6"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.7"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.8"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.9"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.11"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.13"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.14"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.15"/>
                </item>
                <item xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.toc-item6">
@@ -500,45 +416,29 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.17"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.18"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.19"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.20"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.21"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.22"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.23"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.24"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.25"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.26"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.27"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.28"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.29"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.30"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.31"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.32"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.33"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.34"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.35"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.36"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.37"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.38"/>
                </item>
                <item xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.toc-item7">
                   <title>Predlog za izdajo zakona o spremembi zakona o notranjih zadevah s predlogom zakona</title>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.39"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.40"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.41"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.42"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-243.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-243.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.8"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.9"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.10"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.11"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.13"/>
                </item>
@@ -549,75 +449,51 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.16"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.17"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.18"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-246.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-246.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-247.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-247.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-247.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-247.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-248.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-248.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-249.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-249.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-249.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-251.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-251.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-252.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-252.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-252.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-253.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-253.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-253.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-254.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-254.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-254.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-254.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-254.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-255.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-255.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-256.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-256.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-257.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-257.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-257.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-258.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-258.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-259.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-259.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-260.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-260.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-260.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-261.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-261.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-262.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-262.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-262.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-263.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-263.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-264.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-264.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-265.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-265.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-266.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-266.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-266.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-267.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-267.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-267.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-267.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.4"/>
@@ -626,139 +502,88 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.8"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.9"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-269.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-269.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-271.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-271.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-272.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-272.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-272.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-272.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-272.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.6"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.7"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.8"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.9"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.11"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.13"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.14"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.15"/>
                </item>
                <item xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.toc-item9">
                   <title>Predlog zakona o spremembah in dopolnitvah zakona o deviznem poslovanju (13. TOČKO DNEVNEGA REDA)</title>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-274.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-274.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-274.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-274.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-275.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-275.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-275.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-275.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-276.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-276.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-277.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-277.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-278.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-278.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.6"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.7"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.8"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.9"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.11"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.13"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-280.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-280.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-280.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-280.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-280.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-281.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-281.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-282.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-282.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-283.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-283.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-285.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-285.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-286.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-286.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-287.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-287.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-288.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-288.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-288.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-288.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-288.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-289.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-289.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-290.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-290.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-291.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-291.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-292.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-292.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-293.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-293.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-294.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-294.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-294.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-294.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-295.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-295.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-296.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-296.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-297.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-297.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-298.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-298.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-299.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-299.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-300.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-300.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-300.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-301.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-301.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-302.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-302.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.8"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.9"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.10"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.11"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.13"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.14"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.15"/>
                </item>
                <item xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.toc-item10">
@@ -769,7 +594,6 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.19"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.20"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.21"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.4"/>
@@ -777,39 +601,26 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.6"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.8"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-305.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-305.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-306.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-306.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-306.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.8"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.9"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.10"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.11"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.12"/>
                </item>
                <item xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.toc-item11">
                   <title>Soglasje k spremembi in dopolnitvi statuta Univerze v Mariboru (15. TOČKA DNEVNEGA REDA)</title>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.13"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.14"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-308.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-308.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.7"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.8"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.9"/>
                </item>
                <item xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.toc-item12">
                   <title>Predlog zakona o obrestni meri in zamudnih obresti (16. TOČKO DNEVNEGA REDA)</title>
@@ -817,27 +628,18 @@
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.11"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.12"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.13"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.14"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.15"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.16"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.17"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-310.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-310.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-310.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-310.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-311.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-311.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-312.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-312.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-313.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-313.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-314.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-314.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-315.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-315.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-316.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-316.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.4"/>
@@ -846,48 +648,31 @@
                   <title>Pobude, predlogi in vprašanja poslancev</title>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-318.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-318.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-319.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-319.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-319.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-319.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-320.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-320.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-320.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-321.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-321.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.4"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-323.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-323.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-324.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-324.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-325.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-325.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-326.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-326.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-326.3"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-326.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-326.5"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-327.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-327.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-328.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-328.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-329.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-329.2"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-330.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-330.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-330.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.1"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.2"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.3"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.4"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.5"/>
                   <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.6"/>
-                  <ptr target="#Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.7"/>
                </item>
             </list>
          </div>
@@ -911,9 +696,6 @@
          </timeline>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-216">
             <anchor xml:id="DZ-1992-ZbZdruDel-38.stage.t.7"/>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.1"
-               who="#komentator"
-               ana="#taxonomy.2.8">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-216.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.2.8">Spoštovani poslanci in poslanke, cenjeni gostje in predstavniki sredstev javnega obveščanja! Nadaljujemo z 38. sejo Zbora združenega dela Skupščine Republike Slovenije, ki smo jo prekinili v četrtek, dne 16. januarja 1992.</u>
@@ -946,9 +728,6 @@
                ana="#taxonomy.3.6.3.2">Predstavnik Vlade želi besedo. Besedo ima gospod Roman Kladošek, Ministrstvo za trgovino.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-217">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">ROMAN KLADOŠEK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-217.2"
                who="#KladosekRoman"
                ana="#taxonomy.3.6.3.2">Spoštovano predsedstvo, spoštovani poslanke in poslanci! Jaz bi zelo na kratko želel podčrtati nekatere bistvene značilnosti obravnavanega zakona o varstvu konkurence.</u>
@@ -984,39 +763,25 @@
                ana="#taxonomy.3.6.3.2">Jaz bi na koncu samo še to povedal, da je Zakonodajno-pravna komisija imela številne pripombe na ta zakon, ki pa so po našem mnenju take narave, da jih bomo do faze predloga v kar največji meri upoštevali pri predlogu, zato predlagam, da obravnavate ta zakon z združitvijo prve in druge faze. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-218">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Hvala lepa. Želijo poročevalci delovnih teles besedo?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.3"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">(Ne želijo.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.3" type="debate">Ne želijo.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-218.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Pričenjamo razpravo. Kdo želi razpravljati? Besedo ima Marjan Starc.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-219">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-219.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">MARJAN STARC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-219.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.3.6.3.2">Jaz bi imel par načelnih misli pri reguliranju take materije, ki jo imamo pred seboj o nelojalni konkurenci in o tem, ker naša družba zadnjih 40, 45 let enostavno močno pozablja kaj je to tržišče, kaj pa je konkurenca in te stvari. Mi bomo res rabili, da bomo dejansko začeli tržno konkurenčno razmišljati. In tukaj bi želel poudariti stvari, ki se jih ne da z zakonom urediti, katerega temelj je tudi lastninska preobrazba, pa ne aludiram na te zadeve. Namreč tržna ekonomija brez jasno opredeljeno strukturo lastninskih pravic ni tržna ekonomija. In tukaj se tržna ekonomija začne in tukaj je bistvo. Če ni struktura lastninskih pravic pravilno postavljena, potem mi nimamo konkurenčne ekonomije. In to želim poudariti s tega vidika, kako pomembno je, da pravilno zastavimo strukturo lastninskih pravic, da bo ta čimbolj atomizirana, da bo ta čimbolj konkurenčna, da že v samem bistvu preprečimo nastajanje kakršnihkoli monopolov, kvazi monopolov, skratka motečih elementov v delovanju tržne ekonomije, katerega osnova je nemoteno delovanje trga kapitala, nemoteno delovanje trga dela in tukaj se vsa zadeva začne. Samo toliko sem želel. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-220">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-220.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-220.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Besedo ima gospod Lavrenčič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-221">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-221.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">FRANC LOVRENČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-221.2"
                who="#LovrencicFranc1946"
                ana="#taxonomy.3.6.3.2">Pri takem zakonu ali pa sploh pri urejanju take materije je seveda osnovni problem ta, da je dežela Slovenija mala in da seveda lahko na različnih področjih, če gledamo sedaj samo Slovenijo kot samostojno državo, prihaja do položaja, da so nekatere panoge v monopolnem položaju. Mene moti, da ta osnutek zakona recimo v nekaterih členih urejuje zadeve še iz nekih bivših organizacijskih shem. Pravi recimo v 3. členu, prvi odstavek tega člena, velja tudi za sklepe - jaz ga bom prebral - ki jih sprejemajo združenja podjetij in tako naprej.</u>
@@ -1028,9 +793,6 @@
                ana="#taxonomy.3.6.3.2">Moti me tudi 11. člen ko pravi, podjetja, ki se nameravajo združiti, - gre za nakup ali prodajo podjetja - so dolžna obvestiti ta urad, če bi izpadlo, da je pri tem zapopadeno 60 % tržnega deleža. To enostavno pomeni, da ne glede na to, če bo neko podjetje v situaciji, da mora ali pa da ga nekdo želi kupiti, je zaradi tega, ker bo ta urad iz nekih statističnih podatkov ugotovil, da je to 60,1, bo to podjetje rajši pustil, da propade ali karkoli ali da neko drugo podjetje ne sme kupiti, v tržni ekonomiji pa gre za umiranje in rojevanje in si mislim, da je to preveč statični pristop. In rekel bi na splošno, da je dosti takih zelo državno administrativnih rešitev. Rajši bi videl, tudi tam pri dumpinških cenah in tako naprej takoj, jaz sem zato, da je 15. člen, ko gre za urejanje tega, če blago po dumpinških cenah pride notri, sicer pa to svetovna ekonomija tako in tako preganja, tu pa je v celoti zopet administrativno rešeno in povedano. Malo več nekih tržnih momentov bi morali v tem zakonu biti, ne pa vse tako klasično državno rešeno. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-222">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Hvala lepa. Še želi kdo? Če ne, bi zaključil razpravo in zboru predlagam, da sprejmemo naslednji sklep:</u>
@@ -1040,21 +802,15 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Predlog zakona naj pripravi Vlada Slovenije. Pri pripravi predloga zakona naj predlagatelj prouči in ustrezno upošteva stališča in pripombe delovnih teles skupščine in seveda stališča in pripombe naših delegatov ter drugih institucij. Ali želi o tem sklepu kdo razpravljati? Ne. Potem bi ugotovil, koliko nas je v dvorani?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.5"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">(42 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.5" type="vote">42 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Kdo je za predlagani sklep?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.7"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">(44 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.7" type="vote">44 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Kdo je proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.9"
-               who="#komentator"
-               ana="#taxonomy.3.6.3.2">(Nihče.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.9" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-222.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.3.2">Se je kdo vzdržal? )Eden.)</u>
@@ -1072,9 +828,6 @@
                ana="#taxonomy.3.8.3">Komisija za varstvo okolja in naravno dediščino, ki predlaga zborom, da obravnavajo in sprejmejo predlog za izdajo zakona z osnutkom zakona ter naložijo predlagatelju, da pri pripravi predloga zakona prouči in ustrezno upošteva mnenja in pripombe komisije, ki so razvidne iz poročila. Tu imete tudi poročilo Zakonodajno-pravne komisije na dveh straneh in tudi oni seveda podpirajo sprejem tega zakona. Ali želi predstavnik Vlade besedo? Prosim, gospod Matko Pohar, namestnik ministra za energetiko.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-223">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.1"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">MATKO POHAR:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-223.2"
                who="#PoharMatko"
                ana="#taxonomy.3.8.3">Spoštovano predsedstvo, spoštovane poslanke in poslanci! Z ukinitvijo samoupravnih interesnih skupnosti so v začetku leta 1990 vse pravice, sredstva, pristojnosti posebnih interesnih skupnosti elektrogospodarstva in premogovništva prešle na Vlado Republike Slovenije oziroma takrat Izvršni svet. Tako so s tem prehodom prišle v pristojnost za odločanje na področju energetskega gospodarstva vse ustanoviteljske pravice in pa obveznosti v Rudniku urana Žirovski vrh.</u>
@@ -1116,17 +869,11 @@
                ana="#taxonomy.3.8.3">S tem bi zaključil.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-224">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-224.1"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-224.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Ali želijo poročevalci besedo? Ne. Pričenjam razpravo. Kdo želi razpravljati? Gospod Peter Starc.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-225">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.1"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">PETER STARC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-225.2"
                who="#StarcPeter1943"
                ana="#taxonomy.3.8.3">Spoštovani! Jaz bi podal mnenje oziroma stališče poslanskega kluba SDP v zvezi s tem zakonom.</u>
@@ -1150,17 +897,11 @@
                ana="#taxonomy.3.8.3">V kolikor bo ta analiza pokazala, da je prostor rudnika sprejemljiva lokacija, naj Izvršni svet predlog razširitve dejavnosti poda naknadno. Nerazumljivo je, da je tak predlog podal sam minister Jazbinšek, saj je v neposrednem nasprotju z osnutkom zakona o varstvu okolja, katerega predlagatelj je omenjeno ministrstvo.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-226">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-226.1"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-226.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Gospod Jože Berlec.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-227">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-227.1"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">JOŽE BERLEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-227.2"
                who="#BerlecJoze1949"
                ana="#taxonomy.3.8.3">Ta osnutek zakona v principu podpiramo. Mislim, da je prav, da ga tudi čimprej sprejmemo. Kljub vsemu pa imam dve pripombi. V 2. členu imamo pod peto alineo navedeno, da programiranje in uvedba tržno uspešnih nadomestnih dejavnosti, da moramo to zagotoviti. Mislim, da je to v naprej zelo težko reči, kateri proizvod je tržno uspešen. Kajti tržna uspešnost se pokaže šele takrat, ko je proizvod na trgu. Menim, da bi morali to nekoliko preformulirati.</u>
@@ -1169,9 +910,6 @@
                ana="#taxonomy.3.8.3">Drugo, kar pa je očitno, bo financiranje teh tržno-uspešnih nadomestnih dejavnosti šlo iz republiškega proračuna. Ne vem, če je to povsem v skladu s tistim, kar delamo. Borimo se za neko privatizacijo, tega še ustanovljenega nimamo, niti ne sfinanciranega in ponovno uvajamo neko nedefinirano lastništvo. Tako, da mislim, da bi morali vendarle nekoliko razmisliti, čigava bo ta lastnina oz., kdo bo finansiral, kdo bo vlagal. Zelo mi je všeč to, kar je povedal predstavnik vlade, da razmišljajo o podjetniškem prestrukturiranju. Predlagam, da v tej smeri nadaljujejo, tako da bo ta uvedba tržno uspešnih nadomestnih dejavnosti kar iz tega naslova lahko šla. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-228">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.1"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Hvala lepa, gospod Brlec. Še želi kdo razpravljati? Če ne, bi tu razpravo zaključili. Predlagam tudi dva sklepa.</u>
@@ -1184,33 +922,23 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Želi o tem sklepu kdo razpravljati?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.6"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">(Ne.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.6" type="debate">Ne.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Moramo ugotoviti prisotnost. Prisotnost samo.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.8"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">(44 prisotnih.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.8" type="quorum">44 prisotnih.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Kdo je za predlagani sklep?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.10"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">(42 poslancev glasuje za.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.10" type="vote">42 poslancev glasuje za.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.12"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.12" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Vzdržani?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.14"
-               who="#komentator"
-               ana="#taxonomy.3.8.3">(Eden.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.14" type="vote">Eden.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-228.15"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.8.3">Ugotavljam, da je zbor predlagani skep sprejel soglasno.</u>
@@ -1234,9 +962,6 @@
                ana="#taxonomy.3.3">Želi predstavnik vlade? Prosim.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-229">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">MAG. SLAVKO DEBELAK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-229.2"
                who="#DebelakSlavko"
                ana="#taxonomy.3.3">Spoštovani zbor, spoštovani predsednik. Zakon o varstvu osebnih podatkov, ki je bil sprejet leta 1990, določa, da se zbirke osebnih podatkov vzpostavijo, vodijo in vzdržujejo le na podlagi zakona ali na podlagi prisne privolitve posameznika, na kateri se ta podatek nanaša.</u>
@@ -1263,9 +988,6 @@
                ana="#taxonomy.3.3">Spoštovane poslanke in poslanci, spoštovani predsednik, predlagatelj se opravičuje, ker je v predloženem tekstu napačno navedena ustavna podlaga. Tekst je poslal v obravnavo še preden je bila sprejeta nova ustava in opravičuje se tudi za nekatere stvari, ki v kontekstu sprejetja nove ustave nekoliko odstopajo od predlaganih formulacij. Predlagatelj je pripravljen tem pomislekom prisluhniti in pa seveda vse nepravilnosti korigirati ter uskladiti z novo ustavo. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-230">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-230.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-230.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Hvala lepa g. Debelak.</u>
@@ -1274,9 +996,6 @@
                ana="#taxonomy.3.3">Želijo poročevalci delovnih teles mogoče? Če ne, pričenjamo razpravo. Kdo želi razpravljati? Prosim g. Zdravko Zabukovec.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-231">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-231.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">ZDRAVKO ZABUKOVEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-231.2"
                who="#ZabukovecZdravko1940"
                ana="#taxonomy.3.3">Spoštovani! Mogoče to ni razprava, temveč bolj vprašanje, če pa ni tako urejeno, potem je pa tudi razprava. Gre za evidenco legitimiranih oseb. Imamo tri člene, ki se na to nanašajo. Začne se s 6. členom, ki govori o tem, da imamo to evidenco. 25. člen govori o tem, da ta evidenca traja eno leto. Mislim da 14. člen pa govori o tem, da so legitimirane osebe, tiste osebe, ki jih uradno osebe organov za notranje zadeve legitimirajo. Mislim, da mogoče v zakonu manjka definicija kaj je to legitimiranje. Če pa je legitimiranje vsak pregled s strani organov za notranje zadeve, potem moram povedati, da sem bil vsaj desetkrat letno legitimiran na prometnem področju.</u>
@@ -1285,17 +1004,11 @@
                ana="#taxonomy.3.3">Vprašujem torej ali se tudi tovrstno legitimiranje nanaša na te evidence - če se, potem predlagam da se to uredi drugače, če pa ne, da pojasnimo z neko ustrezno definicijo v zakonu. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-232">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-232.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-232.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Hvala. Nadaljujemo z razpravo. Kdo želi razpravljati? Prosim g. Jaša Zlobec.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-233">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-233.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.3">Očitno gre za zakon, ki je po svoje komplementaren že sprejetemu zakonu o varstvu osebnih podatkov, ki smo ga pred časom sprejeli in ga imamo še vsi v dobrem spominu. Zakon o varstvu osebnih podatkov varuje posameznikove pravice do osebne varnosti.</u>
@@ -1331,17 +1044,11 @@
                ana="#taxonomy.3.3">Vrhunec neznosnosti v tej smeri pa pomeni zadnji odstavek 25. člena, ki naj ga zaradi poučnosti navedem kar v celoti - citiram: "Po preteku rokov v prejšnjem odstavku se podatki arhivirajo. Dostop do arhiviranih podatkov je dopusten le na podlagi pisne odločitve ministra za notranje zadeve ali organa iz drugega odstavka 2. člena tega zakona." Kaj to pomeni? To pomeni, da se bodo osebni podatki o nas, o naših otrocih, vnukih, pravnukih in prapravnukih v policijskih arhivih ohranili do sodnega dne. To pomeni to. Predrznost pa je še toliko bolj očitna, ker po prvem odstavku 24. člena vsi mogoči osumljenci, njihovi sorodniki do petega kolega sploh nimajo vpogleda v svoje evidence. Kar pa je sploh v eklatantnem nasprotju z 38. členom slovenske ustave. Ta člen namreč ne pozna nobenih izjem glede pravic občana, da se lahko seznani z izbranimi osebnimi podatki o sebi. Piše pa takole, v ustavi namreč: Vsakdo ima pravico seznaniti se z zbranimi osebnimi podatki, ki se nanašajo nanj in pravico do sodnega varstva po njihovi zlorabi. Skratka, liberalni demokrati predlagamo, da predlagatelj osnutek zakona umakne, če pa tega ne bo hotel, pa naj to storijo poslanci. Predvsem pa predlagam, da ustavno sodišče presodi, koliko sploh je v skladu z ustavo oziroma v nasprotju z ustavo osnutka tega zakona. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-234">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-234.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-234.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Hvala. Kdo želi naprej razpravljati? Besedo ima gospod Marjan Starc.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-235">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-235.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">MARJAN STARC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-235.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.3.3">Popolnoma in v celoti se strinjam s kolego Zlobcem. Za doslej v našem procesu osamosvajanja in državotvornosti se dostikrat nisem strinjal z določeno filozofijo njegovo in ta trenutek se tudi še ne strinjam z njegovo filozofijo, ki sem jo gledal sinoči na televiziji glede obrambe države, dokler nam naš veliki, simpatični, vljudni sosed 60-milijonske Italije prihaja sem njihov predsednik in nam zelo vljudno, sladko ponuja vojaško varnost, mislim, da je to druga materija, kar se tiče obrambe države. Kar pa se tiče sistema javne varnosti, pa kot nova, mlada, neodvisna država, pa moramo celotno zadevo postaviti na nove temelje, za to gre. In tukaj se strinjam, da gre za novo filozofijo, novo gledanje sodobne, svobodne, demokratične civilne družbe.</u>
@@ -1350,17 +1057,11 @@
                ana="#taxonomy.3.3">In ta osnutek zakona je nadaljevanje represivnega policijskega aparata, od katerega smo mi še vedno vsi bolani. In sem proti temu, da bi ta zakon sprejeli, sem za to, da se zavrne in da naš parlament, da organi zastavijo nov koncept sistema javne varnosti, nove temelje, celotni nov koncept sistema javne varnosti s filozofijo, kot ga je podal kolega Zlobec. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-236">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-236.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-236.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Hvala. Še kdo od poslancev želi razpravljati? Besedo ima gospod Debelak.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-237">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">MAG. SLAVKO DEBELAK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-237.2"
                who="#DebelakSlavko"
                ana="#taxonomy.3.3">Če dovolite bi odgovoril na pomisleke, na argumente oziroma pač na tisto, kar so trije poslanci izrazili kot dvom. Takoj na začetku pa to, kar je povedal gospod Starc. Jaz se strinjam, da postavimo nov koncept javne varnosti, seveda nov koncept javne varnosti ni enostavna zadeva, to je stvar, ki je verjetno potrebna enega daljšega časovnega termina. Izhajamo pa iz koncepta javne varnosti oziroma da je splošna varnost ena dobrina, ki jo pridobivamo, uživamo na organiziran in pa zakonit način in moram reči, da je zakon o varstvu evidenc oziroma evidence s področja javne varnosti bil tisti zakon oziroma tisti predlog, ki ga ponujamo vam v sprejetje, zato da te stvari uredimo tako, kot narekuje ustava oziroma tako, kot narekuje zakon o varstvu osebnih podatkov.</u>
@@ -1405,15 +1106,10 @@
                ana="#taxonomy.3.3">Za konec samo še naslednje. Borimo se v Ministrstvu za notranje zadeve ves čas, da stvari opravimo korektno, pravno, strokovno in v korist posameznikov. To dokazujejo vsi ti zakoni, ki smo jih sprejeli, nimamo nobene zle namere v bistvu, da bi z nekimi novimi zakoni dodatno posegali v človekovo intimo, njegovo zasebnost, kot sem rekel, smo eden izmed redkih resorjev, in to lahko preverite po zakonih, ki smo jih sprejemali, ki smo sledili zakonu o varstvu osebnih podatkov. In zato tudi predlagamo ta zakon v bistvu v dvofazni postopek, da ulovimo tisti rok. Zavedamo se, da so policijske evidence najbolj vprašljiva in v trenutkih, v katerih je Slovenija, bi rekel najbolj sporna zadeva, zato jih hočemo pravno, korektno urediti. Hvala lepa in opravičujem se, ker sem bil malo daljši.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-238">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Podsekretar. Dobro. Kakorkoli dobro govorite. Bi mogoče še kdo želel zdaj na to?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.3"
-               who="#komentator"
-               ana="#taxonomy.3.3">(Ne.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.3" type="debate">Ne.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-238.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Če ne bi zaključili razpravo. Mi imamo zdaj v zvezi s tem pač pripravljan sklep.</u>
@@ -1425,9 +1121,6 @@
                ana="#taxonomy.3.3">V zvezi stem, prosim Jaša Zlobec.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-239">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-239.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-239.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.3">Jaz bi najprej prosil gospoda Debelaka, da se ne počuti prizadetega. Ni bilo nič mišljeno proti njemu osebno, niti celo proti notranjemu ministru, ampak gre za to. Velja znan zakon, če se lahko kaj slabega zgodi, se bo to slabo zmeraj zgodilo. In zato je treba vse narediti, da se pred tem slabim zavarujemo. Vsaka oblast si ustvarja eno moralo in ta morala je orožje oblasti, da drži svoje državljane v pokorščini. Ko sem bil jaz mlad, je bila nošnja dolgih las neprimeren način življenja in tako rekoč napol kriminalno dejanje. Ko bodo moji otroci zrastli v ta leta, bog ve, kaj bo tistikrat nemoralno in čuden način življenja; niti sanja se nam ne. Zato te stvari ne smejo biti ohlapne, ker bo prej ali slej prišel nek notranji minister, ki jih bo zlorabljal. Zato morajo biti zakoni tako narejeni, da je zloraba omejena na minimum. Zato gre.</u>
@@ -1436,17 +1129,11 @@
                ana="#taxonomy.3.3">In ker ste sami rekli, ta stvar je nedorečena, to stvar je treba uskladiti z ustavo. Vemo, da je tukaj problem. Predlagam v dobro nas vseh in dobro tega zakona, da bo čimboljši, da ga vrnemo v prvo fazo. Pa prosim, da se tudi o tem predlogu glasuje. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-240">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-240.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-240.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Hvala. Gospod Debelak.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-241">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-241.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">MAG. SLAVKO DEBELAK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-241.2"
                who="#DebelakSlavko"
                ana="#taxonomy.3.3">Kolega Jaša, ne počutim se, bi rekel, prizadetega, čutim se pa odgovornega, da kot predstavnik Ministrstva za notranje zadeve oz. vlade poslancem predstavim celotno problematiko, tako kot smatram, da je pravilno oz. tako kot smatramo, da je potrebno.</u>
@@ -1461,48 +1148,33 @@
                ana="#taxonomy.3.3">Osnovi cilj tega zakona in pa tudi tega, da ga predlagamo v dveh fazah, to ste ne nazadnje že vi na tem vašem zboru potrdili, je bil to, da ulovimo zakon oz. rok iz zakona o varstvu osebnih podatkov in da vse tisto kar že delamo, kolega Jaša, v bistvu spravimo v pravno normo in s tem, ko spravimo v pravno normo tudi pod ustrezne nadzorstvene kontrolne mehanizme in nenazadnje tudi pod nadzorstvo tega vašega zbora. Res nisem bil osebno prizadet, čutim se samo odgovoren, da poslancev najbolj plastično in najbolj argumentirano predstavim problematiko, ki jo zagovarjam.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-242">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Hvala. Slišali ste razlago in predlog Jaše. Po njegov v bistvu pač moj sklep spremenimo v toliko, da bi se glasil:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Predlog za izdajo zakona o evidencah s področja javne varnosti se sprejme. Brez tistega z osnutkom. To pomeni, da ga vrnemo v I. fazo. In sicer 2. točka bi pa bila, osnutek zakona naj pripravi vlada Slovenije in vse ostalo kar sledi. Tako si predlagal. Želi v zvezi s tem kdo razpravljati? Se mogoče s tem kdo ne strinja?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.4"
-               who="#komentator"
-               ana="#taxonomy.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.4" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Po našem poslovniku moramo glasovati o tem, in sicer najprej bi dal na glasovanje predlog, ki ga je dal poslanec Jaša Zlobec, in sicer: Predlog za izdajo zakona o evidencah s področja javne varnosti se sprejme. Osnutek zakona naj pripravi Vlada Slovenije. Pri pripravi osnutka zakona naj predlagatelj prouči in ustrezno upošteva stališča in pripombe delovnih teles Skupščine, stališča delegatov in drugih inštitucij. V zvezi s tem sklepom želi kdo razpravljati?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.6"
-               who="#komentator"
-               ana="#taxonomy.3.3">(Ne želi.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.6" type="debate">Ne želi.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Ugotovimo prisotnost.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.8"
-               who="#komentator"
-               ana="#taxonomy.3.3">(49 prisotnih.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.8" type="quorum">49 prisotnih.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Kdo je za ta predlog?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.10"
-               who="#komentator"
-               ana="#taxonomy.3.3">(31 poslancev glasuje za.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.10" type="vote">31 poslancev glasuje za.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.12"
-               who="#komentator"
-               ana="#taxonomy.3.3">(9 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.12" type="vote">9 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Vzdržani?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.14"
-               who="#komentator"
-               ana="#taxonomy.3.3">(9 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.14" type="vote">9 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.15"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Ugotavljam, da je predlagani sklep z večino naš zbor sprejel in s tem smo mi vrnili ta zakon v prvo fazo. Jaz upam, da bodo kmalu pripravili osnutek in lahko že na naslednji seji tudi ta osnutek obravnavamo in bomo časovno tudi te zadeve uredili.</u>
@@ -1518,21 +1190,15 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.19"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Tako, da bo razumljivo. Mi imamo seveda po sprejetem dnevnem redu opraviti s predlogom za izdajo zakona z osnutkom. Predstavnik vlade, v zvezi s tem je potrebno, da kaj pove, ali počakamo.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.20"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Ni treba.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.20" type="debate">Ni treba.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.21"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Mogoče poročevalci delovnih teles?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.22"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Ne.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.22" type="debate">Ne.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.23"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Odpiram in pričenjam razpravo. Kdo želi razpravljati v zvezi s tem predlogom?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.24"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Nihče.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.24" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.25"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Če ne želi nihče razpravljati, zaključujem razpravo in predlagam, da sprejmemo naslednji sklep:</u>
@@ -1545,33 +1211,23 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.28"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Želi o tem sklepu kdo razpravljati?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.29"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(Ne želi.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.29" type="debate">Ne želi.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.30"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Ugotovimo prisotnost, če nas je toliko.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.31"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(45 prisotnih.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.31" type="quorum">45 prisotnih.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.32"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Kdo je za predlagani sklep?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.33"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(36 poslancev za.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.33" type="vote">36 poslancev za.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.34"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.35"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(3 poslanci.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.35" type="vote">3 poslanci.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.36"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Vzdržani?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.37"
-               who="#komentator"
-               ana="#taxonomy.3.1.1">(6 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.37" type="vote">6 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.38"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.1">Ugotavljam, da je zbor predlagani sklep sprejel z večino glasov in s tem smo mi tudi zaključili 11. točko dnevnega reda.</u>
@@ -1581,55 +1237,37 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.40"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Je možno? Je kdo proti temu, da preskočimo in imamo kar 19. točko. Ker gospod Debelak je tudi tu. Saj veste, to je kratka zadeva, kjer gre samo za spremembo imen. Lahko?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.41"
-               who="#komentator"
-               ana="#taxonomy.3.3">(Da.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.41" type="debate">Da.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-242.42"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Potem bi pričeli z 19. točko, predlog za izdajo zakona s predlogom zakona. V obravnavo ga je predložila Vlada Slovenije in smo ga sprejeli. Predlog za izdajo zakona s predlogom zakona so obravnavali Komisija za notranjo politiko, ki predlaga, da ga zbori sprejmejo v predloženem besedilu. Tudi Zakonodajno-pravna komisija ni imela nič proti. Predstavnik Vlade, gospod Debelak, nekaj stavkov.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-243">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-243.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">MAG. SLAVKO DEBELAK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-243.2"
                who="#DebelakSlavko"
                ana="#taxonomy.3.3">Spoštovani! Včasih se je beseda policije uporabljala v pejorativnem smislu, zaničevalnem in takšnem oz. drugačnem, danes predlagamo v bistvu skrajšani postopek in da se ta termin uzakoni v spremembi in dopolnitvi zakona o notranjih zadevah, in sicer miličnik postane policist, milica postane policija kot takšna. Opozarjam vas, da termin policija mi razumemo tako v organizacijskem kot v funkcionalnem smislu. Opravljena je bila že celostna, bi rekel, podoba in pa zasnova nove uniforme, kot takšne, mi je bomo seveda dobavljali v okviru finančnih možnosti sukcesivno in naši policisti, če ste videli, že nekateri nosijo označbe namesto milica, simbolov, ki so bili prejšnji zvezni in tako naprej,nove označbe z novim simbolom in pa seveda z napisom policija. Zato predlagamo, da to zadevo v tem skrajšanem postopku podprete in sprejmete, da tudi lahko formalno začnemo z uporabo teh novih simbolov. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-244">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.1"
-               who="#komentator"
-               ana="#taxonomy.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Hvala lepa. Slišali ste. Želi kdo razpravljati.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.3"
-               who="#komentator"
-               ana="#taxonomy.3.3">(Ne želi.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.3" type="debate">Ne želi.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Če ne želi nihče razpravljati in ker tudi tu ni nobenega amandmaja, bi pač glasovali o spremembi zakona o notranjih zadevah s predlogom zakona v celoti, tak kot je bil predložen. Moramo vseeno ugotoviti prisotnost.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.5"
-               who="#komentator"
-               ana="#taxonomy.3.3">(44 prisotnih.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.5" type="quorum">44 prisotnih.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Kdor je za predlog zakona, naj prosim glasuje?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.7"
-               who="#komentator"
-               ana="#taxonomy.3.3">(42 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.7" type="vote">42 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.9"
-               who="#komentator"
-               ana="#taxonomy.3.3">(Nihče.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.9" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Vzdržani?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.11"
-               who="#komentator"
-               ana="#taxonomy.3.3">(2 poslanca.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.11" type="vote">2 poslanca.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-244.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.3">Ugotavljam, da je zbor predlog zakona sprejel z večino glasov.</u>
@@ -1653,9 +1291,6 @@
                ana="#taxonomy.3.1.3.12">Predstavnik predlagateljev, Roman Jakič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-245">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">ROMAN JAKIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-245.2"
                who="#JakicRoman1967"
                ana="#taxonomy.3.1.3.12">Hvala za besedo. Jaz bi rekel tako, da seveda na vse očitke, ki so jih organi Skupščine in pa tudi Izvršni svet in pomisleke okoli hitrega postopka, in sedaj, ko se je predlagatelj oziroma Liberalno-demokratska stranka odločila, da umakne tretjo fazo in v bistvu skozi usklajevanje celo pristala na to, da gre ta zakon po normalni proceduri v Skupščino in po normalni proceduri naj bi bil sprejet.</u>
@@ -1673,17 +1308,11 @@
                ana="#taxonomy.3.1.3.12">Namreč, spomnite se tistega, da so nas strašili tukaj ravno tako tudi s tem, kar je v zakonu o vojaški dolžnosti zapisano, govorili so, da nihče več ne bo hotel služiti vojaškega roka v vojski, pa se je izkazalo seveda, da to ni res in zopet nas strašijo, da bo ta osip velik. Zato bi predlagal, da za to prvo fazo sprejmemo in seveda predlagatelj bo v sodelovanju z vsemi strokovnimi dopolnil ta zakon, ker kakor sem rekel, tudi mi smo ugotovili, da pomanjkljivosti so in zato ne želimo tega sprejemati po hitrem postopku, ampak po normalni proceduri. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-246">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-246.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-246.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Ali želi predstavnik Vlade besedo? Odpiram razpravo. Gospod Remškar, prosim.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-247">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-247.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">DR. JANEZ REMŠKAR:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-247.2"
                who="#RemskarJanez1947"
                ana="#taxonomy.3.1.3.12">Rad bi postavil, spoštovane kolegice in kolegi, stališče Komisije za mirovno politiko, ki je obravnavala predlog zakona, predvsem pa se seveda zaustavlja pri tako imenovanem 48.a členu. Mislim, da je prav, če nimate pred seboj tega bi rad prebral, ugovor vesti o vojaški dolžnosti lahko iz istih razlogov, kot nabornik uveljavlja tudi državljan med služenjem vojaškega roka in v času trajanja dolžnosti služiti v rezervnem sestavu. Rad bi, kot že rečeno, povedal stališče Komisije za mirovno politiko, ki je, po dokaj pestri tudi burni razpravi prišla do sledečih zaključkov.</u>
@@ -1695,17 +1324,11 @@
                ana="#taxonomy.3.1.3.12">Razširitvi zakona v delu, ki bi omogočil uveljavljanje ugovora vesti med samim služenjem vojaškega roka, je večina članov komisije nasprotovala iz razloga, da jim je ta pravica bila že dana. Ob tem je bilo izraženo tudi stališče, da je potrebno razmisliti o možnosti za podaljšanje časovnega razdobja za uveljavljanje pravice do ugovora vesti, in sicer, da bi bilo to pravico mogoče uveljavljati tudi v razdobju od nabora pa do odhoda na služenje vojaškega roka, kajti tu so se sorazmerno zelo pogosto pojavljali argumenti, da v času nabora, da so ti naši naborniki sorazmerno mladi in da še ne vedo, če smem reči, v kaj se spuščajo. Skratka, da se ta pravica ugovora vesti podaljša za obdobje od časa nabora pa do sprejetja v teritorialno obrambo.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-248">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-248.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-248.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala. Gospod Muren.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-249">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-249.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">ANDREJ MUREN:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-249.2"
                who="#MurenAndrej1953"
                ana="#taxonomy.3.1.3.12">Hvala za besedo. Gospod Jakič je sicer naredil lepo obrazložitev tega predloga zakona, ampak vseeno ga pa pozivam, da v imenu Liberalno-demokratske stranke ta predlog umakne z dnevnega reda. Namreč zakaj?</u>
@@ -1714,9 +1337,6 @@
                ana="#taxonomy.3.1.3.12">Če bi se ta zakon sprejel v predloženem besedilu, to v praksi pomeni, da je onemogočena kakršnakoli mobilizacija armade v primeru potrebe. Namreč, sleherni rezervist oziroma vojaški obveznik bi tisti hip, ko bi prišli po njega, lahko razglasil ugovor vesti in ostal doma. Po takem enostavno armada ni mogoča. Ker tako ne gre, ker vse dežele okoli nas, ker smo še vedno deležni raznih groženj, sodim, da je docela nesprejemljiva situacija, če sprejmemo tak zakon. In pri tem dejansko ta zakon pomeni rušenje slovenske obrambe in s tem ogrožanje naše suverenosti. Če mi ta zakon sprejmemo, se dejansko znajdemo brez obrambe. In Liberalno-demokratski stranki bi postavil javno vprašanje, koliko dolgo namerava s svojim početjem slovensko suverenost še ogrožati. Namreč, če se spomnimo, njeno preteklo delovanje, razprave o prejšnjem proračunu, razprave pri sprejemanju zakona o vojaški dolžnosti, obrambi in zaščiti, njena dejavnost med junijsko vojno, ki je dobila epilog na sodišču, pa na tak, kot bi bil Liberalno-demokratski stranki pogodu, mislim, da tako ne gre naprej in da mora Liberalno-demokratska stranka o tem svojem početju nekoliko premisliti.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-250">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-250.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.1.3.12">To seveda ni odgovor, to je legitimna obramba pred obrekovanjem, podtikanjem in podobnimi nečednimi stvarmi. Kolega Muren, nisem pričakoval od socialnega demokrata, da bo s takimi argumenti prišel na dan. Navsezadnje socialdemokracija ima tudi eno svetlo zgodovino pred prvo svetovno vojno, ko se je upirala nacionalističnim izbruhom in svetovni moriji in klanju. Zato svetujem kolegi Murnu, da malo prebere zgodovinske tekste, tudi socialdemokratske.</u>
@@ -1734,17 +1354,11 @@
                ana="#taxonomy.3.1.3.12">Glasi se pa tako: Državljanu je omogočeno, da poda prošnjo za priznanje ugovora vesti o vojaški dolžnosti pred naborom. Ugovor vesti o vojaški dolžnosti lahko torej uveljavlja državljan, ko je klican na nabor, to je praviloma v letu, ko dopolni 18 let. Na služenje vojaškega roka pa se napoti predvidoma v letu, ko dopolni 19 let. Sodimo, da je s polnoletnostjo že izgrajena osebnost, ki se lahko samostojno odloča. Iz tega bi velo ven, da ima tako rekoč eno leto časa. V resnici pa ima samo 15 dni časa. In prosim, da obrambno ministrstvo oziroma Izvršni svet zelo jasno opredeli in potem boste šele videli, da je ta zakon v resnici zelo restriktiven, da je liberalno samo tisto načelo o šestih mesecih in o enaki dolžnosti, ta strah pred lastnimi državljani je pa meni popolnoma nerazumljiv, in mislim, da ste lahko zadovoljni, da imate v parlamentu Liberalno-demokratsko stranko, ki iz dneva v dan kaže, da zaupa svojim državljanom, in se bori za tako zakonodajo, ki bo v prid državljanom ne pa represivni državi. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-251">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-251.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-251.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Gospod Rode. Bi rad ugovor. Prosim, gospod Muren. Ugovori več kot jih je, vedno krajši so, zato pa so vsebinsko ostri.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-252">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-252.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">ANDREJ MUREN:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-252.2"
                who="#MurenAndrej1953"
                ana="#taxonomy.3.1.3.12">Že v obstoječem zakonu o vojaški dolžnosti imamo ugovor vesti, ki je po evropski zakonodaji eden najbolj liberalnih, to je treba povedati. Če mi to potem še bolj širimo na tisto, kot vi predlagate, kar danes ni nikjer drugje, se lahko vsak kadarkoli spomni, da se vpoklicu ne bo odzval. In to naj ne vodi nikamor.</u>
@@ -1753,9 +1367,6 @@
                ana="#taxonomy.3.1.3.12">Kar pa se tiče pozivanja na Jašo Zlobca, na socialdemokracijo, pa to: gospod Jaša Zlobec je imel namreč v mislih tisto socialdemokracijo iz Leninovih časov in ne današnje moderne. Namreč, ko smo ustanavljali našo Socialdemokratsko stranko Slovenije - to je bilo v začetku leta 1989 - je v iniciativnem odboru tudi gospod Jaša Zlobec nekaj časa sodeloval, nakar je ugotovil, da smo nekako premalo jugoslovansko orientirani in podobno - in nas je seveda zapustil. Očitno je potem v Liberalno-demokratski stranki dobil bolj plodna tla za svoje delovanje, kot bi jih našel pri nas. Namreč, socialdemokrati, vsaj tisti, ki smo res to, za kar se deklariramo, smo kolikor-toliko narodno zavedni, kar pa se bojim, da za večino liberalnih demokratov ne bi mogel reči. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-253">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-253.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-253.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Lepo prosim, jaz imam rad ugovore, nimam pa rad ugovorov na nivoju, da kdo misli namesto mene in govori o tem, kar jaz mislim. Naj govori tisto, kar kdo reče - o tem lahko razpravljamo; o tem, kdo pa kaj misli, pa nima kdo kaj govoriti, ker pač to ne ve!</u>
@@ -1764,9 +1375,6 @@
                ana="#taxonomy.3.1.3.12">Nadaljujemo z razpravo. Gospod Rode je na vrsti.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-254">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-254.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">DR. PRIMOŽ RODE:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-254.2"
                who="#RodePrimoz1942"
                ana="#taxonomy.3.1.3.12">Če bom sedaj povedal kaj takega, kar ne bo všeč gospodu Zlobcu oz. mojemu Jašetu, naj me ne imenuje zvestega učenca Branka Mamule, ampak naj me vzame kot, recimo, zvestega učenca generala Maistra morda.</u>
@@ -1781,25 +1389,16 @@
                ana="#taxonomy.3.1.3.12">Nekaj moram pa še povedati tudi za liberalne demokrate - pa naj ne smatrajo kot napad. Moram reči, da se delno strinjam z Andrejem Murnom. Gre za nekaj - zbodlo me je in bom sedaj javno povedal, pa naj mi ne zamerijo preveč. Memorandum ali kako ste že tisto imenovali, kjer je bil označen kakršenkoli oborožen upor kot katastrofa za narod.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-255">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-255.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-255.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-256">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-256.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-256.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.1.3.12">Bom zelo kratek, ne bom filozofiral; govoril bom samo o dejstvih. Žal je moj prijatelj Rode žrtev tega, da verjame vsemu, kar prebere napisano, kot je Andrej Muren žrtev tega, če prebere trač knjigo, da ji verjame, ker jih hoče verjeti. Kolega Rode je najbrž bral Slovenca, v katerem je imel obrambni minister intervju, kjer je citiral, da v tistem, ne memorandumu, ampak deklaraciji za mir piše: Vsak oborožen odpor je katastrofa za Slovenijo. To je seveda laž. Tega stavka nikjer ni bilo, ampak je bil popolnoma drug stavek. Ne bom se spuščal v to, zakaj je tam narobe napisano - ali se je zmotil Janša, ali se je zmotil novinar, ali je bilo kaj drugega. Bilo je narobe napisano in ti si to narobe citiral. Zato to velja, kot da tega ni. Samo toliko.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-257">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-257.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-257.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala. Gospod Perko.</u>
@@ -1808,25 +1407,16 @@
                ana="#taxonomy.3.1.3.12">Jaz mislim, da to ni vsebina tega predloga. To so sedaj že druge zadeve, ki sodijo v drug krog. Prosim, gospod Perko.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-258">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-258.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">MAG. FRANC PERKO:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-258.2"
                who="#PerkoFranc1942"
                ana="#taxonomy.3.1.3.12">Hvala lepa. Sam podpiram stališče, da je možno tudi pozneje uveljavljati ugovor vesti, ker lahko pride posameznik do novih spoznanj, novih pogledov, ki so lahko zelo globoka in mislim, da je treba to možnost dati. Seveda, naj bo tak normalen postopek. Samo poglejmo: Slovenci smo se dvakrat odločili za Jugoslavijo, ali pa so se odločili za Jugoslavijo. Prišli smo do novih spoznanj, odločili smo se in smo se osamosvojili. To se pravi, da lahko pride do tako velikih, a pomembnih sprememb in jih je treba upoštevati. In jaz sem tudi prepričan, da zaradi takih primerov ne bo ogrožena naša obramba. Kar malo je tistih, ki se bodo za to odločali. To so tiste izjeme, posamezniki in mislim, da ni problem obrambnega sistema, če to vključimo v zakon.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-259">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-259.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-259.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala lepa. Želi še kdo razpravljati? Gospod Dretnik, prosim.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-260">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-260.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">IVAN DRETNIK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-260.2"
                who="#DretnikIvan1921"
                ana="#taxonomy.3.1.3.12">Gospod predsednik hvala za besedo. Spoštovani zbor! Temo razprave bom malo "prešaltal". Namreč, ko že razpravljamo o predlogu za izdajo zakona o dopolnitvi zakona o vojaški dolžnosti, mi je prišla na misel naslednja ideja.</u>
@@ -1835,17 +1425,11 @@
                ana="#taxonomy.3.1.3.12">Na zadnji seji smo dobili na klop predlog, da se vojaški rok prehodno zmanjša, skrajša za en mesec, se pravi za šest mesecev. Na to misel sem prišel, ko sem prebiral republiški proračun za leto 1992, kjer je postavka za obrambo tako visoka, da so najbolj na udaru javne kritike. Ko sem to misel razlagal nekaterim, so me strašili, češ, zdaj boš pa dregnil v osje gnezdo. Pa mislim, da ne bo tako, ker se bo dalo pogovoriti. Ker tisti, razmere so se nam zelo spremenile, tisti, ki so nam še pred nedavnim grozili in rožljali z orožjem, so že zamudili vlak. Tudi razmere na svetovni areni vse govorijo v prid nam. Prepričan sem, da bo Izvršni svet temu odločno nasproti, ampak sklepe sprejema parlament, katerega sestavni del je tudi naš zbor. Zato prosim, drage poslanke in poslanci, da se odločimo in glasujemo pri tem po svoji vesti. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-261">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-261.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-261.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala. Želi še kdo razpravljati?</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-262">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-262.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">MARJAN STARC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-262.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.3.1.3.12">Jaz sem že pri predhodni točki ločil ti dve stvari, in navedel zakaj nanje ne gledam niti ideološko niti strankarsko niti filozofsko, ampak skušam biti čisto pragmatičen. Iz te strani. Mi smo mlada državica v tem prostoru in celoten sistem varnosti v Evropi še ne vemo, kako se bo ustalil in uravnovesil in enostavno preprosto rabimo določen sistem obrambe in moramo biti na to pripravljeni.</u>
@@ -1854,33 +1438,21 @@
                ana="#taxonomy.3.1.3.12">Mi ne želimo ščititi nobenih režimov, nobene klike, nobenega militarizma, ničesar, ampak svojo novo mlado, majhno državico, v tem smislu. Zato moramo tudi po tej ljudski plati enostavno imeti zagotovljen nek instrumentarij, veliko bolj kot pa s kakšnim raznim raketnim sistemom pa aviacijo pa mornarico itn. Mogoče bomo tako, ne da bi šele zdaj spoznali to filozofijo na civilnem področju, mogoče čez dve leti, čez pet let, čez deset let, bomo vsi v Evropi angelčki v tem smislu in vsega tega ne bo treba, ampak enostavno pragmatično ocenjujem, da so v našem prostoru razmere take, da moramo biti obrambno usposobljeni in zaradi tega sem proti tej dopolnitvi zakona.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-263">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-263.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-263.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala. Lahko še kdo? Gospa Sagadin.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-264">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-264.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">VLASTA SAGADIN:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-264.2"
                who="#SagadinVlasta1957"
                ana="#taxonomy.3.1.3.12">Spoštovani! Sem že skoraj mislila, da se ne bom oglasila, pa da ne bo izpadlo, da mora imeti ženska zadnjo besedo, ampak resnično se mi zdi tale zakon kot ene vrste provokacija. V tem trenutku pa še sploh. Sama bom glasovala proti temu zakonu, odkrito povedano. Na misel mi je prišla pravzaprav situacija 28. junija, ko smo bili postavljeni pred dejstvo, namreč, ko govorimo o zaupanju do državljanov Republike Slovenije. Ko je dobil poziv, oziroma ko je bil v pol ure pripravljen oziroma prisiljen se odločati. Zdaj, če bi imel to možnost sprejeti ali ugovor vesti nekje uveljaviti - brez skrbi, da bi ga koristil skoraj vsak. To je samo nekaj, rešilna bilka, ki se je še lahko oprimeš, pa tudi, če si že ne vem koliko star. Sama ne vidim smisla tega zakona v tem trenutku, no, res ne. Mogoče so moje besede zdajle nekoliko strgane. Ampak odkrito povedano, mislim, da v tistem trenutku, ko smo bili pred pol leta v tej situaciji, da bi to veljalo, vprašanje je, koliko bi se jih prostovoljno javilo pa šlo kar v pol ure v uniformo in nekam. Ne trdim, da ni narodna zavest pri Slovencih velika, ampak vsak bi se za rešilno bilko nekje hotel oprijeti in bi rekel, aja, jaz imam pa ugovor vesti, pa zdajle ne bi šel. Navsezadnje imam doma družino, otroke, zakaj bi šel ravno jaz, pa že toliko sem star, pa toliko sem že bil v vojski pa toliko let sam že rezervist itn. Tako, da mislim, da v tem trenutku takega zakona zaenkrat ne bi sprejemali, sploh pa kot Zelena bolj zagovarjam demilitarizacijo in računam, da bo mogoče v enem ali dveh letih mogoče celo to bolj aktualno in nasploh bodo tele stvari postale brezpredmetne. Tako, da mislim, da tega zakona danes ne sprejmemo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-265">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-265.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-265.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Gospod Moge.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-266">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-266.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">RUDI MOGE:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-266.2"
                who="#MogeRudi1944"
                ana="#taxonomy.3.1.3.12">Osebno mislim, da je to žalitev za ljudi, kar sem čul, ki so prijeli za orožje pa so se za Slovenijo postavili. Vedeti namreč moramo, da so vsi ti ljudje podpisali, tudi jaz sem podpisal, ko sem bil v Jugoslovanski ljudski armadi, izjavo, da bom čuval suverenost int. vse tiste Jugoslavije, da bom tej armadi zvesto služil, sem bil pa na enem čisto drugem bregu. In če bi zame veljal tak ugovor vesti, bi tudi tako ravnal kot sem tule ravnal in kot so teritorialci, ki so tvegali svoje življenje, ravnali.</u>
@@ -1889,9 +1461,6 @@
                ana="#taxonomy.3.1.3.12">Zdi se mi, da samo en tak predpis, ki bi omogočil, da se takrat za tole ne bi odločili, da bi se ravno tako odločili kot so se, mogoče kak procent ali dva ne iz čistega prepričanja, ampak so ljudje, ki so to vojno izbojevali, dobro se zavedamo, da ni bila samo teritorialna obramba in policija ampak so bili vsi tisoči in tisoči ljudi, vključno z nami poslanci, ki so obkolili kasarne, ki vojski niso dovolili, da bi šla ven. In tukajle zdaj te ljudi na tale nivo postavljati, da če bi zakon dovolil ugovor vesti, da takrat ne bi prijeli za orožje, se mi zdi, da je to osebna žalitev za njih. To je moje osebno razmišljanje.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-267">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-267.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-267.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala. Želi še kdo? Če ne, mi dovolite glede na to, da so bila izražena zelo različna mnenja, kar je seveda totalno upravičeno in prav, da lahko vsak svoje pove, da tudi sam povem tri ali štiri stavke v okviru razprave pri tej točki.</u>
@@ -1903,9 +1472,6 @@
                ana="#taxonomy.3.1.3.12">Trdo sem prepričan, da tu gospa Sagadinova nima prav, ker ta predpis enostavno ni tisti, ki bo ene ali druge zavrl v teh svojih hotenjih, ampak jim bo v bistvu omogočil tisto, kar si oni intimno želijo. Intimnosti, sem trdno prepričan, ne smemo preprečevati, da se tudi na tak način izrazi, ampak jim lahko s tem samo omogočimo. Jaz sem sam pri sebi razmišljal ob tem predlogu, pa bi eden lahko rekel, ja zakaj ga pa mi sploh obravnavamo glede na to, da ga v ostalih dveh zborih ne obravnavajo. Pa se mi ni zdelo nič žal ene ure razprave o teh vprašanjih, zaradi tega, ker o teh zadevah, kot parlament še cel, o njih razpravljali in govorili. In zakaj ne bi imela tudi vlada oziroma minister neka izhodišča, da vidi, kaj tu ljudje o teh zadevah razmišljajo, že vnaprej tudi dana. In zato se mi ne zdi nič narobe, prvič ne časa, drugič ne teh različnih mnenj in tretjič, dajmo dejansko pogledati človeka, njegov intimni svet in dajmo enkrat ta njegov intimni svet spoštovati. Ne samo z reklamno-propagandnimi gesli, ampak tudi dejansko. Zato bom jaz tudi za ta zakon glasoval. Če bomo uspeli, bomo, če ne pa ne. Še želi kdo? Oglasil se je kljub temu, da vse razprave ni slišal, še gospod obrambni minister Janez Janša.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-268">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">JANEZ JANŠA:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-268.2"
                who="#JansaJanez1958"
                ana="#taxonomy.3.1.3.12">Gospod predsednik, poslanke in poslanci! Res nisem hotel razpravljati, čeprav so me obvestili, o čem je prej tekla razprava. Sta me pa k razpravi vzpodbudili dve stvari. Po eni strani vaše izvajanje, na katero imam nekaj replik in na drugi strani razprava v Družbenopolitičnem zboru, kjer sem bil zdaj in kjer ista stranka oziroma poslanci iste stranke, ki se tu tako zavzemajo za ugovor vesti, glasuje proti amandmaju v zdravstvenem zakonu o ugovoru vesti zdravnikov. Se pravi, razpravljam zaradi tega, ker bi rad še enkrat poudaril, da sem za ugovor vesti, ker je tudi politika vlade taka, vendar za ugovor vesti nasploh. Se pravi, ugovor vesti ne more biti samo nekaj, kar je omejeno na vojaško področje. Človek zaide v stisko v zvezi s svojo vestjo tudi marsikje drugod in to je treba upoštevati povsod. Tudi jaz poznam travme, ki jih je gospod predsednik zbora omenjal v zvezi z naborom za bivšo JLA. Bi pa seveda moral tukaj pripomniti, da teh travm, vsaj upam, na naboru ni več. Ne zato, ker bi bile komisije drugačne, čeprav mislim, da so in je druga situacija, ko se nekdo odloča, ali gre v vojsko za šest mesecev in to v najbližji kraj, v najbližjo kasarno zraven rojstnega kraja, ali pa v Makedonijo, ampak zato, ker je ugovor vesti nabornikom priznan že od lanskega leta in lahko vsak svobodno odloča o tem, ali bo zaprosil za civilno službo ali pa bo dal skozi nabor.</u>
@@ -1932,17 +1498,11 @@
                ana="#taxonomy.3.1.3.12">Kar se pa tiče enormnih stroškov za vzpostavitev obrambnega sistema, ki naj bi bili predlagani v letošnjem proračunu, pa prosim tudi poslance tega zbora, tako kot sem naredil v svojem zboru, da mi navedejo eno samo državo v Evropi in na svetu, ki je z manj denarja, kot ga mi predlagamo, vzpostavila obrambni sistem. Če mi navedete to državo bomo šli tja, se bomo inštruirali in jaz obljubim, da bomo to pri nas naredili še cenejše. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-269">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-269.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-269.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala lepa. Besedo ima Jaša Zlobec.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-270">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">JAŠA L. ZLOBEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-270.2"
                who="#ZlobecJasaL1951"
                ana="#taxonomy.3.1.3.12">Zelo mi je žal, da moram pač, hotel sem se temu izogniti, za vsako ceno postaviti obrambnega ministra, tokrat pa res na laž. Citiral je še enkrat svojo izjavo v Slovencu, se pravi, da jo je namenoma tako citiral. V "Slovencu" dve stvari podtika Liberalnodemokratski stranki, v zvezi z deklaracijo za mir, ki so jo pripravili mladi krščanski demokrati, Zeleni, SDP in nova družbena gibanja in Liberalnodemokratska stranka. Prvo podtikaje je, da smo v deklaraciji za mir zahtevali, da se Slovenija nemudoma razoroži, brez prehodnega obdobja. V resnici pa piše v deklaraciji za mir: v prvi točki, citiram: Mirovni člen v novi slovenski ustavi, ki naj se glasi: Republika Slovenija je demilitarizirana država. Prehodno obdobje, ki je potrebno za demilitarizacijo, se uredi z ustavnim zakonom.</u>
@@ -1960,17 +1520,11 @@
                ana="#taxonomy.3.1.3.12">Jaz ne vem, poglejte jugoslovansko armado se demonizira na veliko. Jaz nimam nič proti temu, jaz sem jo demoniziral še takrat, ko so drugi vanjo veselo hodili in prepevali. Ampak to isto demonizirano armado, ki je bila smrt, grob slovenskih fantov, se jo pa izrablja kot tisto inštitucijo, v kateri je slovenski takratni nabornik konzumiral ugovor vesti za celo življenje. Oprostite, to je skregano z osnovno logiko in z osnovnim poštenjem in vas pozivam, da glasujete seveda za to normalno proceduro in da podprete naš zakon. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-271">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-271.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-271.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Gospod Janša, lahko spregovorite samo nekaj stavkov, samo jaz ne bi rad, da imate tu polemiko, kaj je napisano v "Slovencu". V Slovencu se zmenite tam, mi smo pa v Skupščini.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-272">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-272.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">JANEZ JANŠA:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-272.2"
                who="#JansaJanez1958"
                ana="#taxonomy.3.1.3.12">Ne, gospod predsednik, če dopuščate razpravo o tem, kaj piše v "Slovencu", potem morate dopustite tudi replike na to, to je prava demokracija, nisem jaz začel te razprave.</u>
@@ -1985,58 +1539,40 @@
                ana="#taxonomy.3.1.3.12">Tudi prej nisem dejal, da je sprejetje tega zakona rušenje obrambnega sistema samo po sebi. Sem rekel, sprejetje tega zakona in nesprejetje sprememb v drugih zakonih, je to,in to še enkrat ponavljam. Če ta zakon sprejmemo, ne spremenimo pa seveda zakona o obrambi in zaščiti in drugih predpisov, ki bi nadomestili ta izpad iz rezerve, potem se obrambni sistem ruši. Tako pač je, pa če je to gospodu Zlobcu všeč ali ne.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-273">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.1"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Hvala. Jaz mislim, da smo povedali vse, da lahko sedaj tudi odločamo o tem. Jaz moram zaradi proceduralnih zadev tako formulirati sklep: predlog za izdajo zakona o dopolnitvi zakona o vojaški dolžnosti se sprejme. Predlog, to se pravi, to gre za prvo fazo. Predlagatelj naj pripravi osnutek zakona. Pri pripravi osnutka naj predlagatelj prouči in ustrezno upošteva stališča in pripombe delovnih teles Skupščine, stališča poslancev in drugih inštitucij.</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">To je formalni sklep, ki pač sledi predlogu za zakon. Želi kdo razpravljati?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.4"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">(Nihče.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.4" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Ugotovimo prisotnost.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.6"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">(Prisotnih je 48 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.6" type="quorum">Prisotnih je 48 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Kdor je za predlagani sklep, naj prosim glasuje.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.8"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">(24 poslancev glasuje za.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.8" type="vote">24 poslancev glasuje za.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Je kdo proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.10"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">(19 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.10" type="vote">19 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Se je kdo vzdržal?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.12"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">(Trije poslanci.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.12" type="vote">Trije poslanci.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Ker bi jih moralo biti 25, predlog sklepa ni sprejet.</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.14"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.1.3.12">Ugotavljam, da zbor predlagani sklep ni sprejel in s tem smo zaključili tudi 12. točko dnevnega reda.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.15"
-               who="#komentator"
-               ana="#taxonomy.3.1.3.12">(Seja je bila prekinjena ob 12.35. uri in se je nadaljevala ob 15.00. uri.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-273.15" type="time">Seja je bila prekinjena ob 12.35. uri in se je nadaljevala ob 15.00. uri.</note>
             <anchor xml:id="DZ-1992-ZbZdruDel-38.stage.t.8"/>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-274">
             <anchor xml:id="DZ-1992-ZbZdruDel-38.stage.t.9"/>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-274.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-274.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Pričeli bi s 13. TOČKO DNEVNEGA REDA, PREDLOG ZAKONA O SPREMEMBAH IN DOPOLNITVAH ZAKONA O DEVIZNEM POSLOVANJU.</u>
@@ -2048,9 +1584,6 @@
                ana="#taxonomy.3.6.6.2.2">Odbor za kreditno-monetarni sistem in politiko predlaga, da zbori predlog zakona prekvalificirajo v osnutek zakona in da predlagatelj v sodelovanju z Ministrstvom za finance, Ministrstvom za zunanje zadeve in Banko Slovenije pripravi pravno konstintenten predlog zakona. Želi predlagatelj obrazložiti hitri postopek? Gospod Veselinovič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-275">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-275.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">MAG. DRAŠKO VESELINOVIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-275.2"
                who="#VeselinovicDrasko1959"
                ana="#taxonomy.3.6.6.2.2">Rad bi povedal, da je Odbor za kreditno-monetarni sistem te stvari okrog deviznega zakona že dvakrat obravnaval. Obakrat je sprejel pozitiven predlog, da bi se uvedli devizni računi podjetij pri poslovnih bankah, s tega proceduralnega vidika v bistvu ni razloga, da bi sedaj ponovno šel ta zakon v osnutek, čeprav je zadnji sklep odbora tako formuliran.</u>
@@ -2062,60 +1595,40 @@
                ana="#taxonomy.3.6.6.2.2">Zato predlagam, da glasujete za hitri postopek, če ne se bo ta stvar preveč zavlekla, in vprašanje je, če bo ta vlada o tem odločala oziroma pripravila predloge.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-276">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-276.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-276.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Še želi kdo v zvezi s postopkom kaj povedati. Tu je predlog najprej za postopek, hitri postopek. Torej, da danes sprejmemo predlog zakona. Prosim, gospod Marjan Starc.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-277">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-277.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">MARJAN STARC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-277.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.3.6.6.2.2">Tako kot tisti zakon o javnem dolgu in devizah bank, ki je bil tak parcialni, volonterski zakon, tudi ta zakon mislim, da je iste vrste. Jaz še vedno pogrešam in enostavno tudi mislim, da je nedopustno, da se igramo s to monetarno politiko te nove države. Mi moramo zahtevati od Banke Slovenije, od guvernerja, da pride pred parlament, ker je Narodna banka Slovenije odgovorna parlamentu in ne vladi, naj pride pred parlament s temeljito analizo sedanje monetarne denarne situacije v Sloveniji in s projektom, strateškim, globalnim projektom monetarne politike Slovenije. To moramo narediti in v sklopu tega sprejemati tudi vse parcialne ukrepe. To, kar se sedaj dogaja, je po mojem mnenju nedopustno. Imamo inflacijo in nimamo nobenega pravilnega antiinflacijskega programa. Imamo neko improviziranje. To je narobe in za to je odgovoren parlament, ne vlada. Zato sem proti temu, da se forsirano sprejemajo taki parcialni, improvizatorski, volonterski zakoni. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-278">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-278.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">FRANC LOVRENČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-278.2"
                who="#LovrencicFranc1946"
                ana="#taxonomy.3.6.6.2.2">Spoštovani kolegice in kolegi! Jaz sem bil do sedaj principielno vedno proti hitrim postopkom, vendar včasih je treba od principov odstopiti. Moraš poznati problematiko in ozadje. Jaz se strinjam s kolegom Starcem, da je kompleks treba enkrat prikazati, vendar ne se "zavaravati" s tem, da bomo to dobili v kratkem času in da bomo zadeve lahko rešili. Zato vas pozivam, naredimo izjemo in probajmo izglasovati hitri postopek zato, ker gre vendar za zakon, ki omogoča delno normalizacijo zadev v gospodarstvu in bi bilo po moji oceni nepravilno, če bi to odlagali na poznejši čas. Jaz bom glasoval za hitri postopek.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-279">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Tu imamo pač dva različna predloga. Še kdo? Ne želi. Potem bi lahko zaključil razpravo v zvezi s samim postopkom in bi skušal glasovati.</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Kdo je za tak postopek obravnave, kot je predlagan, to se pravi po 314. členu našega poslovnika? Ugotavljamo prisotnost?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.4"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(49 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.4" type="vote">49 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Kdo je za to, da obravnavamo ta predlog zakona o spremembah in dopolnitvah zakona o deviznem poslovanju na podlagi 314. člena poslovnika. Kdo je za?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.6"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(25 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.6" type="vote">25 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.7"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Kdo je proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.8"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(16 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.8" type="vote">16 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.9"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Kdo je vzdržan?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.10"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(6 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.10" type="vote">6 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-279.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Ugotavljam, da je to število dovolj, da ga obravnavamo po hitrem postopku. Ugotavljam torej, da je zbor sprejel predlog, da se zakon obravnava po hitrem postopku z večino glasov.</u>
@@ -2127,9 +1640,6 @@
                ana="#taxonomy.3.6.6.2.2">Na klop 5.1.1992 smo prejeli amandmaje Vlade Slovenije, ki ne sprejema predlaganega zakona iz naslednjih razlogov. Vlada ocenjuje, da bi vzpostavitev deviznih računov privedla v situacijo, ki bi izničila dosedanje pozitivne učinke oziroma stanja tako na področju devizne likvidnosti monetarne politike in krepitve nacionalne valute. Iz tega mikroekonomskega vidika meni, da moramo še naprej krepiti nacionalno valuto, devizne rezerve in omogočiti centralni monetarni oblasti, da izvaja učinkovito monetarno politiko. Ocenjujejo, da vzpostavitev deviznih računov ne bi omogočala večje pretočnosti deviz med subjekti, ampak nasprotno, dosegli bi zapiranje deviznih sredstev znotraj posameznih poslovnih bank. Čeprav izgleda z vidika podjetja, da bi ta lahko ohranjala realno vrednost denarja ob vzpostavitvi deviznih računov, menijo, da je to le navidezno, saj veljavni zakon praktično ne predpisuje roka vnosa deviz izvoznikov, ki tako lahko praktično preliv vnesejo takrat, ko potrebujejo likvidna sredstva. Sedanja ureditev tudi omogoča, da podjetja med seboj trgujejo z devizami. Dosežena devizna likvidnost po oceni kaže na pozitivne rezultate oziroma, da je devizno poslovanje sistemsko relativno dobro urejeno. V celoti pa vseh rezultatov oziroma posledic veljavnega deviznega sistema zakona ni mogoče oceniti glede na to, da je zakon v uporabi praktično šele dobre tri mesece, vsekakor pa je naloga Izvršnega sveta, da preverja dosežene rezultate, v primerih slabih, bi bila verjetno ekonomsko upravičena menjava sistema. Želi predstavnik predlagatelja besedo? Prosim gospod Veselinovič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-280">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-280.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">MAG. DRAŠKO VESELINOVIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-280.2"
                who="#VeselinovicDrasko1959"
                ana="#taxonomy.3.6.6.2.2">Jaz bi zelo na kratko obrazložil ta predlog. Dejstvo pa je, da devizni računi podjetij v poslovnih bankah, torej uvedba teh računov pomeni neko bistveno spremembo na tem področju poslovanja s tujino in z devizami v okviru države. To dejansko je jedro in bistvo deviznega zakona. Veste pa vsi, da devizni zakon kot tak, ko je bil sprejet in ko je stopil v veljavo ob osamosvojitvi, da je to v bistvu zelo liberalen zakon, ki pa žal v praksi ni pripeljal do podobne liberalne ureditve. Bistvena pripomba k nasprotnemu predlogu Vlade, ki nasprotuje temu predlogu uvedbe deviznih računov in pa predlogu Banke Slovenije, je pa predvsem to, da mi dejansko nimamo formalno sistema deviznih računov podjetij pri bankah, de facto pa ta sistem imamo. Ker v sistemu je cel kup izjem, tisti, ki imajo lahko devizne račune pri bankah, nadalje lahko trgujejo do tako imenovanih 48 ur po deviznem prilivu, ko pridejo na račune poslovnih bank v tujinah in potem je ta uvedba teh blagajniških zapisov, deviznih, ki so tudi plačljivi v devizah. Skratka, mi imamo de facto sistem deviznih računov, formalno ga pa nimamo. In moramo biti dosledni in če imamo en sistem de facto uveden, ga uvedimo še de iure.</u>
@@ -2144,39 +1654,25 @@
                ana="#taxonomy.3.6.6.2.2">Predlagam in prosim, da podprete predlog te uvedbe deviznih računov.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-281">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-281.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PODPREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-281.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Hvala. Prosim, Štruc.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-282">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-282.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">DRAGO ŠTRUC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-282.2"
                who="#StrucDrago1940"
                ana="#taxonomy.3.6.6.2.2">Jaz bi samo z enega vidika dal svoj glas, zakaj bom glasoval za sprejetje tega zakona. Gospod Veselinovič je predstavil možnosti, ki jih ima vlada pri ukrepanju, če bi takšen zakon bil sprejet, to je tehnični vidik rešitev. Jaz se s temi rešitvami sigurno tudi strinjam. Izrazil bi pa osnovne razloge, zakaj pa menimo, da bi v gospodarstvu, vsaj takšen zakon moral biti sprejet. Vlada v bistvu na določen način z nestrinjanjem tega sprejetja, izraža nezaupanje do gospodarstva. Poglejte, za kaj gre! Če to gospodarstvo zna in sme po zakonodaji razviti nek proizvod, proizvesti ta proizvod, najti trg na tujem, govorim o konvertibilnem področju, in nazadnje pripeljati ta denar v domovino in tisti trenutek, ko denar pride, bom rekel, v mlado državo, naenkrat to gospodarstvo ni več v stanju gospodariti s tem denarjem. Zato pravim, da gre v tem primeru samo za neupravičeno stopnjo nezaupanja, ki je neupravičeno, zato menim, da zakon ima podlago za to, da glasujemo za sprejetje take zakonodaje. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-283">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-283.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-283.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Še želi kdo razpravljati o tem? Gospod Lovrenčič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-284">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">FRANC LOVRENČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.2"
                who="#LovrencicFranc1946"
                ana="#taxonomy.3.6.6.2.2">Jaz bi želel še na neko stvar opozoriti pri tem zakonu. Gre seveda za dilemo, ali naj se država postavi v vlogo, da na nek, dosti enostaven način zagotovi potrebna devizna sredstva za pokrivanje splošnih in ostalih potreb iz naslova deviznih sredstev, ali naj v nekih narekovajih nadgradi gospodarstvo v tem sistemu. Pomeni, ali vzame ali pa se poskuša na nek način vključiti v ta devizni trg. Jaz se navdušujem za ta drugi del tega problema, torej, da se ne postavlja država vedno v vlogo, da enostavno z zakonom</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.3"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(nerazumljiva beseda)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.3" type="comment">nerazumljiva beseda</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-284.4"
                who="#LovrencicFranc1946"
                ana="#taxonomy.3.6.6.2.2">, ampak da se enostavno vključi v sistem.</u>
@@ -2188,33 +1684,21 @@
                ana="#taxonomy.3.6.6.2.2">Drugi argument, da imajo podjetja možnost razporejanja 48 ur, pa seveda ni argument, ker je to tako kratek čas, da se enostavno ne dajo te stvari v redu narediti. Zato vas pozivam, da prisluhnete tu neki ekonomski tržni logiki in da podprete ta zakon, da zadevo na nek način skompletiramo in da se nehamo prepirati, kdo ima tu prav ali ne. Vodenje makroekonomske politike, da je to oteženo, to pa sploh ni argument, ker gre samo za tehniko evidence, inštrumentarij ostaja ves v centralni banki ali v vladi, torej jaz bom glasoval za, isto pa pozivam vas.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-285">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-285.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-285.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Marjan Starc, prosim!</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-286">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-286.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">MARJAN STARC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-286.2"
                who="#StarcMarjan1942"
                ana="#taxonomy.3.6.6.2.2">Jaz bom glasoval proti, zato, ker to pomeni vračanje nazaj, pet, deset let nazaj. Mi smo se zadnjih deset, petnajst let, na relaciji republika - zveza, kar naprej dajali, devizne račune ja, devizne račune ne, in take stvari. To je pase. To ni konsistentno več z nobeno tržno ekonomijo, urejenim ekonomskim sistemom. Mi moramo pritiskati na vlado in na monetarno politiko, na Banko Slovenije, da dogradijo temeljne sisteme in potem na tistem naprej graditi. Izhodišče, temelji morajo biti pravilni in tisto naprej voditi, ne pa temelje narobe zastaviti. Mi se vračamo deset petnajst let nazaj s tem zakonom. To je to. Jaz razumem situacijo v podjetjih in take stvari, samo s tem improviziranjem ne rešujemo nič. Gremo nazaj. zaradi tega sem proti, pritisnimo na Banko Slovenije, na vlado, naj pride pred ta parlament s konsistentno parlamentarno politiko. To rabimo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-287">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-287.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-287.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Gospod Slapernik. Vmes vas lahko obvestim, da je prometni davek usklajen in tako imamo nov zakon.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-288">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-288.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">ANTON SLAPERNIK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-288.2"
                who="#SlapernikAnton1937"
                ana="#taxonomy.3.6.6.2.2">Spoštovane kolegice in kolegi! Jaz sem, ko smo zakon sprejemali, imel amandma, s katerim sem predlagal, da se vpeljejo devizni računi. Takrat smo glasovali o zakonu in amandma ni bil sprejet.</u>
@@ -2229,49 +1713,31 @@
                ana="#taxonomy.3.6.6.2.2">Zadeva ni tako nepomembna. Slovenija je majhna, Slovenija lahko preživi, če bo pretežni del svojega družbenega proizvoda izvažala in ogromno podjetij bo moralo biti takšnih, ki bodo večji del svojega prihodka ustvarila na tujem trgu in ne na domačem trgu, zato mislim, da ta predlog ni tako slab in bom zanj glasoval.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-289">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-289.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-289.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Še želi kdo razpravljati o tem? Predstavnik Izvršnega sveta? Prosim, Dušanka Stričevič, svetovalka v Ministrstvu za finance.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-290">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-290.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">DUŠANKA STRIČEVIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-290.2"
                who="#StricevicDusanka"
                ana="#taxonomy.3.6.6.2.2">Jaz se ne bi želela spuščati v vsebinsko razpravo, ker vlada je svoje mnenje dala, zakaj odklanja tak način uvajanja deviznih računov v tem momentu. Želela bi pa opozoriti samo na naslednje. Odbor za javne finance, ki je v prvi fazi razprave o uvajanju deviznih računov podprl predlog predlagateljev, je naknadno, torej govorim čisto tehnično, sedaj ugotovil, da je sama sprememba zakona o deviznem poslovanju s predlaganimi spremembami 24., 26. in 27.člena nedorečena v tem smislu, ker je odbor naknadno konstatiral, da so te spremembe več ali manj nekonsistentne z večjim delom obstoječega zakona. Zato odbor predlaga, da se sicer glede na uvrstitev tega zakona na dnevni red zborov razprava opravi, prav tako je predlagal, da se ustanovi skupina vladnih inštitucij oziroma Banke Slovenije, Ministrstva za zunanje zadeve, Ministrstva za finance in pa predlagateljev zakona, da se še enkrat strokovno prečisti besedilo glede na predlagane spremembe, ker ni dovolj, da se ta sprememba sprejme, zakon pa v celoti, obstoječi zakon, torej ta sprememba negira, bom rekla, celo vrsto členov, ki jih ne bi sedaj tu navajala in se potem glasovanje, torej rok je nekje do 23., to je strokovna uskladitev, šele takrat o zakonu glasujemo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-291">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-291.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-291.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Gospa Marija Lončar.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-292">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-292.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">MARIJA LONČAR:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-292.2"
                who="#LoncarMarija1947"
                ana="#taxonomy.3.6.6.2.2">Jaz bom zelo kratka. Hotela sem se že prej oglasiti, ampak glede na to, da sem ravno tako čakala razlago ministrstva, ker smo mi dejansko na Odboru za proračun, pa tudi, moram reči, jaz sama osebno sem ta zakon primerjala z osnovnim zakonom o deviznem poslovanju in moram glasovati proti takemu zakonu, kot ga imamo danes na mizi, sem pa za to, da se ta materija dejansko konsistentno preuči in da se da v proceduro pač zakon, ki bo vzdržal. Ker tu bo lahko prišlo pri izvajanju do določenih problemov. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-293">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-293.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-293.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Hvala. Gospod Ban še prej.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-294">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-294.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">FRANC BAN:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-294.2"
                who="#BanFranc1938"
                ana="#taxonomy.3.6.6.2.2">Jaz bom glasoval, da to sprejmemo, iz enega preprostega razloga. Če se dobro spominjam, pred dvema, tremi meseci, ko je Odbor za monetarni sistem, ob prisotnosti guvernerja in finančnega ministra razpravljal o tej problematiki,</u>
@@ -2283,49 +1749,31 @@
                ana="#taxonomy.3.6.6.2.2">Za mene je mnogo bolj sporna zadeva, o kateri sem takrat, ko smo zakonodajo sprejemali tudi razpravljal, vendar neuspešno. Mnogo bolj sporno zadrževanje deviz zunaj in vse špekulacije na račun tega, čakanje na spremembo tečaja itd. in mislim, da bi morali v tej smeri počakati in mislim zelo konkretno analizirati prakso, ki se pojavlja. To je za mene mnogo večji problem. Sicer pa, dajmo enkrat v tej naši suvereni deželi pravnim subjektom prosto, to je nekdo danes že rekel, da gospodarijo, da razpolagajo z deviznimi sredstvi, da jih hitreje vnašamo in da stvari peljemo tako, kot je potrebno. Pridružujem se tistim, ki pravijo, da je to tudi nezaupanje našemu slovenskemu gospodarstvu, da ne bi znalo razpolagati z deviznimi sredstvi in da ne bi znalo in zmoglo pokrivati tudi tiste, kakor smo včasih rekli, splošne in družbene potrebe. Zato sem absolutno za to in plediram za tem,da vendarle stvar sprejmemo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-295">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-295.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-295.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Hvala. Še enkrat gospod Lovrenčič. Večkrat ko razpravljaš, krajše so razprave, ne.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-296">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-296.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">FRANC LOVRENČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-296.2"
                who="#LovrencicFranc1946"
                ana="#taxonomy.3.6.6.2.2">Opravičujem se, da tolikokrat, ampak včasih je pač potrebno. Samo opozoril bi vas, da ne bi v celoti pritrdili mnenju oz. razlagi vlade. Mi smo o tej potrebi pričeli debatirati pred dvema, tremi meseci. Če bi bila vlada za to, da se ti računi uvedejo, potem ne bi danes, ali pa včeraj, pred dvema mesecema prišla s temi popravki, ki so potrebni, niso pa tako vsebinski, da bi jih morali zdaj na veliko debatirati. To je umetno zavlačevanje neke stvari zato, da se ne zgodi danes, ampak se bo zgodilo junija, septembra ali pa zdaj, bo pa vlada padla in pa zopet ni itn. Sigurno gre za zavlačevanje. Zato, če je treba kakšne redakcije narediti, to lahko dodatni sklep sprejmemo, sicer konsistenca je bila samo, problem je bil samo devizni - ta pravih deviznih računov za investicijska dela od zunaj - sicer pa zadeva normalno lahko steče po proceduri, če jo mi danes sprejmemo. Mislim, da je vlada skoraj bolj na tem, da želi zavlačevati, kot pa zadevo rešiti.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-297">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-297.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-297.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Gospod Berlec.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-298">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-298.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">JOŽE BERLEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-298.2"
                who="#BerlecJoze1949"
                ana="#taxonomy.3.6.6.2.2">Spoštovani! Če temeljito pregledate poročilo Odbora za splošno gospodarske zadeve vsebuje stališče, kljub vsemu dokaj jasno. Žal mi je, da danes tudi približno takšne strokovne utemeljitve kot je bila prisotna na tem odboru, ni prisotne v tej dvorani. Takrat smo imeli zelo kvalitetno zastopstvo s strani ministrstva, kvalitetno zastopstvo s strani Banke Slovenije in zastopnika Gospodarske zbornice Slovenije. Vsi so podali strokovna mnenja in vsa strokovna mnenja so si bila dokaj enotna, da ta trenutek ni primeren za to. Jaz se ne bom spuščal, ker nisem strokovnjak za te zadeve, v to tolmačenje, samo obžalujem, da ta razprava ni prisotna danes tukaj, ker bi lahko na marsikakšno vprašanje in na marsikakšen ne pravi argument zelo kvalitetno odgovorili. Mene so prepričali. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-299">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-299.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-299.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Hvala. Gospod Grašič. Replika, gospod Lovrenčič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-300">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-300.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">FRANC LOVRENČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-300.2"
                who="#LovrencicFranc1946"
                ana="#taxonomy.3.6.6.2.2">Jaz ne želim, da me kdo imenuje ali sem strokovnjak ali ne, ampak kolega se je sam razglasil, da ni strokovnjak za to področje, zato je seveda vprašljivo, kako so ga drugi strokovnjaki prepričevali. Dejstvo pa je, da se moramo zdaj</u>
@@ -2334,25 +1782,16 @@
                ana="#taxonomy.3.6.6.2.2">odločiti, ali vsi tisti, ki smo debatirali iz gospodarstva, ali kljub temu nekaj teh zadev poznamo ali ne, zato bi vedno to tehtanje, ali so strokovne ali nestrokovne razprave, je seveda vedno vprašljivo. Sigurno je pa šlo za argumente na vladni strani in smo jih vsi po vrsti na nek način želeli analizirati in ugotovili, da niso argumenti. Vsaj to se da zanalizirati, ali so pravilno postavljeni ali ne. Zato te vage, stroka ali nestroka, mislim, da v tem momentu ne veljajo.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-301">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-301.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-301.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Gospod Grašič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-302">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-302.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">FRANC GRAŠIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-302.2"
                who="#GrasicFranc1941"
                ana="#taxonomy.3.6.6.2.2">Spoštovani! Jaz bi samo še eno stvar dodal, vezano na poročilo, kako je o tej temi tekla razprava na Odboru za splošno gospodarske zadeve. Želim predvsem dva problema izpostaviti, ki sta bila tudi posebej obravnavana. Eno je ta problem oseminštiridesetih ur in seveda zožena možnost racionalne in gospodarne porabe deviz. S tem so se na tem odboru tudi s strani strokovnih inštitucij strinjali, da je ta čas prekratek in seveda, da je postavljanje deviznih računov ena od oblik rešitve, čeprav so se oni zavzemali za podaljšanje tega časa. In seveda druga stvar, ki je povezana s to temo, da stvar posega, kot bi rekel, v sam sistem in je bilo zaradi tega razloga s strani predlagatelja predlagano, da se gre v, ne ta hiter postopek, ampak v skrajšan postopek. Na koncu je bilo seveda tudi mnenje članov odbora pač različno, tako, kot je v poročilu napisano in kot ga je predsednik že prej povedal. Hotel sem pa samo povedati, da je bil izpostavljen ta problem oseminštiridesetih ur in s strani nekaterih članov odbora tudi težko razumljiva argumentacija, da ima gospodarstvo možnost za zadrževanje deviz v tujini. Toliko.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-303">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Hvala. Še želi kdo razpravljati? 12 razprav je bilo, nekaj ugovorov, tako da se mi zdi, da je kar temeljito osvetljen predlog zakona. Mi smo sprejeli prej, da pač delamo po tem skrajšanem postopku. Dobro, če ni več razprave, lahko zaključim z razpravo in glede na to, da tudi tu ni amandmajev, bomo pač glasovali o zakonu o spremembah in dopolnitvah zakona o deviznem poslovanju v celoti.</u>
@@ -2362,36 +1801,26 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Kdo je za?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.5"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(28 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.5" type="vote">28 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.7"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(l2 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.7" type="vote">l2 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Vzdržani?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.9"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(6 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.9" type="vote">6 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">Ugotavljam, da je zbor predlog zakona z večino glasov sprejel.</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.11"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">In imamo tu l4. točko dnevnega reda. Še preden pričnemo s l4. točko dnevnega reda bi vas prosil, da mi prisluhnete. Gospod Toplak, predsednik Družbenopolitičnega zbora nam je posredoval naslednje pismo: Obveščam vas, da je Družbenopolitični zbor na nadaljevanju 32. seje dne 22.1.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.12"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(to je danes)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.12" type="comment">to je danes</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">sprejel sklep: Nadaljevanje prekinjene 10., predlog zakona o zadrugah in ll. skupne delovne seje, predlog zakona o pokojninskem in invalidskem zavarovanju, bo v sredo, 22.1.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.14"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.2">(to je danes)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.14" type="comment">to je danes</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-303.15"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.2">ob 18. uri, po vrstnem redu, v skladu s sprejetim sklepom vseh treh zborov na ll. skupni delovni seji, dne 27.12.1991. Danes ob 18. tukaj v tej dvorani.</u>
@@ -2415,9 +1844,6 @@
                ana="#taxonomy.3.7.2.3">Slišali ste, kaj meni Odbor za splošno gospodarske zadeve, Odbor za proračun in javne finance, Odbor za kreditno monetarni sistem. Poznate tudi, kaj meni Zakonodajno-pravna komisija in kaj vlada. Predstavniku predlagatelja dajem najprej besedo. Franc Grašič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-304">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">FRANC GRAŠIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-304.2"
                who="#GrasicFranc1941"
                ana="#taxonomy.3.7.2.3">Hvala lepa za besedo. Spoštovani! Slišali smo, kako različni so pogledi delovnih teles in tudi vlade, seveda poslancev na problematiko, ki jo želimo ali pa predlagamo, da bi se uredila s ponujenim zakonom. Najprej bi seveda rad to rekel, kljub nestrinjanju precejšnjega števila teles in vlade, vseeno kot predlagatelj v tej skupini vztrajam pri predlaganju tega iz preprostega razloga, ker se čutim dolžnega, da poskušamo v tem parlamentu nekaj narediti v interesu gospodarstva, tistega dela, ki ga zastopam, še posebej v tistem delu, ko je ta izvozno naravnan in tega ni malo.</u>
@@ -2441,17 +1867,11 @@
                ana="#taxonomy.3.7.2.3">Temu zboru predlagam, da bi po razpravi o tem predlogu za izdajo zakona podprl to iniciativo in seveda zadolžil, da pripravimo osnutek, da bi tudi na ta način s kompletnim ukrepom dokazali, da smo za izvajanje take tekoče ekonomske politike, ki spodbuja izvoz. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-305">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-305.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-305.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Hvala lepa. Želi mogoče besedo predstavnik vlade? Ne. Dobro. Gremo mogoče še k delovnim telesom, ki imate prednost? Gospod Avberšek. Mi imamo zdaj tako prvo fazo tega zakona v obravnavi.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-306">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-306.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">MAG. FRANC AVBERŠEK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-306.2"
                who="#AvbersekFranc1947"
                ana="#taxonomy.3.7.2.3">Spoštovani kolegi! Odbor za kreditno-monetarni sistem, sem že zadnjič nekaj rekel o tem, ne podpira predloga za izdajo zakona o nadomestilu izpada prihodkov izvoznikov z osnutkom zakona ter predlaga zborom, da ga ne sprejmejo. Bom povedal nekaj točk iz razprave. Torej, na razpravi je bilo rečeno približno nekaj takih zadev. Višji tečaj, torej dvojni tečaj, ki je bil takrat nastavljen, je bil vzpodbuda izvoznikom, da pač za tistih 70% iztržijo več, ne da se drži nižji tečaj. Torej je na nek način bilo nastavljeno tako, da so se vzpodbudili izvozniki. Zadnjič sem rekel, da je zdaj približno tak način bilo nastavljeno tako, da so se vzpodbudili izvozniki. Zadnjič sem rekel, da je zdaj približno tak sistem kot po tistem, ali mi posodiš 100 tolarjev, pa rečem, nimam 100 imam pa 70, daj mi posodi pa 70, ne 30 si mi pa še dolžan, ne. Zdaj smo prišli na teh drugih 30. Mislim, da to ni v redu. To je tudi moje mišljenje. Moramo vedeti, da so izvozniki tudi uvažali, ali pa v precejšni meri repromaterial tudi uvažajo in so plačevali carino po nižji vrednosti tečaja in so tu v bistvu tudi profitirali in za vse, ki imajo enak izvoz uvozu ali pa uvoz celo večji je itak že tu pravzaprav nastal plus, tako da bi bilo treba razliko izračunati, kaj je prav in kaj ni prav.</u>
@@ -2460,9 +1880,6 @@
                ana="#taxonomy.3.7.2.3">To, da so izvozniki držali devize zunaj, tudi drži in so jih pripeljali takrat, ko je bila potreba in da doma niso plačevali obveznosti in da je marsikdo vlekel kratko tudi v gospodarstvu. Povedal bom nekaj primerov. Lahko bi naštel tudi v energetiki, da ni bila plačana elektrika pravi čas, da pa so imeli izvozniki devize zunaj, da pa je elektrika seveda sestavni del nekega izdelka, ki gre iz Slovenije ven, ker ni izdelka, ki ne bi imel porabe tudi neke električne energije. Tako, da je tisti pravi znesek ali pa pravičen znesek, ki izhaja iz tega, ne rečem, da so izvozniki lahko tudi nekaj izgubili, vsaj nekateri, ali pa eni več eni manj, zelo težko je izračunati in bi bilo treba pravzaprav najprej ugotoviti, da bi bilo to pravo. In končno gre tudi za vprašanje, kje vzeti to nadomestilo. Gospod Grašič je rekel, v proračunu. Mi smo pa o proračunu že govorili pa še za tisto, kar imamo predlagano, ni dovolj. Zato bi morali reči tudi, komu v proračunu vzeti. Tako, da je veliko nejasnega in na veliko vprašanj ni odgovorov. Mislim, da se je na tej osnovi tudi Odbor za monetarne zadeve odločil in predlaga, da se ta zakon ne sprejeme. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-307">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.1"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Hvala, Franci. Nadaljujemo z razpravo. Kdo želi razpravljati v zvezi s tem predlogom zakona? Dobro, če razprave ni, razpravo zaključujem. Imamo seveda pripravljena dva ustaljena sklepa, kot se seveda spodobi.</u>
@@ -2472,27 +1889,19 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Ugotovimo prisotnost.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.5"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(43 nas je.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.5" type="vote">43 nas je.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Kdo je za predlagani sklep?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.7"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(19 poslancev za.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.7" type="vote">19 poslancev za.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Kdo je proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.9"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(14 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.9" type="vote">14 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">In vzdržani?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.11"
-               who="#komentator"
-               ana="#taxonomy.3.7.2.3">(9 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.11" type="vote">9 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-307.12"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.7.2.3">Ugotavljam, da zbor predlagani sklep ni sprejel in ga je zavrnil z večino glasov.</u>
@@ -2504,41 +1913,27 @@
                ana="#taxonomy.3.9.1.1.6">Za to točko ste sprejeli naslednja gradiva: sklep Univerze v Mariboru o spremembi in dopolnitvi statuta Univerze Maribor, mnenje Vlade Slovenije in osnutek odloka o soglasju k spremembi in dopolnitvi statuta ter poročilo Zakonodajno-pravne komisije. Gradivo je obravnaval tudi Odbor za visoko šolstvo, ki je predložil gradivo oziroma poročilo. S predstavniki predlagateljev smo se prej pogovorili, da skoraj ni potrebno. Predstavniki vlade tudi ne. Pričenjamo razpravo. Kdo želi razpravljati o sklepu Univerze v Mariboru in o odloku o soglasju k spremembi in dopolnitvi statuta. Prosim, Dejan Murko.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-308">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-308.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">DEJAN MURKO:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-308.2"
                who="#MurkoDejan1967"
                ana="#taxonomy.3.9.1.1.6">Jaz bi rad kot poročevalec Odbora za visoko šolstvo povedal, da gre za eno zgolj formalno zadevo, ki se usklajuje z obstoječo zakonodajo. Gre zato, da se je v znanstveno-pedagoškem svetu univerze povečalo število članov, in sicer je to posledica povečanja števila prorektorjev in pa tudi posledica tega, ker je imenovanje študentskih predstavnikov v ta organ, torej znanstveno-pedagoški svet Univerze do sedaj imenovala študentska organizacija, odslej pa to dela svet vsake fakultete, visoke oziroma višje šole posebej. Samo za to spremembo gre na podlagi in kot posledica teh dveh sprememb. In tudi komisija, torej Odbor za visoko šolstvo kot matični odbor je seveda dal soglasje, prav tako pa tudi Izvršni svet, ki se tudi strinja. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-309">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.1"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Slišali ste. Mislim, da je to formalna zadeva. Ali želi še kdo razpravljati? Ne želi. Zaključujem. Če ne želi nihče razpravljati, bi predlagal, da glasujemo o odloku k soglasju k spremembi in dopolnitvi statuta Univerze v Mariboru. Gre za odlok. Ugotovimo najprej prisotnost.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.3"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(42 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.3" type="vote">42 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.4"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Kdo je za odlok o soglasju k spremembi in dopolnitvi statuta Univerze v Mariboru?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.5"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(40 poslancev.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.5" type="vote">40 poslancev.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Kdo je proti?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.7"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(Nihče.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.7" type="vote">Nihče.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.8"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.9.1.1.6">Kdo je vzdržan?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.9"
-               who="#komentator"
-               ana="#taxonomy.3.9.1.1.6">(En poslanec.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.9" type="vote">En poslanec.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.10"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.3">Ugotavljam, da smo z večino glasov odlok o soglasju k spremembi in dopolnitvi statuta Univerze v Mariboru sprejeli z večino glasov.</u>
@@ -2551,9 +1946,7 @@
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.13"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.3">Ali želi v zvezi s tem predstavnik vlade besedo?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.14"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">(Ne.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.14" type="debate">Ne.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-309.15"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.3">Poročevalci delovnih teles tudi ne? Pričenjamo razpravo. Kdo želi razpravljati?</u>
@@ -2565,9 +1958,6 @@
                ana="#taxonomy.3.6.6.2.3">Pričenjamo razpravo. Kdo želi razpravljati? Ima še kdo kakšen amandma? Najprej razprava. Ne želi. Gospod Kolman, svetovalec Vlade Republike Slovenije in Ministrstva za finance. Prosim.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-310">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-310.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">DRAGO KOLMAN:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-310.2"
                who="#KolmanDrago"
                ana="#taxonomy.3.6.6.2.3">Oglašam se izključno zaradi tega, ker imate tu poročilo Odbora za proračun in javne finance. Če ste na koncu druge strani prebrali, je sedaj malo dvoma, ali so predlagani amandmaji sploh amandmaji, kajti odbor je v bistvu bil nesklepčen in je predčasno končal sejo, tako da je bolj, vsaj za mene, to poročilo o razpravi, ki je tekla na odboru, težje je govoriti tu o amandmajih, medtem ko v primeru amandmajev Liberalne stranke seveda gre za prave amandmaje. Bi pa izkoristil to priliko, da bi mogoče komentiral tole razpravo, ki se je odvijala na odboru za proračun in javne finance, iz katere je razvidno, kaj ta odbor predlaga. Glavni problem je seveda tu nastal, razen nekaj bolj ali manj teoretičnih razprav, kako se zamudne obresti obračunavajo, pripisujejo, da ali ne in podobno. Vprašanje je ali seveda zdaj imamo v sistemu enotno obrestno mero zamudnih obresti, tako za obveznosti iz dolžniško-upniških razmerij, kakor tudi obveznosti fiskalnega značaja, se pravi, v bistvu proračunske obveznosti, davki in prispevki. Debata se je seveda potem prevesila v to, da bi kazalo tretirati različno te obveznosti, in kot vidite, je predlagano sedaj, da bi fiskalne obveznosti imele v tem pogledu večjo težo od siceršnjih obveznosti iz dolžniško-upniških razmerij.</u>
@@ -2579,57 +1969,36 @@
                ana="#taxonomy.3.6.6.2.3">Vprašanje okrog višine nasploh stopnje zamudnih obresti, vlada je predlagala in predlaga 40%, v obrazložitvi zakona smo navedli razloge, še vedno menimo, da je treba pri določitvi višine izhajati iz tistega, kar imamo, vemo pa, da so obrestne mere tako na sivem trgu, kot v bančnem sistemu, v realnem delu visoke, 20, praktično za prve bonitetne razrede in jasno za višje bonitetne pa celo do 30 in več in temu je seveda treba prilagoditi tudi stopnjo zamudne obrestne mere v njenem realnem delu. Da pa začnemo z revalorizacijo, pa ni bilo sporno v nobeni razpravi in tudi vsi amandmaji, ki so bili vloženi, izhajajo iz revalorizacije. Skratka, zaradi zamude nihče ne sme trpeti, utrpeti škode. To škodo kompenziramo z uvedbo revalorizacije, ta se določa na podlagi inflacije, merjeno s stopnjo rasti cen na drobno in iz tega jasno potem vsa matematika sledi. Kot sem obveščen, bo še razprava o tem zakonu tekla jutri na Odboru za kreditno-monetarni sistem, ki kot se mi zdi, je matični odbor za ta zakon. Hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-311">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-311.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-311.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.3">Hvala lepa. Tu je zdaj v zvezi s tem prvim vprašanjem zelo preprosto, k amandmajem Odbora za proračun in javne finance lahko vloži tudi vsak naš poslanec, tako da jih ne bomo obravnavali, če bodo vloženi v tem zboru, pač kot amandmaje posameznikov, ne pa kot odbora zaradi tega, ker če ni bil sklepčen, je pač težko kaj predlagati. Medtem, ko nesporni so pa tu amandmaji gospoda Arzenška, ki jih imamo. Tako, da bomo tu pa že slišali, kakšno je mnenje Izvršnega sveta v zvezi s temi. Odpiram razpravo. Kdo želi razpravljati v zvezi s predlogom zakona o obrestni meri zamudnih obresti? Kdo želi, ni nikogar? Prosim, Franc Grašič.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-312">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-312.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">FRANC GRAŠIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-312.2"
                who="#GrasicFranc1941"
                ana="#taxonomy.3.6.6.2.3">Spoštovani, jaz sicer nisem bil ves čas na seji Odbora za proračun in finance, ko je ta tema bila obravnavana, vendar zadosti časa in sem sam tudi sodeloval, vsak nekaj predlogov dajal v tem smislu in se s stališči, ki so bila oblikovana in so v poročilu napisana, strinjam, in zaradi tega jaz kot poslanec tega zbora te amandmaje vlagam.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-313">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-313.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-313.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.3">Hvala, dobro. Gospod Polde Drame.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-314">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-314.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">LEOPOLD DRAME:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-314.2"
                who="#DrameLeopold1935"
                ana="#taxonomy.3.6.6.2.3">Spoštovani! Ta zakon o zamudnih obrestih, kar sem že zadnjič povedal, je seveda zdaj na hitro prišel. Mislim, da je bolj redko dodelan in se seveda naslanja na oderuštvo pri tistih, ki pač ne morejo svojih obveznosti, ker zdaj razprave tako ni, ampak kljub temu bi dodal to, da ničemer to ne bo pripeljalo, če bomo sprejeli visoke zamudne obresti, ker še glavnice skoraj danes ne more nihče plačevati in vsled nelikvidnosti, nedelovanja tega finančnega trga seveda nastajajo obresti, kako jih bomo plačevali. Zakonodajalec verjetno to ni razmišljal, če je taka nelikvidnost, kot je trenutno. No, da zaključim, seveda glasoval bom za amandmaje, ki jih je predlagala skupina in tudi član našega zbora, gospod Arzenšek, in pa tudi ostali trije v drugih zborih, ker mislim, da s tem dopolnjujejo zakon, da bo čistejši in pa realnejši. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-315">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-315.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-315.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.3">Hvala. Še želi kdo? Prosim, gospod Dretnik. Saj jaz bi tako predlagal, dokler prihaja gospod Dretnik sem, da bi pač mi danes opravili obravnavo in sprejem amandmajev, potem bi pa te amandmaje posredovali Izvršnemu svetu in matičnemu delovnemu telesu. Imamo pač njihova mnenja in potem glasujemo o samem zakonu na naslednji seji oziroma v nadaljevanju. Prosim, gospod Dretnik.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-316">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-316.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">IVAN DRETNIK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-316.2"
                who="#DretnikIvan1921"
                ana="#taxonomy.3.6.6.2.3">Sprašujem, ali velja ta zakon tudi za tiste dolžnike v naši agroživilski predelovalni industriji, ki nam kmetom s takim zamikom izplačujejo našo surovino. Opozarjam vas, da je to v zvezi s tistim spornim 10. poglavjem zakona o zadrugah, ki ga še do danes nismo sprejeli in je spet danes na dnevnem redu.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-317">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.1"
-               who="#komentator"
-               ana="#taxonomy.3.6.6.2.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-317.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.3.6.6.2.3">Hvala. Gospod Dretnik me je opozoril na to skupno delovno sejo. Predlog je, da bi z njo pričeli ob 17.00 uri, kar je seveda bolj ustrezno. Želi kdo razpravljati v zvezi s tem? Ali ima mogoče še kdo kakšen amandma, kakšen predlog? Kako je zdaj s temi amandmaji odbora? Jih sprejmemo tudi in jih damo? Tako, gospod Grašič jih je vložil kot svoje in so na tak način vloženi. Dobro. Še kdo?</u>
@@ -2647,17 +2016,11 @@
                ana="#taxonomy.4.3.3">Nekaj teh pobud je že vloženih, nekateri ste tako dobri, da kar napišete in se ne izpostavljate, kar je včasih bolj žalostno, ampak resnično zelo uspešno. Želi kdo kakšno pobudo, predlog in vprašanje postaviti? Prosim, gospod Brglez.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-318">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-318.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">STANISLAV BRGLEZ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-318.2"
                who="#BrglezStanislav1936"
                ana="#taxonomy.4.3.3">Predsednik, hvala lepa za besedo. Sicer sem to vprašanje napisal, pa vendar sprašujem naslednje. Zakaj Ministrstvo za promet in zveze ne pooblasti sestavljenega PTT podjetja okrog urejanja mednarodnega poštnega prometa, okrog izdajanja znamk in urejanja mednarodnega prometa telekomunikacij? Ker za to ministrstvo strokovno očitno ni usposobljeno, stvari ne tečejo, probleme in posledice bo pa nosila mlada država Slovenija. Tistim, ki pa to znajo jim pa enostavno ne dovolimo, da bi to delali.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-319">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-319.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-319.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Hvala lepa. Tu je pobuda Liberalno-demokratske stranke. Na ozemlju Republike Hrvaške je bilo v zadnjem tednu zaplenjenih 15 do 20 tovornjakov različnega blaga slovenskih podjetij. Kljub obvestilu ustreznim organom, tako v Sloveniji kot na Hrvaškem, ni bilo doslej nikakršnega odziva ne z ene ne z druge strani. Kaj bo storila Vlada Republike Slovenije za vrnitev zaplenjenega blaga in kaj bo storila, da se v prihodnje preprečijo podobni problemi?</u>
@@ -2669,9 +2032,6 @@
                ana="#taxonomy.4.3.3">Prosim, gospod Muren.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-320">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-320.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">ANDREJ MUREN:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-320.2"
                who="#MurenAndrej1953"
                ana="#taxonomy.4.3.3">Hvala za besedo. Prebral bi dve pobudi, ki ju je oblikoval Poslanski klub Socialdemokratske stranke. Prvič, poslanci Socialdemokratske stranke pozivajo Vlado Republike Slovenije, da naj z vsemi močmi, v skladu s svojimi pristojnostmi, preprečuje hitro rast cen, zlasti energije. Sem sodijo: elektrika, plin, zemeljski plin, življenjskih potrebščin, to je predvsem hrane, javnega prevoza in komunalnih storitev ter stanarin.</u>
@@ -2680,55 +2040,39 @@
                ana="#taxonomy.4.3.3">Drugič, poslanski klub Socialdemokratske stranke ravno tako poziva Svet banke Slovenije, da z vsemi možnimi in monetarnimi ukrepi zagotavlja stabilnost tečaja tolarja. Obrazložitev: visoka inflacija, zlasti hitro naraščanje cen osnovnih življenjskih potrebščin, ki je ne spremlja enako hitro naraščanje plač, spravlja v stanje socialne ogroženosti čedalje večji sloj ljudi. To povečanje inflacije resno otežuje možnost kakršnega koli dobrega gospodarjenja. Hitro padanje tečaja tolarja, ki je sicer v veliki meri posledica inflacije in prevelike javne porabe, pa po drugi strani povzroča dodatno povečanje inflacije. Iz teh razlogov izhaja pobuda naših poslancev za preprečevanje inflacije in zagotovitev stabilnosti tečaja tolarja.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-321">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-321.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-321.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Hvala lepa. Gospod Rode.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-322">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">DR. PRIMOŽ RODE:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.2"
                who="#RodePrimoz1942"
                ana="#taxonomy.4.3.3">Danes sem prebral v časopisu na prvi strani spodaj desno, da računajo Avstrijci 1200 šilingov za osebni avto. Ali ne?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.3"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Glasovi iz klopi.)</u>
+            <incident xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.3"
+                      who="#komentator"
+                      ana="#taxonomy.4.3.3">
+               <desc>Glasovi iz klopi.</desc>
+            </incident>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-322.4"
                who="#RodePrimoz1942"
                ana="#taxonomy.4.3.3">A, hvala lepa.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-323">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-323.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-323.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Super odgovori. Tako je treba ukrepati. To je pa zato, ker poslušate radio. Vidite, reklama za radio. Gospod Avberšek.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-324">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-324.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">MAG. FRANC AVBERŠEK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-324.2"
                who="#AvbersekFranc1947"
                ana="#taxonomy.4.3.3">Dovolite, protestiram proti tistemu, kar je malo prej na pamet govoril gospod Muren o veliki rasti cen energije. Ker pač predstavljam tudi to panogo, moram reči, da to ni res in da to ne drži. Malo je treba pogledati, koliko so cene v lanskem letu rasle in primerjati z ostalim, pa boste videli, kako so rasle cene tistemu, kar kupujemo, košarico, koliko majhno vzamemo, pa ostalo pogledamo. Če je vlada "bremzala" cene kar precej časa, pa potem naredila en dvig, zdaj nazadnje 18% za električno energijo, to še ne pomeni, da te cene rastejo preko meje. Povem vam, da so cene vseh vhodnih materialov za rudnik, kjer delam, rasle hitreje kot je rasla cena premoga in cena električne energije. In če pogledam plače rudarjev, potem je bilo še v letu 1990 razmerje do povprečnih republiških plač 1,58, za rudarje za delo pod zemljo je v letošnjem letu 1,43. To se pravi, da so tudi plače v ostalem delu rasle hitreje kot v energetiki. In prosim, da takih na pamet zadev ne uporabljate. Prepričajte se, pa boste videli, kaj je v Sloveniji v prejšnjem letu raslo in kaj ni raslo. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-325">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-325.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-325.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Hvala lepa. Rudi Moge.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-326">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-326.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">RUDI MOGE:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-326.2"
                who="#MogeRudi1944"
                ana="#taxonomy.4.3.3">Na kratko bi postavil nekaj vprašanj. Sprejeli smo zakon o denacionalizaciji in zdaj vemo, da je zahtevnost postopka za izvajanje zakona takšna, da te stvari ne bodo mogle teči prek upravnega organa občine, ampak bo moral upravni organ občine ustanoviti neke komisije, ki bodo sestavljene iz pravnikov in prava veščih ljudi. Zdaj se pa nekako poraja, ker bodo seveda te komisije dosti stale, kdo bo kril financiranje teh komisij, ki jih po vseh slovenskih občinah ne bo malo, in ki bodo imele zelo dosti dela.</u>
@@ -2743,33 +2087,21 @@
                ana="#taxonomy.4.3.3">Zastavljam še naslednje vprašanje ministru, zakaj tako dolgo čakamo z zakonom o odvetništvu, ko smo tukaj v poslanskih klopeh vsak dan soočeni s tem, da pravniki množično zapuščajo sodišča, se zaposlujejo v odvetništvu, tole, človek bi rekel, kvalitetno odvetništvo pa z zakonom zdaj ni dorečeno.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-327">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-327.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-327.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">O odvetništvu smo dobili ravno ta teden cel paket, ja, tri zakone. Tako, da to je že. No to se tudi odgovarja zelo hitro. Gospod Prelovec, še želite? Drugače bi imeli majčkeno odmora. Potem še gospod Dretnik. Še kdo? Zdaj si že ne upate več, ne.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-328">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-328.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">VALENTIN PRELOVEC:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-328.2"
                who="#PrelovecValentin1934"
                ana="#taxonomy.4.3.3">Saj bom zelo zelo hiter. Namreč, ni nobenega dvoma, v kakšnem stanju je naše gospodarstvo in o tem tudi ne bi govoril. Je pa naša nova država ravno v fazi odpiranja raznih predstavništev zunaj, veleposlaništev itd. Mojo pobudo naslavljam direktno na Komisijo za mednarodne odnose, da bi tistim ljudem, ki nas bodo zunaj predstavljali, oziroma, da bi bili ti ljudje nekako iz gospodarstva in bi nam ti ljudje bili za tiste prve mostove, ki jih tako nujno rabimo in da ne bi ven pošiljali samo suhe politikante ali pa še celo penzionirali določene politike. Naj bi se šlo v to smer, da bi ven pošiljali ljudi, ki vedo, kaj gospodarstvo rabi. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-329">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-329.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-329.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Hvala. Gospod Dretnik.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-330">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-330.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">IVAN DRETNIK:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-330.2"
                who="#DretnikIvan1921"
                ana="#taxonomy.4.3.3">Kar precej časa je že, odkar sem vložil delegatsko pobudo, da naj bi se vsem poslancem omogočilo prejemanje Uradnega lista. Kaj se namreč dogaja? Od osnutka zakona, mimo vseh amandmajev pa do čistopisa pride do takih bistvenih razlik, da jih na pamet ne veš in nas volivci sprašujejo, tega voznega reda ne moreš sam premetavati, da bi dobil pravilen odgovor. Uradnega odgovora nisem dobil pač mi je gospod generalni sam rekel, da bi bilo to povezano z velikimi stroški. Danes ponovno vlagam ta amandma s spremenjeno vsebino.</u>
@@ -2778,27 +2110,20 @@
                ana="#taxonomy.4.3.3">Namreč, tisti poslanci, ki so v podjetjih, vam je na razpolago Uradni list, niso zainteresirani. Ostali pa naj po sprejetju vsakega zakona se prijavi tu, ki hoče imeti fotokopijo, s tem bi se v bistvu zmanjšali ti stroški. Hvala.</u>
          </div>
          <div xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.div-331">
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.1"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">PREDSEDNIK JOŽE ZUPANČIČ:</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.2"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Hvala gospod Dretnik, jaz mislim, da je to uresničljivo, to ni problem.</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.3"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Še želi kdo kakšno pobudo?</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.4"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(Ne.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.4" type="debate">Ne.</note>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.5"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Spoštovane poslanke in poslanci, jaz bi zaključil 38. sejo Zbora združenega dela s tem, da imamo predlog zakona o obrestni meri zamudnih obresti še odprt in ga bomo pač obravnavali na naslednji seji.</u>
             <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.6"
                who="#ZupancicJoze1936"
                ana="#taxonomy.4.3.3">Iskreno vas prosim, ob 17.00, da ste tu na skupni delovni seji vseh treh zborov. Hvala. Jutri ni seje. Kaj ste še vedno upali, da bo. Predlagano je, da je najprej zakon o zadrugah na vrsti, tako kot je 10. in 11. skupna delovna seja.</u>
-            <u xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.7"
-               who="#komentator"
-               ana="#taxonomy.4.3.3">(SEJA JE BILA PREKINJENA OB 16.30 URI IN SE JE NADALJEVALA 12.2.1992 OB 11.32 URI.)</u>
+            <note xml:id="Sk-11.1992-01-22.ZbZdruDel.s038-02.u-331.7" type="time">SEJA JE BILA PREKINJENA OB 16.30 URI IN SE JE NADALJEVALA 12.2.1992 OB 11.32 URI.</note>
             <anchor xml:id="DZ-1992-ZbZdruDel-38.stage.t.10"/>
          </div>
       </body>

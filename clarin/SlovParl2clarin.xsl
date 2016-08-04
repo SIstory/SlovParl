@@ -85,6 +85,30 @@
         </funder>
     </xsl:param>
     
+    <!-- seznam virov za narejeno taxonomy in toc -->
+    <xsl:param name="listBibl">
+        <listBibl>
+            <bibl>
+                <title>Pravni red Republike Slovenije</title>
+                <title>Tematsko kazalo</title>
+                <ref target="http://www.pisrs.si/Pis.web/pravniRedRSDrzavniNivoKazalaTematskoKazalo">Pravni red Republike Slovenije</ref>
+            </bibl>
+            <biblStruct>
+                <analytic>
+                    <title>Poslovnik državnega zbora (PoDZ-1)</title>
+                </analytic>
+                <monogr>
+                    <title>Uradni list Republike Slovenije</title>
+                    <imprint>
+                        <biblScope unit="issue">7</biblScope>
+                        <date>2007</date>
+                    </imprint>
+                </monogr>
+                <ref target="http://www.pisrs.si/Pis.web/pregledPredpisa?id=POSL34">http://www.pisrs.si/Pis.web/pregledPredpisa?id=POSL34</ref>
+            </biblStruct>
+        </listBibl>
+    </xsl:param>
+    
     <xsl:variable name="document-uri" select="document-uri(.)"/>
     <xsl:variable name="filename" select="(tokenize($document-uri,'/'))[last()]"/>
     
@@ -178,6 +202,7 @@
                         <xsl:copy-of select="$projectDesc"/>
                         <classDecl>
                             <taxonomy xml:id="contents">
+                                <xsl:copy-of select="$listBibl"/>
                                 <!-- iz variable taxonomy odstranim @ana in taksonomijo izpišem -->
                                 <xsl:variable name="taxonomy-3">
                                     <xsl:apply-templates select="$taxonomy" mode="taxonomy-remove_ana"/>

@@ -4,26 +4,45 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sejni zapiski Zbora združenega dela Skupščine Republike Slovenije</title>
-                <title>Mandat 11: 5.5.1990 - 23.12.1992</title>
+                <title xml:lang="sl">Zapisniki sej Zbora združenega dela Skupščine Republike Slovenije</title>
+                <title xml:lang="en">Minutes of the Chamber of Associated Labour of the Assembly of the Republic of Slovenia</title>
+                <title xml:lang="sl">Mandat 11: 5.5.1990 - 23.12.1992</title>
+                <title xml:lang="en">Mandate 11: 5.5.1990 - 23.12.1992</title>
                 <respStmt>
                     <persName>Andrej Pančur</persName>
-                    <resp>Kodiranje TEI in računalniški zapis</resp>
+                    <resp xml:lang="sl">Kodiranje TEI</resp>
+                    <resp xml:lang="en">TEI corpus encoding</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Mojca Šorn</persName>
-                    <resp>Kodiranje TEI in računalniški zapis</resp>
+                    <resp xml:lang="sl">Kodiranje TEI</resp>
+                    <resp xml:lang="en">TEI corpus encoding</resp>
                 </respStmt>
-                <funder>Javna agencija za raziskovalno dejavnost Republike Slovenije</funder>
+                <funder>
+                    <orgName xml:lang="sl">Javna agencija za raziskovalno dejavnost Republike Slovenije</orgName>
+                    <orgName xml:lang="en">Slovenian Research Agency</orgName>
+                </funder>
             </titleStmt>
             <editionStmt>
                 <edition>1.0</edition>
             </editionStmt>
             <publicationStmt>
-                <publisher>Inštitut za novejšo zgodovino, Raziskovalna infrastruktura slovenskega
-                    zgodovinopisja</publisher>
+                <publisher>
+                    <orgName xml:lang="sl">Inštitut za novejšo zgodovino</orgName>
+                    <orgName xml:lang="en">Institute of Contemporary History</orgName>
+                    <ref target="http://www.inz.si/">http://www.inz.si/</ref>
+                    <address>
+                        <street>Kongresni trg 1</street>
+                        <settlement>Ljubljana</settlement>
+                        <postCode>1000</postCode>
+                        <country xml:lang="sl">Slovenija</country>
+                        <country xml:lang="en">Slovenia</country>
+                    </address>
+                    <email>inz@inz.si</email>
+                </publisher>
                 <distributor>DARIAH-SI</distributor>
-                <pubPlace>https://github.com/SIstory/SlovParl/tree/master/teiCorpus</pubPlace>
+                <distributor>CLARIN.SI</distributor>
+                <pubPlace>https://github.com/SIstory/SlovParl</pubPlace>
                 <availability status="free">
                     <licence>http://creativecommons.org/licenses/by/4.0/</licence>
                     <p xml:lang="en">This work is licensed under the <ref
@@ -82,8 +101,8 @@
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>XML narejen v okviru izvajanja infrastrukturnega programa Raziskovalna
-                    infrastruktura slovenskega zgodovinopisja na Inštitutu za novejšo zgodovino</p>
+                <p xml:lang="sl">Infrastrukturni program Raziskovalna infrastruktura slovenskega zgodovinopisja</p>
+                <p xml:lang="en">Infrastructure Programme Research infrastructure of Slovenian Historiography</p>
             </projectDesc>
             <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
             <xi:include href="../taxonomy.xml"/>

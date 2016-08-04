@@ -481,7 +481,14 @@
             <personGrp xml:id="grp.head" role="head"/>
             <personGrp xml:id="grp.deputy" role="deputy"/>
             <personGrp xml:id="grp.member" role="member"/>
-            
+           
+           <personGrp xml:id="unknown">
+              <state>
+                 <desc xml:lang="sl">Neidentificirani govornik</desc>
+                 <desc xml:lang="en">Unidentified speaker</desc>
+              </state>
+           </personGrp>
+           
             <person xml:id="MalesicMatija1933">
                <persName>
                   <surname>Malešič</surname>
@@ -1484,8 +1491,14 @@
                <bibl>https://sl.wikipedia.org/wiki/Borut_Pahor</bibl>
             </person>
             <person xml:id="PersakAnton1947">
-               <persName>Peršak Anton (Tone)</persName>
-               <birth>2. januar 1947, Ločki vrh</birth>
+               <persName>
+                  <surname>Peršak</surname>
+                  <forename full="yes">Anton</forename>
+                  <forename full="abb">Tone</forename>
+               </persName>
+               <birth when="1947-01-02">
+                  <placeName>Ločki vrh</placeName>
+               </birth>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SDZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.DS" ana="#parl.Skup-11"/>
@@ -1745,8 +1758,14 @@
                <bibl>https://sl.wikipedia.org/wiki/Leo_%C5%A0e%C5%A1erko</bibl>
             </person>
             <person xml:id="SinkovecMatjaz1951">
-               <persName>Šinkovec mag. Matjaž</persName>
-               <birth>22. maj 1951, Ljubljana</birth>
+               <persName>
+                  <surname>Šinkovec</surname>
+                  <roleName>mag.</roleName> 
+                  <forename>Matjaž</forename>
+               </persName>
+               <birth when="1951-05-22">
+                  <placeName>Ljubljana</placeName>
+               </birth>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member" from="1990-05-08" to="1992-07-22" next="#ZorzAndrej1963"/>
                <affiliation ref="#pp.SDSS" ana="#parl.Skup-11"/>
                <bibl>do 22.7.1992</bibl>
@@ -1793,8 +1812,13 @@
                <bibl>https://sl.wikipedia.org/wiki/Zoran_Thaler</bibl>
             </person>
             <person xml:id="TomazicAnton1950">
-               <persName>Tomažič Anton</persName>
-               <birth>13. junija 1950 Ljubljana</birth>
+               <persName>
+                  <surname>Tomažič</surname>
+                  <forename>Anton</forename>
+               </persName>
+               <birth when="1950-06-13">
+                  <placeName>Ljubljana</placeName>
+               </birth>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SDZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SDZ-NDS" ana="#parl.Skup-11"/>
@@ -2287,8 +2311,13 @@
                <affiliation ref="#pp.SDZ-NDS" ana="#parl.Skup-11"/>
             </person>
             <person xml:id="KramaricTone1947">
-               <persName>Kramarič Tone</persName>
-               <birth>9. 8. 1947 v Cerkljah na Gorenjskem</birth>
+               <persName>
+                  <surname>Kramarič</surname>
+                  <forename>Tone</forename>
+               </persName>
+               <birth when="1947-08-09">
+                  <placeName>Cerklje na Gorenjskem</placeName>
+               </birth>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SDZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.DS" ana="#parl.Skup-11"/>
@@ -2641,8 +2670,13 @@
                <affiliation ref="#pp.SDZ-NDS" ana="#parl.Skup-11"/>
             </person>
             <person xml:id="StarmanDanijel1940">
-               <persName>Starman Danijel</persName>
-               <birth>29. 7. 1940 v Gabrijelah</birth>
+               <persName>
+                  <surname>Starman</surname> 
+                  <forename>Danijel</forename>
+               </persName>
+               <birth when="1940-07-29">
+                  <placeName>Gabrijele</placeName>
+               </birth>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#cl.DEMOS" ana="#parl.Skup-11"/>
                <bibl>http://slovenska-pomlad.si/2?id=3352</bibl>
@@ -4452,9 +4486,6 @@
          </listPerson>
          <listPerson type="additional">
             <head>Predstavniki vladnih organov in ostali gostujoči govorci</head>
-            <person xml:id="unknown">
-               <persName>Neidentificirani govornik</persName>
-            </person>
             <person xml:id="AhcanSonja">
                <persName>
                   <surname>Ahčan</surname>
@@ -4464,13 +4495,19 @@
                <affiliation ref="#gov.MVOUPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="AlicJani">
-               <persName>Alič Jani</persName>
+               <persName>
+                  <surname>Alič</surname>
+                  <forename>Jani</forename>
+               </persName>
                <sex value="M"/>
                <affiliation ana="#parl.Skup-11">tajnik <orgName>upravnega odbora <orgName>Društva novinarjev Republike
                   Slovenije</orgName></orgName></affiliation>
             </person>
             <person xml:id="ArharFrance1948">
-               <persName>Arhar Franc</persName>
+               <persName>
+                  <surname>Arhar</surname>
+                  <forename>Franc</forename>
+               </persName>
                <sex value="M"/>
                <birth when="1948-04-24">
                   <placeName>Ljubljana</placeName>
@@ -4479,37 +4516,37 @@
                <bibl>https://sl.wikipedia.org/wiki/France_Arhar</bibl>
             </person>
             <person xml:id="AtelsekMargareta">
-               <persName>Atelšek Margareta</persName>
+               <persName><surname>Atelšek</surname> <forename>Margareta</forename></persName>
                <sex value="F"/>
                <affiliation ana="#parl.Skup-11">predsednica <orgName>Urada Vlade Republike Slovenije za priseljevanje in begunce</orgName></affiliation>
             </person>
             <person xml:id="BabicAndrej">
-               <persName>Babič Andrej</persName>
+               <persName><surname>Babič</surname> <forename>Andrej</forename></persName>
                <sex value="M"/>
                <affiliation ana="#parl.Skup-11">Predsednik <orgName>Turistične zveze Slovenije</orgName></affiliation>
             </person>
             <person xml:id="BavdekSrdjan">
-               <persName>Bavdek dr. Srdjan</persName>
+               <persName><surname>Bavdek</surname> <roleName>dr.</roleName> <forename>Srdjan</forename></persName>
                <sex value="M"/>
                <affiliation ana="#parl.Skup-11">prorektor <orgName>Univerze v Ljubljani</orgName> za področje znanosti in podiplomskega študija</affiliation>
             </person>
             <person xml:id="BaskovicCiril">
-               <persName>Baškovič Ciril</persName>
+               <persName><surname>Baškovič</surname> <forename>Ciril</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZTRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BeceleMira">
-               <persName>Becele Mira</persName>
+               <persName><surname>Becele</surname> <forename>Mira</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MVOUPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BekesMirjana">
-               <persName>Bekeš Mirjana</persName>
+               <persName><surname>Bekeš</surname> <forename>Mirjana</forename></persName>
                <sex value="F"/>
                <affiliation>predstavnica <orgName>Gospodarske zbornice Slovenije</orgName></affiliation>
             </person>
             <person xml:id="BelopavlovicNatasa1949">
-               <persName>Belopavlovič Nataša</persName>
+               <persName><surname>Belopavlovič</surname> <forename>Nataša</forename></persName>
                <sex value="F"/>
                <birth when="1949-06-18">
                   <placeName>Maribor</placeName>
@@ -4519,39 +4556,39 @@
                <bibl>https://sl.wikipedia.org/wiki/Nata%C5%A1a_Belopavlovi%C4%8D</bibl>
             </person>
             <person xml:id="BerceleMira">
-               <persName>Bercele Mira</persName>
+               <persName><surname>Bercele</surname> <forename>Mira</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MVOUPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BezovsekMarija">
-               <persName>Bezovšek Marija</persName>
+               <persName><surname>Bezovšek</surname> <forename>Marija</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MTGRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BitencIvan">
-               <persName>Bitenc Ivan</persName>
+               <persName><surname>Bitenc</surname> <forename>Ivan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MŠŠRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BizjakZoran">
-               <persName>Bizjak Zoran</persName>
+               <persName><surname>Bizjak</surname> <forename>Zoran</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MŠŠRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BogatajMiran1948">
-               <persName>Bogataj Miran</persName>
+               <persName><surname>Bogataj</surname> <forename>Miran</forename></persName>
                <sex value="M"/>
                <birth when="1948-05-16"/>
                <affiliation ref="#gov.MORS" ana="#gov.VladaRS-1 #grp.member"/>
                <bibl>http://www.sos112.si/slo/clanek.php?catid=27&amp;id=5986</bibl>
             </person>
             <person xml:id="BojanecStefan">
-               <persName>Bojanec Štefan</persName>
+               <persName><surname>Bojanec</surname> <forename>Štefan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BorakNeven1954">
-               <persName>Borak Neven</persName>
+               <persName><surname>Borak</surname> <forename>Neven</forename></persName>
                <sex value="M"/>
                <birth when="1954">
                   <placeName>Ljubljana</placeName>
@@ -4560,12 +4597,12 @@
                <bibl>https://www.si21.com/Gospodarstvo/Zveza_ekonomistov_Slovenije-Izsla_je_nova_knjiga_z_naslovom_187FISKALNA_PRAVILA171/</bibl>
             </person>
             <person xml:id="BrackoBranko">
-               <persName>Bračko Branko</persName>
+               <persName><surname>Bračko</surname> <forename>Branko</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MNZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BrejcMiha1947">
-               <persName>Brejc dr. Miha</persName>
+               <persName><surname>Brejc</surname> <roleName>dr.</roleName> <forename>Miha</forename></persName>
                <sex value="M"/>
                <birth when="1947-11-15">
                   <placeName>Beograd</placeName>
@@ -4574,43 +4611,43 @@
                <bibl>https://sl.wikipedia.org/wiki/Mihael_Brejc</bibl>
             </person>
             <person xml:id="BreznikJanez">
-               <persName>Breznik Janez</persName>
+               <persName><surname>Breznik</surname> <forename>Janez</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPURS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BreckoMilan">
-               <persName>Brečko Milan</persName>
+               <persName><surname>Brečko</surname> <forename>Milan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BriceljMitja">
-               <persName>Bricelj Mitja</persName>
+               <persName><surname>Bricelj</surname> <forename>Mitja</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MVOUPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BriskiAndrej">
-               <persName>Briški Andrej</persName>
+               <persName><surname>Briški</surname> <forename>Andrej</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPLRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BrvarAndrej">
-               <persName>Brvar Andrej</persName>
+               <persName><surname>Brvar</surname> <forename>Andrej</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MNZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="BrvarBogomil">
-               <persName>Brvar Bogomil</persName>
+               <persName><surname>Brvar</surname> <forename>Bogomil</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MNZRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MNZRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="DebelakSlavko">
-               <persName>Debelak mag. Slavko</persName>
+               <persName><surname>Debelak</surname> <roleName>mag.</roleName> <forename>Slavko</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MNZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="DebeljakStanko">
-               <persName>Debeljak mag. Stanko</persName>
+               <persName><surname>Debeljak</surname> <roleName>mag.</roleName> <forename>Stanko</forename></persName>
                <sex value="M"/>
                <affiliation>član delegacije Skupščine Republike Slovenije
                   v Zboru republik in pokrajin Skupščine SFRJ (sp.DebeljakStanko DZ-1990-ZbZdruDel-11.xml)</affiliation>
@@ -4618,234 +4655,234 @@
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="DebevecAlbin">
-               <persName>Debevec Albin</persName>
+               <persName><surname>Debevec</surname> <forename>Albin</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="DebevecMetaStoka">
-               <persName>Debevec Meta Štoka</persName>
+               <persName><surname>Debevec</surname> <forename>Meta</forename> <surname>Štoka</surname></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MDRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="DejanVladimir">
-               <persName>Dejan Vladimir</persName>
+               <persName><surname>Dejan</surname> <forename>Vladimir</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MBVIRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MBVIRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="DobravcTatalovicIrena">
-               <persName>Dobravc-Tatalović Irena</persName>
+               <persName><surname>Dobravc</surname> <surname>Tatalović</surname> <forename>Irena</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MMGRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="DolencBojan">
-               <persName>Dolenc Bojan</persName>
+               <persName><surname>Dolenc</surname> <forename>Bojan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MŠŠRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="DrakslerZvonko">
-               <persName>Draksler Zvonko</persName>
+               <persName><surname>Draksler</surname> <forename>Zvonko</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="DrazicSonja">
-               <persName>Dražič Sonja</persName>
+               <persName><surname>Dražič</surname> <forename>Sonja</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZDSVRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="DrofenikJozef">
-               <persName>Drofenik Jožef</persName>
+               <persName><surname>Drofenik</surname> <forename>Jožef</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZZRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="DrofenikMarija">
-               <persName>Drofenik mag. Marija</persName>
+               <persName><surname>Drofenik</surname> <roleName>mag.</roleName> <forename>Marija</forename></persName>
                <sex value="F"/>
                <affiliation>sekretarka <orgName>Skupščine Republike Slovenije</orgName></affiliation>
             </person>
             <person xml:id="EngelmanAndrej">
-               <persName>Engelman Andrej</persName>
+               <persName><surname>Engelman</surname> <forename>Andrej</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="ErjavecJanez">
-               <persName>Erjavec Janez</persName>
+               <persName><surname>Erjavec</surname> <forename>Janez</forename></persName>
                <sex value="M"/>
                <affiliation>
                   <orgName>Zveza društev upokojencev Slovenije</orgName>
                </affiliation>
             </person>
             <person xml:id="FabcicMirko">
-               <persName>Fabčič Mirko</persName>
+               <persName><surname>Fabčič</surname> <forename>Mirko</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MIRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MIRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="FalknerJoze">
-               <persName>Falkner Jože</persName>
+               <persName><surname>Falkner</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="FaturDusan">
-               <persName>Fatur mag. Dušan</persName>
+               <persName><surname>Fatur</surname> <roleName>mag.</roleName> <forename>Dušan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPZRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="FerlezMarija">
-               <persName>Ferlež Marija</persName>
+               <persName><surname>Ferlež</surname> <forename>Marija</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="FrelihLeopold">
-               <persName>Frelih Leopold</persName>
+               <persName><surname>Frelih</surname> <forename>Leopold</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik <orgName>Zadružne zveze Slovenije</orgName></affiliation>
             </person>
             <person xml:id="GerbecFranci">
-               <persName>Gerbec Franci</persName>
+               <persName><surname>Gerbec</surname> <forename>Franci</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik delegacije Skupščine Republike Slovenije v Zboru republik in pokrajin Skupščine SFRJ</affiliation>
             </person>
             <person xml:id="GraselliAndrej">
-               <persName>Graselli Andrej</persName>
+               <persName><surname>Graselli</surname> <forename>Andrej</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="HocevarBozo">
-               <persName>Hočevar Božo</persName>
+               <persName><surname>Hočevar</surname> <forename>Božo</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik vlade</affiliation>
             </person>
             <person xml:id="HocevarDusan">
-               <persName>Hočevar Dušan</persName>
+               <persName><surname>Hočevar</surname> <forename>Dušan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="HrenTone">
-               <persName>Hren Tone</persName>
+               <persName><surname>Hren</surname> <forename>Tone</forename></persName>
                <sex value="M"/>
                <affiliation>tajnik <orgName>Sklada skupnih rezerv gospodarstva Slovenije</orgName></affiliation>
             </person>
             <person xml:id="HvaleStanko">
-               <persName>Hvale Stanko</persName>
+               <persName><surname>Hvale</surname> <forename>Stanko</forename></persName>
                <sex value="M"/>
                <affiliation>predsednik <orgName>Zveze društev upokojencev Slovenije</orgName></affiliation>
             </person>
             <person xml:id="ImperlFranc">
-               <persName>Imperl Franc</persName>
+               <persName><surname>Imperl</surname> <forename>Franc</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZDSVRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MZDSVRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="JakseMartin">
-               <persName>Jakše Martin</persName>
+               <persName><surname>Jakše</surname> <forename>Martin</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="JurjecDarja">
-               <persName>Jurjec Darja</persName>
+               <persName><surname>Jurjec</surname> <forename>Darja</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MKRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="JusMiran">
-               <persName>Jus Miran</persName>
+               <persName><surname>Jus</surname> <forename>Miran</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KalisnikMiroslav">
-               <persName>Kališnik dr. Miroslav</persName>
+               <persName><surname>Kališnik</surname> <roleName>dr.</roleName> <forename>Miroslav</forename></persName>
                <sex value=" M"/>
                <affiliation>prorektor <orgName>Univerze v Ljubljani</orgName></affiliation>
             </person>
             <person xml:id="KavcicEdo">
-               <persName>Kavčič Edo</persName>
+               <persName><surname>Kavčič</surname> <forename>Edo</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Železarna Jesenice - <orgName>Sindikat</orgName></orgName></affiliation>
             </person>
             <person xml:id="KeberDusan">
-               <persName>Keber dr. Dušan</persName>
+               <persName><surname>Keber</surname> <roleName>dr.</roleName> <forename>Dušan</forename></persName>
                <sex value="M"/>
                <affiliation>predsednik <orgName>zdravstvenega sveta</orgName></affiliation>
             </person>
             <person xml:id="KidricDusan">
-               <persName>Kidrič Dušan</persName>
+               <persName><surname>Kidrič</surname> <forename>Dušan</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Zavod RS za družbeno planiranje</orgName></affiliation>
             </person>
             <person xml:id="KladosekRoman">
-               <persName>Kladošek Roman</persName>
+               <persName><surname>Kladošek</surname> <forename>Roman</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MTRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KlemencicAndrej">
-               <persName>Klemenčič Andrej</persName>
+               <persName><surname>Klemenčič</surname> <forename>Andrej</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana=" #gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KnezJoze">
-               <persName>Knez Jože</persName>
+               <persName><surname>Knez</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <affiliation>direktor <orgName>RTV (Radio televizija Slovenija)</orgName></affiliation>
             </person>
             <person xml:id="KnezMarjan">
-               <persName>Knez Marjan</persName>
+               <persName><surname>Knez</surname> <forename>Marjan</forename></persName>
                <sex value="M"/>
                <affiliation>predsednik <orgName>sindikata zdravstva in socialnega skrbstva Slovenije</orgName></affiliation>
             </person>
             <person xml:id="KolmanDrago">
-               <persName>Kolman Drago</persName>
+               <persName><surname>Kolman</surname> <forename>Drago</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="KovacicAdriana">
-               <persName>Kovačič mag. Adriana</persName>
+               <persName><surname>Kovačič</surname> <roleName>mag.</roleName> <forename>Adriana</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MVOUPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KocevarPeter">
-               <persName>Kočevar Peter</persName>
+               <persName><surname>Kočevar</surname> <forename>Peter</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPLRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KosirTomaz">
-               <persName>Košir Tomaž</persName>
+               <persName><surname>Košir</surname> <forename>Tomaž</forename></persName>
                <sex value="M"/>
                <affiliation>Predsednik <orgName>Gospodarske zbornice</orgName></affiliation>
             </person>
             <person xml:id="KosirTone">
-               <persName>Košir dr. Tone</persName>
+               <persName><surname>Košir</surname> <roleName>dr.</roleName> <forename>Tone</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZDSVRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KrajncRenato">
-               <persName>Krajnc Renato</persName>
+               <persName><surname>Krajnc</surname> <forename>Renato</forename></persName>
                <sex value="M"/>
                <affiliation>direktor <orgName>Urada Vlade Republike Slovenije za priseljevanje in begunce</orgName></affiliation>
             </person>
             <person xml:id="KrambergerStanislav">
-               <persName>Kramberger Stanislav</persName>
+               <persName><surname>Kramberger</surname> <forename>Stanislav</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Obrtna zbornica Slovenije</orgName></affiliation>
             </person>
             <person xml:id="KranjcZnidarsicAna">
-               <persName>Kranjc-Žnidaršič Ana</persName>
+               <persName><surname>Kranjc</surname> <surname>Žnidaršič</surname> <forename>Ana</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MPURS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KrevsJanez">
-               <persName>Krevs Janez</persName>
+               <persName><surname>Krevs</surname> <forename>Janez</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="KrivicTavcarTanja">
-               <persName>Krivic-Tavčar Tanja</persName>
+               <persName><surname>Krivic</surname> <surname>Tavčar</surname> <forename>Tanja</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik vlade</affiliation>
             </person>
             <person xml:id="KrizmanAlojz1940">
-               <persName>Križman dr. Alojz</persName>
+               <persName><surname>Križman</surname> <roleName>dr.</roleName> <forename>Alojz</forename></persName>
                <sex value="M"/>
                <birth when="1940-05-24">
                   <placeName>Križevci pri Ljutomeru</placeName>
@@ -4854,202 +4891,202 @@
                <bibl>https://sl.wikipedia.org/wiki/Alojz_Kri%C5%BEman</bibl>
             </person>
             <person xml:id="LapajneIvan">
-               <persName>Lapajne mag. Ivan</persName>
+               <persName><surname>Lapajne</surname> <roleName>mag.</roleName> <forename>Ivan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MDRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="LebarStefan">
-               <persName>Lebar Štefan</persName>
+               <persName><surname>Lebar</surname> <forename>Štefan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MŠŠRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="LesjakRajko">
-               <persName>Lesjak Rajko</persName>
+               <persName><surname>Lesjak</surname> <forename>Rajko</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Zveza svobodnih sindikatov</orgName></affiliation>
             </person>
             <person xml:id="LippaiMartina">
-               <persName>Lippai Martina</persName>
+               <persName><surname>Lippai</surname> <forename>Martina</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="MadzarovicMihailo">
-               <persName>Madžarovič mag. Mihailo</persName>
+               <persName><surname>Madžarovič</surname> <roleName>mag.</roleName> <forename>Mihailo</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik Izvršnega sveta</affiliation>
             </person>
             <person xml:id="MajcenRudi">
-               <persName>Majcen Rudi</persName>
+               <persName><surname>Majcen</surname> <forename>Rudi</forename></persName>
                <sex value="M"/>
             </person>
             <person xml:id="MarenPeter">
-               <persName>Maren Peter</persName>
+               <persName><surname>Maren</surname> <forename>Peter</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="MarkesMarija">
-               <persName>Markeš Marija</persName>
+               <persName><surname>Markeš</surname> <forename>Marija</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="MarkicAlenka">
-               <persName>Markič Alenka</persName>
+               <persName><surname>Markič</surname> <forename>Alenka</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="MarnPeter">
-               <persName>Marn Peter</persName>
+               <persName><surname>Marn</surname> <forename>Peter</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPZRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation>direktor <orgName>Republiške uprave za zračno plovbo</orgName></affiliation>
             </person>
             <person xml:id="MartelancMiha">
-               <persName>Martelanc Miha</persName>
+               <persName><surname>Martelanc</surname> <forename>Miha</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="MencejMarija">
-               <persName>Mencej dr. Marija</persName>
+               <persName><surname>Mencej</surname> <roleName>dr.</roleName> <forename>Marija</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZDSVRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="MeznarDrago">
-               <persName>Mežnar mag. Drago</persName>
+               <persName><surname>Mežnar</surname> <roleName>mag.</roleName> <surname>Drago</surname></persName>
                <sex value="M"/>
                <affiliation>predstavnik <orgName>Gospodarske zbornice Slovenije</orgName></affiliation>
             </person>
             <person xml:id="MihovarGlobokarKsenija">
-               <persName>Mihovar-Globokar Ksenija</persName>
+               <persName><surname>Mihovar</surname> <surname>Globokar</surname> <surname>Ksenija</surname></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="MitrovicSinisa">
-               <persName>Mitrovič Siniša</persName>
+               <persName><surname>Mitrovič</surname> <surname>Siniša</surname></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="MisicBrane">
-               <persName>Mišič Brane</persName>
+               <persName><surname>Mišič</surname> <surname>Brane</surname></persName>
                <sex value="M"/>
                <affiliation>predstavnik <orgName>Sveta zveze svobodnih sindikatov Slovenije</orgName></affiliation>
             </person>
             <person xml:id="MlakarFanika">
-               <persName>Mlakar Fanika</persName>
+               <persName><surname>Mlakar</surname> <surname>Fanika</surname></persName>
                <sex value="F"/>
                <affiliation>direktorica <orgName>Zavoda Republike Slovenije za cene</orgName></affiliation>
             </person>
             <person xml:id="MlinarMartin">
-               <persName>Mlinar Martin</persName>
+               <persName><surname>Mlinar</surname> <surname>Martin</surname></persName>
                <sex value="M"/>
                <affiliation>vodja delegacije Skupščine Republike Slovenije v Zboru republik in
                   pokrajin Skupščine SFRJ</affiliation>
             </person>
             <person xml:id="MrhovarGlobokarKsenija">
-               <persName>Mrhovar-Globokar Ksenija</persName>
+               <persName><surname>Mrhovar</surname> <surname>Globokar</surname> <surname>Ksenija</surname></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="OlupJoze">
-               <persName>Olup mag. Jože</persName>
+               <persName><surname>Olup</surname> <roleName>mag.</roleName> <surname>Jože</surname></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPURS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="OrelAlenka">
-               <persName>Orel Alenka</persName>
+               <persName><surname>Orel</surname> <forename>Alenka</forename></persName>
                <sex value="F"/>
                <affiliation><orgName>Neodvisnost - konfederacija novih sindikatov Slovenije</orgName></affiliation>
             </person>
             <person xml:id="PavlinMitja">
-               <persName>Pavlin Mitja</persName>
+               <persName><surname>Pavlin</surname> <forename>Mitja</forename></persName>
                <sex value="M"/>
                <affiliation>svetovalec direktorja <orgName>Republiške uprave za družbene prihodke</orgName></affiliation>
             </person>
             <person xml:id="PeterlinStane">
-               <persName>Peterlin Stane</persName>
+               <persName><surname>Peterlin</surname> <forename>Stane</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MKRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="PetricekTatjana">
-               <persName>Petriček Tatjana</persName>
+               <persName><surname>Petriček</surname> <forename>Tatjana</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MZDSVRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="PecarJelka">
-               <persName>Pečar Jelka</persName>
+               <persName><surname>Pečar</surname> <forename>Jelka</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MPURS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="PecenkoBojan">
-               <persName>Pečenko Bojan</persName>
+               <persName><surname>Pečenko</surname> <forename>Bojan</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Gospodarska zbornica Slovenije</orgName></affiliation>
             </person>
             <person xml:id="PlohlRastko">
-               <persName>Plohl Rastko</persName>
+               <persName><surname>Plohl</surname> <forename>Rastko</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Neodvisni sindikat Ptuj</orgName></affiliation>
             </person>
             <person xml:id="PobegaNatasa">
-               <persName>Pobega Nataša</persName>
+               <persName><surname>Pobega</surname> <forename>Nataša</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MTGRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="PodrekarMarko">
-               <persName>Podrekar Marko</persName>
+               <persName><surname>Podrekar</surname> <forename>Marko</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MTGRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="PoharMatko">
-               <persName>Pohar Matko</persName>
+               <persName><surname>Pohar</surname> <forename>Matko</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MERS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="PočivavsekFranc">
-               <persName>Počivavšek Franc</persName>
+               <persName><surname>Počivavšek</surname> <forename>Franc</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="PretnarBojan">
-               <persName>Pretnar dr. Bojan</persName>
+               <persName><surname>Pretnar</surname> <roleName>dr.</roleName> <forename>Bojan</forename></persName>
                <sex value="M"/>
                <affiliation>direktor <orgName>Urada Republike Slovenije za varstvo industrijske lastnine</orgName></affiliation>
             </person>
             <person xml:id="PrijateljJanez">
-               <persName>Prijatelj Janez</persName>
+               <persName><surname>Prijatelj</surname> <forename>Janez</forename></persName>
                <sex value="M"/>
                <affiliation>direktor <orgName>Skupnosti pokojninskega in invalidskega zavarovanja</orgName></affiliation>
             </person>
             <person xml:id="PuckoDanijel">
-               <persName>Pučko Danijel</persName>
+               <persName><surname>Pučko</surname> <forename>Danijel</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Gospodarska zbornica Slovenije</orgName></affiliation>
             </person>
             <person xml:id="RakovecJoze">
-               <persName>Rakovec Jože</persName>
+               <persName><surname>Rakovec</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <occupation>meteorolog</occupation>
                <affiliation><orgName>Fakultete za naravoslovje in tehnologijo, <orgName>Oddelek za fiziko</orgName></orgName></affiliation>
             </person>
             <person xml:id="RavbarVojka">
-               <persName>Ravbar mag. Vojka</persName>
+               <persName><surname>Ravbar</surname> <roleName>mag.</roleName> <forename>Vojka</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MZZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="RavnikarMiha">
-               <persName>Ravnikar Miha</persName>
+               <persName><surname>Ravnikar</surname> <forename>Miha</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik sindikatov</affiliation>
             </person>
             <person xml:id="ReboljaDusan">
-               <persName>Rebolja Dušan</persName>
+               <persName><surname>Rebolja</surname> <forename>Dušan</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik sindikatov</affiliation>
             </person>
             <person xml:id="RibnikarIvan1936">
-               <persName>Ribnikar dr. Ivan</persName>
+               <persName><surname>Ribnikar</surname> <roleName>dr.</roleName> <forename>Ivan</forename></persName>
                <sex value="M"/>
                <birth when="1936">
                   <placeName>Skopje</placeName>
@@ -5058,198 +5095,200 @@
                <bibl>http://www.saleskibiografskileksikon.si/index.php?action=view&amp;tag=793</bibl>
             </person>
             <person xml:id="RoblekJasna">
-               <persName>Roblek Jasna</persName>
+               <persName><surname>Roblek</surname> <forename>Jasna</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MZDSVRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="RojcIvan">
-               <persName>Rojc Ivan</persName>
+               <persName><surname>Rojc</surname> <forename>Ivan</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Republiška uprava za družbene prihodke</orgName></affiliation>
             </person>
             <person xml:id="RopTone">
-               <persName>Rop mag. Tone</persName>
+               <persName><surname>Rop</surname> <roleName>mag.</roleName> <forename>Tone</forename></persName>
                <sex value="M"/>
                <affiliation>pomočnik direktorja <orgName>Zavoda RS za makro-ekonomske analize in razvoj</orgName></affiliation>
             </person>
             <person xml:id="RozicMarjan">
-               <persName>Rožic dr. Marjan</persName>
+               <persName><surname>Rožic</surname> <roleName>dr.</roleName> <forename>Marjan</forename></persName>
                <sex value="M"/>
                <affiliation>predsednik <orgName>Turistične zveze Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SedonjaJoze">
-               <persName>Sedonja Jože</persName>
+               <persName><surname>Sedonja</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPURS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="SedovnikPavel">
-               <persName>Sedovnik Pavel</persName>
+               <persName><surname>Sedovnik</surname> <forename>Pavel</forename></persName>
                <sex value="M"/>
                <affiliation>namestnik sekretarja <orgName>Zveze obrtnih združenj Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SenegacnikLojze">
-               <persName>Senegačnik Lojze</persName>
+               <persName><surname>Senegačnik</surname> <forename>Lojze</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MKGPRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="SimonetiMarko">
-               <persName>Simoneti Marko</persName>
+               <persName><surname>Simoneti</surname> <forename>Marko</forename></persName>
                <sex value="M"/>
                <affiliation>direktor <orgName>Agencije Republike Slovenije za privatizacijo</orgName></affiliation>
             </person>
             <person xml:id="SimonetiRino">
-               <persName>Simoneti Rino</persName>
+               <persName><surname>Simoneti</surname> <forename>Rino</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Gospodarska zbornica</orgName></affiliation>
             </person>
             <person xml:id="SkledarStefan">
-               <persName>Skledar Štefan</persName>
+               <persName><surname>Skledar</surname> <forename>Štefan</forename></persName>
                <sex value="M"/>
                <affiliation>neodvisna konferenca novih sindikatov</affiliation>
             </person>
             <person xml:id="Skubic">
-               <persName>Skubic</persName>
+               <persName>
+                  <surname>Skubic</surname>
+               </persName>
                <sex value="M"/>
                <affiliation ref="#gov.MORS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="SmoleDrago">
-               <persName>Smole Drago</persName>
+               <persName><surname>Smole</surname> <forename>Drago</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="StricevicDusanka">
-               <persName>Stričevič Dušanka</persName>
+               <persName><surname>Stričevič</surname> <forename>Dušanka</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MFRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="StrmoleHlastecFrancka">
-               <persName>Strmole-Hlastec Francka</persName>
+               <persName><surname>Strmole</surname> <surname>Hlastec</surname> <forename>Francka</forename></persName>
                <sex value="F"/>
                <affiliation><orgName>Vrhovno sodišče Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SuvorovPeter">
-               <persName>Suvorov Peter</persName>
+               <persName><surname>Suvorov</surname> <forename>Peter</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Gospodarska zbornica</orgName></affiliation>
             </person>
             <person xml:id="SvetePavle">
-               <persName>Svete Pavle</persName>
+               <persName><surname>Svete</surname> <forename>Pavle</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MZRS" ana="#gov.VladaRS-1 #grp.member"/>
                <affiliation ref="#gov.MZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="TramsekSonja">
-               <persName>Tramšek Sonja</persName>
+               <persName><surname>Tramšek</surname> <forename>Sonja</forename></persName>
                <sex value="F"/>
                <affiliation>predstavnica <orgName>Izvršnega sveta</orgName></affiliation>
             </person>
             <person xml:id="TratnikJoze">
-               <persName>Tratnik Jože</persName>
+               <persName><surname>Tratnik</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPURS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="TraunsekSanja">
-               <persName>Traunšek Sanja</persName>
+               <persName><surname>Traunšek</surname> <forename>Sanja</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MVOUPRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="TrefaltMito">
-               <persName>Trefalt Mito</persName>
+               <persName><surname>Trefalt</surname> <forename>Mito</forename></persName>
                <sex value="M"/>
                <affiliation>predsednik <orgName>Sindikata kulturnih in
                   umetniških ustvarjalcev Radia in televizije</orgName></affiliation>
             </person>
             <person xml:id="TrudenBozo">
-               <persName>Truden Božo</persName>
+               <persName><surname>Truden</surname> <forename>Božo</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MNZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="UtrosaMilan">
-               <persName>Utroša Milan</persName>
+               <persName><surname>Utroša</surname> <forename>Milan</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Zveza svobodnih sindikatov</orgName></affiliation>
             </person>
             <person xml:id="UsenicnikBojan">
-               <persName>Ušeničnik Bojan</persName>
+               <persName><surname>Ušeničnik</surname> <forename>Bojan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MORS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="VideJoze">
-               <persName>Vide Jože</persName>
+               <persName><surname>Vide</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Elektrogospodarstvo Slovenije</orgName></affiliation>
             </person>
             <person xml:id="VladimirDejan">
-               <persName>Vladimir Dejan</persName>
+               <persName><surname>Vladimir</surname> <forename>Dejan</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MBVIRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="VladimirovNiko">
-               <persName>Vladimirov Niko</persName>
+               <persName><surname>Vladimirov</surname> <forename>Niko</forename></persName>
                <sex value="M"/>
             </person>
             <person xml:id="VodovnikAlbert">
-               <persName>Vodovnik Albert</persName>
+               <persName><surname>Vodovnik</surname> <forename>Albert</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Sindikat kovinarjev</orgName></affiliation>
             </person>
             <person xml:id="WinklerPeter">
-               <persName>Winkler Peter</persName>
+               <persName><surname>Winkler</surname> <forename>Peter</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MSSNS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="ZakrajsekSrecko">
-               <persName>Zakrajšek dr. Srečko</persName>
+               <persName><surname>Zakrajšek</surname> <roleName>dr.</roleName> <forename>Srečko</forename></persName>
                <sex value="M"/>
                <affiliation>direktor <orgName>Zavoda za šolstvo</orgName></affiliation>
             </person>
             <person xml:id="ZemljicMiroslav">
-               <persName>Zemljič Miroslav</persName>
+               <persName><surname>Zemljič</surname> <forename>Miroslav</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik <orgName>Izvršnega sveta</orgName></affiliation>
             </person>
             <person xml:id="ZupancJoze">
-               <persName>Zupanc Jože</persName>
+               <persName><surname>Zupanc</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
             </person>
             <person xml:id="ZupancicBostjanM">
-               <persName>Zupančič Boštjan M.</persName>
+               <persName><surname>Zupančič</surname> <forename>Boštjan</forename> <forename>M.</forename></persName>
                <sex value="M"/>
                <affiliation>predstavnik <orgName>Univerze v Ljubljani</orgName></affiliation>
             </person>
             <person xml:id="SebenikFranc">
-               <persName>Šebenik Franc</persName>
+               <persName><surname>Šebenik</surname> <forename>Franc</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Zveza obrtnih združenj Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SirajMarjan">
-               <persName>Širaj Marjan</persName>
+               <persName><surname>Širaj</surname> <forename>Marjan</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Gospodarska zbornica Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SketaJoze">
-               <persName>Šketa Jože</persName>
+               <persName><surname>Šketa</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Zveze svobodnih sindikatov Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SkoberneJoze">
-               <persName>Škoberne Jože</persName>
+               <persName><surname>Škoberne</surname> <forename>Jože</forename></persName>
                <sex value="M"/>
                <affiliation>podpredsednik <orgName>Gospodarske zbornice Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SkrabarRado">
-               <persName>Škrabar Rado</persName>
+               <persName><surname>Škrabar</surname> <forename>Rado</forename></persName>
                <sex value="M"/>
                <affiliation ref="#gov.MPZRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>
             <person xml:id="StokaDebevcMeta">
-               <persName>Štoka Debevc-Meta</persName>
+               <persName><surname>Štoka</surname> <surname>Debevc</surname> <forename>Meta</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MDRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
             <person xml:id="StrovsMarko1950">
-               <persName>Štrovs Marko</persName>
+               <persName><surname>Štrovs</surname> <forename>Marko</forename></persName>
                <sex value="M"/>
                <birth when="1950-01-26">
                   <placeName>Trbovlje</placeName>
@@ -5258,12 +5297,12 @@
                <bibl>https://sl.wikipedia.org/wiki/Marko_%C5%A0trovs</bibl>
             </person>
             <person xml:id="StrucMilan">
-               <persName>Štruc Milan</persName>
+               <persName><surname>Štruc</surname> <forename>Milan</forename></persName>
                <sex value="M"/>
                <affiliation><orgName>Gospodarska zbornica Slovenije</orgName></affiliation>
             </person>
             <person xml:id="SubicMaja">
-               <persName>Šubic Maja</persName>
+               <persName><surname>Šubic</surname> <forename>Maja</forename></persName>
                <sex value="F"/>
                <affiliation ref="#gov.MMGRS" ana="#gov.VladaRS-1 #grp.member"/>
             </person>

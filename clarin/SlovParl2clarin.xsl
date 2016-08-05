@@ -177,7 +177,7 @@
     </xsl:variable>
     
     <xsl:template match="tei:teiCorpus">
-        <xsl:variable name="document-corpus" select="concat($path2folder,$filename)"/>
+        <xsl:variable name="document-corpus" select="concat($path2folder,'SlovParl.xml')"/>
         <xsl:result-document href="{$document-corpus}" >
             <teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude">
                 <teiHeader>
@@ -424,7 +424,7 @@
                         <xsl:variable name="uniqueId" select="concat($folder-mandate,'.',current-grouping-key(),'.',$chamber,'.',$session-type,$session-number,'-',$dategroup-number)"/>
                         <xsl:variable name="govori-var12">
                             <xsl:for-each select="$govori-var11/tei:div">
-                                <div xml:id="{concat($uniqueId,'.',@xml:id)}">
+                                <!--<div xml:id="{concat($uniqueId,'.',@xml:id)}">--> <!-- odstranil div -->
                                     <xsl:for-each select="node()">
                                         <xsl:choose>
                                             <xsl:when test="xs:string(node-name(.)) = 'u'">
@@ -526,7 +526,7 @@
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </xsl:for-each>
-                                </div>
+                                <!--</div>-->  <!-- odstranil div -->
                             </xsl:for-each>
                         </xsl:variable>
                         
@@ -865,7 +865,7 @@
             <xsl:for-each select="tei:u[string-length(.) gt 0] | tei:anchor">
                 <xsl:choose>
                     <xsl:when test="xs:string(node-name(.)) eq 'u'">
-                        <u xml:id="{concat('u-',$divPosition,'.',position())}" who="{@who}">
+                        <u xml:id="{concat('sp-',$divPosition,'.',position())}" who="{@who}">
                             <xsl:call-template name="stage-type-attribute"/>
                             <!-- atr divId začasno shranim v atr corresp (uvodne komentatorjeve besede (docDate ipd.) nimajo tega atributa, zato preferem if) -->
                             <xsl:if test="@divId">

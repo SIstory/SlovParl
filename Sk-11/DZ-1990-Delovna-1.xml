@@ -280,7 +280,7 @@
                   <div xml:id="DZ-1990-Delovna-1.div.1.1.1.1"
                        ana="#PAR.TDR"
                        corresp="#DZ-1990-Delovna-1.toc.1.1">
-                     <sp who="#DZ-1990-Delovna-1.sp.FrankoKarel">
+                     <sp who="sp:FrankoKarel1919" corresp="#DZ-1990-Delovna-1.sp.FrankoKarel">
                         <speaker>PREDSEDUJOČI KAREL FRANKO:</speaker>
                         <p>
                            <title>Začenjam Skupno sejo vseh treh zborov</title> Skupščine Republike
@@ -293,7 +293,7 @@
                   <div xml:id="DZ-1990-Delovna-1.div.1.1.1.2"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1990-Delovna-1.toc.1.2">
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Ker so proceduralno zadeve jasne, moramo najprej ugotoviti
                               <title>sklepčnost</title> vsakega zbora posebej. Zato bi najprej
@@ -306,7 +306,7 @@
                            mogoč, prosim, da glasujete še enkrat. Prosim, če pritisnejo na sivo
                            tipko samo delegati Zbora občin, ne drugi. 84 jih je preveč.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.PirnatRajko">
+                     <sp who="sp:PirnatRajko1951" corresp="#DZ-1990-Delovna-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>No, saj najbrž je znano, da imamo dve obliki glasovanja. Druga oblika
                            ugotavljanja, ki jo predvideva še vedno veljavni poslovnik v 135. členu,
@@ -314,7 +314,7 @@
                            da se temu načinu odpovemo in poskusimo z dvigovanjem rok vseeno
                            ugotoviti sklepčnost.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Torej, poskusimo še enkrat. Pritisnite na sivo tipko - Zbor občin, se
                            razume. <stage type="comment">(Ni pravega rezultata.)</stage> Sedaj pa
@@ -323,18 +323,19 @@
                            dvignjene roke. Zaenkrat ne, ker bo prekomplicirano. Medtem naredimo še
                            eno vajo. Torej, člani Zbora občin, pritisnite na sivo tipko. <stage type="quorum">(81 prisotnih.)</stage> Sedaj je eden preveč.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.unknown">
+                     <sp who="sp:unknown" corresp="#DZ-1990-Delovna-1.sp.unknown">
                         <stage type="incident">Med klic:</stage>
                         <ab>...( Preveč jih glasuje, tudi iz drugih zborov.)...</ab>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1990-Delovna-1.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Oprostite, imam intervencijo. Gospoda Verliča sem videl, da je pritisnil
                            na tipko, kar se mi zdi skrajno nesramno. <stage type="incident">(Aplavz
                               in žvižgi v dvorani. Pripombe prisotnih: "Ven ga vrzi. Fuj!)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.ZagoženFranc">
+                     <sp who="sp:ZagozenFrance1942" corresp="#DZ-1990-Delovna-1.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Mislim, da se moramo resno pogovoriti, kako bomo nadaljevali. Predlagam,
                            da ponovimo in poskusimo še enkrat glasovati. Mislim, da ta aparatura
@@ -342,15 +343,15 @@
                            je nanjo pritisnil. Ponovite še enkrat, potem naj gorijo lučke in če bo
                            več kot 80 lučk bomo pregledali vse. ...<stage type="incident">(Aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Zopet glasujemo, pred tem bomo ugotovili prisotnost. ...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.unknown">
+                     <sp who="sp:unknown" corresp="#DZ-1990-Delovna-1.sp.unknown">
                         <stage type="incident">(Glas iz dvorane:</stage>
                         <ab>Če je bil človek napaden, ima pravico takoj odgovoriti.)...</ab>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.VerličAndrej">
+                     <sp who="sp:VerlicAndrej" corresp="#DZ-1990-Delovna-1.sp.VerličAndrej">
                         <speaker>ANDREJ VERLIČ:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! Zahtevam, da se gospod Podobnik
                            opraviči za prejšnji izpad. S tistega mesta, kjer on sedi, nikakor ni
@@ -359,14 +360,15 @@
                            očita Podobnik, opazili. Gospod Podobnik, prosim, da se za svoj izpad
                            opravičite. ...<stage type="incident">(Aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1990-Delovna-1.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Predlagam, da se nekdo usede na moje mesto in pogleda ali se vidi, če se
                            pritisne na rdečo lučko. Jaz sem to jasno videl in ko sem videl, sem šel
                            sem in sem to povedal. ...<stage type="incident">(Gromovit
                               aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Prosim, da razpravo o tem zaenkrat prekinemo in poskusimo najprej
                            ugotoviti prisotnost. Še enkrat prosim, če pritisnite na sivo tipko, se
@@ -375,7 +377,8 @@
                            dvigom rok. Prosim, da sekretarji preštejejo glasove. Samo Zbora občin
                            zaenkrat. Prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.Bitenc-PengovTina">
+                     <sp who="sp:BitencPengovTina"
+                         corresp="#DZ-1990-Delovna-1.sp.Bitenc-PengovTina">
                         <speaker>TINA BITENC-PENGOV:</speaker>
                         <p>Predlagam, da kličemo poimensko, ker se nam številke, ne vem zakaj, ne
                            ujemajo.</p>
@@ -407,7 +410,7 @@
                         </p>
                         <p>5 delegatov je odsotnih, torej je 75 delegatov.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Poskusimo glasovati, mogoče bo več sreče pri Zboru združenega dela.
                            Torej, prosim, ugotavljamo navzočnost članov Zbora združenega dela.
@@ -419,7 +422,7 @@
                         <p>bistvo novih amandmajev.</p>
                         <p>Prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.JakičRoman">
+                     <sp who="sp:JakicRoman1967" corresp="#DZ-1990-Delovna-1.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
                         <p>Prosil bi delegate, da vsi skupaj pritisnemo na tipko, ker ne verjamem v
                            številke, ki so se izkazale. V Zboru združenega dela nas je bilo po
@@ -434,12 +437,12 @@
                        ana="#PAR.TDR"
                        n="1"
                        corresp="#DZ-1990-Delovna-1.toc.2.1">
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Sklepčni smo. to je nesporno. prosim gospoda Rajka Pirnata, da pojasni, v
                            čem je problem.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.PirnatRajko">
+                     <sp who="sp:PirnatRajko1951" corresp="#DZ-1990-Delovna-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Ne vem sicer, v kakšni funkciji zdaj tukaj nastopam, verjetno vsi veste,
                            da sta Družbenopolitični zbor in Zbor občin sprejela besedilo usklajenih
@@ -453,7 +456,7 @@
                            kot sta glasovala ona dva zbora. Tako bomo najlažje in najhitreje prišli
                            do odločitve.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Toliko samo zaradi preciznosti, o čem moramo zdaj odločati. Gre za to,
                            ali ta skupni zbor sprejme skupni predlog, kot ga je skupina za
@@ -462,7 +465,7 @@
                         <p>Pričenjam o tej zadevi.</p>
                         <p>Kdo želi razpravljati? Prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.ZlobecLJaša">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1990-Delovna-1.sp.ZlobecLJaša">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Lep pozdrav vsem skupaj! Jaz sem Jaša Zlobec, delegat Zbora združenega
                            dela s področja kulture, informiranja in umetnosti. Najprej moram
@@ -516,11 +519,11 @@
                            s parafrazo svetopisemskega izreka: "Sodite jih po njih dejanjih." Hvala.
                               ...<stage type="incident">(Aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Prosim, gospod Gros.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1990-Delovna-1.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Čudi me tako obravnavanje tudi intelektualca Jaše Zlobca. Sem sicer
                            diplomirani strojni inženir, ampak sem navaden "šlosar" drugače. In me
@@ -543,12 +546,12 @@
                            proceduralno, da na glasovanje in da to izglasujemo in nehajmo s to
                            tragikomedijo. Hvala lepa. ...<stage type="incident">(Aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Kot delovni predsednik moram dopustiti razpravo in možnost, da lahko pove
                            svoje mnenje kdorkoli. Prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.JuriFranco">
+                     <sp who="sp:JuriFranco1956" corresp="#DZ-1990-Delovna-1.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Spoštovane poslanke in poslanci! Dovolite, da preden gremo na to
                            glasovanje, še enkrat prosim poslanca Podobnika, naj se osebno opraviči
@@ -562,11 +565,12 @@
                            prosim, da brez takih dokazov ne obsojamo ljudi in da se osebno gospod
                            Podobnik, ki se očitno ni lagal, ampak se je zmotil, opraviči.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Podobnik, prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1990-Delovna-1.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Moram se še enkrat oglasiti. Ste lahko prepričani, da ne bi prihitel sem
                            in nekoga obtožil, če tega ne bi videl. Samo še to bom povedal. Zdi sem
@@ -576,11 +580,11 @@
                            tudi vsi drugi in mislim, da je pošteno, da se vsi tudi pošteno obnašamo.
                            Če bi se pa nekaj izmislil, pa bi se sedaj tudi opravičil. ...<stage type="incident">(Klic iz dvorane: Bravo. Aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Juri, izvolite.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.JuriFranco">
+                     <sp who="sp:JuriFranco1956" corresp="#DZ-1990-Delovna-1.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Dovolite mi, da se ponovno oglasim. Nisem rekel, da se je gospod Podobnik
                            lagal ali da si je kaj izmislil. Verjetno se je zmotil. Iz tiste
@@ -597,7 +601,7 @@
                        ana="#PAR.TDR"
                        n="2"
                        corresp="#DZ-1990-Delovna-1.toc.2.2">
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Lahko predlagam, da prekinemo razpravo v tej smeri. Gre za možnost, da še
                            kdo razpravlja o tem,  kar je predmet razprave, o tem poslovniku oziroma
@@ -621,13 +625,13 @@
                               sej</title>o. Družbenopolitični zbor v teh prostorih nadaljuje sejo po
                            predlaganem dnevnem redu.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.PirnatRajko">
+                     <sp who="sp:PirnatRajko1951" corresp="#DZ-1990-Delovna-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Predlog poslancev DEMOS je, da imamo skupno sejo še danes, potem ko oba
                            zbora končata ločeni zasedanji. Na vsak način predlagam, da se o tem
                            odločimo sedaj, ko smo še skupaj.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Lahko o tem predlogu glasujemo? Po pravilih se na skupni seji ne bi smelo
                            glasovati kot da je to celota, ker mora vsak zbor o tem vprašanju sam
@@ -638,18 +642,18 @@
                         <p>To se pravi, Zbor združenega dela naj glasuje o tem, ali je za
                            nadaljevanje seje in dnevnega reda v neposrednem nadaljevanju.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.unknown">
+                     <sp who="sp:unknown" corresp="#DZ-1990-Delovna-1.sp.unknown">
                         <stage type="incident">(Glas iz klopi: </stage>
                         <ab>...Če imamo garancijo, da danes končamo. Ne pa, da bomo eno uro čakali,
                            potem pa šli domov.)...</ab>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <p>Tega jamstva ne morem dati. Glede na to, da smo te glavne ovire
                            premagali, menim, d bo stvar lahko stekla brez dolgoveznega usklajevanja,
                            kot smo ga imeli do sedaj. Torej je možnost in tudi upanje, da bi to v
                            relativno kratkem času spravili pod streho.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.ZlobecLJaša">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1990-Delovna-1.sp.ZlobecLJaša">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Ne vem, če smo že tako proceduralni, bom povedal to, da je Zbor
                            združenega dela sprejel amandma k dnevnemu redu dela Skupščine, po
@@ -661,13 +665,13 @@
                            mogli to hkrati opraviti v drugem prostoru? Danes sem omenil, da obstaja
                            specifika Zbora združenega dela v smislu dnevnega reda.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Iz vašega vprašanja potem deduciram možen predlog, da v tem sestavu
                            nadaljujemo kot skupna seja. Ne? Dobro. Potem pač moram ponoviti svoj
                             predlog, da gre vsak zbor po svojem dnevnem redu naprej.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.JanšaJanez">
+                     <sp who="sp:JansaJanez1958" corresp="#DZ-1990-Delovna-1.sp.JanšaJanez">
                         <speaker>JANEZ JANŠA:</speaker>
                         <p>Če prav razumem, obstajata zdaj dve varianti. Ali da se Zbor združenega
                            dela odloči, da spremeni dnevni red in da glasuje najprej o vseh teh
@@ -676,11 +680,12 @@
                            varianta je že bila zavrnjena na Zboru občin in na Družbenopolitičnem
                            zboru. Lahko glasujemo še enkrat?</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Prosim, gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1990-Delovna-1.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Prihajam iz slovenske obale. Edino materialno vprašanje danes na dnevnem
                            redu je problem vode v Istri. Nekateri kolegi, čeprav pijejo istrsko
@@ -711,11 +716,11 @@
                            izpeljemo dnevni red do konca in tudi 5. in 6. točko dnevnega reda. Hvala
                            lepa. ...<stage type="incident">(Buren aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Bekeš.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BekešPeter">
+                     <sp who="sp:BekesPeter1946" corresp="#DZ-1990-Delovna-1.sp.BekešPeter">
                         <speaker>PETER BEKEŠ:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! Slučaj je, da imava z gospodom
                            Danijelom Starmanom polovico istih volivcev. Sem namreč iz iste volilne
@@ -737,11 +742,11 @@
                            procedure in še pol ure, da se spet vrnemo. Prosim, da to pretehtate.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Juri, prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.JuriAurelio">
+                     <sp who="sp:JuriAurelio1949" corresp="#DZ-1990-Delovna-1.sp.JuriAurelio">
                         <speaker>AURELIO JURI:</speaker>
                         <p>Pripombo delegata Starmana sem dolžan precizirati, da sem izjavil na
                            Zboru občin, da je bilo prisotnih 51, ne 55 delegatov Družbenopolitičnega
@@ -754,11 +759,11 @@
                            take in prihodnje napake menim, da je vsak od nas dolžan do delegatov in
                            do storjenih napak se opravičiti. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Prosim, gospod Jakič.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.JakičRoman">
+                     <sp who="sp:JakicRoman1967" corresp="#DZ-1990-Delovna-1.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
                         <p>Rad bi skupščino oziroma ostala dva zbora samo obvestil, da se je Zbor
                            združenega dela konstituiral in sicer je to potrdila verifikacijska
@@ -766,11 +771,11 @@
                            6. in 7. točko dnevnega reda glede vode in soglasno sprejeli sklep, da
                            dajemo soglasje. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Školč, izvolite.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.ŠkolčJožef">
+                     <sp who="sp:SkolcJozef1960" corresp="#DZ-1990-Delovna-1.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Sicer vem, kako smo glasovali v Družbenopolitičnem zboru in tudi, kako so
                            glasovali v Zboru občin, vem pa tudi, da je bil vsaj v Družbenopolitičnem
@@ -803,13 +808,13 @@
                            stanju, da se znamo opravičevati, eni se pač ne bodo, poslanci bomo pa
                            konec koncev vsi.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Torej jaz glede na to razpravo ugotavljam, da že sprejetega
                            sklepa obeh zborov ne moremo spreminjati,, torej nam ne ostane nič
                            drugega...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.RibičičCiril">
+                     <sp who="sp:RibicicCiril1947" corresp="#DZ-1990-Delovna-1.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Predlagam, da bi, preden bi odločali o sklepu, ki ga je predlagal tovariš
                            Školč, mi bi o njem zavzemali stališče, da prej opravita ta dva zbora
@@ -820,12 +825,13 @@
                            pri točki volitve predsednika skupščine ali pa se vztraja pri predlogu,
                            da je treba najprej izvoliti vodstvo obeh zborov.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Glede na ta predlog bi samo ugotovil, da je skupna seja
                            končana in da nadaljujejo zbori vsak v svojem sestavu.</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1990-Delovna-1.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARTZBARTL:</speaker>
                         <p>Tako bi rekel. Imam dobre živce, pa sem lahko na seji še dolgo, če
                            hočete. Samo, zdi se mi malo neumno to. Predlagal bi našim delegatom iz
@@ -833,7 +839,7 @@
                            si ga zastavili. V tem času, ko se boste vi še pogajali, bomo mi že
                            prišli do zaključkov. Hvala lepa. ...<stage type="incident">(Aplavz.)</stage>...</p>
                      </sp>
-                     <sp who="#DZ-1990-Delovna-1.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-Delovna-1.sp.BučarFrance">
                         <speaker>PREDSEDUJOČI DR. FRANCE BUČAR:</speaker>
                         <p>Torej, skupna seja je zaključena.</p>
                      </sp>

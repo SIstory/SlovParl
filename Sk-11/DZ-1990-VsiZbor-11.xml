@@ -344,7 +344,7 @@
                   <div xml:id="DZ-1990-VsiZbor-11.div.1.1.1.1"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1990-VsiZbor-11.toc.1.1">
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Poslanke in poslanci, začenjam 11. skupno sejo vseh zborov Skupščine
                            Republike Slovenije. Gradivo za prvo in edino točko tega dnevnega reda
@@ -374,11 +374,12 @@
                   <div xml:id="DZ-1990-VsiZbor-11.div.1.1.1.2"
                        ana="#PAR.DolDnevRed"
                        corresp="#DZ-1990-VsiZbor-11.toc.1.2">
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <p>Predlog dnevnega reda za današnjo sejo ste prejeli včeraj s sklicem seje.
                            Dajem predlog dnevnega reda v razpravo. Ali želi kdo besedo? prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŠinkovecMatjaž">
+                     <sp who="sp:SinkovecMatjaz1951"
+                         corresp="#DZ-1990-VsiZbor-11.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC:</speaker>
                         <p>Spoštovani. V imenu 54 poslancev in poslank vseh zborov ter vseh strank
                            predlagam, da na današnjo sejo uvrstimo sprejem dodatne točke, to je
@@ -386,11 +387,11 @@
                            smo, da bi v tem trenutku, ki je za Slovenijo tako pomemben, svetu
                            povedali, v kakšni državi želimo živeti. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Prosim, Žagar.            </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŽagarZvone">
+                     <sp who="sp:ZagarZvone" corresp="#DZ-1990-VsiZbor-11.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Spoštovani poslanci, spoštovane poslanke, dame, gospodje!</p>
                         <p>Dovolite, da predlagam razširitev dnevnega  reda 11. skupne seje z
@@ -404,7 +405,7 @@
                            pričeli sami urejati gospodarsko področje. In da sprejmemo odločitve, po
                            katerih se bo Slovenija izločila iz denarnega sistema SFRJ. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati o dnevnem redu? V kolikor ne, dajem
                            najprej na glasovanje predlog, da sprejmemo na dnevni red odločanje o
@@ -427,13 +428,13 @@
                        ana="#PAR.TDR"
                        n="1"
                        corresp="#DZ-1990-VsiZbor-11.toc.2.1">
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA: ODOBRITEV ZAPISNIKA 10.
                               SKUPNE SEJE</title>.</p>
                         <p>Osnutek zapisnika ste prejeli. Ali želi kdo o zapisniku razpravljati?
                            Prosim, Balažic.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BalažicMilan">
+                     <sp who="sp:BalazicMilan1958" corresp="#DZ-1990-VsiZbor-11.sp.BalažicMilan">
                         <speaker>MILAN BALAŽIC:</speaker>
                         <p>Spoštovani! Imel bi samo kratko dopolnitev k zapisniku in sicer na 1.
                            strani, četrti odstavek. Predlagam, da stavek, ki je zapisan, da se pika
@@ -446,7 +447,7 @@
                            to predlagam poslancem v dopolnitev zapisnika prejšnje seje skupščine.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa.</p>
                         <p>Želi še kdo razpravljati o zapisniku? Če ne, dajem ta predlog delegata
@@ -464,7 +465,7 @@
                        ana="#PAR.TDR"
                        n="3"
                        corresp="#DZ-1990-VsiZbor-11.toc.2.2">
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <p>Prehajamo na 2. TOČKO DNEVNEGA REDA:</p>
                         <p>Predlog zakona o plebiscitu o samostojnosti in neodvisnosti Republike
                            Slovenije.</p>
@@ -476,7 +477,8 @@
                            časa. Mislim, da bo sorazmerno kratka. Želi kdo besedo? Prosim
                            predlagatelja.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŠinkovecMatjaž">
+                     <sp who="sp:SinkovecMatjaz1951"
+                         corresp="#DZ-1990-VsiZbor-11.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC:</speaker>
                         <p>Spoštovani. Tekst, ki ga v imenu 54-ih poslancev predlagam, bom
                            prebral:</p>
@@ -513,7 +515,7 @@
                            opredeljujejo konvencije Sveta Evrope."</p>
                         <p>Mislim, da druge obrazložitve ni potrebno dati. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Želi kdo od poslancev razpravljati? Če ne želi, zaključujem
                             razpravo in dajem na glasovanje sprejem te deklaracije.</p>
@@ -526,7 +528,7 @@
                   <div xml:id="DZ-1990-VsiZbor-11.div.1.1.2.3"
                        ana="#PAR.TDR"
                        corresp="#DZ-1990-VsiZbor-11.toc.2.3">
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <p>
                            <title>2. TOČKA DNEVNEGA REDA. PREDLOG ZAKONA O PLEBISCITU, O
                               SAMOSTOJNOSTI IN NEODVISNOSTI REPUBLIKE SLOVENIJE</title>.</p>
@@ -611,7 +613,7 @@
                         <p>Tu bi najprej prosil predsednika Predsedstva, gospoda Milana Kučana, da
                            prevzame besedo.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.KučanMilan">
+                     <sp who="sp:KucanMilan1941" corresp="#DZ-1990-VsiZbor-11.sp.KučanMilan">
                         <speaker>MILAN KUČAN:</speaker>
                         <p>Spoštovani predsednik, poslanke in poslanci! Danes odločate o morda
                            najpomembnejšem dejanju, ki bo usodnega pomena za prihodnost slovenskega
@@ -1012,12 +1014,12 @@
                            namerah. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. <stage type="vocal">(Ploskanje.)</stage> ali želi besedo predsednik
                            Izvršnega sveta? Prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1990-VsiZbor-11.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci, spetabili delegate i delegati
                               <stage type="comment">(isto v madžarščini)</stage>.</p>
@@ -1062,12 +1064,12 @@
                            delo za samostojno in demokratično Slovenijo! <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. K besedi se je zaenkrat prijavil Hubert Požarnik. Prosim!</p>
                         <p>V redu, hvala lepa. Anton Tomažič, prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.TomažičAnton">
+                     <sp who="sp:TomazicAnton1950" corresp="#DZ-1990-VsiZbor-11.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Verjetno bom kar takoj prekršil nek strankarski sporazum, ki je bil
                            ravnokar podpisan, vendar pride trenutek, ko mora človek ravnati po svoji
@@ -1147,11 +1149,11 @@
                               <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Miloš Urbančič.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.UrbančičMiloš">
+                     <sp who="sp:UrbancicMilos" corresp="#DZ-1990-VsiZbor-11.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Rad bi podal nekaj dejstev.</p>
                         <p>Prvič. Demos ni kriv in nima posebnih zaslug za razpad komunistične
@@ -1171,11 +1173,12 @@
                            in postavljajo kriterije za plebiscit tako visoko, da jih ubogi,
                            prestrašeni in mencajoči Slovenec ja ne bi dosegel. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Hubert Požarnik.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.PožarnikHubert">
+                     <sp who="sp:PozarnikHubert1937"
+                         corresp="#DZ-1990-VsiZbor-11.sp.PožarnikHubert">
                         <speaker>DR. HUBERT POŽARNIK:</speaker>
                         <p>Spoštovani predsednik, poslanke in poslanci. Gotovo je to zelo svečan
                            trenutek in člani predsedstva in vlade so to izkoristili in so povedali
@@ -1233,11 +1236,11 @@
                         <p>Zato predlagam, da v skladu s 127. členom Poslovnika skupščine izvedemo,
                            ko bo čas za to, posamično glasovanje. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Besedo ima Miran Potrč.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.PotrčMiran">
+                     <sp who="sp:PotrcMiran1938" corresp="#DZ-1990-VsiZbor-11.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Spoštovani predsednik, Predsedstvo Republike Slovenije, člani
                            Predsedstva, spoštovani predsednik Izvršnega sveta, poslanke in poslanci.
@@ -1336,11 +1339,11 @@
                            uspeh plebiscita smo, če bo to res iskren dogovor strank, ne  samo
                            namišljen, pripravljeni zastaviti ves svoj ugled in vpliv. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Jaša Zlobec.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ZlobecJašaL">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1990-VsiZbor-11.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Lep pozdrav! Zahvaljujem se predsedniku Bučarju, da mi je relativno kmalu
                            dal besedo, in bi z vso resnostjo plediral, da, čeprav to ni po
@@ -1366,11 +1369,12 @@
                            sedimo v Predsedstvu, in lahko vsi skupaj "spokamo kufre" in gremo domov.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Schwarzbartl.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1990-VsiZbor-11.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovano predsedstvo, gospe in gospodje, parlamentarci in vsi ostali,
                            ki ste zbrani v tej dvorani, pa tudi tisti, ki danes preko ekranov
@@ -1402,11 +1406,11 @@
                            Hvala lepa. <stage type="vocal">(Velik aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Tone Peršak.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.PeršakAnton">
+                     <sp who="sp:PersakAnton1947" corresp="#DZ-1990-VsiZbor-11.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Spoštovani člani predsedstva in vlade, spoštovani poslanci in poslanke.
                            Ne bom več govoril o zakonu. Odločitev, kakšen predlog bo dala, je
@@ -1437,11 +1441,11 @@
                            vse ostale atribute. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima France Tomšič.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.TomšičFrance">
+                     <sp who="sp:TomsicFrance1937" corresp="#DZ-1990-VsiZbor-11.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Glede na uvodne besede predsednika predsedstva, predsednika vlade, sem
                            pač razmišljal približno tako, da je čas napadanj, čas podtikanj, vsaj za
@@ -1486,11 +1490,12 @@
                            bomo odločili za samostojno in suvereno Slovenijo, bomo lahko čez nekaj
                            let ostali manjšina v lastni deželi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Matjaž Šinkovec.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŠinkovecMatjaž">
+                     <sp who="sp:SinkovecMatjaz1951"
+                         corresp="#DZ-1990-VsiZbor-11.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC:</speaker>
                         <p>Spoštovani, opravičujem se, ker bo moja razprava kratka in umirjena. Ko
                            smo prejšnji teden razpravljali o osnutku zakona o plebiscitu, sem
@@ -1504,11 +1509,11 @@
                            predstavnike parlamentov in vlad sosednjih in drugih evropskih držav in
                            mednarodnih organizacij." Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Janko Halb ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.HalbJanko">
+                     <sp who="sp:HalbJanko1957" corresp="#DZ-1990-VsiZbor-11.sp.HalbJanko">
                         <speaker>JANKO HALB:</speaker>
                         <p>Spoštovano predsedstvo, vlada, poslanke in poslanci. Imam prijetno
                            dolžnost, da vam prenesem stališče politično osveščenih Prekmurcev in
@@ -1541,11 +1546,11 @@
                            si piše sodbo sam, na plebiscit pa pridimo vsi tisti, ki bomo "za" z
                            rdečim nageljem na prsih. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Vitomir Gros.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1990-VsiZbor-11.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Najprej moram povedati, da podpiram razpravo gospoda Tomažiča in
                             priporočam poslancem, da sprejmejo njegov amandma k zakonu. Obenem bi še
@@ -1604,11 +1609,11 @@
                         <p>Na koncu bi rad še povedal, da se bo naša stranka z vsemi silami zavzela,
                            da plebiscit uspe.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Besedo ima Rudi Šeligo.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŠeligoRudi">
+                     <sp who="sp:SeligoRudi1935" corresp="#DZ-1990-VsiZbor-11.sp.ŠeligoRudi">
                         <speaker>MAG. RUDI ŠELIGO:</speaker>
                         <p>Mislim, da je treba vse skupaj postaviti v tisti kontekst, za katerega
                            mislim, da je tukaj odločilen. Lahko rečemo na začetku hrepenenje, in to
@@ -1696,11 +1701,11 @@
                            in za to se zavzemam. Da pa bomo imeli kdaj prijazno, pa sami sebi
                            "farbamo", pa najbrž tudi svoje sosede. Hvala lepa!</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Besedo ima Zvone Žagar.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŽagarZvone">
+                     <sp who="sp:ZagarZvone" corresp="#DZ-1990-VsiZbor-11.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Spoštovane dame in spoštovani gospodje. Tudi moja razprava bo kratka in
                            poskušal bom delovati umirjeno. Kljub temu si bi dovolil reagirati na
@@ -1732,11 +1737,11 @@
                            izjavo o mojih dobrih namenih, predvsem pa izjavim, da bom pri gusarski
                            dejavnosti uporabljal vse, razen orožja. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Borut Pahor.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.PahorBorut">
+                     <sp who="sp:PahorBorut1963" corresp="#DZ-1990-VsiZbor-11.sp.PahorBorut">
                         <speaker>BORUT PAHOR:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani! Prosil bi, da mojega slabega glasu ne
                            interpretirate zlonamerno. Čeprav sem opozicijski poslanec, sem vedno in
@@ -1783,11 +1788,12 @@
                            plebiscit, bom rekel ja.</p>
                         <p>Hvala. Torej za samostojno Slovenijo.                        </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Spomenka Hribar.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.HribarSpomenka">
+                     <sp who="sp:HribarSpomenka1941"
+                         corresp="#DZ-1990-VsiZbor-11.sp.HribarSpomenka">
                         <speaker>MAG. SPOMENKA HRIBAR:</speaker>
                         <p>Spoštovani. Posebej sem se javila v trenutku, ko sem poslušala kolega
                            Tomažiča, ne da bi kaj dosti premišljala o tem, skratka bila je reakcija
@@ -1825,11 +1831,11 @@
                            preprosto ne bomo narod oziroma nacija. Zaupanje je konstituens
                            posameznika in nacije. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Stanko Buser je naslednji.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BuserStanko">
+                     <sp who="sp:BuserStanko1932" corresp="#DZ-1990-VsiZbor-11.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Prav vesel sem bil, da so tisti moji simpatični krompirji zadnjič zašli v
                            časopise in tudi Sonjina zelena trava. To je meni dokaz, da se slovensko
@@ -1859,11 +1865,12 @@
                            ponovno zeleno Slovenijo. Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Marjan Dvornik.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.DvornikMarjan">
+                     <sp who="sp:DvornikMarjan1949"
+                         corresp="#DZ-1990-VsiZbor-11.sp.DvornikMarjan">
                         <speaker>MARJAN DVORNIK:</speaker>
                         <p>To, kar so moji dedje sanjali, kar je oče želel uresničiti, sem imel v
                            svojem političnem programu in dobil večino na neposrednih volitvah; to je
@@ -1884,11 +1891,12 @@
                            dlje kot do konice nosu. Zato verjamem vladi, verjamem modrosti ljudi, ki
                            sem jih volil, in jo podpiram. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Tone Partljič.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.PartljičAnton">
+                     <sp who="sp:PartljicAnton1940"
+                         corresp="#DZ-1990-VsiZbor-11.sp.PartljičAnton">
                         <speaker>ANTON PARTLJIČ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovana vlada, spoštovani tovariš predsednik,
                            dovolite, da se najprej opravičim svojemu predsedniku Školjču, ki nam je
@@ -1948,11 +1956,12 @@
                            svobodni Sloveniji, ki bi naj bila taka, da bi nas bilo tudi vedno več
                            Slovencev. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>hvala. Marjan Podobnik.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1990-VsiZbor-11.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>V SKZ ne dvomimo in nikoli nismo dvomili v slovenski narod. Na vseh nas
                            in posebej tu prisotnih in drugih odgovornih, leži velika odgovornost
@@ -1977,11 +1986,11 @@
                            upanjem pričakujejo našo enotno odločitev za nacionalno suverenost.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Karel Franko.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.FrankoKarel">
+                     <sp who="sp:FrankoKarel1919" corresp="#DZ-1990-VsiZbor-11.sp.FrankoKarel">
                         <speaker>KAREL FRANKO:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani delegati. Pred dobrimi 7 meseci smo se
                            v tem hramu prvi zbrali kot večstrankarski parlament. Slovencem smo
@@ -1998,11 +2007,11 @@
                            želeli, da se plebiscita udeležijo. In za konec. Zaupajmo predsedstvu,
                            vladi, zaupajmo razsodnosti Slovencev, usoda je v njihovih rokah.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Janez Lampret.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.LampretJanez">
+                     <sp who="sp:LampretJanez" corresp="#DZ-1990-VsiZbor-11.sp.LampretJanez">
                         <speaker>JANEZ LAMPRET:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani predstavniki vlade, spoštovani zbor.
                            Poslanke in poslanci Skupščine Republike Slovenije danes stojimo pred
@@ -2048,11 +2057,11 @@
                            in predlog še 28 poslancev v celoti podpre in nam naj ne bo žal časa za
                            glasovanje z osebnim izjavljanjem. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Milan Balažic.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BalažicMilan">
+                     <sp who="sp:BalazicMilan1958" corresp="#DZ-1990-VsiZbor-11.sp.BalažicMilan">
                         <speaker>MILAN BALAŽIC:</speaker>
                         <p>Spoštovani, v začetku sem imel namen polemizirati s predlogom 3. člena
                            gospoda Tomažiča. Mislim, da zdaj to ni več potrebno in je nesmiselno,
@@ -2066,11 +2075,12 @@
                            naša vlada, podprimo medstrankarski sporazum, to je naš sporazum, bodimo
                            vsaj tu enotni. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Milan Aksentijević.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.AksentijevićMilan">
+                     <sp who="sp:AksentijevicMilan1935"
+                         corresp="#DZ-1990-VsiZbor-11.sp.AksentijevićMilan">
                         <speaker>MILAN AKSENTIJEVIĆ:</speaker>
                         <p>Želel bi govoriti o izjavi vlade, ne pa o neposredni izjavi Skupščine, ki
                            smo jo dobili pravkar na klop. Kolikor sem lahko videl, je ta izjava
@@ -2179,11 +2189,11 @@
                         <p>Na koncu želim vsem nam veliko sreče na skupni demokratični poti nove
                            Jugoslavije.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Andrej Šter.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŠterAndrej">
+                     <sp who="sp:SterAndrej1958" corresp="#DZ-1990-VsiZbor-11.sp.ŠterAndrej">
                         <speaker>ANDREJ ŠTER:</speaker>
                         <p>Spoštovani. Za celovito informacijo je po mojem potrebno povedati
                            naslednje. Po kakršnihkoli mednarodnih normah in izkušnjah je normalno
@@ -2214,11 +2224,12 @@
                               <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Marcel Štefančič.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.ŠtefančičMarcel">
+                     <sp who="sp:StefancicMarcel1937"
+                         corresp="#DZ-1990-VsiZbor-11.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Spoštovano predsedstvo. Hvala. Predsednik in seveda slovenski parlament.
                            Upam, da smo bili deležni purgatorijuma, da je stvar pri kraju, vsaj tak
@@ -2233,11 +2244,12 @@
                            bi naj šli k glasovanju in ko naj bi šli k odločanju, seveda čimbolj z
                            aklamacijo, da je ta čas tudi napočil. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Imam še enega prijavljenega, to je gospod Gradišar.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.GradišarCvetko">
+                     <sp who="sp:GradisarCvetko1938"
+                         corresp="#DZ-1990-VsiZbor-11.sp.GradišarCvetko">
                         <speaker>DR. CVETO GRADIŠAR:</speaker>
                         <p>Strah, stiska in posledične težave, razni črni scenariji, variante,
                            preračunavanja in izračunavanja, so se vse bolj kazale, vsaj v strankah
@@ -2268,7 +2280,7 @@
                            padel v prazni prostor." Saj smo že razvojno vakuumsko pakirani v
                            Jugoslaviji.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. S tem je lista prijavljenih razpravljalcev izčrpana in s tem
                            tudi jaz zaključujem razpravo. Moram pa zbor opozoriti, da imamo opravka
@@ -2282,7 +2294,7 @@
                      </sp>
                      <stage type="time">(Seja je bila <time to="1990-12-06T17:00:00" xml:id="DZ-1990-VsiZbor-11.stage.t.2">prekinjena ob 17. uri</time> in se je <time from="1990-12-06T17:50:00" xml:id="DZ-1990-VsiZbor-11.stage.t.3">nadaljevala ob 17.50
                            uri</time>.)</stage>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Nadaljujemo sejo. Torej kot poročevalec Ustavne komisije moram poročati o
                            stališčih, ki jih je ta zavzela glede predlaganih amandmajev.</p>
@@ -2320,7 +2332,7 @@
                            komisije ste slišali in sedaj dajem najprej na glasovanje predlog
                            .Prosim? Gospod Gros želi še besedo. Prosim.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1990-VsiZbor-11.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Očitno komisija ni razumela kaj smo hoteli s prvim amandmajem. V 4. členu
                            piše sicer, da sprejme v šestih mesecih, vendar sprejme predpise.
@@ -2336,7 +2348,7 @@
                            slučajno kaj nepredvidenega zgodilo, ne smemo dopustiti, da konsumiramo
                            to pravico in bi vseeno prosil, da amandmaja podprete. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Ali želi še kdo diskutirati k amandmajem? V kolikor ne, bi
                            prešli na  glasovanje o amandmajih.</p>
@@ -2352,12 +2364,12 @@
                            ga je podal poslanec Anton Tomažič.</p>
                         <p>Kdo je, prosim, za ta amandma?</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BuserStanko">
+                     <sp who="sp:BuserStanko1932" corresp="#DZ-1990-VsiZbor-11.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Gospod predsednik, jaz bi prosil, da se pri vsakem ne pove samo ime,
                            temveč tudi prečita, za kaj gre.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Dobro, še enkrat prečitam ta člen: "Odločitev, da Republika Slovenija
                            postane samostojna in neodvisna država, je sprejeta, če se je plebiscita
@@ -2396,7 +2408,7 @@
                            ima po poslovniku pravico, da obrazloži zakaj bo glasoval, tako kot pač
                            misli glasovati.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.KolešnikCiril">
+                     <sp who="sp:KolesnikCiril" corresp="#DZ-1990-VsiZbor-11.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani predsednik skupščine, spoštovani predsednik Predsedstva
                            Republike Slovenije, spoštovani predsednik Izvršnega sveta, člani vlade,
@@ -2420,7 +2432,7 @@
                            decembra leta 1990 ostanimo raje na realnih tleh. Sicer pa se parlamentu
                            ne umira, niti ne se ljubi, ampak v parlamentu so le interesi. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Sedaj prihajamo na glasovanje o zakonu kot celoti. Ker iz
                            dvorane nihče ni odšel, mislim, da ni potrebno ponovno preverjanje
@@ -2460,7 +2472,7 @@
                            pisni obliki, in prosim predstavnika predsedstva, gospoda Kmecla, da poda
                            svoje stališče.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.KmeclMatjaž">
+                     <sp who="sp:KmeclMatjaz1934" corresp="#DZ-1990-VsiZbor-11.sp.KmeclMatjaž">
                         <speaker>DR. MATJAŽ KMECL:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani gospodje poslanci, gospe
                            poslanke. Predlog, ki ga je dal gospod Peršak za spremembo tega pisma o
@@ -2483,7 +2495,7 @@
                            To pa mislim, da je tudi vse. Prosim? Ni bil, potem je bil pa Šeligo.
                            Dobro, mislim, da je vseeno umesten. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1990-VsiZbor-11.sp.BučarFrance">
+                     <sp who="sp:BucarFrance1923" corresp="#DZ-1990-VsiZbor-11.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Ali se predlagatelji strinjajo s temi? Hvala. Potem dajem predlog
                            tega pisma na glasovanje.</p>

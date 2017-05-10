@@ -284,7 +284,7 @@
                </stage>
                <div xml:id="DZ-1991-Delovna-10.div.1.1.1" ana="#PAR.PredDnevRed">
                   <div xml:id="DZ-1991-Delovna-10.div.1.1.1.1" ana="#PAR.DolDnevRed">
-                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovani poslanci, gospe in gospodje, cenjeni gostje! <title>Pričenjam 10.
                            skupno delovno sejo vseh treh zborov Skupščine Republike Slovenije kjer
@@ -303,7 +303,7 @@
                   <div xml:id="DZ-1991-Delovna-10.div.1.1.1.2"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-10.toc.1.1">
-                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <p>Najprej ugotavljamo <title>navzočnost</title> Družbenopolitičnega zbora.
                               <stage type="quorum">(40 prisotnih.)</stage> Torej ni sklepčen.</p>
                         <p>Navzočnost v Zboru občin <stage type="quorum">(50 prisotnih)</stage>. Je sklepčen.</p>
@@ -312,7 +312,7 @@
                         <p>Mi ugotavljamo prisotnost, vendar izkoristimo čas - prosim, gospod
                            Buser.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.BuserStanko">
+                     <sp who="sp:BuserStanko1932" corresp="#DZ-1991-Delovna-10.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovane poslanke in poslanci ter predsedstvo! Ker vem, da v enem zboru
                            manjka precej delegatov, vem pa, da so med tistimi delegati ravno tako
@@ -320,7 +320,7 @@
                            dvorano, oziroma rečeno slovensko, da se jih po možnosti pokliče. Takšnih
                            korakov ne odobravam, jih nisem in jih nikoli ne bom. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Počakamo še minuto, dve, da ugotovimo navzočnost.</p>
                         <p>Ugotovimo navzočnost: Družbenopolitični zbor <stage type="quorum">(45
@@ -336,7 +336,7 @@
                         <p>Skupna delovna seja po poslovniku ni sklepčna.</p>
                         <p>Gospod Šter želi besedo, čeprav razprave ni.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ŠterAndrej">
+                     <sp who="sp:SterAndrej1958" corresp="#DZ-1991-Delovna-10.sp.ŠterAndrej">
                         <speaker>ANDREJ ŠTER:</speaker>
                         <p>Spoštovani! Ker nisem za socializacijo odgovornosti, predlagam, da
                            predsedniki vseh treh zborov poimensko pokličejo delegate. Kajti samo od
@@ -347,7 +347,7 @@
                            kdo ostal v dvorani. Želim pa, da se ugotovi, kdo od mojih kolegov je
                            tukaj.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Samo proceduralno ugotavljam: delovna seja ni sklepčna, zato prekinjam
                            sejo. Delovna seja bo predvidoma ponovno sklicana v petek. Hvala
@@ -361,7 +361,7 @@
                   <div xml:id="DZ-1991-Delovna-10.div.1.1.1.3"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-10.toc.1.2">
-                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Nadaljujemo z nedokončano 10. skupno delovno sejo vseh treh zborov
                            Skupščine Republike Slovenije.</p>
@@ -393,7 +393,7 @@
                   <div xml:id="DZ-1991-Delovna-10.div.1.1.2.1"
                        ana="#PAR.TDR"
                        corresp="#DZ-1991-Delovna-10.toc.2.1">
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Pri 10. delovni seji vseh treh zborov nam je ostalo samo vprašanje
                            <title>ZAKONA O ZADRUGAH</title>.</p>
@@ -439,12 +439,13 @@
                            kar smo rekli, da bomo pripravili in da gremo tako kot smo rekli naprej.
                            Zato bom glasoval proti temu členu.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Jaz vem, da je bilo malo mimo, ampak čisto pa ne, ker ima vsak
                            možnost obrazložiti svoj glas. To moramo. Gospod Zagožen.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZagoženFranc">
+                     <sp who="sp:ZagozenFrance1942"
+                         corresp="#DZ-1991-Delovna-10.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Jaz bom glasoval "za" predlog usklajevalne komisije, da se ta amandma
                            umakne. Če bi bil namreč sprejet in če bi črtali X. poglavje, potem ne bi
@@ -458,11 +459,12 @@
                         <p>Glasoval bom torej "za" predlog usklajevalne komisije, da se ta amandma
                            umakne. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Prosim, gospod Frelih.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.FrelihLeopold">
+                     <sp who="sp:FrelihLeopold1945"
+                         corresp="#DZ-1991-Delovna-10.sp.FrelihLeopold">
                         <speaker>LEOPOLD FRELIH:</speaker>
                         <p>Spoštovani predsednik, spoštovane poslanke in poslanci! Jaz bom glasoval
                            "za" to, da X. poglavje ostane, bom pa v kratkem obrazložil zakaj.</p>
@@ -526,12 +528,12 @@
                            zakon sprejeti takoj, ne pa ga odlašati že leto dni.</p>
                         <p>Zato bom glasoval za to, da X. poglavje ostane v zakonu. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. No, sedaj smo si bot; tako da je eno in drugo pokrito. Gospod
                            Gošnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.GošnikVano">
+                     <sp who="sp:GosnikVane1953" corresp="#DZ-1991-Delovna-10.sp.GošnikVano">
                         <speaker>VANO GOŠNIK:</speaker>
                         <p>Hvala lepa predsedujoči. 2. člen ustavnega zakona k sprejemu Ustave
                            Republike Slovenije pravi, da do konstituiranja Državnega zbora,
@@ -544,25 +546,25 @@
                            do sedaj uspešno. Prosim zato delovno predsedstvo, da pojasni, po kakšnih
                            določilih poslovnika oziroma ustave se sedaj ravnamo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Poglavje VII. poslovnika, odločanje; 125. člen: "Delegati v zboru imajo
                            pravico obrazložiti svoj glas pred glasovanjem. Njegova obrazložitev ne
                            sme trajati več kot 5 minut."</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.GošnikVano">
+                     <sp who="sp:GosnikVane1953" corresp="#DZ-1991-Delovna-10.sp.GošnikVano">
                         <speaker>VANO GOŠNIK:</speaker>
                         <p>Oprostite, mislim, da delo skupne delovne seje je opredeljeno v ustavi,
                            kot sklepno dejanje, ko ni nobeno usklajevanje po zborih uspelo. Prosim,
                            da preverite, kako smo do sedaj delovali na skupni delovni seji.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Predlagate, da prekinemo sejo? O odločanju imamo samo tu to napisano in
                            bomo se tako pač morali držati. Mislim pa, da bi lahko skrajšali razprave
                            in bi tudi bilo vse dobro. Še kdo želi? Gospod Rogina ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.RoginaBogo">
+                     <sp who="sp:RoginaBogo1947" corresp="#DZ-1991-Delovna-10.sp.RoginaBogo">
                         <speaker>BOGO ROGINA:</speaker>
                         <p>Glasoval bom proti predlogu usklajevalne skupine. Poleg vseh že znanih
                            razlogov ugotavljamo, da pravzaprav ta zakon o zadrugah obravnava samo
@@ -570,11 +572,12 @@
                            vlade pa vidimo, da rešuje tudi ostalo zadružništvo. In v Sloveniji imamo
                            še drugo zadružništvo. Ne samo kmetijsko. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še kdo? Gospod Podobnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1991-Delovna-10.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Gospod predsednik, želel bi samo, ker so nekatere stvari nejasne, ker je
                            bil en amandma in potem še amandma usklajevalne komisije na ta amandma,
@@ -584,11 +587,11 @@
                            celotnega zadružništva, podpiram ugotovitev gospoda Freliha in dr.
                            Zagožna. Glasoval bom za amandma usklajevalne komisije. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Potrč.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.PotrčMiran">
+                     <sp who="sp:PotrcMiran1938" corresp="#DZ-1991-Delovna-10.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>V stranki imamo na žalost, ampak samo o X. poglavju, ne pa o zadružnem
                            zakonu, različne poglede. Jaz moram ponoviti, da večina poslancev v
@@ -612,11 +615,12 @@
                            delavce in zadružnike, dočim sem prepričan, da jih takšen dekret ne bo
                            povezal in v tem bo škoda, ki jo bomo s tem zakonom naredili. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Zdravko Zabukovec.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZabukovecZdravko">
+                     <sp who="sp:ZabukovecZdravko1940"
+                         corresp="#DZ-1991-Delovna-10.sp.ZabukovecZdravko">
                         <speaker>ZDRAVKO ZABUKOVEC:</speaker>
                         <p>Najprej bi rad pojasnil očitek, ki ga je gospod Potrč dal, da ni
                            pripravljenosti za usklajevanje. Tisti del Zbora združenega dela, ki je
@@ -638,7 +642,7 @@
                            sklepčnost, ker mislim, da je v tem času veliko delegatov prišlo in odšlo
                            iz dvorane. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Želi še kdo? Če nihče, lahko zaključim razpravo. In sicer bomo
                            glasovali, in seveda  tudi preverili prisotnost, o amandmaju. Sicer, ker
@@ -650,13 +654,13 @@
                            lahko do konca povem. Prosim. O amandmajih glasujemo, ne o umiki ali
                            za...</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1991-Delovna-10.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Vedno v tej skupščini glasujemo o predlogu usklajevalne komisije in
                            prosim, da tak predlog date na glasovanje gospod predsedujoči, da ne bomo
                            izgubljali časa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Mislim, da to ni čisto prav, ampak, če se s tem želite izogniti, je pa
                            seveda dobro. Potem bom pa tako rekel:</p>
@@ -674,7 +678,8 @@
                            odloča o amandmajih, moramo tako tudi odločati. Ne vem, če bomo kaj na
                            hitrosti pridobili. Gospod Podobnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1991-Delovna-10.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Oprostite gospod predsedujoči, mislim, da to, kar ste sedaj naredili, ni
                            bilo korektno. Kajti vi ste povedali prej, o čem naj bi glasovali, pet,
@@ -684,7 +689,7 @@
                            se izjasnjevali, da ga tako postavite tudi sedaj, zato da bodo poslanci
                            jasno vedeli, za kaj se bodo pri tem opredelili. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Lepo vas prosim, mi glasujemo o amandmajih in častna beseda nimam nič
                            nekorektnosti za seboj. Zakaj pa? Da se prav razumemo. In če je amandma
@@ -706,7 +711,7 @@
                      </sp>
                      <stage type="time">(Seja je bila <time to="1992-01-15T18:23:00" xml:id="DZ-1991-Delovna-10.stage.t.6">prekinjena ob 18.23 uri</time> in se je <time from="1992-01-15T18:30:00" xml:id="DZ-1991-Delovna-10.stage.t.7">nadaljevala ob 18.30
                            uri</time>.)</stage>
-                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Ali ne bom preveč smešen, če bom pozval k glasovanju, da ugotovimo,
                            koliko nas je tu.</p>
@@ -726,7 +731,7 @@
                   <div xml:id="DZ-1991-Delovna-10.div.1.1.2.2"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-10.toc.2.2">
-                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovani poslanci, gospe in gospodje, cenjeni gostje, predstavniki
                            sredstev javnega obveščanja, ponovno pričenjamo 10. skupno delovno sejo
@@ -754,7 +759,7 @@
                            prosim, če je proceduralno vprašanje? Razprave ni. Nismo sklepčni.
                            Proceduralno vprašanje. Gospod Mak, prosim.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.MakViljem">
+                     <sp who="sp:MakViljem1937" corresp="#DZ-1991-Delovna-10.sp.MakViljem">
                         <speaker>VILJEM MAK:</speaker>
                         <p>Danes je četrta seja o isti temi. Trikrat sem prečital v časopisu, da je
                            seja odpadla zato, ker smo poslanci Zbora združenega dela nesklepčni.
@@ -764,7 +769,7 @@
                            ugotovimo, da je to preprosto blokada, da to ni nekaj, da se nam pač ne
                            ljubi. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Mi tukaj nismo sklepčni, zato prekinjam 10. skupno delovno
                            sejo.</p>

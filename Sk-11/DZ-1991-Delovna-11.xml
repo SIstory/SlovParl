@@ -362,7 +362,7 @@
                   <time from="1991-12-27T17:35:00" xml:id="DZ-1991-Delovna-11.stage.t.1">Začetek seje ob 17.35</time>. </stage>
                <div xml:id="DZ-1991-Delovna-11.div.1.1.1" ana="#PAR.PredDnevRed">
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.1.1" ana="#PAR.DolDnevRed">
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Poslanke in poslanci, pričenjamo z 11. Delovno skupno sejo vseh treh
                            zborov Skupščine Republike Slovenije, kjer bomo obravnavali, glede na to,
@@ -378,7 +378,7 @@
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.1.2"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-11.toc.1.1">
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <p>Najprej potem ugotovimo sklepčnost, <title>prisotnost</title>.</p>
                         <p>Poslanke in poslanci Družbenopolitičnega zbora. Ste vsi? <stage type="quorum">(43
                               prisotnih.)</stage> Poslanci Zbora občin, prosim. Ste? <stage type="quorum">(40
@@ -394,18 +394,20 @@
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.1.2a"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-11.toc.1.2">
-                     <sp who="#DZ-1991-Delovna-11.sp.FeltrinFranci">
+                     <sp who="sp:FeltrinFranci1943"
+                         corresp="#DZ-1991-Delovna-11.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci. V imenu velike večine Zbora
                            občin predlagam, da najprej  dokončamo nedokončano sejo vseh zborov, ki
                            je bila o glasovanju o zadrugah, potem pa  nadaljujemo današnje
                            zasedanje.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Prosim gospod Malešič, podpredsednik Izvršnega sveta.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.MalešičMatija">
+                     <sp who="sp:MalesicMatija1933"
+                         corresp="#DZ-1991-Delovna-11.sp.MalešičMatija">
                         <speaker> MATIJA MALEŠIČ:</speaker>
                         <p>Spoštovano predsedstvo, poslanke, poslanci, dovolite mi, da predlagam, da
                            vendarle končamo pokojninsko zakonodajo. Neusklajen je ostal samo še en
@@ -416,7 +418,7 @@
                            sprejemali, edino en člen pa je ostal neusklajen. Predlagam, da začnete s
                            pokojninsko zakonodajo.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Če lahko še kot predsednik Zbora združenega dela dam to
                            pojasnilo:</p>
@@ -426,7 +428,8 @@
                            korektno pričeli razgovarjanje, da to  razgovarjanje tudi dopustite in
                            danes to torej  ne bi obravnavali. Prosim, gospod Potočnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.PotočnikFranc">
+                     <sp who="sp:PotočnikFranc1955"
+                         corresp="#DZ-1991-Delovna-11.sp.PotočnikFranc">
                         <speaker>FRANC POTOČNIK:</speaker>
                         <p>Glede na to, da poslanci Slovenske kmečke zveze - Ljudske stranke, zdajle
                            tukajle prvič slišim, da so se z nami pogovarjali, ne vem s kom je to
@@ -434,16 +437,16 @@
                            sedimo, pravzaprav nikoli ne manjkamo, se o tem z nami nihče ni
                            pogovarjal.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Ja meni je malo nerodno to, ampak vseeno, gospod Golja.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.GolijaFranc">
+                     <sp who="sp:GolijaFranc" corresp="#DZ-1991-Delovna-11.sp.GolijaFranc">
                         <speaker> FRANC GOLIJA:</speaker>
                         <p>Predlagam, da predlog, ki ga je dal gospod Feltrin, da gre na
                            glasovanje.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Dobro. Jaz moram še enkrat povedati, ker je bilo postavljeno vprašanje. Z
                            dvema sem se najmanj jaz sam pogovarjal. In sicer z vodjo poslanskega
@@ -453,7 +456,8 @@
                            kraju vseh krajev so tudi nekateri vaši rekli, da bi bilo dobro, da se
                            dogovorimo. Gospod Zagožen.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZagoženFranc">
+                     <sp who="sp:ZagozenFrance1942"
+                         corresp="#DZ-1991-Delovna-11.sp.ZagoženFranc">
                         <speaker>DR. FRANCE ZAGOŽEN:</speaker>
                         <p>Meni je Podobnik pripovedoval, da ste se o tem pogovarjali. Povedal je pa
                            tudi, da so razgovori pokazali, da do dogovora kot kaže ne bo prišlo.
@@ -464,11 +468,12 @@
                            ravna. In jaz mislim, da ni pravzaprav nobenega razloga, da ne bi
                            usklajevali vseh zakonov, ki so na dnevnem redu po vrsti.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Frelih.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.FrelihLeopold">
+                     <sp who="sp:FrelihLeopold1945"
+                         corresp="#DZ-1991-Delovna-11.sp.FrelihLeopold">
                         <speaker>LEOPOLD FRELIH:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani poslanci moja dolžnost, da tudi povem,
                            da sem bil eden izmed udeležencev tega pogovora. Ker pa nič ne pomeni, ne
@@ -496,11 +501,12 @@
                            zvezi sem dolžan, da to informacijo dam, jasno pa, da odločitev danes
                            kakšna pač bo; padel je predlog gospoda Feltrina. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Avberšek.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.AvberšekFranc">
+                     <sp who="sp:AvbersekFranc1947"
+                         corresp="#DZ-1991-Delovna-11.sp.AvberšekFranc">
                         <speaker>MAG. FRANC AVBERŠEK:</speaker>
                         <p>Spoštovani delegati. Moram reči, da ne vem kdo ima koga za norca. Sem smo
                            prišli brez vsakega materiala za dnevni red, ki ga zdaj ponujate. Mislim,
@@ -515,11 +521,12 @@
                            kdo ne ve zakaj je ta zakonodaja padla, prva in druga, tudi gospod
                            Zagožen, potem je tudi to dovolj žalostno. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1991-Delovna-11.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Mislim, da nismo vredni takih lekcij in da nima nihče pravice očitati, da
                            ne smemo nadaljevati seje za katero smo bili sklicani in je 11 poslancev
@@ -531,12 +538,12 @@
                            aspekti. In predlagam, da najprej glasujemo o tem zakonu in potem o
                            zakonu o pokojninskem oz. 51. členu.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Gošnik. Ostale poslanke in poslance pa prosim, da premislijo, ali
                            je potrebno o tej zadevi sploh razpravljati.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.GošnikVano">
+                     <sp who="sp:GosnikVane1953" corresp="#DZ-1991-Delovna-11.sp.GošnikVano">
                         <speaker>VANO GOŠNIK:</speaker>
                         <p>Hvala lepa. Tudi mene je spodbudil nastop kolega Avberška in njegov poduk
                            in krščanskega nauka. Predlagam preprosto, da glasujemo o tem, da se
@@ -545,11 +552,11 @@
                            ne bo uvrščena na dnevni red, pač ne bo uvrščena. Če bo, pa bo. Vsi pa
                            vemo za kaj gre. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospod Kopač.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.KopačJanez">
+                     <sp who="sp:KopacJanez1961" corresp="#DZ-1991-Delovna-11.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Hvala za besedo, gospod predsedujoči.  Spoštovane in spoštovani, jaz
                            predlagam, da ne nadaljujemo tiste prejšnje seje v zvezi z Zakonom o
@@ -569,11 +576,11 @@
                            sklepa, da torej najprej glasujemo o tem, da je dnevni red takšen kot je
                            bil prvotno tukaj predstavljen. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Prosim gospod Gros.  </p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1991-Delovna-11.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Mene pa le zanima na osnovi česa sklepa gospod Kopač, da bomo ostali brez
                            enega in brez drugega zakona. Jaz mislim, če smo resni, bomo ostali z
@@ -581,11 +588,12 @@
                            osnovi katerega člena Poslovnika se je pogajal s šefi strank o zadevi, ki
                            se samo glasuje o njej na tem zboru. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospod Feltrin.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.FeltrinFranci">
+                     <sp who="sp:FeltrinFranci1943"
+                         corresp="#DZ-1991-Delovna-11.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Moram gospoda Kopača razočarati kot predlagatelj, da nisem kmet in niti
                            nimam pedi zemlje. Pa se zavzemam za red, ravno zato, ker smo nekaj
@@ -594,7 +602,7 @@
                            da na glasovanje. Čisto nič se ne zavzemam, nimam kmetije in je tudi ne
                            mislim imeti. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Ker je bilo vseeno postavljeno vprašanje od gospoda Grosa
                            naravnost na mene; jaz seveda se nisem v nobenem členu Poslovnika niti
@@ -628,7 +636,7 @@
                      </sp>
                      <stage type="time">(Seja je bila <time to="1991-12-27T17:55:00" xml:id="DZ-1991-Delovna-11.stage.t.2">prekinjena ob 17.55 uri</time> in se je <time from="1991-12-27T18:02:00" xml:id="DZ-1991-Delovna-11.stage.t.3">nadaljevala ob 18.02
                            uri</time>.)</stage>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Predlagam, da vseeno poskusimo z 11. delovno skupno sejo.</p>
                         <p>Vse poslanke in poslance obveščam, da bomo poskusili z 11. delovno skupno
@@ -670,7 +678,7 @@
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.1.3"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-11.toc.1.3">
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci, cenjeni gostje in predstavniki sredstev
                            javnega obveščanja. Poskusili bi z nadaljevanjem 10. in 11. skupne
@@ -704,24 +712,25 @@
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.1.4"
                        ana="#PAR.DolDnevRed"
                        corresp="#DZ-1991-Delovna-11.toc.1.4">
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <p>Prehajamo na odločanje o spornih vprašanjih pri PREDLOGU ZAKONA O POKOJNINSKEM
                            IN INVALIDSKEM ZAVAROVANJU.</p>
                         <p>Prosim tudi podpredsednika, da prideta gor k mizi, da mi bosta pomagala
                            pri vodenju. Prosim, gospod Feltrin.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.FeltrinFranci">
+                     <sp who="sp:FeltrinFranci1943"
+                         corresp="#DZ-1991-Delovna-11.sp.FeltrinFranci">
                         <speaker> FRANCI FELTRIN:</speaker>
                         <p>Gospod predsednik, jaz bi predlagal, tako kot že na prejšnji seji, da
                            gremo po vrstnem redu: 10. in 11. seja. Držimo se nekega reda. Nisem
                            proti nikomur, ampak prosim, da se najprej konča 10. seja in da gremo
                            nato na 11. sejo. Bodimo iskreni drug do drugega. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>V redu, hvala. Gospod Zlobec.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZlobecJašaL">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1991-Delovna-11.sp.ZlobecJašaL">
                         <speaker> JAŠA L. ZLOBEC:</speaker>
                         <p>Jaz ne vem, kdo in zakaj kolego Feltrina okrog prinaša, ampak stvar je
                            jasna. Tukaj ne gre ne za iskrenost, ne za vrstni red. Tukaj gre za dva
@@ -737,11 +746,12 @@
                            tisti, ki to rušite. Oprostite, vam povem: zopet se bo zgodilo isto kot
                            zadnjič in to po vaši krivdi.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod  Feltrin.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.FeltrinFranci">
+                     <sp who="sp:FeltrinFranci1943"
+                         corresp="#DZ-1991-Delovna-11.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>naj mi gospod Zlobec oprosti. Pokojninski zakon imamo, zakona o zadrugah
                            pa nimamo in se dela ogromna narodna škoda. Če tega ne veste, pojdite
@@ -749,11 +759,12 @@
                            Ne vem zaradi koga; to se pa vprašajte vi sami, oprostite, ne sprašujte
                            pa mene.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Dragovan.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.DragovanSlavko">
+                     <sp who="sp:DragovanSlavko1961"
+                         corresp="#DZ-1991-Delovna-11.sp.DragovanSlavko">
                         <speaker>SLAVKO DRAGOVAN:</speaker>
                         <p>Imel bi samo repliko gospodu Zlobcu. Gospod Zlobec prejudicira nekatere
                            stvari. Gre samo za proceduralne zadeve. Končajmo 10. sejo in nadaljujmo
@@ -761,18 +772,19 @@
                            predsednik, da daste to na glasovanje, če se ne moremo drugače zmeniti in
                            to zaključimo. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Prosim, replika.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.Neidentificirangovornik">
+                     <sp who="sp:unknown"
+                         corresp="#DZ-1991-Delovna-11.sp.Neidentificirangovornik">
                         <speaker>NEIDENTIFICIRAN GOVORNIK:</speaker>
                         <p>Gospod predsedujoči, protestiram, da glasujemo, ker smo o tem zadnjič
                            glasovali. In smo zadnjič izglasovali, da obravnavamo najprej vsebino 10.
                            seje in nato nadaljujemo z 11. sejo. In vas sprašujem, zakaj je danes
                            drugačen predlog dnevnega reda. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Ali želi še kdo razpravljati? Vprašanje je - jaz sem tudi samo zaradi
                            tega, ker je tu samo en člen in potem je zakon nekako pod streho, medtem
@@ -788,7 +800,7 @@
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.1.5"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-11.toc.1.5">
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! Slišali ste predlog. Mi trije
                            predsedniki se tu strinjamo s tem predlogom. Ker pa sem že bil enkrat
@@ -817,7 +829,7 @@
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.1.6"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-Delovna-11.toc.1.6">
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci, cenjeni gosti, predstavniki sredstev
                            javnega obveščanja. Nadaljujemo s prekinjeno 11. skupno delovno sejo vseh
@@ -854,7 +866,7 @@
                   <div xml:id="DZ-1991-Delovna-11.div.1.1.2.1"
                        ana="#PAR.TDR"
                        corresp="#DZ-1991-Delovna-11.toc.2.7">
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <p>Prehajamo na odločanje o spornih vprašanjih pri
                            <title>PREDLOGU ZAKONA O POKOJNINSKEM IN INVALIDSKEM
                            ZAVAROVANJU</title>.</p>
@@ -892,7 +904,7 @@
                         <p>Na glasovanje dajem amandma Zbora občin k 51. členu, ki se glasi tako,
                            kot sem ga prej že prebral. Prosim. Možno, gospod Semolič.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.SemoličDušan">
+                     <sp who="sp:SemolicDusan1947" corresp="#DZ-1991-Delovna-11.sp.SemoličDušan">
                         <speaker>MAG. DUŠAN SEMOLIČ:</speaker>
                         <p>Spoštovani poslanci in poslanke. Glasoval bom proti. Zaradi tega, ker
                            preprosto, če upoštevamo vsaj delovne pogoje naših delavk v industriji je
@@ -912,11 +924,11 @@
                         <p>Vsekakor gre za norost, brez zamere za trdo besedo. Zaradi tega bom
                            glasoval proti temu amandmaju. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Metka Mencin.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.MencinMetka">
+                     <sp who="sp:MencinMetka" corresp="#DZ-1991-Delovna-11.sp.MencinMetka">
                         <speaker>METKA MENCIN:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci. Tudi jaz bom glasovala proti
                            temu amandmaju. Argumentom, ki so bili že povedani, bi dodala še
@@ -945,11 +957,12 @@
                            nižali pravice žensk, potem bomo priča še hitrejšemu slabšanju položaja
                            žensk. Skratka zaradi tega bom proti amandmaju.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še Darja Lavtižar Bebler.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.Lavtižar-BeblerDarja">
+                     <sp who="sp:LavtizarBeblerDarja1950"
+                         corresp="#DZ-1991-Delovna-11.sp.Lavtižar-BeblerDarja">
                         <speaker>DARJA LAVTIŽAR BEBLER:</speaker>
                         <p>Spoštovani poslanci. Sklicevanje ne preprečevanje diskriminacije med
                            spoloma na tem mestu ni upravičeno, ker gre za izenačevanje na slabše, ne
@@ -969,11 +982,12 @@
                            brezposelnih. Najbrž je treba gledati tudi na to dimenzijo.</p>
                         <p>Zato bom odločno glasovala proti temu amandmaju. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Franci Potočnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.PotočnikFranc">
+                     <sp who="sp:PotočnikFranc1955"
+                         corresp="#DZ-1991-Delovna-11.sp.PotočnikFranc">
                         <speaker>FRANC POTOČNIK:</speaker>
                         <p>Sem za enakopravnost žensk in moških, ne za enakost. Enaki nismo. Vsi smo
                            ljudje, ampak v nekem bistvenem delu se razlikujemo, da ne bi tukaj kaj
@@ -989,11 +1003,12 @@
                         <p>Torej, glasoval bom za ta amandma, da se tudi v tem zakonu da tisto
                            nagrado materam za njihovo poslanstvo. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. G. Ervin Anton Schwarzbartl.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovano predsedstvo, kolegi in kolegice, nimam zraven očal, zato, ker
                            nisem pripravljen z nekim govorom. Želel bi samo zagovarjati stališče, ki
@@ -1007,11 +1022,12 @@
                            enakovredne vse ženske, kajti med ženskami so sigurno matere tiste, ki
                            danes, kot nosilci ...</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZlobecJašaL">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1991-Delovna-11.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC (iz klopi):</speaker>
                         <p>"Fašist!"</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>... slovenstva lahko ali ne ogrožajo nadaljnji obstoj tega naroda. Moramo
                            izhajati iz preprostega dejstva, da je statistika pokazala, da imamo
@@ -1019,24 +1035,26 @@
                         <p>
                            </p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                               <speaker>(Vmes intervenca predsedujočega:</speaker>  
                                  <ab>Dajmo, no.)</ab>
                               </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
                         <p>
                               statistične
                            podatke,</p>
                         <p>
                            </p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                               <speaker>(Vmes intervenca predsedujočega:</speaker> 
                                  <ab>Iskreno prosim vse poslance in
                               poslanke na korektnost enih in drugih in da opravimo to točko. Jaša
                               Zlobec opominjam vas.)</ab>
                         </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-Delovna-11.sp.SchwarzbartlErvinAnton">
                         <p>ki kažejo na to, da imamo od 18% v preteklosti ljudi v tem prostoru, ki
                            niso bili v zakonu, kot se pravi, ali so bili samski ali v dvoje, kar ne
                            predstavlja družino in da je ta procent od 18% narasel že na 28%. S tem,
@@ -1054,11 +1072,12 @@
                            prekinejo prav iz razloga, da se bodo ukvarjale s svojim materinskim
                            poklicem. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Nace Polajnar, prosim. Po vrsti.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.PolajnarIgnac">
+                     <sp who="sp:PolajnarIgnac1948"
+                         corresp="#DZ-1991-Delovna-11.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Jaz bom glasoval za ta amandma, zato, ker mislim, da materinstvo je
                            poklic in da ga je kot poklic potrebno družbeno pravilno vrednotiti.
@@ -1074,12 +1093,12 @@
                            to lahko prvi korak k temu reševanju. Bom pa vesel, če bodo tudi drugi
                            zakoni potem šli enako pot. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Besedo ima Mile Šetinc. Jaz sem povedal, da greste po vrsti,
                            naslednji bo potem  gospod Potrč, potem je šele gospod Kolešnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ŠetincMile">
+                     <sp who="sp:SetincMile1956" corresp="#DZ-1991-Delovna-11.sp.ŠetincMile">
                         <speaker>MILE ŠETINC:</speaker>
                         <p>Spoštovani! Gotovo noben normalen človek ne bi nasprotoval temu, da se
                            razbremenijo ženske, oziroma z dodatnimi olajšavami tiste ženske, ki so
@@ -1100,20 +1119,20 @@
                               ...
                            </p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                               <speaker>(vmes intervencija predsedujočega:</speaker> 
                                  <ab>Gre samo za obrazložitev
                               glasu!)</ab>
                         </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ŠetincMile">
+                     <sp who="sp:SetincMile1956" corresp="#DZ-1991-Delovna-11.sp.ŠetincMile">
                         <p>Saj bom takoj končal. Iz tega razloga in z dodatnimi argumenti, ki jih je
                            dal gospod Schwarzbartl, bom glasoval proti temu amandmaju. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Naslednji ima besedo Miran Potrč.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.PotrčMiran">
+                     <sp who="sp:PotrcMiran1938" corresp="#DZ-1991-Delovna-11.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Spoštovani! Glasoval bom proti temu  amandmaju. Vsebinska obrazložitev je
                            bila dovolj tehtno predlagana in obrazložena tudi iz poročila skupne
@@ -1145,13 +1164,13 @@
                            da bodo tudi volilke in volilci vedeli, kdo jim je zvečal ali znižal
                            pokojnino, do katere  bodo od 1. aprila najprej upravičene. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Predno dam besedo naslednjemu razpravljalcu, vas prosim, da se držite
                            poslovnika.  Gre za obrazložitev glasu, ne pa za načelno razpravo, v
                            katero vsi po malem posegate. Dalje ima besedo gospod Ciril Kolešnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.KolešnikCiril">
+                     <sp who="sp:KolesnikCiril" corresp="#DZ-1991-Delovna-11.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani gospod predsednik! V skladu, ne vem točno s katerim členom
                            poslovnika, to mi boste pomagali vi pri strokovni službi zahtevam, da se
@@ -1179,7 +1198,7 @@
                            ploskanje)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospodu Kolešniku bi samo to rad povedal, da sem gospodu Jaši Zlobcu
                            izrekel opomin. Kaj posebnega v zvezi z opravičevanjem pa žal v
@@ -1196,7 +1215,7 @@
                            potem Marija Markež, potem Danijel Starman, potem Franc Gradišar, potem
                            je Marcel Štefančič; in še Tomažič, Avberšek.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.JuriFranco">
+                     <sp who="sp:JuriFranco1956" corresp="#DZ-1991-Delovna-11.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Spoštovani! Glasoval bom proti predlaganemu amandmaju, ker mislim, da so
                            pereči problemi mladih  družin, staršev zelo pomembni, ampak jih gre
@@ -1220,11 +1239,11 @@
                            glasovanju bo ta pretežna moška večina glasovala tudi ob upoštevanju
                            ženskih interesov. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Prosim, Marija Markeš.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.MarkešMarija">
+                     <sp who="sp:MarkesMarija" corresp="#DZ-1991-Delovna-11.sp.MarkešMarija">
                         <speaker>MARIJA MARKEŠ:</speaker>
                         <p>Zato, da ne bi bilo slučajno kakšnega  dvoma, moram reči, in tudi moje
                            dosedanje delo absolutno kaže na to, in tudi moja ravnanja, da absolutno
@@ -1246,12 +1265,13 @@
                            <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Predlagam, da nekateri poslanci odstopite od svojih razprav. Danijel
                            Starman odstopi. Franci Gradišar?</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.GradišarFranc">
+                     <sp who="sp:GradisarFranc1945"
+                         corresp="#DZ-1991-Delovna-11.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Glasoval bom proti in to iz preprostega razloga, ker ponujena rešitev je
                            v stvari za uporabnice tega amandmaja optična prevara. Zakaj? Ta, ki ima
@@ -1264,7 +1284,7 @@
                            za to, da to materinstvo za enega, dva, tri itd, tako kot je moja
                            predhodnica povedala, ocenimo, naredimo itd. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še enkrat prosim za posluh! Gospod Schwarzbartl mi je dal tale
                            listek:</p>
@@ -1304,7 +1324,8 @@
                            skupščine. Lepo prosim, dajmo potem izpeljati to skupno delovno sejo. Po
                            vrsti gremo naprej. Danijel Starman.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1991-Delovna-11.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovane kolegice, matere in nematere, spoštovani očetje in moški! Sem
                            oče štirih otrok in 13. otrok v dolenjski družini.</p>
@@ -1320,21 +1341,23 @@
                            ker gledam kar mi zdravniki govorijo o propadanju slovenske
                            populacije.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Obrazložitev glasu, prosim!</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1991-Delovna-11.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Zato predlagam in apeliram na vse, ki ste v dvomih, da ne izhajate iz
                            čustev in razklanosti parlamenta in nezmožnosti Zbora združenega dela, da
                            se konstituira, ampak, da podprete amandma Zbora združenega dela.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Marcel Štefančič.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ŠtefančičMarcel">
+                     <sp who="sp:StefancicMarcel1937"
+                         corresp="#DZ-1991-Delovna-11.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Na današnjem
                            zasedanju sem spoštljivo poslušal vse tiste, ki so razpravljali in tudi
@@ -1343,39 +1366,40 @@
                            ne čudimo, če bo kdo postavil vprašanje, kakšna neki je današnja seja, če
                            je bilo nekaj pred to sejo označeno za karikaturo demokracije.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PODPREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Ne se s temi zadevami ukvarjati. Obrazložitev glasu lepo prosim.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ŠtefančičMarcel">
+                     <sp who="sp:StefancicMarcel1937"
+                         corresp="#DZ-1991-Delovna-11.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Sem povedal, da sem spoštljivo govoril o vseh, ki so nastopali, vendarle
                            pravim, da dejansko se sprašujem o oznaki tiste seje vis-a-vis oznake
                            seveda te seje današnje. Glasoval bom seveda tako kot je prav.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Franc Tomšič.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.TomšičFrance">
+                     <sp who="sp:TomsicFrance1937" corresp="#DZ-1991-Delovna-11.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Hvala lepa predsedujoči. Spoštovane poslanke in poslanci! Tudi sam se
                            čudim, da je, bi lahko rekel, prijatelj Jaša Zlobec, s katerim smo 88.
                            leta pričeli  pravzaprav ...</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Tomšič, opozarjam vas, opozarjam vas.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.TomšičFrance">
+                     <sp who="sp:TomsicFrance1937" corresp="#DZ-1991-Delovna-11.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Kar dajte!</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Obrazložite svoj glas!</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.TomšičFrance">
+                     <sp who="sp:TomsicFrance1937" corresp="#DZ-1991-Delovna-11.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Torej, razočaral me je, da ni dovolil različno mišljenje, pa tudi, če je
                            ekstremno različno. In jaz apeliram, da se drugič kaj takega ne zgodi v
@@ -1385,11 +1409,11 @@
                            dobo je seveda že velik, zalogaj za narod. Posebno velik zalogaj je za
                            tisti narod, ki ima 100.000 brezposelnih.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Niste povedali kako boste glasovali!</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.TomšičFrance">
+                     <sp who="sp:TomsicFrance1937" corresp="#DZ-1991-Delovna-11.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Bom glasoval, ampak moram obrazložiti moj glas. Zato bi želel sledeče
                            reči: ta predlog, ki ga predlaga Zbor občin, se mi zdi, da ni
@@ -1400,22 +1424,24 @@
                            kakršen je, torej brez amandmajev, oz., če bi prišlo do glasovanja o
                            takem nekonsistentnem amandmaju, bom jaz glasoval proti. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Franci Avberšek.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.AvberšekFranc">
+                     <sp who="sp:AvbersekFranc1947"
+                         corresp="#DZ-1991-Delovna-11.sp.AvberšekFranc">
                         <speaker>MAG. FRANC AVBERŠEK:</speaker>
                         <p>Spoštovane poslanke in poslanci! Zelo težko sem se odločil za to
                            razpravo. Prej sem že rekel, ker sem neodvisni poslanec in zdaj sploh ne
                            vem več ali lahko razpravljam ali ne v tem parlamentu.</p>
                         <p>Ampak tole, kar je gospod Schwartzbartl rekel, je mene prizadelo.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Franci, obrazloži svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.AvberšekFranc">
+                     <sp who="sp:AvbersekFranc1947"
+                         corresp="#DZ-1991-Delovna-11.sp.AvberšekFranc">
                         <speaker>MAG. FRANC AVBERŠEK:</speaker>
                         <p>Glasoval bom proti temu, ker ta razlika, ki jo je omenil gospod
                            Schwartzbartl, to je nekaj groznega. Jaz imam tudi 3 otroke in moram
@@ -1426,22 +1452,22 @@
                         <p>Tako ste rekli gospod Schwartzbartl in gospod Zlobec  je samo zbral
                            toliko moči, da je nekaj rekel na glas ... Glasoval bom proti.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Anton Tomažič.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.TomažičAnton">
+                     <sp who="sp:TomazicAnton1950" corresp="#DZ-1991-Delovna-11.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Glasoval bom, seveda, proti, ker nikakor ne pristajam na delitev žensk na
                            večvredne in manjvredne ženske, vse ženske so enakopravne. To sem moral
                            povedati samo zato, da ne bi kdo mislil, da bodo vsi poslanci Demosa
                            glasovali za. Skratka, glasoval bom "proti".</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Anka Osterman.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.OstermanAnka">
+                     <sp who="sp:OstermanAnka1940" corresp="#DZ-1991-Delovna-11.sp.OstermanAnka">
                         <speaker>ANKA OSTERMAN:</speaker>
                         <p>Hvala lepa za besedo, za možnost, da obrazložim glas enajstih poslank, ki
                            smo se zbrale na hodniku. Povedala bi v imenu vseh, torej nas enajstih,
@@ -1450,11 +1476,12 @@
                            ki ureja materijo zavarovanja in upokojevanja moških in žensk, delavcev
                            in delavk. Pa nič drugega.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Aleksandra Pretnar.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.PretnarAleksandra">
+                     <sp who="sp:PretnarAleksandra1953"
+                         corresp="#DZ-1991-Delovna-11.sp.PretnarAleksandra">
                         <speaker>ALEKSANDRA PRETNAR:</speaker>
                         <p>Gospodje poslanci, en zelen pozdrav. Tukaj si lahko pogledate en primer
                            ene take neenakovredne ženske, po gospodu Schwarzbartlu.</p>
@@ -1464,7 +1491,7 @@
                         <p>Pričakujem pa tudi, da mi boste vzeli mojo poslansko knjižico. Pričakujem
                            pa vsaj od mojih Zelenih kolegov, da me bodo podprli. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-Delovna-11.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1991-Delovna-11.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala, 19 poslancev je obrazložilo svoj glas. S tem je lista kandidatov
                            zaključena in predlagam, da še enkrat ugotovimo prisotnost po zborih:</p>

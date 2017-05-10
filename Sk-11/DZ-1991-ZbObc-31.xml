@@ -345,7 +345,7 @@
                   <div xml:id="DZ-1991-ZbObc-31.div.1.1.1.1"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1991-ZbObc-31.toc.1.1">
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospe in gospodje. Pričenjam 31. sejo Zbora občin Skupščine Republike
                            Slovenije. Za današnjo sejo za sedaj <title>ni nobenega
@@ -358,7 +358,7 @@
                   <div xml:id="DZ-1991-ZbObc-31.div.1.1.1.2"
                        ana="#PAR.DolDnevRed"
                        corresp="#DZ-1991-ZbObc-31.toc.1.2">
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <p>Tako prehajamo na <title>DOLOČITEV DNEVNEGA REDA 31. SEJE ZBORA
                               OBČIN</title>.</p>
                         <p>Predlog dnevnega reda ste prejeli s sklicem. Predlagani sta le dve točki
@@ -387,7 +387,7 @@
                      <stage type="time">(Seja je bila <time to="1991-12-23T10:15:00" xml:id="DZ-1991-ZbObc-31.stage.t.2">prekinjena ob
                            10.15 uri</time> in se je <time from="1991-12-23T11:30:00" xml:id="DZ-1991-ZbObc-31.stage.t.3">nadaljevala ob
                            11.30 uri</time>.)</stage>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane kolegice in kolegi, nadaljujemo z 31. sejo Zbora občin.
                            Mimogrede naj izkoristim ta uvod in najprej povem, da je trenutno
@@ -422,7 +422,7 @@
                        ana="#PAR.TDR"
                        n="1"
                        corresp="#DZ-1991-ZbObc-31.toc.2.1">
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <p>Prehajamo na 1. TOČKO DNEVNEGA REDA, to je na <title>OBRAVNAVO PREDLOGA
                               USTAVE REPUBLIKE SLOVENIJE</title>.</p>
                         <p>Predlog ustave je predložila Komisija Skupščine Republike Slovenije za
@@ -464,7 +464,7 @@
                         <p>Začenjam torej razpravo. Kdo želi razpravljati? Gospod Feltrin se je prvi
                            javil, prosim.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.FeltrinFranci">
+                     <sp who="sp:FeltrinFranci1943" corresp="#DZ-1991-ZbObc-31.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Spoštovane kolegice, spoštovani kolegi! Kljub temu, kar nam je bilo
                            povedano, sem si že prejšnji teden pripravil nekaj amandmajev, sem jih pa
@@ -497,7 +497,7 @@
                            Sloveniji, da bi se mogoče le ustavilo to kar se počenja. To so moji
                            predlogi in prosim, da jih podprete. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospod Feltrin zaradi razjasnitve, ali od katerega tu navedenih, tu
                            predlaganih - to je sedaj definitivno stanje. To se pravi, da obvestim
@@ -508,7 +508,7 @@
                            amandmaje na 103. in 107. člen. Hvala lepa. Gospod Jamnik je naslednji na
                            vrsti.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.JamnikAlojz">
+                     <sp who="sp:JamnikAlojz1963" corresp="#DZ-1991-ZbObc-31.sp.JamnikAlojz">
                         <speaker>ALOJZ JAMNIK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani zbor! Jamnik, Demos Grosuplje. O 55.
                            členu smo slišali že veliko takih in drugačnih stališč in povedal bi
@@ -544,11 +544,12 @@
                            tem času mislim, da ne more biti svoboščine. In naj to ureja zakon.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa gospod Jamnik. Gospod Ivanušič ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.IvanušičZvonko">
+                     <sp who="sp:IvanusicZvonko1959"
+                         corresp="#DZ-1991-ZbObc-31.sp.IvanušičZvonko">
                         <speaker>ZVONKO IVANUŠIČ:</speaker>
                         <p>Spoštovani poslanci in poslanke. Ivanušič, občina Črnomelj. Nimam
                            nobenega amandmaja, ker nočem komplicirati zadeve okoli ustave. Imam pa
@@ -573,12 +574,13 @@
                            drugače? To mi tukaj ni jasno. Zato imam okoli tega pomisleke. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa, gospod Ivanušič! gospod Schwarzbartl ima naslednji
                            besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p> Spoštovano predsedstvo, kolegi in kolegice. Vsi veste, da se oglašam
                            ponavadi bolj ob vprašanjih gospodarskega pomena in manj ob splošnih
@@ -664,12 +666,13 @@
                            in ne dovolimo, da nas ustava določi zgolj kot slučaj stvarstva, ampak se
                            zavedajmo, da smo čudež vesoljstva. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa gospod Schwarzbartel. Gospod Gradišar ima besedo. Prosim za
                            mir v dvorani.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
+                     <sp who="sp:GradisarCvetko1938"
+                         corresp="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Samo okrog ustavnih členov. Je nekaj členov, ki so v koliziji. Tako 18.
                            in 56. oziroma 26. in 29.: pravice človeka in državljana in potem
@@ -748,11 +751,12 @@
                            interesnih, vzgojnih in razvojnih pravic rizične mlade populacije in
                            omogočanje vsestranskega razvoja. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa gospod Gradišar. Gospa Vika Potočnik je naslednja.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.PotočnikViktorija">
+                     <sp who="sp:PotocnikViktorija1957"
+                         corresp="#DZ-1991-ZbObc-31.sp.PotočnikViktorija">
                         <speaker>VIKTORIJA POTOČNIK:</speaker>
                         <p>Spoštovani kolegi! Z današnjim dnem upajmo, ker razprava ne kaže preveč
                            potrebne zavzetosti, naj bi dobili osnovni akt, katerega imenujemo
@@ -772,12 +776,13 @@
                            celo sramotilna. In žalostno je, da takšen nivo diskusije danes za to
                            govornico izrečen. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Besedo ima gospod Schwarzbartl. Samo prosim, da je čimbolj
                            omejeno.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Replika je samo v tem: Da če je bila razprava diskvalifikacijska (in ne
                            vem niti česa vse sem bil obtožen) bi želel, da se o tej temi ali o tem
@@ -787,11 +792,12 @@
                            vesti, ne moje. Zato jaz osebno ne morem dovoliti, da me nekdo tako
                            ožigosa in bi se želel še o tem pogovoriti.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Gospod Gradišar replika.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
+                     <sp who="sp:GradisarCvetko1938"
+                         corresp="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Tudi sam sem bil v dvomu na 55. člen, s tem, da se ne zmanjšuje in ne
                            znižuje varstvo, doseženo varstvo pravic, človeka, svoboščin in pravic
@@ -803,19 +809,19 @@
                            izobraževalnih procesih, v socialni državi je tukaj jasno rečeno, kaj je
                            smisel države in mislim, da sedaj to spada v 55. člen ustave. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Stadler.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.StadlerMarko">
+                     <sp who="sp:StadlerMarko" corresp="#DZ-1991-ZbObc-31.sp.StadlerMarko">
                         <speaker>MARKO STADLER:</speaker>
                         <p>Samo to. Mislim, da govor gospoda Schwarzbartla ni užalil moje žene.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospa Vojka Štular ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.ŠtularVojka">
+                     <sp who="sp:StularVojka1946" corresp="#DZ-1991-ZbObc-31.sp.ŠtularVojka">
                         <speaker>VOJKA ŠTULAR:</speaker>
                         <p>Hvala lepa. Že dolgo je tega, kar sem, kolegi poslanci, želela nekaj
                            svojih misli povedati o tem, da ne želim nikogar in nikdar moralno
@@ -850,11 +856,11 @@
                            skupščini, zelo težko dosegli. Resnično bi mi bilo žal, da bi zaradi tega
                            člena danes prišlo pod vprašaj sprejem celotne ustave.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Dr. Glavič.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.GlavičPeter">
+                     <sp who="sp:GlavicPeter1940" corresp="#DZ-1991-ZbObc-31.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Kolegice in kolegi! Ustava, ki jo sprejemamo danes, je kompromis s
                            katerim najbrž nihče od nas ni prav v celoti zadovoljen. Tudi jaz ne in
@@ -924,18 +930,19 @@
                            strokovnih argumentacijah, etičnih argumentacijah in tako dalje in, da
                            ustavo sprejmemo tako, kot jo nam bo predložila komisija. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospod Jug. Moment, dr. Gradišar ima repliko.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
+                     <sp who="sp:GradisarCvetko1938"
+                         corresp="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Prepričan sem, da velja za slehernega, tudi za kolego Glaviča in za
                            kolego Schwarzbartla, kot tudi zame, da če sem za konsenz in če sem ali
                            smo za program, nismo konsenzirani in nismo s tem že avtomatsko
                            programirani. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.JugJanez">
+                     <sp who="sp:JugJanez1947" corresp="#DZ-1991-ZbObc-31.sp.JugJanez">
                         <speaker>MAG. JANEZ JUG:</speaker>
                         <p>Poslanec Zbora občin občine Izola. Ko sem prihajal na to sejo, sem si
                            pripel vejico, ki so mi jo dali mladi krščanski liberali oz. drugi. Ker
@@ -957,20 +964,21 @@
                            letom tudi z novo popotnico oz. novim potnim listom v Evropo. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Samo vprašam, ali je replika gospod Črnej? <stage type="debate">(Ne.)</stage> Prosim!</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.ČrnejJanez">
+                     <sp who="sp:CrnejJanez1935" corresp="#DZ-1991-ZbObc-31.sp.ČrnejJanez">
                         <speaker>JANEZ ČRNEJ:</speaker>
                         <p>Samo popravil bi. Kakor jaz razumem danes vsi nastopamo v svojem imenu in
                            ne v imenu zelenih, plavih ali modrih. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospod Železnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.ŽeleznikAndrej">
+                     <sp who="sp:ZeleznikAndrej1944"
+                         corresp="#DZ-1991-ZbObc-31.sp.ŽeleznikAndrej">
                         <speaker>ANDREJ ŽELEZNIK:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci, v imenu Stranke demokratične
                            prenove - poslanskega kluba bi povedal, da naša stranka podpira predlog
@@ -983,11 +991,11 @@
                            drugače glasovali. Predlog podpiramo v priloženem besedilu. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Gospod Metelko.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.MetelkoAlojz">
+                     <sp who="sp:MetelkoAlojz1940" corresp="#DZ-1991-ZbObc-31.sp.MetelkoAlojz">
                         <speaker>ALOJZ METELKO:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani zbor! Ne bi se takoj dotaknil 55.
                            člena, ampak 71. člena, ki govori o varstvu zemljišč. Po eni strani sem
@@ -1023,11 +1031,11 @@
                            načrtovanje družine svobodno. Ampak na tak način mislim, da je pa ta
                            svoboda malo omejena.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospod predsednik Bizjak.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>IVAN BIZJAK:</speaker>
                         <p>Spoštovane kolegice in kolegi, Ivan Bizjak, Slovenski krščanski
                            demokrati. Ves čas sem sodeloval v Ustavni komisiji, tako da mi je ta
@@ -1147,12 +1155,13 @@
                            o tem spornem členu. Mislim, da bi to mogoče vsaj v neki meri pripomoglo
                            k razrešitvi te težavne dileme. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Besedo ima Cvetko Gradišar, ki ima repliko. Potem pa je dr.
                            Glavič.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
+                     <sp who="sp:GradisarCvetko1938"
+                         corresp="#DZ-1991-ZbObc-31.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Ne bi se oglasil, ne bi hotel biti tako v ospredju. Vendar bom glasoval.
                            Ne iz potrebe, iz nuje večinske zmage in usodnih posledic, pa tudi ne z
@@ -1191,11 +1200,11 @@
                            v bistvu kompas. In zakoni niso pisani zato, da jih nekdo jaha, ali da
                            smo jahani, ampak da se orientiramo, tako tudi ustava. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Dr. Glavič je želel tudi replicirati.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.GlavičPeter">
+                     <sp who="sp:GlavicPeter1940" corresp="#DZ-1991-ZbObc-31.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Jaz seveda moram še enkrat prositi, da morda pogledate rešitev, ki sem
                            vam jo nakazal, da gre tu le za to, da mi ne sprejemamo nekaj, ampak da
@@ -1203,11 +1212,12 @@
                            moralni dilemi, če tako rečem, lahko oprete in mislim, da je ta rešitev
                            fer in da jo je mogoče sprejeti. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Gospod Štefančič ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.ŠtefančičMarcel">
+                     <sp who="sp:StefancicMarcel1937"
+                         corresp="#DZ-1991-ZbObc-31.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci. Najprej moram
                            povedati to, da sem se danes resnično bolj svečano oblekel v prepričanju,
@@ -1255,11 +1265,11 @@
                            členu, kjer je, seveda, pravica itd. tako in tako neomejena oziroma
                            omejena. Vlagam ta amandma.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Besedo ima gospod Mesiček.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.MesičekIvan">
+                     <sp who="sp:MesicekIvan1933" corresp="#DZ-1991-ZbObc-31.sp.MesičekIvan">
                         <speaker>IVAN MESIČEK:</speaker>
                         <p> Spoštovano predsedstvo, drage kolegice in kolegi. Ivan Mesiček,
                            krščanski demokrat, vendar poudarjam, da bom govoril ne v imenu stranke,
@@ -1338,12 +1348,12 @@
                            ker daje celoti prednost pred delom o katerem imam pa enake pomisleke
                            kakor moji kolegi v stranki. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa gospod Mesiček. Naslednji ima besedo podpredsednik gospod
                            Lukač.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa gospod predsednik. Spoštovane kolegice, kolegi. Moram
                            priznati, da sem ponosen, da sedim v takem zboru, ki s tako odgovornostjo
@@ -1413,11 +1423,12 @@
                            ampak da so naša intimna osebna odločitev, ki pa nam je nihče ne more ne
                            odvzeti, ne preprečevati. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Kot član Komisije za ustavna vprašanja bi se vam rad zahvalil, da ste me
                            izvolili v to komisijo, da sem imel možnost in čast, da sem sodeloval pri
@@ -1512,11 +1523,11 @@
                            parlamentarci odločali o končnem besedilu, ne pa s preglasovanjem in
                            modrovanjem na še eni seji Komisije za ustavna vprašanja. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Naslednji je na vrsti gospod Aurelio Juri.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.JuriAurelio">
+                     <sp who="sp:JuriAurelio1949" corresp="#DZ-1991-ZbObc-31.sp.JuriAurelio">
                         <speaker>AURELIO JURI:</speaker>
                         <p>Lepo pozdravljeni. Kolega Starman je načel nekaj vprašanj, o katerih bi
                            lahko polemizirali. Se bom le držal pozivov predsednika, da ne odpiramo
@@ -1535,11 +1546,11 @@
                            triler serijske narave, ko veš, da glavni junak vendarle preživi. Tokrat
                            je glavni junak naša ustava. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Zdaj gospod Črnej je naslednji razpravljalec.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.ČrnejJanez">
+                     <sp who="sp:CrnejJanez1935" corresp="#DZ-1991-ZbObc-31.sp.ČrnejJanez">
                         <speaker>JANEZ ČRNEJ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani poslanci! Do danes zjutraj sem bil
                            prepričan, da lahko poslanci resnično glasujemo o ustavi po svoji vesti
@@ -1562,7 +1573,7 @@
                            način pa smatram, da so okrnjene osnovne pravice nas poslancev in pa na
                            koncu tudi mene kot človeka. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Tukaj vendarle kratek odgovor, čeprav nisem ravno pooblaščen
                            posebej za to, bom samo navedel na kateri osnovi so tisti, ki so dali
@@ -1579,7 +1590,7 @@
                            proceduralna določba ali predpostavka. Hvala.</p>
                         <p>Gospod Žampa ima naslednji besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.ŽampaJanez">
+                     <sp who="sp:ZampaJanez1929" corresp="#DZ-1991-ZbObc-31.sp.ŽampaJanez">
                         <speaker>JANEZ ŽAMPA:</speaker>
                         <p>Spoštovane poslanke, poslanci! Ne bi ponavljal, ker je bilo veliko že
                            povedanega, vendar bi kot prvo podprl gospoda Feltrina. Ne vem, ali je
@@ -1637,11 +1648,11 @@
                            primeru bom, ko bo prišlo do glasovanja, res imel pomislek in se tudi v
                            skrajnem primeru vzdržal. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Besedo ima gospod Ivan Kuhar.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.KuharIvan">
+                     <sp who="sp:KuharIvan1945" corresp="#DZ-1991-ZbObc-31.sp.KuharIvan">
                         <speaker>IVAN KUHAR:</speaker>
                         <p>Spoštovane kolegice in kolegi. V Socialistični stranki Slovenije smo
                            veliko pozornosti namenili razpravam, tako predlogu za izdajo, kakor tudi
@@ -1683,11 +1694,11 @@
                            opredelila, da bo glasovala za predlagano besedilo ustave Republike
                            Slovenije.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Besedo ima gospod Lovšin.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LovšinFranc">
+                     <sp who="sp:LovsinFranc" corresp="#DZ-1991-ZbObc-31.sp.LovšinFranc">
                         <speaker>FRANC LOVŠIN:</speaker>
                         <p>Pregovor pravi, da je hitro delo nič vredno. Ob tem bi rad povedal to, da
                            ne bi z nobeno besedo želel kogarkoli prizadeti, kogarkoli užaliti,
@@ -1737,11 +1748,11 @@
                            tekstu, mislim, da se bo tolikokrat ponavljala, da bo izrinila vse
                            slovenske besede, ki lepo označujejo ta termin. Hvala za poslušanje.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa, gospod Lovšin. Besedo ima gospod Rojec.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.RojecAnton">
+                     <sp who="sp:RojecAnton1937" corresp="#DZ-1991-ZbObc-31.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! Nameravam povedati nekaj besed
                            v zvezi s 6. členom, ki se nanaša na simbole Republike Slovenije.</p>
@@ -1783,11 +1794,11 @@
                            bistvu pomeni neke ostanke bivših simbolov boljševističnih dežel, kar pa
                            je seveda mimo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Lukač ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.LukačJanez">
+                     <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-31.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Pri simbolih se ne bom spuščal, samo bom tako kot je moj
                            predhodnik govoril. Jaz spadam med tiste, ki nas je veliko, ki mislimo,
@@ -1798,11 +1809,11 @@
                            da nekaj časa primer grb pustimo, zlasti če bo vodil to državo v njeno
                            dobro in v kar najhitrejše bogastvo in srečo. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Deželak.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.DeželakJanko">
+                     <sp who="sp:DezelakJanko1945" corresp="#DZ-1991-ZbObc-31.sp.DeželakJanko">
                         <speaker>JANKO DEŽELAK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane kolegice in kolegi! Prepričan sem, da
                            le redko kdo med nami dvomi o tem, da je splav in zaradi ponavljanj
@@ -1848,11 +1859,11 @@
                            sprejemam ustavne dikcije iz priloge ustave, ki se nanaša na 55. člen.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Klavora ima naslednji.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.KlavoraFedja">
+                     <sp who="sp:KlavoraFedja1940" corresp="#DZ-1991-ZbObc-31.sp.KlavoraFedja">
                         <speaker>FEDJA KLAVORA:</speaker>
                         <p>Spoštovani, razpravljamo o pomembnem problemu, vendar se bojim, da gredo
                            stvari tisto pot, ki je všeč medijem, pa morda manj cilju, ki smo ga
@@ -1906,14 +1917,14 @@
                            so moje pripombe, morda zakonodajni komisiji v bodoče, vendar upam, da
                            vseeno upravičeno. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa gospod Klavora. Imam že dva prijavljena. Obvestili so me, da
                            je Ustavna komisija sicer že zbrana, torej upam, da bomo po teh dveh
                            prijavljenih privedli razpravo h koncu in bi jo lahko tudi pri nas
                            zaključili. Gospod Vodopivec je naslednji.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.VodopivecIvan">
+                     <sp who="sp:VodopivecIvan" corresp="#DZ-1991-ZbObc-31.sp.VodopivecIvan">
                         <speaker>IVAN VODOPIVEC:</speaker>
                         <p>Spoštovani, gospodje poslanci! Glede na raznoliko današnjo razpravo in
                            nasprotujoča mnenja, mislim, da se moram najprej zahvaliti Ustavni
@@ -1937,11 +1948,12 @@
                            da imamo temeljni akt za bodoče gospodarjenje v tej državi Sloveniji.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Še gospod Schwarzbartl.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovano predsedstvo, kolegi! Glede na razredčenost menim, da je najbrž
                            vsakdo pred seboj že razčistil kako bo glasoval. Vendar je bilo omenjenih
@@ -1966,7 +1978,7 @@
                            predloženem in nespremenjenem besedilu sprejela. Predlog dajem
                            pismeno.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. S tem je razprava izčrpana. Zaključujem jo in to točko
                            dnevnega reda prekinjam, da bi se vmes sestala Ustavna komisija. Upajmo
@@ -1977,7 +1989,7 @@
                        ana="#PAR.TDR"
                        n="2"
                        corresp="#DZ-1991-ZbObc-31.toc.2.2">
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <p>Sedaj, preden prekinem sejo, bi odprl še 2. TOČKO DNEVNEGA REDA, to je
                               <title>PREDLOG USTAVNEGA ZAKONA ZA IZVEDBO USTAVE REPUBLIKE
                               SLOVENIJE</title>.</p>
@@ -1993,7 +2005,8 @@
                            Nekatere amandmaje smo že dobili vložene. Gospod Schwarzbartl,
                            prosim.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Opravičujem se, ker sem danes že tretjič za tem odrom, pa tudi nisem ne
                            vem kako pripravljen za razpravo. Dobili ste pa moj amandma na tretji
@@ -2010,7 +2023,7 @@
                            dalje? Zato ste lahko prebrali mojo utemeljitev in menim, da bi od tega
                            predloga amandmaja ne odstopili.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Želi še kdo razpravljati? Če ne, potem tudi pri tej točki
                            zaključujem razpravo in odrejam 45 minut odmora, potem bi se sestali
@@ -2029,7 +2042,7 @@
                        ana="#PAR.TDR"
                        n="1"
                        corresp="#DZ-1991-ZbObc-31.toc.2.3">
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Vračamo se torej na 31. sejo in sicer k 1. točki dnevnega reda, to je
                               <title>PREDLOG USTAVE REPUBLIKE SLOVENIJE</title>.</p>
@@ -2037,7 +2050,8 @@
                            delom. Za poročevalca v našem zboru je bil določen g. Danijel Starman.
                            Prosil bi ga za poročilo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Poročilo bo ustno, ker pismenega še nimamo. Žal bom moral razočarati
                            tiste, ki so upali, da bo Ustavna komisija le ene od predlogov pripomb k
@@ -2057,22 +2071,24 @@
                            zaradi tega predlagam, da glasujemo in osebno prosim poslance, da tak
                            predlog kot je predložen sprejmete.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Slišali smo poročilo poročevalca Ustavne komisije. Ja zdaj
                            razprave ne morem dopustiti, proceduralno je pa možno dobiti besedo.
                            Gospod Schwarzbartl.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Ali je komisija za poslovnik obravnavala tri vprašanja, ki sem jih
                            pismeno postavil, in ali ima stališča v zvezi s tem.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Ja prosim gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Se opravičujem g. Schwarzbartlu, pismenega ni.</p>
                         <p>Torej komisija za poslovnik je obravnavala pripombe, oz. vprašanja in
@@ -2084,7 +2100,7 @@
                            in se je treba odločiti o njem takem kot je. Ni soglasja med stališčem,
                            med stališčem Komisije za poslovnik in Ustavne komisije.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Medtem smo pregledali tudi odlok Komisije za poslovnik in odlok o
                            ustanovitvi te komisije. V tem odloku ni pravzaprav osnove za neko
@@ -2096,7 +2112,7 @@
                            Prejel sem tudi pisno poročilo. Če koga še kaj zanima v zvezi s stališči
                            Komisije za ustavna vprašanja, lahko tudi vpraša. Prosim g. Jamnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.JamnikAlojz">
+                     <sp who="sp:JamnikAlojz1963" corresp="#DZ-1991-ZbObc-31.sp.JamnikAlojz">
                         <speaker>ALOJZ JAMNIK:</speaker>
                         <p>Jaz bi imel samo vprašanje, glede na to, da je bila v našemu zboru tudi
                            pobuda, da se o enem delu o  55. členu glasuje posamično; glede na to, da
@@ -2106,7 +2122,7 @@
                            razpravi ni bil in da je v bistvu priletel na mizo v zadnjem času. Tudi
                            tu za nas to pomeni. To me zanima.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>To vprašanje sem sprožil na Ustavni komisiji. Stališče komisije je v
                            pisnem poročilu napisano takole:</p>
@@ -2129,11 +2145,11 @@
                            tem pogledu, da smo popolno obveščeni.</p>
                         <p>G. Kokošinek, kaj, imate kaj proceduralnega?</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.KokošinekErvin">
+                     <sp who="sp:KokosinekErvin" corresp="#DZ-1991-ZbObc-31.sp.KokošinekErvin">
                         <speaker>ERVIN KOKOŠINEK:</speaker>
                         <p>Obrazložil bi glas.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Potem najprej razglašam, da prehajamo na glasovanje. Ker tega še nisem
                            rekel, oz. smo se malo vrnili nazaj. G. Kokošinek ima besedo v zvezi z
@@ -2146,7 +2162,7 @@
                            apel, ki nima namena omejevati vaše pravice. Prosil bi vas samo zaradi
                            ekonomičnosti. Gospod Kokošinek ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.KokošinekErvin">
+                     <sp who="sp:KokosinekErvin" corresp="#DZ-1991-ZbObc-31.sp.KokošinekErvin">
                         <speaker>ERVIN KOKOŠINEK:</speaker>
                         <p>Nova ustava bo vendarle odprla pot k novim volitvam. Na novih volitvah
                            ljudje ne bodo gledali več ali je kdo črn ali rdeč ali manj rdeč ali
@@ -2159,7 +2175,7 @@
                            parlament. Meni bo sicer hudo se posloviti od prijateljev ali želim novi
                            državi vso srečo. Hvala lepa. Oprostite. Sem za novo ustavo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Naslednji ima možnost obrazložiti svoj glas. G. Mesiček. Ste se izklopili
                            g. Kokošinek?</p>
@@ -2167,7 +2183,8 @@
                            sem že naročil naj pogledajo in naj obvestijo poslance, ne vem pa ne, da
                            bi kdo kje na določenem mestu bil. G. Schwarzbartl želi besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1991-ZbObc-31.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovani predsednik, kolegice in kolegi. Priporočilo, da izgubljamo čas
                            in da naj pohitimo pri tej zadevi, me ne gane. Nasprotno, rekel bi, da me
@@ -2179,11 +2196,11 @@
                            slovesno sprejeti, o čemer se še nismo dokončno odločali in se ne moremo
                            dokončno odločati. Zato bom glasoval proti sprejemu takšne ustave.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Kramarič želi besedo.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.KramaričTone">
+                     <sp who="sp:KramaricTone1947" corresp="#DZ-1991-ZbObc-31.sp.KramaričTone">
                         <speaker>TONE KRAMARIČ:</speaker>
                         <p>Hvala lepa. Omenil bi rad, da se je v soboto ustanovila v slovenskem
                            političnem prostoru nova stranka, demokratična stranka. In ni brez veze,
@@ -2191,7 +2208,7 @@
                            vprašanja še nekako nejasna, da bomo glasovali za ustavo in seveda za
                            novo pot. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Oziroma obrazlagati glas. Ne. V tem
                            primeru mislim, da moramo počakati gospoda Mesička, ki je šel iskat naše
@@ -2233,35 +2250,35 @@
                            tem primeru gre, ne vemo.</p>
                         <p>Prosim gospod Jamnik.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.JamnikAlojz">
+                     <sp who="sp:JamnikAlojz1963" corresp="#DZ-1991-ZbObc-31.sp.JamnikAlojz">
                         <speaker>ALOJZ JAMNIK:</speaker>
                         <p>Jaz se opravičujem, ampak mislim, da gre tukaj za tehnični problem in
                            predlagam novo glasovanje, ker če je tukaj različno število...</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>To mora najprej zbor ugotoviti za potrebno. Gospod Senčur. Prosim samo v
                            zadevi z nejasnostjo, če imate kakšno dejansko dejstvo v zvezi s tem.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.SenčurMiloš">
+                     <sp who="sp:SencurMilos1957" corresp="#DZ-1991-ZbObc-31.sp.SenčurMiloš">
                         <speaker>MILOŠ SENČUR:</speaker>
                         <p>
                            <stage type="gap">(govori iz klopi, ni razumljivo.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p> Dobro. Torej te razprave ne bi dalje peljal, ta beseda "zbor ugotovi"
                            mislim, da mi daje pravico, da je to brez razprave, čeprav beseda sama je
                            nejasna. Ampak dobro, če ima kdo kaj proceduralnega? Gospod Božič
                            prosim.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BožičDanijel">
+                     <sp who="sp:BozicDanijel1959" corresp="#DZ-1991-ZbObc-31.sp.BožičDanijel">
                         <speaker>DANIJEL BOŽIČ:</speaker>
                         <p>Glede na to, da so problemi s štetjem predlagam, da tudi g. tajnik zbora
                            posebej šteje. Da je tudi on kontrola.</p>
                      </sp>
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospodje, imamo potem še eno možnost, jaz je ne bi rad niti uporabljal.
                            Imamo možnost, ki jo daje naslednji člen: "Posamično se izjavljajo
@@ -2310,7 +2327,7 @@
                        ana="#PAR.TDR"
                        n="2"
                        corresp="#DZ-1991-ZbObc-31.toc.2.4">
-                     <sp who="#DZ-1991-ZbObc-31.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-31.sp.BizjakIvan">
                         <p>Mi pa prehajamo torej na 2. TOČKO, to je na <title>OBRAVNAVO PREDLOGA
                               USTAVNEGA ZAKONA ZA IZVEDBO USTAVE REPUBLIKE SLOVENIJE</title>.</p>
                         <p>Predlog ustavnega zakona je predložila torej Komisija za ustavna

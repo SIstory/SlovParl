@@ -542,7 +542,7 @@
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.1.1"
                        ana="#PAR.DolDnevRed"
                        corresp="#DZ-1992-Delovna-14.toc.1.2">
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovani poslanci, gospe in gospodje, cenjeni gostje, predstavniki
                            sredstev javnega obveščanja. Pričenjam 14. skupno delovno sejo vseh treh
@@ -567,7 +567,7 @@
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.1.2"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1992-Delovna-14.toc.1.1">
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <p>Ugotovimo, koliko je <title>prisotnih</title> poslank in poslancev -
                            najprej Družbenopolitičnega zbora. <stage type="quorum">(53 prisotnih.)</stage> Sedaj
                            poslanke in poslanci Zbora občin. <stage type="quorum">(41 prisotnih.)</stage> Poslanke
@@ -585,7 +585,7 @@
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.2.1"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1992-Delovna-14.toc.2.3">
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci. 15 minut, namesto 10 minut je minilo,
                            tako da lahko še drugič poskusimo ugotoviti, koliko poslank in poslancev
@@ -607,7 +607,7 @@
                      <stage type="time">(SEJA JE BILA <time to="1992-07-30T12:47:00" xml:id="DZ-1992-Delovna-14.stage.t.4">PREKINJENA 30.07.1992 OB 12.47 URI</time> IN SE JE
                            <time from="1992-09-09T10:30:00" xml:id="DZ-1992-Delovna-14.stage.t.5">NADALJEVALA 9.
                            SEPTEMBRA OB 10.30 URI</time>.)</stage>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci, gospodje in gospe, cenjeni gostje, dragi
                            novinarji, snemalci in fotoreporterji. Nadaljujemo s 14. skupno delovno
@@ -626,7 +626,7 @@
                            Državni zbor pa smo uvrstili na dnevni red delovne seje na predlog
                            Družbenopolitičnega zbora.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <p>Preden preidemo na odločanje o spornih vprašanjih, moramo ugotoviti
                               <title>sklepčnost</title> skupne delovne seje, na kateri mora biti
                            navzoča večina vseh poslancev vsakega zbora.</p>
@@ -650,7 +650,7 @@
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.2.2"
                        ana="#PAR.TDR"
                        corresp="#DZ-1992-Delovna-14.toc.2.4">
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <p>Prehajamo na odločanje o spornih vprašanjih pri
                            <title>PREDLOGU ZAKONA O DRŽAVNEM SVETU</title>.</p>
                         <p>Kot sporna vprašanja so amandmaji k 64., 67. in 68. členu.</p>
@@ -682,7 +682,7 @@
                         <p>Sklepčnosti ni potrebno ponovno ugotavljati.</p>
                         <p>Gospod Gros bo obrazložil svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Glasoval bom, da se ta člen črta - torej za amandma. Čudi me, da je
                            pozicija očitno glasovala proti amandmaju k 64. členu, s tem ko je ves
@@ -692,7 +692,7 @@
                            sama pripiše v kolikor bi slučajno zakonodaja ne bila sprejeta to naj
                            pripiše torej sebi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Vem, da bi moral sedaj reagirati, ampak menim, da lahko opravimo
                            glasovanje. Ali želi še kdo? Ne.</p>
@@ -726,7 +726,8 @@
                            zbori z dvetretjisko večino glasov vseh poslancev. Zakon bo sprejet, če
                            bo zanj glasovalo 160 poslancev. Gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovano predsedstvo, drage kolegice in kolegi. V imenu poslanskega
                            kluba Demos predlagam 10 minut pavze, ker je prišlo do popolnoma
@@ -735,7 +736,7 @@
                            že sprejela v predhodnem postopku. Čez 10 minut se mi vrnemo in prosim,
                            da upoštevate ta naš predlog.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>V zvezi s to zahtevo gospoda Starmana moram opozoriti na dejstvo, da je
                            bila razprava v zborih končana in da danes odločamo samo o spornih
@@ -743,7 +744,8 @@
                            vidim prave potrebe, da bi z odločanjem zavlačevali. V nasprotnem primeru
                            moramo pa o tem glasovati. Gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Torej sestavni del parlamentarnega dela so verjetno tudi klubi poslancev
                            in njihova pravila. V 3. členu pravil poslanskega kluba Demos je točno
@@ -753,11 +755,11 @@
                            tej fazi. Zato bi prosil za razumevanje, ker se niste držali dogovora,
                            moramo mi uskladiti naše stališče. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Tomažič. O tem vprašanju ni več razprave, bomo glasovali.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.TomažičAnton">
+                     <sp who="sp:TomazicAnton1950" corresp="#DZ-1992-Delovna-14.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Ne, mislim, da ni dobro, da glasujemo. Poslušajte, dajmo danes 10 minut
                            si vzeti, če klubi rabijo 10 minut, bodite razumni. Mislim, da je to
@@ -767,26 +769,27 @@
                            minut. To mislim, da ni takšna izguba časa. To je koristno in na ta način
                            bodo lahko zakoni danes sprejeti. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANIČIČ:</speaker>
                         <p>Majčkeno še potrpite, sedaj sta se še javila tu gospod Ribičič in Školč
                            in bi potem  glasovanje opravili pa bi potem odšli, če je že
                            potrebno.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.RibičičCiril">
+                     <sp who="sp:RibicicCiril1947" corresp="#DZ-1992-Delovna-14.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Mi smo se noter v klopeh delovno posvetovali in poslanci našega kluba
                            menijo, da bi bilo prav, da se omogoči takšna konzultacija v poslanskem
                            klubu Demos. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Je še potrebno? Ni potrebno. Hvala. Predlagam, tu moramo
                            ugotoviti, koliko nas je prisotnih. Prosim. Ali je res potrebno
                            proceduralno, ker ne razpravljamo o proceduralnih zadevah gre samo za
                            vsebinsko. Prosim, gospod Podobnik. Potem pa, prosim, ne več.  </p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Spoštovani! Želim opozoriti na izredno resnost tega trenutka, namreč
                            zgodilo se je to, da po dogovoru vseh parlamentarnih strank in skupin, ki
@@ -800,7 +803,7 @@
                            predsedujoči prevzel nase zelo veliko odgovornost, če bo preprečeval
                            dogovor poslanskih klubov. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Poglejte prehitevate v nekaterih zadevah, tako kot je običaj. V imenu nas
                            treh odrejam 15 minutni odmor. Ob 11.00 nadaljujemo s skupno delovno
@@ -810,7 +813,7 @@
                            uri</time>.)</stage>
                   </div>
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.2.3" ana="#PAR.Prisot">
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci. Glede na prisotnost verjetno lahko
                            nadaljujemo s skupno delovno sejo in preden pričnemo in preidemo do
@@ -821,7 +824,8 @@
                         <p>Ugotavljam, da lahko nadaljujemo z odločanjem.</p>
                         <p>Gospod Starman, neproceduralno, obrazložitev glasu glede zakona.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Ne gre za čisto obrazložitev, mislim, da je dolžnost, da poročam o tem,
                            zakaj smo zahtevali odmor in mislim, da bi moral ta parlament sprejeti
@@ -839,11 +843,12 @@
                            strank parlamentarnih klubov in klofuta demokraciji. Zato proti temu
                            odločno protestiramo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ.</speaker>
                         <p>Gospod Starman, ali ste s tem obrazložili svoj glas?</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Prosim gospod Zupančič, vem, da niste po svoji volji na tem mestu, tudi
                            sam nisem po svoji volji v opoziciji in sva dejansko v isti vlogi. Zato
@@ -855,11 +860,12 @@
                            globokih vsebinskih razlogov, o čemer bodo govorili predstavniki naših
                            strank in tudi poslanci pri pravici obrazložitve glasa. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ</speaker>
                         <p>: Hvala lepa. Gospod Jamnikar.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.JamnikarPeter">
+                     <sp who="sp:JamnikarPeter1959"
+                         corresp="#DZ-1992-Delovna-14.sp.JamnikarPeter">
                         <speaker>PETER JAMNIKAR:</speaker>
                         <p>V skladu s 123. členom poslovnika predlagam javno poimensko glasovanje.
                            Mislim, da je volilna zakonodaja preveč resen projekt, da bi se izmikali
@@ -867,7 +873,7 @@
                            vsak posameznik prevzame odgovornost za sprejem ali nesprejem zakona.
                            Hvala</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Če gre za obrazložitev glasu, prosim. V bistvu pa moramo odločati o
                            predlogu gospoda Jamnikarja, potem pa lahko poveste še sami. Mi moramo
@@ -876,7 +882,7 @@
                            tem izjasniti. Predlagal bi, da bi najprej o tem, ker potem še vedno
                            lahko vsak obrazloži svoj glas. Gospod Golija.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GoljaFranc">
+                     <sp who="sp:GolijaFranc" corresp="#DZ-1992-Delovna-14.sp.GoljaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Glede na dogajanje pri glasovanju o amandmajih, moram povedati, da glede
                            na izid glasovanja bo Liberalna stranka glasovala proti zakonu o volitvah
@@ -901,11 +907,12 @@
                            delati, brez poštenega dela pa ne bo samostojne Slovenije. Zato prosim,
                            da se stvari vzamejo z razumevanjem.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospa Hribarjeva.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.HribarSpomenka">
+                     <sp who="sp:HribarSpomenka1941"
+                         corresp="#DZ-1992-Delovna-14.sp.HribarSpomenka">
                         <speaker>MAG. SPOMENKA HRIBAR:</speaker>
                         <p>Glasovala  bom za zakon o volitvah v državni svet, čeprav je tudi meni
                            žal, da amandmaji, ki so bili tukaj predlagani oziroma niso bili
@@ -921,11 +928,11 @@
                            sem, da bodo nujne spremembe pri volitvah za naslednji sklic. Zato bom
                            glasovala za.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Gros.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Vitomir Gros, Liberalna stranka. Seveda gospa Hribarjeva ni čisto točno
                            povedala, državni svet ima zelo pomembno funkcijo, ker spremeni s svojo
@@ -943,27 +950,27 @@
                               dvorani.)</stage>
                         </p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Ker replik ni, moram biti tiho. Prosim, gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Ne, saj še nisem končal.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Sem mislil, da ste končali, oprostite.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Ja, hvala lepa. Pet minut imam, a ne?</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Absolutno.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Hvala lepa. Še tri minute smem govoriti. Glede zbornic naj povem, da smo
                            ta dva amandmaja predlagali tudi zaradi tega, da se ne bi v novo državno
@@ -991,11 +998,12 @@
                            prevaro. In zato bomo mi glasovali proti temu zakonu. Hvala lepa. Steklo
                            se je pet minut.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Starman, obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovani kolegi. Obrazložil bom glas v zvezi s predlogom gospoda
                            Jamnikarja.  Mislim, da je ta predlog utemeljen glede naslednjega zakona
@@ -1025,11 +1033,11 @@
                            ne podprejo tega zakona, lahko ga pa že jutri oblikujemo majhno drugače
                            kot je ta. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Potrč.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PotrčMiran">
+                     <sp who="sp:PotrcMiran1938" corresp="#DZ-1992-Delovna-14.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Spoštovani! Poslanci poslanskega kluba Stranke demokratična prenove smo
                            stoodstotno prišli na današnje zasedanje vseh treh zborov Skupščine
@@ -1068,11 +1076,11 @@
                            seveda izjave tistih, ki jih poskušajo dajati v smešnem tonu, prej šle na
                            njihov račun kot pa na račun naših predlogov. - Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Besedo ima gospod Šetinc.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠetincMile">
+                     <sp who="sp:SetincMile1956" corresp="#DZ-1992-Delovna-14.sp.ŠetincMile">
                         <speaker>MILE ŠETINC:</speaker>
                         <p>Spoštovani! Sredi vseh teh velikih besed, medsebojnih obtoževanj,
                            verolomstva in tako naprej imam jaz nek zelo ponižen, proceduralen
@@ -1108,17 +1116,17 @@
                            potem v drugi "rundi" posvetili resnim problemom glede volilne
                            zakonodaje. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Kaj menite, gospod Šetinc, da glasovanje ni bilo jasno? Samo v tem
                            primeru je možno, drugače pa ...</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠetincMile">
+                     <sp who="sp:SetincMile1956" corresp="#DZ-1992-Delovna-14.sp.ŠetincMile">
                         <speaker>MILE ŠETINC:</speaker>
                         <p>Menim, da poslanci niso imeli dovolj jasne predstave, o čem
                            glasujejo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>To je edino možno v skladu s poslovnikom. Kaj drugega seveda ni. In če
                            tega ne ugotovimo, nimamo o tem kaj razpravljati. Jaz menim, da je bilo
@@ -1128,7 +1136,7 @@
                            To je proceduralno.  Ali ima kdo v zvezi s to proceduralno zadevo kaj?
                             Gospod Pirnat.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PirnatRajko">
+                     <sp who="sp:PirnatRajko1951" corresp="#DZ-1992-Delovna-14.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Hvala. Moram sicer reči, da mi godi ponižnost gospoda Šetinca, vendar pa
                            to, da poslanci niso vedeli, o čem glasujejo, ni razlog za ponovno
@@ -1142,14 +1150,14 @@
                            na glasovanje, da poslanci Demosa zapustimo to skupščino, ker tovrstne
                            nore kršitve poslovnika jaz ne bom gledal. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>No, jaz mislim, da tako hudo in ostro ni treba razpravljati, kajti tu
                            imamo 127. člen, ki tudi jasno govori o teh zadevah. Prosim, če ostanemo
                            - tako kot se spodobi - v okviru naše razprave in tudi tako, kot je
                            potrebno. Gospod Kolešnik še želi besedo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.KolešnikCiril">
+                     <sp who="sp:KolesnikCiril" corresp="#DZ-1992-Delovna-14.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani! Prav čudno se slišijo besede gospoda Šetinca. Sedaj bo celo
                            izpadlo, da smo nekateri tu notri največji čudaki in ne vem, kaj še
@@ -1200,7 +1208,7 @@
                            države, če bodo glasovali proti tako predlaganemu zakonu, kot je ta.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Predlagal bi, da o teh proceduralnih zadevah ne razpravljamo več. Tu
                            imamo v poslovniku točno napisano: na eni strani bi morali vprašati
@@ -1212,7 +1220,7 @@
                            bomo pa odločali o tem, ali imamo poimensko ali pa tudi predhodno
                            glasovanje. Gospod Peterle se je še prijavil.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci! Mislim, da je temeljno, kar se je
                            sedajle zgodilo seveda izguba zaupanja med eno in drugo stranjo. In če
@@ -1239,7 +1247,7 @@
                         <p>Sam moram pa seveda za ta zakon povedati, da ga ne morem podpirati, ker
                            bi podpiral preteklost. Argumente so pa že drugi povedali.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Sedaj je tu predlog tudi tako je lahko možno razumeti: v skladu z
                            298. členom našega poslovnika, da preložimo končno glasovanje in
@@ -1254,7 +1262,8 @@
                            predsedniki poslanskih klubov v salonu in se dogovorimo o teh zadevah.
                            Prosim? Malo še počakajte, prosim.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Jaz sem ves čas držal roko in prosim predsedujočega in bi predlagal
                            naslednje; da sprejmemo poslovniško določbo, prekinemo glasovanje in da
@@ -1264,14 +1273,14 @@
                            prekinemo do trenutka, ko bomo spoznali, da bi lahko to usklajevanje
                            izvršili.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Prosim za majčkeno potrpljenja. To se moramo pa vsi trije odločiti. Malo
                            pridite nazaj.</p>
                      </sp>
                      <stage type="time">(Seja je bila <time to="1992-09-09T11:55:00" xml:id="DZ-1992-Delovna-14.stage.t.8">prekinjena ob 11.55</time> in se je <time from="1992-09-09T11:58:00" xml:id="DZ-1992-Delovna-14.stage.t.9">nadaljevala ob 11.58
                            uri</time>.)</stage>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci. Vsi trije smo se dogovorili, da
                            prelagamo odločanje o tem zakonu, istočasno pa nadaljujemo s skupno
@@ -1284,7 +1293,7 @@
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.2.4"
                        ana="#PAR.TDR"
                        corresp="#DZ-1992-Delovna-14.toc.2.5">
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <p>Prehajamo na
                            <title>ODLOČANJE O SPORNIH VPRAŠANJIH PRI PREDLOGU ZAKONA O VOLITVAH V
                               DRŽAVNI ZBOR</title>.</p>
@@ -1302,7 +1311,8 @@
                            bi ugotovili prisotnost. Še prej pa gospod Polajnar, v zvezi s samo
                            proceduro.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
+                     <sp who="sp:PolajnarIgnac1948"
+                         corresp="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Glede na to, da je bilo veliko razpravljanja o teh amandmajih v javnosti,
                            v časopisih, v klubih itn. in glede na to, da so poslanci imeli zelo
@@ -1310,7 +1320,7 @@
                            je prav da o njih glasujemo javno. Naj javnost, ve kako se izrekamo o, po
                            mojem prepričanju, zelo pomembnih amandmajih. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>S posamičnim izjavljanjem gospod Polajnar? Da. Še? Glasujemo najprej o
                            tem predlogu, da glasujemo o vseh amandmajih posamično.</p>
@@ -1525,11 +1535,13 @@
                            Starman je bil prvi, proceduralno pa gospod Polajnar, gospod Starman mu
                            daste prednost?</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Da.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
+                     <sp who="sp:PolajnarIgnac1948"
+                         corresp="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Oprostite, mi smo sedaj iskali pravi papir, kateri amandma je to. Imamo
                            različna papirja, na enem je 42. člen, na enem se pa govori samo o 43.
@@ -1540,7 +1552,7 @@
                            naj se to razjasni, različna poročila imamo tu na mizi. Jaz sem šel
                            posebej iskati k strokovnim službam, pa se papirji ne ujemajo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Tu imamo še amandma k 43. členu, ki se glasi: V drugem odstavku 43. člena
                            se za prvim odstavkom vstavi nov odstavek, ki se glasi: "kandidat mora
@@ -1548,7 +1560,8 @@
                            Zbor občin nista sprejela tega amandmaja, tako da imamo tu, je v redu,
                            ne. Zdaj pa gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Jaz bom glasoval proti amandmaju k 42. členu, zato ker je sam s seboj v
                            nasprotju, nelogičen, ne more biti domicil v enoti oziroma v okraju.
@@ -1557,17 +1570,18 @@
                            bi morda naredili izjemo, pa bi o tej stvari glasovali javno, da
                            prihranimo pol ure.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Dvornik.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.DvornikMarjan">
+                     <sp who="sp:DvornikMarjan1949"
+                         corresp="#DZ-1992-Delovna-14.sp.DvornikMarjan">
                         <speaker>MARJAN DVORNIK:</speaker>
                         <p>Prosil bi za razlago tega amandmaja glede na skladnost z možnostjo
                            kandidiranja v dveh volilnih okrožjih. Ali je potrebno potem imeti tudi v
                            dveh volilnih okrožjih domicil?</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Jaz mislim, da o tem ne moremo sedaj razpravljati, glasujemo o tem, kar
                            je predlagano, ker mi ne moremo nobene vejice, ne besede spreminjati.
@@ -1600,7 +1614,7 @@
                            Halb Janko - bo obrazložil svoj glas, malo prej je bilo časa za to,
                            formalno ni čisto v redu, ampak naj bo prvič in zadnjič.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.HalbJanko">
+                     <sp who="sp:HalbJanko1957" corresp="#DZ-1992-Delovna-14.sp.HalbJanko">
                         <speaker>JANKO HALB:</speaker>
                         <p>Spoštovani poslanci in poslanke, jaz sem avtor tega famoznega domicilnega
                            amandmaja, prej sem razmišljal, da bi ga eventualno umaknil, ampak glede
@@ -1615,7 +1629,7 @@
                            povedano, kako je gospod Starman trdil, da sta si ta dva amandmaja v
                            popolnem nasprotju. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>43. člen in amandma se samo tako glasita: Kandidat mora imeti stalno
                            prebivališče v volilni enoti. V volilni enoti. Tako piše. Tako ste tudi
@@ -1638,7 +1652,7 @@
                            Franc - za, Lovšin Franc - ga ni, Lukač Janez - proti, Magajna Andrej -
                            proti, Magdič Jože.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.MagdičJože">
+                     <sp who="sp:MagdicJoze1943" corresp="#DZ-1992-Delovna-14.sp.MagdičJože">
                         <speaker>DR. JOŽE MAGDIČ:</speaker>
                         <p>Spoštovani glasoval bom za ta amandma. Sem iz Prekmurja, Pomurja in bilo
                            bi za vse stranke zelo koristno, če bi glasovali za ta amandma, ki
@@ -1646,7 +1660,7 @@
                            periferijo res hud problem. Ponavljam, sem za amandma odnosno za
                            razvijanje politične demokracije na slovenskem obrobju. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala gospod Magdič. Mak Viljem - vzdržan, Markež Marija - proti, Mencin
                            Metka - proti, Mencinger Avguštin - proti, Mesiček Ivan - ga ni, Metelko
@@ -1711,7 +1725,8 @@
                            glasoval. Med glasovanjem, prosim, ne bi prihajali. Če že želite, potem
                            opravite to zdaj. Prosim, gospod Podobnik, oprostite.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Glasoval bom za ta amandma in sicer zato, ker sem prepričan, da je
                            potrebno zagotoviti čimbolj enakovredno zastopanost vseh območij
@@ -1727,11 +1742,12 @@
                            državnem zboru, in to bi zagotavljal v precejšnji meri prav ta amandma,
                            zato bom glasoval za ta amandma.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Tudi jaz bi rad obrazložil glas in sicer delno kot odgovor gospodu Halbu,
                            ki je bil avtor prejšnjega amandmaja, in sicer, da iz celotnega teksta
@@ -1744,11 +1760,11 @@
                            ampak da se nekako le ta teritorialni princip pojavi tudi v državnem
                            zboru.  Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Tomažič, Tomšič, oprostite.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.TomšičFrance">
+                     <sp who="sp:TomsicFrance1937" corresp="#DZ-1992-Delovna-14.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Hvala. Spoštovani! Na prvi pogled je seveda to, kar je bilo rečeno zelo
                            logično. Vendar so tudi take stvari, kot je nenormalno rezanje volilnih
@@ -1765,11 +1781,11 @@
                            takega amandmaja ne potrebujemo, zato bom seveda glasoval proti.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še gospod Šetinc.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠetincMile">
+                     <sp who="sp:SetincMile1956" corresp="#DZ-1992-Delovna-14.sp.ŠetincMile">
                         <speaker>MILE ŠETINC:</speaker>
                         <p>Spoštovani! Ker smo do sedaj slišali za in proti, se spodobi, da še kdo
                            pove, zakaj bo vzdržan. Jaz se bom vzdržal, ker v tem amandmaju ne vidim
@@ -1792,11 +1808,11 @@
                            kandidatov imela domicil v svoji volilni enoti. Skratka v praktičnem
                            smislu je ta amandma skoraj brezpredmeten. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še gospod Marjan Starc.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarcMarjan">
+                     <sp who="sp:StarcMarjan1942" corresp="#DZ-1992-Delovna-14.sp.StarcMarjan">
                         <speaker>MARJAN STARC:</speaker>
                         <p>Spoštovane kolegice in kolegi, glasoval bom za amandma iz načelnih
                            razlogov, ker izhajam iz stališča, da je ta volilni sistem, katerega
@@ -1809,21 +1825,21 @@
                            enakomerno porazdeli po Sloveniji. Zato bom glasoval za ta amandma.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Gros.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Vitomir Gros, Liberalna stranka. Ker me je gospod Šetinc opozoril, da
                            opozicija panično išče rešitve, zdaj izjavljam, da še ne vem, kako bom
                            glasoval. Hvala  lepa. (Smeh v klopeh.)</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Grims še.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrimsBranko">
+                     <sp who="sp:GrimsBranko1962" corresp="#DZ-1992-Delovna-14.sp.GrimsBranko">
                         <speaker>BRANKO GRIMS:</speaker>
                         <p>Zaprosil bi za eno pravno tolmačenje. Sam namreč menim, da imamo seveda
                            tudi državljane, ki nimajo stalnega bivališča v državi Sloveniji. Glede
@@ -1833,7 +1849,7 @@
                            ta amandma v nasprotju z ustavo in seveda zanj ne bom glasoval.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še kdo? Če ne, bi lahko opravili še četrto glasovanje v zvezi s
                            tem zakonom. Prosim.</p>
@@ -1941,7 +1957,7 @@
                            združenega dela nista sprejela tega amandmaja. Želi kdo povedati svoj
                            glas? Gospod Buser je prvi.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.BuserStanko">
+                     <sp who="sp:BuserStanko1932" corresp="#DZ-1992-Delovna-14.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! Seveda bom glasoval za sprejem
                            tega amandmaja in sem to storil že tudi v družbenopolitičnem zboru
@@ -1961,11 +1977,12 @@
                            kristjan in nimam nikakršnih zgražanj nad to stvarjo. Torej, glasoval bom
                            za ta amandma. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Starman.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovano predsedstvo, drage kolegice in kolegi! Mislim,da je bila
                            predstavitev tega amandmaja nepravilna. Zbor občin je sprejel tudi
@@ -2006,7 +2023,7 @@
                            človeških razlogov ta amandma podpremo in mislim, da bomo prišli lažje do
                            volilne zakonodaje. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Najprej bi se opravičil gospodu Starmanu, poslancem zbora občin in
                            s tem tudi vam poslancem, da sem vas zavedel s tem, na kar me je opozoril
@@ -2020,7 +2037,7 @@
                            službo in  če ste, s katero in kdaj." Ves ostali tekst naprej je pa enak.
                            Prosim, gospod Golija se je prijavil.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GoljaFranc">
+                     <sp who="sp:GolijaFranc" corresp="#DZ-1992-Delovna-14.sp.GoljaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Gre za izredno pomemben  amandma, katerega bo Liberalna stranka
                            pogojevala tudi za sprejem zakona - volitve v Državni zbor. Gre tudi za
@@ -2029,11 +2046,12 @@
                            glasoval za ta amandma in tudi Liberalna stranka bo glasovala za ta
                            amandma.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Capuder.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.CapuderAndrej">
+                     <sp who="sp:CapuderAndrej1942"
+                         corresp="#DZ-1992-Delovna-14.sp.CapuderAndrej">
                         <speaker>DR. ANDREJ CAPUDER:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani zbor! Obrazložil bom svoj glas.
                            Ne bi ga obrazlagal, če me ne bi k temu spodbudila izjava novopečenega
@@ -2048,12 +2066,13 @@
                            izjave. Moram reči, da protestiram proti tej izjavi. Glasoval bom "za" ta
                            amandma. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Polajnar ima besedo.</p>
                         <p>Grem po vrsti, tako kot ste se javljali.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
+                     <sp who="sp:PolajnarIgnac1948"
+                         corresp="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Mislim, da ta amandma pomaga odpirati resnico Slovenije preteklega
                            obdobja - in za to mi gre. Če se bo nekaj te resnice ponovno razkrilo
@@ -2063,11 +2082,11 @@
                            to se mi zdi bistveno. Nihče ne bo kaznovan, gre samo za resnico, zato
                            bom z vsem srcem "za" ta amandma.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Naslednji je gospod Marjan Starc.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarcMarjan">
+                     <sp who="sp:StarcMarjan1942" corresp="#DZ-1992-Delovna-14.sp.StarcMarjan">
                         <speaker>MARJAN STARC:</speaker>
                         <p>Glasoval bom "za" ta amandma, ker sem pristaš tega, da Sloveniji niso
                            potrebne travmatične spremembe, kakršne doživljajo naši zgodovinski
@@ -2095,12 +2114,12 @@
                            civilizirano, zelo elegantno, humano, lepo izognemo tej nesreči. Zato bom
                            glasoval "za" amandma. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ.</speaker>
                         <p>Prijavljenih vas je 6 poslancev. Gremo po vrsti. Besedo ima gospod
                            Zlobec.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZlobecLJaša">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1992-Delovna-14.sp.ZlobecLJaša">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Lep pozdrav. Bil sem vseskozi med tistimi, ki so nasprotovali
                            "udbovskemu" amandmaju zato, ker sem mislil - in še vedno mislim - da
@@ -2134,11 +2153,12 @@
                            t.i. udbovski amandma, ampak pod tem pogojem, kot sem ga povedal prej.
                            Hvala.  </p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Besedo ima gospa Potočnik.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PotočnikViktorija">
+                     <sp who="sp:PotocnikViktorija1957"
+                         corresp="#DZ-1992-Delovna-14.sp.PotočnikViktorija">
                         <speaker>VIKTORIJA POTOČNIK:</speaker>
                         <p>Spoštovani poslanci, tudi sama bom glasovala za  ta zakon oz. za ta
                            amandma, normalno za pričakovanjem, da bo sprejeta tudi celotna
@@ -2152,11 +2172,11 @@
                            reči, da sem sodelovala in to zelo tesno. Namreč v komisiji JBTZ smo
                            tesno sodelovali in zasliševali takšne ljudi. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Šešerko.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠešerkoLeo">
+                     <sp who="sp:SeserkoLeo1948" corresp="#DZ-1992-Delovna-14.sp.ŠešerkoLeo">
                         <speaker>DR. LEO ŠEŠERKO:</speaker>
                         <p>Spoštovani! Jaz govorim sedaj tu v svojem imenu ne v imenu stranke, ker
                            bomo glasovali različno. Imel sem namen glasovati proti temu amandmaju in
@@ -2194,29 +2214,29 @@
                            mislim, da to pa ni mogoče, mi smo pravna država. Torej, hvala lepa.
                            Obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Kaj in kako saj vi veste točno kako je treba povedati tudi na kratko.
                            Gospod Grims, dajte en zgled.  </p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrimsBranko">
+                     <sp who="sp:GrimsBranko1962" corresp="#DZ-1992-Delovna-14.sp.GrimsBranko">
                         <speaker>BRANKO GRIMS:</speaker>
                         <p>Nekaj tega je bilo že rečenega. Želel sem namreč opozoriti na tole: Kadar
                            se govori o tajni službi</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Kako boste glasovali dajte povedati najprej.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrimsBranko">
+                     <sp who="sp:GrimsBranko1962" corresp="#DZ-1992-Delovna-14.sp.GrimsBranko">
                         <speaker>BRANKO GRIMS:</speaker>
                         <p>Če se ne motim, imam pravico do obrazložitve svojega glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Seveda.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrimsBranko">
+                     <sp who="sp:GrimsBranko1962" corresp="#DZ-1992-Delovna-14.sp.GrimsBranko">
                         <speaker>BRANKO GRIMS:</speaker>
                         <p>Hvala. Skratka, gre za amandma, ki lahko povzroči hude razprtije, gre za
                            amandma, ki bo omogočal, že sama njegova postavitev to omogoča, da bo
@@ -2229,12 +2249,12 @@
                            sprejemamo, so toliko nedorečeni, da so pač najboljši dokaz, kako zelo ta
                            parlament oz. ta država potrebuje nov parlament. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Metelko. Še enkrat ta amandma gre samo na račun teh
                            volitev, ki so pred nami in nič več.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.MetelkoAlojz">
+                     <sp who="sp:MetelkoAlojz1940" corresp="#DZ-1992-Delovna-14.sp.MetelkoAlojz">
                         <speaker>ALOJZ METELKO:</speaker>
                         <p>Spoštovano predsedstvo! Glasoval bom za amandma. Ko smo že v Zboru občin
                            dali predlog tega amandmaja, sem tam rekel, da je žalostno za slovenski
@@ -2246,11 +2266,11 @@
                            poznali kandidata, ki bo, recimo, iz enega kraja Slovenije kandidiral v
                            drugem kraju. Zato bom glasoval za ta amandma.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Murn.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.MurenAndrej">
+                     <sp who="sp:MurenAndrej1953" corresp="#DZ-1992-Delovna-14.sp.MurenAndrej">
                         <speaker>ANDREJ MUREN:</speaker>
                         <p>Spoštovane gospe, spoštovani gospodje! Glasoval bom za ta amandma in to
                            izključno iz moralnih razlogov, ker se zavedam, da bi v praksi izvajanje
@@ -2260,11 +2280,11 @@
                            pred volitvami podpisovali izjavo o nesodelovanju v kolikor to ne bo v
                            zakonu. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Peterle.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci tudi sam sem v skupini tistih poslancev,
                            ki utemeljujejo to predvsem z moralnimi razlogi pa tudi s političnimi.
@@ -2274,11 +2294,12 @@
                            argumentov drugih, žal mi je samo, da nismo takega določila sprejeli tudi
                            pri volitvah za predsednika države ali za svet.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Štefančič.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠtefančičMarcel">
+                     <sp who="sp:StefancicMarcel1937"
+                         corresp="#DZ-1992-Delovna-14.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Hvala lepa. Spoštovani poslanci in spoštovane poslanke. Torej moram
                            ugotoviti seveda, da je ta amandma zelo pomemben, kajti če ne bi bil
@@ -2288,11 +2309,11 @@
                            bo s tem amandmajem kakor brez njega in zato ker nam bo bolje s tem
                            amandmajem kot brez njega, bom glasoval za ta amandma.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala gospod Lampret.  </p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.LampretJanez">
+                     <sp who="sp:LampretJanez" corresp="#DZ-1992-Delovna-14.sp.LampretJanez">
                         <speaker>JANEZ LAMPRET:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Govorim v svojem
                            imenu, glasoval bom za amandma in to predvsem iz naslednjih razlogov:
@@ -2302,11 +2323,11 @@
                            upam, da bomo povrnili zaupanje ljudi, zlasti pa v nov parlament.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Urbančič.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.UrbančičMiloš">
+                     <sp who="sp:UrbancicMilos" corresp="#DZ-1992-Delovna-14.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Glasoval bom za ta amandma, ker bo situacija, tako kot je prej eden rekel
                            "bolj čista". Bolj čista bo tudi zaradi tega, da vsakdo, ki je sodeloval
@@ -2315,11 +2336,11 @@
                            vest, ker bo vsak vedel - ta je bil, ampak je bil, kar je bil. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Franco. Ne. Gospod Črnej.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ČernejJanez">
+                     <sp who="sp:CrnejJanez1935" corresp="#DZ-1992-Delovna-14.sp.ČernejJanez">
                         <speaker>JANEZ ČRNEJ:</speaker>
                         <p>Glasoval bom za ta amandma, zaradi tega, ker ko sem bil kot študent 1957
                            leta na Norveškem in preden sem odšel na to pot, sem bil klican na Službo
@@ -2336,11 +2357,12 @@
                            politike, ampak tudi kompletno gospodarstvo, zato smatram, da je ta
                            amandma nujen in da se resnično pride do čistih računov.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospa Lavtižar.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.LavtižarBeblerDarja">
+                     <sp who="sp:LavtizarBeblerDarja1950"
+                         corresp="#DZ-1992-Delovna-14.sp.LavtižarBeblerDarja">
                         <speaker>DARJA LAVTIŽAR-BEBLER:</speaker>
                         <p>Spoštovane kolegice, spoštovani kolegi, jaz bom glasovala proti temu
                            amandmaju. Mislim, da ni res, kar pravi gospod Starman, da ta amandma
@@ -2359,11 +2381,11 @@
                            mandat, kajti v nasprotnem primeru, gospodje, pa morate poiskati nek drug
                            amandma, ki bo odprl možnost za to, da se zamenja ljudstvo. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Juri Franco.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.JuriFranko">
+                     <sp who="sp:JuriFranco1956" corresp="#DZ-1992-Delovna-14.sp.JuriFranko">
                         <speaker> FRANCO JURI:</speaker>
                         <p>Tudi jaz bom "črna ovca", glasoval bom proti temu amandmaju: Prvič, ker
                            je napisan v tipičnem udbovskem slogu in ker nisem bil nikoli - lahko to
@@ -2376,11 +2398,11 @@
                            je vedno izdajal potrdila o plačilu svojim klientom, ali je kdaj zatajil
                            prihodke davčni službi.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Franco!</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.JuriFranko">
+                     <sp who="sp:JuriFranco1956" corresp="#DZ-1992-Delovna-14.sp.JuriFranko">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Oprostite, obrazložujem svoj glas. Ali če je kandidat, ki je bil direktor
                            podjetja povzročil stečaj in nadaljeval svoj posel v tujini z enako
@@ -2388,11 +2410,11 @@
                            primeru bi glasoval za, ampak ker teh dopolnil ni, bom glasoval proti.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Halb se je še oglasil.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.HalbJanko">
+                     <sp who="sp:HalbJanko1957" corresp="#DZ-1992-Delovna-14.sp.HalbJanko">
                         <speaker>JANKO HALB:</speaker>
                         <p>Spoštovani! Glasoval bom seveda za ta amandma. Govorim pa tukaj v imenu
                            vseh tistih, ki nismo sodelovali z Udbo in za ilustracijo ali pa za
@@ -2404,23 +2426,23 @@
                            mirne duše hotelo pod to podpisati. Jaz bom, recimo, prvi. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Da se prav razumemo, verjetno je res, po dvajsetih razpravah je vsakemu
                            že nekoliko hudo. Prosim, dajmo še vzdržati te dve ali pa tri. Gospod
                            Gros.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Seveda bom glasoval za ta amandma, ker brez njega ni moralnega očiščenja
                            te naše družbe. Ta vrsta tukaj gor se smeje, kot po navadi, vsaj tisto
                            osredje okoli Školča.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Zdaj se pa na oni strani tudi.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>To so se pa zdaj, ko ste vi govorili. Zelo zanimiva je bila razprava
                            gospoda Franca Jurija. Moram reči, da jo kar podpiram. Vendar, bistveno
@@ -2445,11 +2467,11 @@
                            zaključujem, no, pa še gospoda Zlobca bi se malo dotaknil, ker zdaj tam
                            nekaj govori.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Pa on z glasovanjem nima nobene veze.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Ima, zato ker tudi zaradi njega - sem si zapisal - bom glasoval za ta
                            amandma. Gospod Zlobec je govoril, da je amandma vsebinsko nepomemben in
@@ -2460,11 +2482,12 @@
                            neznosno znosna situacija bo nastopila, predvsem pa znosna. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>On je sedaj prvič razpravljal pri tem amandmaju. Gospa Žerovnik.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŽerovnikAngelca">
+                     <sp who="sp:ZerovnikAngelca1944"
+                         corresp="#DZ-1992-Delovna-14.sp.ŽerovnikAngelca">
                         <speaker>MAG. ANGELCA ŽEROVNIK:</speaker>
                         <p>Spoštovani, glasovala bom za ta amandma, vendar nisem mislila priti
                            razlagat svoj glas, ker sem menila, da je dovolj jasno, saj sem vložila v
@@ -2474,11 +2497,12 @@
                            in da tudi ve kaj hoče. Probleme, ki jih imamo tu v parlamentu nimamo
                            pravice prenašati na ljudstvo. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p> Hvala. Še gospod Podobnik, po tem pa izgleda ...</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Spoštovani. Slovenska ljudska stranka in naš poslanski klub podpirata ta
                            amandma in tudi sam bom glasoval za ta amandma. Na kratko da ga
@@ -2494,11 +2518,12 @@
                            sprejetje zakona, zato pričakujem polno podporo poslancev temu amandmaju,
                            saj je vendarle, vidim, večinski interes, da se tudi zakon sprejme.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Gradišar.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GradišarCvetko">
+                     <sp who="sp:GradisarCvetko1938"
+                         corresp="#DZ-1992-Delovna-14.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Spoštovane kolegice, kolegi, obrazložil bom svoj glas. Tudi na zboru
                            občin sem imel zadržke proti temu amandmaju. Povedal bom zakaj. Vedno sem
@@ -2535,11 +2560,11 @@
                            rehabilitacija, moralna, materialna in vsakršna, to je tisto, kar je
                            pravo. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Lovšin.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.LovšinFranc">
+                     <sp who="sp:LovsinFranc" corresp="#DZ-1992-Delovna-14.sp.LovšinFranc">
                         <speaker>FRANC LOVŠIN:</speaker>
                         <p>Spoštovane poslanke in poslanci. Udbovski amandma, razprava je
                            dolgotrajna, draga, trese se gora, rodila pa se bo miš. Sodelavci udbe,
@@ -2561,7 +2586,7 @@
                         <p>Diskusije v nedogled, zato bom glasoval - kot sem že glasoval proti
                            takemu amandmaju.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>24 vas je povedalo svoje mnenje, to je dobrih 10 odstotkov vseh poslancev
                            volilnega telesa. Menim, da smo prišli do odločanja. Lahko pričnemo?
@@ -2658,22 +2683,24 @@
                         <p>Sedaj moramo še glasovati o predlogu zakona o volitvah v Državni zbor v
                            celoti, skupaj z amandmaji. - Gospod Starman ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN</speaker>
                         <p>): Torej, iz istih razlogov kot pri državnem svetu prosim za odmor, da bi
                            se o stvari posvetovali.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Starman, bodite malo bolj precizni; gre za sestanek vodstev?</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Gre za sestanek poslanskega kluba Demos, zato sem rekel "iz istih
                            razlogov isti klub predlaga, da bi nam dali 10 minut odmora, da se
                            posvetujemo".</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>To verjetno tehnično sploh ne bo šlo, ker 10 minut je takšen čas, da
                            komaj ven pridete, kaj šele nazaj. - Predlagam, da se tudi v zvezi s
@@ -2686,7 +2713,7 @@
                      <stage type="time">(Seja je bila <time to="1992-09-09T15:07:00" xml:id="DZ-1992-Delovna-14.stage.t.10">prekinjena ob 15.07 uri</time> in se je <time from="1992-09-09T16:45:00" xml:id="DZ-1992-Delovna-14.stage.t.11">nadaljevala ob 16.45
                            uri</time>.)</stage>
 
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Glede na to, da vas je kar precej prispelo do mene in ste me opozorili na
                            kršenje poslovnika in da seveda tudi vaša potrpežljivost počasi usiha, bi
@@ -2724,7 +2751,7 @@
                            proceduralnimi zadevami.</p>
                         <p>Gospod Peterle želi besedo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci! Na nek način obnavljam predlog, ki sem
                            ga dal že prej. Če smo čakali toliko časa, si vzemimo še pol ure ali uro
@@ -2736,7 +2763,7 @@
                            - ni najboljša solucija. Mislim, da bi lahko s takim pogovorom prišli do
                            rešitve, ki bi bila bolj sprejemljiva. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Lahko v imenu delovnega predsedstva predlagam naslednje: v smislu,
                            da bi res prišlo danes do sprejema teh dveh izredno pomembnih zakonov, mi
@@ -2749,7 +2776,7 @@
                            tudi zaključen. Prosim, da počakate še tu. - Gospod Školč želi še besedo
                            glede proceduralne zadeve.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
+                     <sp who="sp:SkolcJozef1960" corresp="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Hvala lepa predsedujoči! Jaz tak predlog lahko sprejemam pod nekim zelo
                            enostavnim pogojem, če se tukaj poslancem predoči, o čem bi se mi na tem
@@ -2764,11 +2791,11 @@
                            vemo, o čem se lahko pogovarjamo, ker drugače pogovor zaradi pogovora
                            pomeni krajo naslednjih dveh ur časa. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Bizjak ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.BizjakIvan">
+                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-Delovna-14.sp.BizjakIvan">
                         <speaker>IVAN BIZJAK:</speaker>
                         <p>Spoštovane kolegice in kolegi! K besedi sem se javil zato, ker mislim, da
                            se da pojasniti, kaj bi veljalo obravnavati. Namreč tisto najprej, kar
@@ -2792,11 +2819,12 @@
                            uskladiti tudi to proceduralno vprašanje in mislim, da je kar nekaj tem
                            za ta sestanek.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Starman se je prej oglasil.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Opravičujem se tistim, ki so tokrat čakali, vendar situacija je taka, da
                            je bilo nemogoče uskladiti stališča, ki so izjemno odgovorna. Mislim, da
@@ -2805,14 +2833,14 @@
                            paketu. Tudi to je eno od vprašanj, o katerih bi morali  doseči vsaj
                            osnovna izhodišča.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Tu moram protestirati. To ni razprava o dnevnem redu in o vseh ostalih
                            zadevah in ne pride v ta sklop. Mi se lahko pogovarjamo samo o teh
                            zadevah, ki so tu sporne, da bi jih odpravili, da bi bila oba zakona
                            sprejeta. Tu se ne moremo nič pogovarjati. Prosim gospod Smole.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.SmoleJože">
+                     <sp who="sp:SmoleJoze1927" corresp="#DZ-1992-Delovna-14.sp.SmoleJože">
                         <speaker>JOŽE SMOLE (DPZ):</speaker>
                         <p>Spoštovani! S predlogom gospoda Peterleta se ne strinjam. Gre enostavno
                            za neko manevriranje, ki je v popolnem nasprotju tudi s poslovnimi
@@ -2826,7 +2854,7 @@
                            si gospodje dovolili priti sem, gremo v normalni postopek glasovanja, pa
                            naj bo rezultat glasovanja kakršenkoli že bo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Dvoje je tu. Najprej, da smo se glede prvega zakona opredelili, da bomo
                            imeli odmor in glede na to,da je tudi zdaj tu to vprašanje odprto, se mi
@@ -2834,7 +2862,7 @@
                            naj se dogovorijo, ker bodo tudi sprejeli svojo odgovornost in točno po
                            eni uri nadaljujemo, ali pa kako drugače.  Gospod Kopač.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.KopačJanez">
+                     <sp who="sp:KopacJanez1961" corresp="#DZ-1992-Delovna-14.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Hvala lepa za besedo. V razpravah v zvezi volitvami v zadnjih dneh je
                            bilo večkrat slišati s strani opozicije, da sicer načelno podpirajo
@@ -2858,11 +2886,11 @@
                            tem, kaj bodo glasovali poslanci, tudi obljubijo, da bodo tisti poslanci
                            čez eno uro ali uro in pol tukaj. Samo v tem primeru. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še gospod Arzenšek.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ArzenšekJože">
+                     <sp who="sp:ArzensekJoze1942" corresp="#DZ-1992-Delovna-14.sp.ArzenšekJože">
                         <speaker>DR. JOŽE ARZENŠEK:</speaker>
                         <p>Spoštovani zbor! Zdi se mi nekorektno, najmanj nekorektno, da skušamo
                            izigravati drug drugega, najmanj pa to, da recimo, če nekdo potrebuje za
@@ -2876,14 +2904,15 @@
                            sprejme tisti, ki tega ne spelje, tudi to odgovornost nase. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Nekdo bo rekel, da že razpravljamo tako dolgo, da bi se v tem času lahko
                            šefi dogovorili. To je pa zdaj drugo vprašanje. Predlagam, da glasujemo o
                            tem, proceduralna zadeva je bila in z glasovanjem bomo odločili ali bo
                            eno uro odmora ali pa ne. Gospod Štefančič.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠtefančičMarcel">
+                     <sp who="sp:StefancicMarcel1937"
+                         corresp="#DZ-1992-Delovna-14.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Poslušam vse "jade" in "mile" in take desne in leve, vendar poglejte.
                            Danes imam veliko daljši nos, kot sem ga imel do zdaj kadarkoli v tej
@@ -2898,7 +2927,7 @@
                            potem tudi zakonodajo izglasujemo, ne pa da še kar naprej obtožujemo zdaj
                            levo in desno, zgoraj in spodaj, ker ne bomo nikamor prišli.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Predlagam, da glasujemo. Ugotovimo, prosim, po zborih, koliko nas je:
                            Družbenopolitični zbor - 60, prosim Družbenopolitični zbor, poslanke in
@@ -2923,7 +2952,7 @@
                      </sp>
                      <stage type="time">(Seja je bila <time to="1992-09-09T17:10:00" xml:id="DZ-1992-Delovna-14.stage.t.12">prekinjena ob 17.10 uri</time> in se je <time from="1992-09-09T18:20:00" xml:id="DZ-1992-Delovna-14.stage.t.13">nadaljevala ob 18.20
                            uri</time>.)</stage>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Vem, da delam proti samemu sebi, pa bi verjetno vseeno bilo prav. Gospod
                            Starman je pa obljubil, da pridejo 10 minut čez 18 uro. Nadaljujemo s
@@ -2939,7 +2968,7 @@
                            tistega, ki so predlagali, da pove, kaj so sklenili in kaj predlagajo
                            poslancem in poslankam. Prosim gospod Peršak.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeršakAnton">
+                     <sp who="sp:PersakAnton1947" corresp="#DZ-1992-Delovna-14.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Tako kot je bilo napovedano smo se pogovarjali pač o obeh zakonih. V
                            zvezi z zakonom o Državnem svetu, o katerem  naj bi najprej glasovali po
@@ -2964,11 +2993,12 @@
                            seveda tako, kot predvideva poslovnik.  Najprej glasujemo o zakonu v
                            Državnem svetu in potem o zakonu o volitvah v Državni zbor. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Je še potrebno. Gospod Starman. Samo proceduralno.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Torej gospod Peršak je povzel svoje zaključne misli na usklajevanju. Mi
                            smo nujno rabili še takrat pavzo in smo prišli do sledečih zaključkov.
@@ -2981,22 +3011,22 @@
                            našega kluba. Prosim, da ga sprejmete. Je dobronamerno. Drugače ne bomo
                            prišli nikamor. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Samo proceduralno. Sedaj gre za zakon o Državnem svetu. In o tem bomo
                            tudi glasovali. Če je še kaj v zvezi z državnim svetom proceduralnega,
                            vsebinskega, kako bomo glasovali pa ne. Gospod Gros.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Vse, kar je povedal gospod Starman, drži, samo zmotil se je, ko je rekel
                            Državni svet. Moral bi reči Državni zbor, da ne bo pomote. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še proceduralno. Gospod Zlobec.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZlobecLJaša">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1992-Delovna-14.sp.ZlobecLJaša">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Kolega Starman je govoril o poslanskem klubu Demos, ki se je odločil, da
                            bi v primeru glasovanja danes določen zakon padel. Vsi se strinjamo, da
@@ -3008,7 +3038,7 @@
                            nepadcem realna in navsezadnje, da se sploh razčisti, kakšne stranke in
                            kakšne poslanke klube imamo v tej skupščini.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Zlobec to nima povezave s tem. Ni proceduralno in ne moremo na to
                            pristati.</p>
@@ -3016,7 +3046,7 @@
                            svetom. Ker potem bomo pa glasovali ali odločamo ali ne in pika. Gospod
                            Peterle.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Zame je glede volitev v Državni svet situacija jasna. Nekoliko jo je
                            zameglil gospod Peršak, ki je rekel: "če stvar pade". Tega "čeja" ne more
@@ -3025,7 +3055,7 @@
                            upoštevati, ker je bilo tako prej dogovorjeno. Torej ni tukaj še enkrat
                            bitke ali bo ta stvar skozi prišla. Ta zakon lahko samo pade.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še kdo? Predlagam, da se tudi o tem opredelimo, da glasujemo o tem
                            zakonu, in sicer bi predlagal, da glasujemo kar skupno, kljub temu da je
@@ -3035,15 +3065,16 @@
                            kdo predlaga? Gospod Jamnikar je predlagal. Umika. Ni predloga za
                            posamično glasovanje. Gospod Juri.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.JuriFranko">
+                     <sp who="sp:JuriFranco1956" corresp="#DZ-1992-Delovna-14.sp.JuriFranko">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Če je to potrebno, predlagam, da se poimensko glasuje.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Za državni svet. Gospod Podobnik.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Jaz sicer verjamem, da gospod Juri ni bil obveščen o tem, kaj se je
                            govorilo na zdajšnji seji, ker sicer ne bi mogel razumeti tega. Namreč,
@@ -3058,19 +3089,20 @@
                            poudarjam, da ponovno stopate nazaj od tega, kar je bilo dogovorjeno pred
                            15 minutami. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Glasujemo. Ugotovimo najprej sklepčnost. Prosim poslanke in poslance
                            Družbenopolitične zbora <stage type="vote">(76 poslancev)</stage>. Poslanke in
                            poslanci Zbora občin <stage type="vote">(64 poslancev)</stage>. Poslanke in poslanci
                            Zbora združenega dela <stage type="vote">(65 poslancev)</stage>.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
+                     <sp who="sp:PolajnarIgnac1948"
+                         corresp="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Se opravičujem. Dajmo se v Družbenopolitičnem zboru pogledati. Prepričan
                            sem, da nas ni 76.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Prosim, koliko poslancev in poslank Družbenopolitičnega zbora je v veliki
                            dvorani Skupščine Republike Slovenije. Prosim, pritisnite na gumb. Koliko
@@ -3099,7 +3131,7 @@
                            skupnem abecednem redu vseh poslancev vseh treh zborov. Glede na
                            odhajanje, moramo ugotoviti prisotnost. - Prosim, gospod Buser.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.BuserStanko">
+                     <sp who="sp:BuserStanko1932" corresp="#DZ-1992-Delovna-14.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovane kolegice in kolegi! Ker vidim, da je zakon lahko ogrožen oz.
                            sprejem zakona; ali bomo kaj izgubili do jutri? Vprašujem vas, ali bomo
@@ -3108,22 +3140,22 @@
                            da potem pač moramo po disciplini zapustiti dvorano - in jo bom tudi jaz
                            zapustil. Ampak sam je ne bi rad zapustil, gospodje!</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Buser, to ni več proceduralna zadeva.  <stage type="incident">(Nemir in reakcije v
                               dvorani)</stage> Prosim za mir v dvorani.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.BuserStanko">
+                     <sp who="sp:BuserStanko1932" corresp="#DZ-1992-Delovna-14.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Ne izsiljujem. Povedal sem, gospod Zlobec, upam da v redu predlog. Ali do
                            jutri kaj izgubimo? <stage type="incident">(Ugovori in nemir)</stage> Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>To ni bila proceduralna zadeva. Gospod Tomažič? Ne, samo proceduralno. -
                            Prosim, gospod Peterle - proceduralno.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Rad bi v tej zvezi opozoril, da mi nismo z ničemer vsebinsko pogojevali
                            glasovanja o zakonu o volitvah v Državni zbor. Ko smo bili prej vodje
@@ -3137,11 +3169,11 @@
                            ta zakon, za katerega ni nujno, da danes pade, ker bi ga morali potem še
                            enkrat delati. Samo ta predlog je!</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Školč ima besedo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
+                     <sp who="sp:SkolcJozef1960" corresp="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Hvala lepa. Resnici na ljubo je treba povedati, da je sestavni del
                            dogovora bil tudi, da se danes glasuje o tem zakonu o volitvah v Državni
@@ -3178,7 +3210,7 @@
                            tudi kdo drug začel naštevati, kdo vse takrat ni glasoval in kdo vse je
                            morebiti iskal povod, da se mučimo s sprejemom te zakonodaje.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Prosim gospod Školč, to so bile sedaj že vsebinske zadeve. Mi smo se
                            odločili, da bomo danes glasovali o tem zakonu in to glasovanje moramo
@@ -3190,18 +3222,18 @@
                         <p>- Prosim poslanke in poslanci Družbenopolitičnega zbora!</p>
                         <p>Besedo želi gospod Ribičič.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.RibičičCiril">
+                     <sp who="sp:RibicicCiril1947" corresp="#DZ-1992-Delovna-14.sp.RibičičCiril">
                         <speaker>DR.CIRIL RIBIČIČ:</speaker>
                         <p>Hvala. Če gremo sedaj na poimensko glasovanje, seveda omogočimo tudi
                            tistim, ki so izven dvorane, da vidijo, da gre zares in da pridejo nazaj
                            v dvorano.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Ali je proceduralno? To se sedaj vse spušča v vsebinske zadeve, ki nimajo
                            več s tem stika.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Tudi to ni imelo s tem stika. Poglejte: interpretacija gospoda Školča je
                            napačna. Mi smo se zmenili za zaporedje, da se najprej sprejema zakon o
@@ -3209,7 +3241,7 @@
                            sprejetje zakona, ampak je bilo samo glasovanje, s katerim popravljamo
                            dopoldansko napako.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Potem pa sedaj izvršimo še glasovanje o zakonu v Državni zbor. Mi bomo
                            vseeno videli točno po poslancih in zato bi predlagal, da pričnemo s
@@ -3229,7 +3261,7 @@
                            prosim. Gospod Golija.</p>
                         <p>Gospod Bizjak pravi, da moram zahtevati mir v dvorani.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GoljaFranc">
+                     <sp who="sp:GolijaFranc" corresp="#DZ-1992-Delovna-14.sp.GoljaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Dvigam roko že pol ure, pa nisem uspel, da bi stvari objasnil. Mislim, da
                            je bil prvi del dogovora korektno izveden in tudi sprejet, dogovorjen na
@@ -3243,11 +3275,11 @@
                            želijo, da zakon pade. In potem, če to res želite, potem se lahko tudi z
                            javnim izražanjem glasujemo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Potrč, potem pa gospod Peršak, potem bi pa zaključili s tem.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PotrčMiran">
+                     <sp who="sp:PotrcMiran1938" corresp="#DZ-1992-Delovna-14.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Jaz se opravičujem, če imajo drugi pravico pojasnjevati neke dogovore,
                            potem imam nekaj besed pravico povedati tudi sam. Vsi od opozicije trdijo
@@ -3266,11 +3298,11 @@
                            bomo najbrž jutri ugotovili, na žalost. Danes pa vi nočete odločati.
                            Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Peršak.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeršakAnton">
+                     <sp who="sp:PersakAnton1947" corresp="#DZ-1992-Delovna-14.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Jaz sem poročal s tega sestanka vodij klubov. Na tem sestanku vodij
                            klubov je bilo s strani nekaterih vodij klubov izrecno postavljen pogoj,
@@ -3289,11 +3321,11 @@
                            poslanskega kluba neodvisnih pogoj da se danes glasuje o zakonu o
                            volitvah v Državni zbor in temu ni nihče ugovarjal na sestanku.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPNAČIČ:</speaker>
                         <p>Gospod Peterle.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Glejte, jaz mislim, da se splača in spodobi in je koristno v to podjetje
                            vložiti še nekaj energije. Danes je dan do polnoči 9.9.1992. Če se zakon
@@ -3303,7 +3335,7 @@
                            kakor sem že prej rekel, vsebinsko, z nobeno stvarjo, kakor smo že tudi
                            večkrat povedali v zadnjem času.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Poglejte samo to, proceduralno mi danes tega zakona, tako kot je gospod
                            Peterle predlagal, ne moremo sprejeti, ker mora iti na zbore in morajo v
@@ -3311,7 +3343,7 @@
                            tako dobronamerno menili, ker je to nov zakon in zato ne more danes tu
                            biti, da smo si tu na čistem. Gospod Pregelj.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PregeljŽarko">
+                     <sp who="sp:PregeljZarko1956" corresp="#DZ-1992-Delovna-14.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Želim opozoriti na nesporazum. Med 5. in 6. uro so se eno uro dogovarjali
                            vodje poslanskih klubov. Vodja poslanskega kluba je prvi med poslanci v
@@ -3323,22 +3355,23 @@
                            sprejeli svojo odločitev, da  zdaj tukaj na silo morajo izvrševati nekaj
                            proti svoji volji. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Prosim, gospod Kociper.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.KociperŠtefan">
+                     <sp who="sp:KociperStefan1952"
+                         corresp="#DZ-1992-Delovna-14.sp.KociperŠtefan">
                         <speaker>ŠTEFAN KOCIPER:</speaker>
                         <p>Samo podprl bi svojega predsednika Peterleta, ki kliče na razum in
                            dejansko to, kar gospod Zupančič pravi, da ni mogoče je mogoče. Po zborih
                            si razdelimo, obravnavajmo to, kar je "sprintano" in pridimo sem. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Rogina tudi želi besedo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.RoginaBogo">
+                     <sp who="sp:RoginaBogo1947" corresp="#DZ-1992-Delovna-14.sp.RoginaBogo">
                         <speaker>BOGO ROGINA:</speaker>
                         <p>Spoštovane poslanke in poslanci! Z ozirom na to, da je to samo še eno v
                            seriji izsiljevanj, moram reči, da v primeru, da ne glasujemo najprej o
@@ -3346,11 +3379,12 @@
                            sodelujemo v nadaljevanju, potem o sprejemanju zakona v Državni svet. Za
                            sebe sigurno vem, da ne.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Prosim, gospod Polajnar.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
+                     <sp who="sp:PolajnarIgnac1948"
+                         corresp="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Če je res stvar usodna. Sam mislim,da usodna ni, če je pa nujna, potem
                            sem prepričan, da se da dogovoriti zdaj, da skupščina pripravi te
@@ -3362,11 +3396,12 @@
                            poslancev ne bo. Če ta strah je in morda pri komu utemeljen, potem raje
                            to opravimo danes. Smo tu zdaj in nas je dovolj.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Gradišar.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GradišarFranc">
+                     <sp who="sp:GradisarFranc1945"
+                         corresp="#DZ-1992-Delovna-14.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Prva stvar, ki jo bom rekel, da ne bo potem očitkov, govorim kljub
                            devetim uram mučenja, še pri polni zavesti. To pomeni, da vem, kaj je
@@ -3387,11 +3422,11 @@
                            za zakon ali niso za zakon, če so pa proti volitvam, naj pa javno povedo
                            in gremo vsi lepo veseli in zadovoljni domov. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Juri.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.JuriAurelio">
+                     <sp who="sp:JuriAurelio1949" corresp="#DZ-1992-Delovna-14.sp.JuriAurelio">
                         <speaker>AURELIO JURI:</speaker>
                         <p>Spoštovani kolegi pozdravljeni! Zelo kratko intervenco imam v tem smislu,
                            da si ne bi delali neke lažne dileme, ker nobeden od zakonov ne pogojuje
@@ -3407,7 +3442,7 @@
                            ni, da so stvari jasne, da jutri vsekakor in vsi skupaj si želimo, da
                            dobimo usklajen tekst, ki bo dobil dvetretjinsko večino. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Tu smo se posvetovali in predlagam naslednje, da glede na to, koliko nas
                            je še v dvorani, izvedemo v skladu z 298. in 299. členom poslovnika
@@ -3415,7 +3450,8 @@
                            vseeno ni tako krvavo odločilna, zato vseeno to poskusimo. Gospod
                            Podobnik.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Bilo je očitno tudi zaradi dejanske napetosti, utrujenosti itn. in se mi
                            zdi, da prihaja do nekaterih zaostrovanj, za katere je škoda, ker
@@ -3433,11 +3469,11 @@
                            predlog gospoda Peterleta, glasovati postopno o teh dveh zakonih in jutri
                            imamo kompletno zakonodajo pod streho ali pa morda že danes opolnoči.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še gospod Potrč.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PotrčMiran">
+                     <sp who="sp:PotrcMiran1938" corresp="#DZ-1992-Delovna-14.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Jaz bom ponovil proceduralni predlog in prosim, da nismo nervozni in da
                            samo ocenimo, ali ga je mogoče sprejeti. Vsi žlimo danes odločati. Jaz
@@ -3461,7 +3497,7 @@
                            iz pozicije in če se tako odločimo, smo lahko v petih minutah zaključili
                            glasovanje.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Kakorkoli se vzame, gospod Potrč, to sploh ni sprejemljivo, zaradi tega,
                            ker mi smo zakon zavrnili in nimamo kaj o tem zdaj razpravljati. Že
@@ -3482,7 +3518,7 @@
                            Takšen predlog je predsednik zbora dolžan upoštevati. To gre samo za
                            predhodno ugotavljanje. Še enkrat gospod Peterle.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>V skladu s tem, kar sem povedal; prej sem jaz pripravljen glasovati
                            predhodno, da dokažemo tisto, kar smo prej govorili, da smo za ta zakon,
@@ -3491,12 +3527,12 @@
                            to, izsiljevanje je to, kar je predlagal gospod Gradišar, da ne glede na
                            sklepčnost glasujemo. Smo slišali - bo magnetogram.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Saj ne gre. Jaz samo govorim to, kar je v poslovniku in glede števila smo
                            si na jasnem. Še enkrat gospod Školč.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
+                     <sp who="sp:SkolcJozef1960" corresp="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Samo to bi rad rekel. Dogovor ni bil tak, kot pravi gospod Peterle.
                            Dogovor ni bil, da je pogoj za to, da gremo k sprejemu, oziroma
@@ -3511,11 +3547,11 @@
                            prestiž, ampak če se cel dan govori o dogovorih, potem je treba vedeti,
                            da ga je treba spoštovati tudi tega zadnjega, od zvečer.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPAČNIČ:</speaker>
                         <p>Hvala. Gospod Gošnik.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GošnikVano">
+                     <sp who="sp:GosnikVane1953" corresp="#DZ-1992-Delovna-14.sp.GošnikVano">
                         <speaker>VANO GOŠNIK:</speaker>
                         <p>Hvala lepa. Poglejte, nesporno je, da smo Zeleni za to, da se sprejme
                            zakon o volitvah v Državni zbor in tega nismo pogojevali, torej nimamo
@@ -3538,11 +3574,11 @@
                            ali tretjo možnost in da tukaj prenehamo s prestižnimi vprašanji in
                            prebadanji. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Kreft.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.KreftLev">
+                     <sp who="sp:KreftLev1951" corresp="#DZ-1992-Delovna-14.sp.KreftLev">
                         <speaker>DR. LEV KREFT:</speaker>
                         <p>Hvala lepa za besedo gospod predsedujoči. Drage poslanke, spoštovani
                            poslanci! Mislim, da bi morali izbirati med dvema možnostima, ki sta nam
@@ -3561,7 +3597,7 @@
                            poslanke in poslanci, ki so zapustili to sejo, za to predhodno glasovanje
                            na to sejo vrnejo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Moram vseeno ugotoviti, da takrat, ko je gospod Peršak poročal o
                            dogovoru vodij poslanskih klubov in strank, nas je bilo prisotnih 208
@@ -3571,18 +3607,19 @@
                         <p>Jaz mislim, da moramo sedaj odločiti o tem. Ali je res še kaj nujnega?
                            Gospod Franc Gradišar najprej.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GradišarFranc">
+                     <sp who="sp:GradisarFranc1945"
+                         corresp="#DZ-1992-Delovna-14.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Sedaj, če že delamo po poslovniku - kar naprej ga beremo - me zanima, kaj
                            kolega Balant še dela tukaj? Kolikor vem, nima vstopa notri kot sekretar.
                            Res, mi je prav žal; je lepo ali grdo, naj gre ven, drugače grem jaz ven.
                            Kakor hočete.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še gospod Ribičič in bi potem zaključili.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.RibičičCiril">
+                     <sp who="sp:RibicicCiril1947" corresp="#DZ-1992-Delovna-14.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Spoštovani kolegi! Rad bi opozoril na to, kar je kolega dr. Lev Kreft
                            tukaj predlagal. Predhodno izjasnjevanje bi bilo za tiste, ki želimo
@@ -3596,11 +3633,11 @@
                            o tem zakonu o Državnem zboru, s posledico, da se uporabi staro
                            zakonodajo, če ne bo izglasovan.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še gospod Pregelj.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PregeljŽarko">
+                     <sp who="sp:PregeljZarko1956" corresp="#DZ-1992-Delovna-14.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani! Na začetku oz. nadaljevanju te skupne delovne seje po koncu
                            poročanja gospoda Peršaka, je gospod Starman v imenu Demosovega kluba
@@ -3613,12 +3650,12 @@
                            bili na seji Demosovega kluba, smo sprejeli dogovor, da danes ne bomo
                            glasovali. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Lepo prosim, da poslanci ne zapustite velike dvorane Skupščine.  Gospod
                            Gros.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Liberalna stranka je itak povedala, da za ta zakon ne bo glasovala, v
                            kolikor udbovski amandma ne bo sprejet. Z ozirom na to, da se je Demosov
@@ -3629,7 +3666,7 @@
                         <p>Predlagam, da sejo prekinemo, da se postopa tako, kot je bilo predlagano
                            in da jutri ob 10. uri nadaljujemo zadevo. Nasvidenje in hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. <stage type="gap">(dogovarjanje v delovnem predsedstvu)</stage> Tu je predlog
                            še vedno naslednji: da še enkrat sedaj ugotovimo, koliko nas je ob 19.15
@@ -3650,7 +3687,7 @@
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.2.5"
                        ana="#PAR.Prisot"
                        corresp="#DZ-1992-Delovna-14.toc.2.6">
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Ugotovimo, koliko nas je <title>prisotnih</title> samo poslancev veliki
                            dvorani. Najprej Družbenopolitični zbor <stage type="vote">(62 poslancev.)</stage>
@@ -3693,7 +3730,7 @@
                   <div xml:id="DZ-1992-Delovna-14.div.1.1.2.6"
                        ana="#PAR.TDR"
                        corresp="#DZ-1992-Delovna-14.toc.2.7">
-                     <sp who="#DZ-1992-Delovna-14.sp.PeterleAlojz">
+                     <sp who="sp:PeterleAlojz1948" corresp="#DZ-1992-Delovna-14.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci! Se opravičujem za to izjemno, je zato,
                            ker sem že dve leti dolžan obisk našim rojakom v Avstraliji. Pojasnjujem
@@ -3704,7 +3741,7 @@
                            Glasujem za in računam, da bo danes ta zakon sprejet. Mislim, da smo
                            nekam naprej vendar prišli. Pozdravljeni.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Peterle Alojz - za, Ahčan Nevenka - za, Anderlič Tone - za, Arzenšek Jože
                            - za, Atelšek Ivan - odsoten, Avberšek Franc - za, Balažic Milan - za,
@@ -3715,7 +3752,7 @@
                            Brglez Stanislav - za, Bukovec Janos - za, Buser Stanko - želi
                            obrazložiti svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.BuserStanko">
+                     <sp who="sp:BuserStanko1932" corresp="#DZ-1992-Delovna-14.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovane kolegice in  kolegi! Glasoval bom za zakon, zaradi tega, ker
                            mi drugega ne preostane, ker je deloma boljši kot tisti, ki smo ga imeli.
@@ -3738,7 +3775,7 @@
                            ki je za mene popolnoma prehodno obdobje. Naslednji parlament bo
                            boljši.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Buser Stanko - za, Bučar France - odsoten, Capuder Andrej - za, Črnej
                            Janez - proti, Daneu Ivo - za, Deželak Janko - za, Domio Marino - za,
@@ -3751,7 +3788,7 @@
                            predsedniki, da pri obrazložitvi poveste, kako boste glasovali in
                            zakaj.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GoljaFranc">
+                     <sp who="sp:GolijaFranc" corresp="#DZ-1992-Delovna-14.sp.GoljaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Glasoval bom proti temu zakonu iz sledečih razlogov: Ker se je v procesu
                            sprejemanja te volilne zakonodaje in pa tudi druge zakonodaje -
@@ -3770,12 +3807,13 @@
                            načelnih razlogov ne morem govoriti drugače, kot razmišljam. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Golija - proti, Golobič Gregor - za, Gošnik Vano - za, Grabner
                            Alojz - za, Gradišar Cvetko - obrazložitev.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GradišarCvetko">
+                     <sp who="sp:GradisarCvetko1938"
+                         corresp="#DZ-1992-Delovna-14.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Spoštovane kolegice in kolege! Glasoval bom "za", ker mislim, da se bo
                            parlament izognil svoji lastni karikaturi, ker stari zakon, ki nam je bil
@@ -3783,7 +3821,7 @@
                            bila nekaj podobnega kot, da bi osedlali osla in se šli olimpijske
                            konjske zmage. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gradišar Cvetko - za, Gradišar Franc - za, Grašič Franc - za, Grdadolnik
                            Jože - za, Gregurec Slavko - za, Grims Branko - za, Gros Vitomir -
@@ -3797,13 +3835,13 @@
                            - za, Kociper Štefan - za, Kocjančič Janez - za, Kokošinek Ervin - za,
                            Kolešnik Ciril - bo obrazložil svoj glas, kako bo glasoval in zakaj.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.KolešnikCiril">
+                     <sp who="sp:KolesnikCiril" corresp="#DZ-1992-Delovna-14.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani! Ker navkljub ogromni količini vložene energije ni
                            pričakovati, da bi karkoli boljšega dobili, kar imamo danes tu pred nami
                            bom prisiljen glasovati "za".</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Kolešnik - za, Kopač Janez - za, Korošec Štefan - za, Kotnik Ludvik - za,
                            Kovač Franc - za, Kovačič Boštajn - za, Košak Jože - za, Kočevar Božo -
@@ -3812,7 +3850,7 @@
                            za, Kuhar Ivan - za, Kuharič Božo - za, Kuzman Anton - ga ni, Lampret
                            Janez - bo obrazložil svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.LampretJanez">
+                     <sp who="sp:LampretJanez" corresp="#DZ-1992-Delovna-14.sp.LampretJanez">
                         <speaker>JANEZ LAMPRET:</speaker>
                         <p>Spoštovani! S težkim srcem glasujem "za", vendar bi glede na udbovski
                            amandma rad poudaril naslednje: vsem Slovencem, ki jih je še vedno strah
@@ -3822,7 +3860,7 @@
                            eventualno organizirane teroristične oblike organizacije po sistemu
                            nekdanje zloglasne udbe.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Lampret - za, Lavtižar-Bebčer Darja - za, Ledinek Pavel - za,
                            Logar Mihaela - odsotna, Lokar Sonja - za, Lončar Marija - za, Lovec
@@ -3830,7 +3868,8 @@
                            Janez - za, Magajna Andrej.</p>
                         <p>Magajna Andrej bo obrazložil svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.MagajnaAndrej">
+                     <sp who="sp:MagajnaAndrej1952"
+                         corresp="#DZ-1992-Delovna-14.sp.MagajnaAndrej">
                         <speaker>ANDREJ MAGAJNA:</speaker>
                         <p>Glasovati za zakon ob tem, ko praktično noben predlog izvenparlamentarnih
                            strank ni bil upoštevan, je sila težka odločitev. Ker pa so seveda v
@@ -3849,11 +3888,11 @@
                            za razvoj mlade demokracije sila neugodno. Verjetno pa parlamentarne
                            stranke kot večino poslancev, ki sedijo tu, to posebej ne skrbi.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Magajna Andrej - za, Jože Magdič - bo obrazložil svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.MagdičJože">
+                     <sp who="sp:MagdicJoze1943" corresp="#DZ-1992-Delovna-14.sp.MagdičJože">
                         <speaker>DR. JOŽE MAGDIČ:</speaker>
                         <p>Spoštovane gospe in gospodje! Naši slovenski sosedje menijo, da je
                            Slovenija sicer stopila na trdo pot, vendar na prepričljivo pot
@@ -3862,7 +3901,7 @@
                            demokratično evolucijo in sem</p>
                         <p>za.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Magdič Jože - za, Mak Viljem - za, Markeš Marija - za, Mencin
                            Metka - za, Mencinger Avguštin - odsoten, Mešiček Ivan - za, Metelko
@@ -3874,7 +3913,7 @@
                            za, Pintar Emil - odsoten, Pipan Franc - za, Pirnat Rajko, obrazložitev
                            glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PirnatRajko">
+                     <sp who="sp:PirnatRajko1951" corresp="#DZ-1992-Delovna-14.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Hvala. Najprej bom povedal, da bom glasoval proti. Poslanci smo bili v
                            teh zadnjih dneh pod neverjetnimi pritiski in izsiljevanji. Nekatera so
@@ -3909,13 +3948,14 @@
                         <p>ne</p>
                         <p>za tisto kar je prepričan, da je neumnost. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Pirš Jurij - za, Pivec Franc - za, Planinček Franc - vzdržan, Plešivčnik
                            Drago - za, Požarnik Hubert - za, Podobnik Marjan.</p>
                         <p>Podobnik Marjan, obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
+                     <sp who="sp:PodobnikMarjan1960"
+                         corresp="#DZ-1992-Delovna-14.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Spoštovani! Glasoval bom</p>
                         <p>za</p>
@@ -3946,12 +3986,13 @@
                            nove ljudi. Zato bom ob vseh kritičnih mislih do tega zakona glasoval za
                            zakon. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Podobnik Marjan - za, Podvrešič Bruno - za, Polajnar Ignac.</p>
                         <p>Polajnar Ignac - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
+                     <sp who="sp:PolajnarIgnac1948"
+                         corresp="#DZ-1992-Delovna-14.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Glasoval bom za zakon. Slovenski krščanski demokrati smo rekli, da bomo
                            sprejeli zakon, četudi slavni udbovski amandma odpade. To se je zgodilo,
@@ -3961,12 +4002,13 @@
                            minimalnega konsenza, ki smo ga dosegli, da do volitev sploh pridemo.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Polajnar Ignac - za, Potočnik Franc.</p>
                         <p>Potočnik Franc, obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PotočnikFranc">
+                     <sp who="sp:PotočnikFranc1955"
+                         corresp="#DZ-1992-Delovna-14.sp.PotočnikFranc">
                         <speaker>FRANC POTOČNIK:</speaker>
                         <p>Spoštovane gospe in gospodje! Jaz razumem, da so nekateri glasovali proti
                            udbovskemu amandmaju. Za to imajo pač razloge in s tem se moramo pač,
@@ -3982,12 +4024,12 @@
                         <p>Mimogrede bi pa gospoda Magajno še vprašal, kaj dela v parlamentu, če je
                            izvenparlamentarna stranka. - Vzdržim se.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Potočnik - vzdržan, Potočnik Viktorija - za, Potrč Miran - za, Pozsonec
                            Maria - za, Pregelj Žarko - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.PregeljŽarko">
+                     <sp who="sp:PregeljZarko1956" corresp="#DZ-1992-Delovna-14.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani! Glasoval bom proti temu zakonu. Že ves čas nasprotujem temu
                            zakonu in mu bom tudi v tej končni fazi. Sicer je večinsko mnenje mojega
@@ -4012,7 +4054,7 @@
                            osebna odgovornost do volivcev je lahko prava odgovornost. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ</speaker>
                         <p>: Pregelj - proti, Prelovec Valentin - za, Pretnar Aleksandra - odsotna,
                            Prešern Tatjana - za, Protner Jože - za, Puc Vlado - za, Pukl Vitodrag -
@@ -4020,7 +4062,7 @@
                            Borut - za, Režun Janez - za, Reberc Peter - odsoten, Rejc Izidor - za,
                            Remškar Janez - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.RemškarJanez">
+                     <sp who="sp:RemskarJanez1947" corresp="#DZ-1992-Delovna-14.sp.RemškarJanez">
                         <speaker>DR. JANEZ REMŠKAR:</speaker>
                         <p>Spoštovane kolegice, kolegi! Vzdržal se bom - iz enostavnega razloga, ker
                            ljudem ne bomo ponudili tistega, kar bi želeli. Trdim, da ljudje niti
@@ -4043,12 +4085,12 @@
                            mandatu, stalno iste obraze - sposobnih ali pa manj sposobnih
                            poslancev.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Remškar - vzdržan, Ribičič Ciril - za, Rode Primož - obrazložitev
                            glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.RodePrimož">
+                     <sp who="sp:RodePrimoz1942" corresp="#DZ-1992-Delovna-14.sp.RodePrimož">
                         <speaker>DR. PRIMOŽ RODE:</speaker>
                         <p>Pri glasovanju se bom vzdržal. Rad pa bi pojasnil, zakaj. Narodni
                            demokrati smo pripravili svoj predlog zakona, za katerega sem osebno
@@ -4058,13 +4100,14 @@
                            Sloveniji. In to je tista točka, pri kateri se nisem mogel odločiti in
                            zato dovolite, da se glasovanja vzdržim.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Rode - vzdržan, Rogina Bogo - za, Rojec Anton - za, Rudolf Franček - za,
                            Sagadin Vlasta - opravičeno odsotna, Schwarzbartl Ervin-Anton -
                            obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.SchwarzbartlErvinAnton">
+                     <sp who="sp:SchwartzbartlErvin1940"
+                         corresp="#DZ-1992-Delovna-14.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN-ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovano predsedstvo, kolegi poslanci! Verjetno veste, kako bom
                            glasoval. Zame je demokracija brez dejanj in upoštevanja želje ljudstva -
@@ -4080,13 +4123,13 @@
                            ki me poznajo in ki me poznate, glasujem "proti", četudi pripadam stranki
                            SKD, ki zakon podpira. - Torej glasujem "proti". Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Schwarzbartl - proti, Sekereš Viljem - za, Semolič Dušan - za, Senčur
                            Miloš - za, Slapernik Anton - za, Slejko Vladimir - za, Slokan Majda -
                            za, Smole Jože  - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.SmoleJože">
+                     <sp who="sp:SmoleJoze1927" corresp="#DZ-1992-Delovna-14.sp.SmoleJože">
                         <speaker>JOŽE SMOLE (DPZ):</speaker>
                         <p>Glasoval bom za zakon in to predvsem zaradi tega, ker ustavni zakon za
                            izvedbo Ustave Republike Slovenije k 2. členu določa, da se prve volitve
@@ -4096,13 +4139,14 @@
                            neposredne demokracije in v tem pogledu je bilo v prejšnjem sistemu
                            veliko več možnosti neposrednega odločanja.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Smole Jože DPZ - za, Smole Jože ZZD - odsoten, Stadler Marko - vzdržan,
                            Starc Marjan - odsoten, Starc Peter - za, Stariha Janez - vzdržan,
                            Starman Danijel - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.StarmanDanijel">
+                     <sp who="sp:StarmanDanijel1940"
+                         corresp="#DZ-1992-Delovna-14.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovano predsedstvo, drage kolegice in kolegi! Glasovanje kaže, da nam
                            je bila noč potrebna, tudi meni. Glasoval bom za zakon, tudi sam s težkim
@@ -4131,13 +4175,13 @@
                            dosežen in niti ni bistveno ali je stavni del tega zakona. Iz vseh teh
                            razlogov bom zakon podprl. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Starman Danijel - za, Studenčnik Jože - za, Šeligo Rudi - opravičeno
                            odsoten, Šetinc Mile - za, Sešerko Leo - za, Škof Matija - za, Školjč
                            Jožef - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
+                     <sp who="sp:SkolcJozef1960" corresp="#DZ-1992-Delovna-14.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Bom kot vsi naši poslanci in poslanke glasoval za ta zakon. Ob tem bi rad
                            povedal, da me veseli, da tiste rešitve, ki se bodo kasneje pokazale za
@@ -4149,12 +4193,13 @@
                            samo v domači vasi. Računam, da bomo kandidirali tiste, ki poznajo celo
                            Slovenijo in ki jih tudi poznajo po celi Sloveniji. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker> PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Školjč Jožef - za, Šonc Metod - za, Štefančič Marcel - obrazložitev
                            glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠtefančičMarcel">
+                     <sp who="sp:StefancicMarcel1937"
+                         corresp="#DZ-1992-Delovna-14.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Spoštovane poslanke in spoštovan in poslanci! Torej trenutek, ko se
                            odločamo. Dan mi je glas in to en glas, ki je vreden v tem parlamentu
@@ -4167,11 +4212,11 @@
                            glasovati s stisnjenimi zobmi in se s težkim srcem, ne bom glasoval za
                            predloženi zakon.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČE JOŽE ZUPANČIČ:</speaker>
                         <p>Štefančič Marcel - proti, Šter Andrej - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŠterAndrej">
+                     <sp who="sp:SterAndrej1958" corresp="#DZ-1992-Delovna-14.sp.ŠterAndrej">
                         <speaker>ANDREJ ŠTER:</speaker>
                         <p>Razlago svojega glasu sem večkrat že povedal ob razpravi v zboru in ta je
                            jasna. Glasoval bom proti zakonu. V zadnjih poskusih kako zvabiti večino
@@ -4204,13 +4249,13 @@
                            glasoval proti, tudi zato, ker vem, da obstaja boljša zakonodajna
                            rešitev.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Šter Andrej - proti, Štruc Drago - za, Štrumbelj Tomaž - za, Štular Janez
                             - za, Štular Vojka - za, Šuklje Borut - za, Thaler Zoran - za, Tomažič
                            Anton - želi obrazložiti glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.TomažičAnton">
+                     <sp who="sp:TomazicAnton1950" corresp="#DZ-1992-Delovna-14.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Tone Peršak pravi, da se ne splača več, da je že sprejet, ampak meni se
                            splača in čutim, da moram nekaj povedati. V tej skupščini delujem
@@ -4266,12 +4311,12 @@
                            živimo v pravni državi. Potem v tej skupščini ni demokracije, ampak
                            diktatura večine nad manjšino.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Tomažič Anton - proti, Tomše Ivan - vzdržan, Tomšič France - bo povedal,
                            kako bo glasoval.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.TomšičFrance">
+                     <sp who="sp:TomsicFrance1937" corresp="#DZ-1992-Delovna-14.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Hvala lepa. Spoštovani! Nisem imel namen obrazložiti svojega glasu.
                            Seveda bom glasoval "za", kot celoten klub Socialdemokratske stranke
@@ -4286,12 +4331,12 @@
                            hitro sprejeti - izgubili smo že veliko preveč časa - in se obrniti v
                            smer gospodarstva, kjer tonemo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ</speaker>
                         <p>Tomšič France - za, Toplak Ludvik - vzdržan, Toplek Danilo - odsoten,
                            Urbančič Miloš - bo obrazložil svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.UrbančičMiloš">
+                     <sp who="sp:UrbancicMilos" corresp="#DZ-1992-Delovna-14.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Glasoval bom za, ker volitve biti morajo. Ta umetno ustvarjena
                            parlamentarna kriza, ki so jo pravzaprav mediji precej pomagali
@@ -4304,7 +4349,7 @@
                            ljudi, da predstavljajo svoje ljudi iz vseh okolij Slovenije. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Urbančič Miloš - za, Vaupotič Bogomir - za, Verlič Andrej - za,
                            Veselinovič Draško - za, Vidovič Zdenka - za, Vilfan Marjan - za, Vivod
@@ -4312,7 +4357,7 @@
                            Vukovič Karel - za, Zabukovec Zdravko - za, Zagožen Franc - za, Zakonjšek
                            Jože - za, Zalar Franc - za, Zlobec Jaša L. - obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZlobecLJaša">
+                     <sp who="sp:ZlobecJasaL1951" corresp="#DZ-1992-Delovna-14.sp.ZlobecLJaša">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Glasoval bom za zakon, ki se mi sicer ne zdi dober. Ampak mislim, da je
                            treba vseeno nekaj razčistiti: ta zakon je plod kompromisov in tudi
@@ -4338,12 +4383,12 @@
                            transit gloria mundi" latinsko povedano - in jo bodo "poklapano" pobrali
                            domov. Mislim, da je stvar zelo preprosta.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Zlobec L. Jaša - za, Zupanc Barbara - za, Zupančič Jože - za, Žagar Zvone
                            - odsoten, Žakelj Viktor - obrazložil bo svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŽakeljViktor">
+                     <sp who="sp:ZakeljViktor" corresp="#DZ-1992-Delovna-14.sp.ŽakeljViktor">
                         <speaker>MAG. VIKTOR ŽAKELJ:</speaker>
                         <p>Glasoval bom za, tako kot vsi člani Socialistične stranke Slovenije, ker
                            smo se zavedali, da je kompromis potreben in zakon nujen, v izogib
@@ -4359,12 +4404,12 @@
                            zelo oddahnili, kajti nesprejetje tega amandmaja vam omogoča kandidiranje
                            tudi na predstoječih volitvah.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Žakelj Viktor - za, Žampa Janez - obrazložil bo svoj glas. Pa prosim res
                            samo, kako boste in zakaj.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ŽampaJanez">
+                     <sp who="sp:ZampaJanez1929" corresp="#DZ-1992-Delovna-14.sp.ŽampaJanez">
                         <speaker>JANEZ ŽAMPA:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Vzdržal se bom.
                            Zakaj? Zato, ker menim, da bi ta parlament, to je teh 90 ljudi, ki bodo
@@ -4377,7 +4422,7 @@
                            verjetno le nima pravice krojiti dobrega ali slabega temu majhnemu
                            slovenskemu narodu. Zato se bom vzdržal. Hvala.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Žampa Janez - vzdržal, Železnik Andrej - za, Žerovnik Angelca - za, Žižek
                            Vili - za, Židanik Anton - za, Žuntar Anton - vzdržan.</p>
@@ -4389,42 +4434,42 @@
                            Drča Vinko - ga ni, Feltrin Franci - ga ni, Gros Vitomir - obrazložil bo
                            svoj glas.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Najbolj značilno v tej skupščini je to, da gospoda predsednika zdaj, ko
                            je vse skupaj zakuhal, ni v tej dvorani. In prosim, da to vsi veste!</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Odločno protestiram! Opravičeno odsoten je, ker ima delegacijo tu, in to
                            vsi poslanci več ali manj vedo.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Potem bi pa to povedali, da bi mi to vedeli in da meni ne bi bilo treba
                            ......</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Na začetku sem povedal, da je opravičeno odsoten, ko vas ni bilo tu.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Ja, zakaj ste ga pa sedaj še enkrat klicali?</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Zato, ker pač moramo to opraviti - tudi po poslovniku.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Rad bi še enkrat ponovil, lepo prosim.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Dobro. Prosim, naprej ...</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.GrosVitomir">
+                     <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-Delovna-14.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Torej nimamo krvavečih src, gospod Žakelj, kot ste vi napletal, ste tudi
                            že odšli, kakor vidim, dajte mu povedati. Sam zakon je slabši od
@@ -4452,7 +4497,7 @@
                            udbaško naravnana družba in zato bom glasoval proti temu zakonu z lahkim
                            srcem, ne tako kot gospod Žakelj krvavi s težkim srcem. Hvala lepa.</p>
                      </sp>
-                     <sp who="#DZ-1992-Delovna-14.sp.ZupančičJože">
+                     <sp who="sp:ZupancicJoze1936" corresp="#DZ-1992-Delovna-14.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Vitomir Gros - proti, Gomila Ludvik - odsoten, Iskra Janez - odsoten,
                            Ivanušič Zvonko - za, Kac Albin - odsoten, Kuzman Anton - vzdržan, Logar

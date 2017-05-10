@@ -31,8 +31,7 @@
             <pubPlace>https://github.com/SIstory/Seje_DZ/tree/master/</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
             <date when="2016-04-06+02:00"/>
@@ -53,9 +52,7 @@
                      <date>(8., 9., 22. april, 12., 27. maj in 25. julij 1992)</date>
                   </imprint>
                </monogr>
-               <ref
-                  target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=1B93C620C7293E07C1257C280049ECA4"
-                     >(<date>2016-03-30</date>)</ref>
+               <ref target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=1B93C620C7293E07C1257C280049ECA4">(<date>2016-03-30</date>)</ref>
             </biblStruct>
             <biblFull>
                <titleStmt>
@@ -67,10 +64,10 @@
                   <publisher>Državni zbor Republike Slovenije</publisher>
                   <availability status="free">
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                              xml:lang="slv">Avtorske pravice so potekle, delo je v javni
                         domeni.</licence>
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                              xml:lang="eng">Public Domain Mark 1.0</licence>
                   </availability>
                </publicationStmt>
             </biblFull>
@@ -79,12 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -139,17 +132,16 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti poslancev
+                     <item n="1" xml:id="DZ-1992-DruzPolZb-36.toc.1.1">Ugotavljanje prisotnosti poslancev
                         .................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda
+                     <item n="2" xml:id="DZ-1992-DruzPolZb-36.toc.1.2">Določitev dnevnega reda
                         ............................... 1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Žarko Pregelj ......................................... 3</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.1.3"> Začetna faza pobud, predlogov in vprašanj
-                        poslancev (13. točka dnevnega reda) ............................. 4<list
-                           rend="simple">
+                     <item n="3" xml:id="DZ-1992-DruzPolZb-36.toc.1.3"> Začetna faza pobud, predlogov in vprašanj
+                        poslancev (13. točka dnevnega reda) ............................. 4<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Maria Pozsonec ........................................ 4</item>
                            <item>dr. Drago Plešivčnik .................................. 4</item>
@@ -170,11 +162,11 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1"> Odobritev osnutkov zapisnikov 10. in 11. seje,
+                     <item n="1" xml:id="DZ-1992-DruzPolZb-36.toc.2.1"> Odobritev osnutkov zapisnikov 10. in 11. seje,
                         delovne seje vseh treh zborov Skupščine Republike Slovenije in osnutka
                         zapisnika 27. seje zbora (1. točka dnevnega reda - dopolnitev zapisnika 11.
                         seje na seji 22.4.1994) ................. 9</item>
-                     <item n="2" xml:id="toc.2.2">Obravnava zunanjepolitične problematike, s
+                     <item n="2" xml:id="DZ-1992-DruzPolZb-36.toc.2.2">Obravnava zunanjepolitične problematike, s
                         posebnim poudarkom na odnosih s sosednjimi državami (2. točka dnevnega reda
                         - nadaljevanje na seji 22.4.1992) ...................................
                            10<list rend="simple">
@@ -202,28 +194,28 @@
                         </list>
                      </item>
                      <note>NADALJEVANJE 36. SEJE DRUŽBENOPOLITIČNEGA ZBORA 9. APRILA 1992</note>
-                     <item n="4" xml:id="toc.2.4">Ugotavljanje prisotnosti poslancev
+                     <item n="4" xml:id="DZ-1992-DruzPolZb-36.toc.2.4">Ugotavljanje prisotnosti poslancev
                         ................... 51</item>
-                     <item n="5" xml:id="toc.2.5">Proceduralne zadeve v zvezi s priznanjem Republike
+                     <item n="5" xml:id="DZ-1992-DruzPolZb-36.toc.2.5">Proceduralne zadeve v zvezi s priznanjem Republike
                         Bosne in Hercegovine (5. točka dnevnega reda) .............................
                            51<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Borut Šuklje ......................................... 51</item>
                         </list>
                      </item>
-                     <item n="6" xml:id="toc.2.6"> Izjava solidarnosti Skupščine Republike
+                     <item n="6" xml:id="DZ-1992-DruzPolZb-36.toc.2.6"> Izjava solidarnosti Skupščine Republike
                         Slovenije, priznanje Republike Bosne in Hercegovine (5. točka dnevnega reda
                         - nadaljevanje) .............. 52</item>
-                     <item n="7" xml:id="toc.2.7"> Predlog zakona o ratifikaciji sporazuma med Vlado
+                     <item n="7" xml:id="DZ-1992-DruzPolZb-36.toc.2.7"> Predlog zakona o ratifikaciji sporazuma med Vlado
                         Republike Slovenije in Vlado Zvezne Republike Nemčije o ukinitvi vizumov (3.
                         točka dnevnega reda) ............................. 52</item>
-                     <item n="8" xml:id="toc.2.8"> Predlog zakona o ratifikaciji sporazuma med
+                     <item n="8" xml:id="DZ-1992-DruzPolZb-36.toc.2.8"> Predlog zakona o ratifikaciji sporazuma med
                         Republiko Slovenijo in Republiko Finsko o ukinitvi vizumov (4. točka
                         dnevnega reda) ............................. 53</item>
-                     <item n="9" xml:id="toc.2.9"> Izjava solidarnosti Skupščine Republike Slovenije
+                     <item n="9" xml:id="DZ-1992-DruzPolZb-36.toc.2.9"> Izjava solidarnosti Skupščine Republike Slovenije
                         ob tragičnih dogodkih v Bosni in Hercegovini (5. točka dnevnega reda -
                         dopolnitev) ................ 53</item>
-                     <item n="10" xml:id="toc.2.10">Predlog zakona o ratifikaciji sporazuma o
+                     <item n="10" xml:id="DZ-1992-DruzPolZb-36.toc.2.10">Predlog zakona o ratifikaciji sporazuma o
                         gospodarskem sodelovanju med Republiko Slovenijo in Republiko Hrvaško (6.
                         točka dnevnega reda) ............................. 54<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -261,10 +253,10 @@
                         </list>
                      </item>
                      <note>NADALJEVANJE 36. SEJE DRUŽBENOPOLITIČNEGA ZBORA 22. APRILA 1992</note>
-                     <item n="11" xml:id="toc.2.11">Dopolnitev osnutka zapisnika 11. skupne delovne
+                     <item n="11" xml:id="DZ-1992-DruzPolZb-36.toc.2.11">Dopolnitev osnutka zapisnika 11. skupne delovne
                         seje zborov na osnovi pripombe Zbora občin (1. točka dnevnega reda)
                         ............................. 79</item>
-                     <item n="12" xml:id="toc.2.12">Obravnava zunanjepolitične problematike, s
+                     <item n="12" xml:id="DZ-1992-DruzPolZb-36.toc.2.12">Obravnava zunanjepolitične problematike, s
                         posebnim poudarkom na odnosih s sosednjimi državami - predlog stališč in
                         sklepov Komisije za mednarodne odnose (2. točka dnevnega reda - nadaljevanje
                         s seje 8. aprila 1992) ............................... 80<list rend="simple">
@@ -273,10 +265,9 @@
                            <item>Borut Pahor .......................................... 81</item>
                         </list>
                      </item>
-                     <item n="13" xml:id="toc.2.13">Predlog za izdajo zakona o spremembi zakona o
+                     <item n="13" xml:id="DZ-1992-DruzPolZb-36.toc.2.13">Predlog za izdajo zakona o spremembi zakona o
                         financiranju javne porabe, s predlogom zakona (7. točka dnevnega reda -
-                        nadaljevanje na seji 27. maja 1992) ............................... 82<list
-                           rend="simple">
+                        nadaljevanje na seji 27. maja 1992) ............................... 82<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Janez Kopač .......................................... 83</item>
                            <item>Mihaela Logar ........................................ 84</item>
@@ -288,13 +279,13 @@
                         </list>
                      </item>
                      <note>NADALJEVANJE 36. SEJE DRUŽBENOPOLITIČNEGA ZBORA 12. MAJA 1992</note>
-                     <item n="14" xml:id="toc.2.14">Ugotavljanje prisotnosti poslancev
+                     <item n="14" xml:id="DZ-1992-DruzPolZb-36.toc.2.14">Ugotavljanje prisotnosti poslancev
                         ................... 88</item>
-                     <item n="15" xml:id="toc.2.15">Določanje dnevnega reda
+                     <item n="15" xml:id="DZ-1992-DruzPolZb-36.toc.2.15">Določanje dnevnega reda
                         .............................. 88</item>
-                     <item n="16" xml:id="toc.2.16">Proceduralne zadeve (o nadaljevanju 37. seje in
+                     <item n="16" xml:id="DZ-1992-DruzPolZb-36.toc.2.16">Proceduralne zadeve (o nadaljevanju 37. seje in
                         usklajevanju 35. seje zbora) ............. 88</item>
-                     <item n="17" xml:id="toc.2.17">Osnutek zakona o igrah na srečo (8. točka
+                     <item n="17" xml:id="DZ-1992-DruzPolZb-36.toc.2.17">Osnutek zakona o igrah na srečo (8. točka
                         dnevnega reda - zavrnjeno) ................. 88<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Štefan Kociper ....................................... 89</item>
@@ -306,10 +297,10 @@
                            <item>Janez Kopač .......................................... 93</item>
                         </list>
                      </item>
-                     <item n="18" xml:id="toc.2.18">Predlog dodatnega sklepa Odbora za varstvo
+                     <item n="18" xml:id="DZ-1992-DruzPolZb-36.toc.2.18">Predlog dodatnega sklepa Odbora za varstvo
                         potrošnikov k osnutku zakona o igrah na srečo (8. točka dnevnega reda)
                         ............................. 93</item>
-                     <item n="19" xml:id="toc.2.19">Osnutek zakona o gozdovih (9. točka dnevnega
+                     <item n="19" xml:id="DZ-1992-DruzPolZb-36.toc.2.19">Osnutek zakona o gozdovih (9. točka dnevnega
                         reda - nadaljevanje na seji 27. maja 1992) ...............................
                            93<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -329,9 +320,9 @@
                         </list>
                      </item>
                      <note>NADALJEVANJE 36. SEJE DRUŽBENOPOLITIČNEGA ZBORA 27. MAJA 1992</note>
-                     <item n="20" xml:id="toc.2.20">Določitev dnevnega reda
+                     <item n="20" xml:id="DZ-1992-DruzPolZb-36.toc.2.20">Določitev dnevnega reda
                         ............................. 112</item>
-                     <item n="21" xml:id="toc.2.21">Ponovna obravnava predloga za izdajo zakona o
+                     <item n="21" xml:id="DZ-1992-DruzPolZb-36.toc.2.21">Ponovna obravnava predloga za izdajo zakona o
                         spremembi zakona o financiranju javne porabe - sprejem predloga amandmajev
                         usklajevalne komisije in predloga zakona (7. točka dnevnega reda -
                         nadaljevanje s seje 22. aprila 1992) ...............................
@@ -340,13 +331,12 @@
                            <item>Mihaela Logar ....................................... 113</item>
                         </list>
                      </item>
-                     <item n="22" xml:id="toc.2.22">Osnutek zakona o gozdovih (9. točka dnevnega
+                     <item n="22" xml:id="DZ-1992-DruzPolZb-36.toc.2.22">Osnutek zakona o gozdovih (9. točka dnevnega
                         reda - nadaljevanje s seje 12. maja 1992 in sprejem) ......................
                         114</item>
-                     <item n="23" xml:id="toc.2.23">Predlog za izdajo zakona o uporabi grba, zastave
+                     <item n="23" xml:id="DZ-1992-DruzPolZb-36.toc.2.23">Predlog za izdajo zakona o uporabi grba, zastave
                         in himne Republike Slovenije, z osnutkom zakona (10. točka dnevnega reda -
-                        usklajevanje na seji 29.7.1992) .................................. 115<list
-                           rend="simple">
+                        usklajevanje na seji 29.7.1992) .................................. 115<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Milan Balažič ....................................... 115</item>
                            <item>Anton Peršak ........................................ 116</item>
@@ -359,13 +349,13 @@
                            <item>Janko Halb .......................................... 122</item>
                         </list>
                      </item>
-                     <item n="24" xml:id="toc.2.24">Soglasje k statutu Sklada Republike Slovenije za
+                     <item n="24" xml:id="DZ-1992-DruzPolZb-36.toc.2.24">Soglasje k statutu Sklada Republike Slovenije za
                         razvoj (11. točka dnevnega reda) ........................... 123</item>
-                     <item n="25" xml:id="toc.2.25">Predlog akta o spremembi v sestavi Odbora
+                     <item n="25" xml:id="DZ-1992-DruzPolZb-36.toc.2.25">Predlog akta o spremembi v sestavi Odbora
                         Družbenopolitičnega zbora za kreditno-monetarni sistem in politiko in Odbora
                         Družbenopolitičnega zbora za zdravstvo (12. točka dnevnega reda)
                         ........................... 124</item>
-                     <item n="26" xml:id="toc.2.26">Seznam govornikov
+                     <item n="26" xml:id="DZ-1992-DruzPolZb-36.toc.2.26">Seznam govornikov
                         .................................. II/1</item>
                      <note>Opomba redakcije: 13. točko dnevnega reda ter usklajevanje zakona o grbu,
                         himni in zastavi je zbor končal na eni od prihodnjih sej zbora - verjetno na
@@ -381,209 +371,252 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.BalažicMilan">Balažic Milan</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.BalažicMilan">Balažic Milan</actor>
                   ....................................... 19, 115</castItem>
                <castItem>
-                  <actor xml:id="sp.BattelliRoberto">Battelli Roberto</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.BattelliRoberto">Battelli Roberto</actor>
                   ................................. 68, 72, 77</castItem>
                <castItem>
-                  <actor xml:id="sp.BuserStanko">Buser dr. Stanko</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.BuserStanko">Buser dr. Stanko</actor>
                   ...................................... 6, 65</castItem>
                <castItem>
-                  <actor xml:id="sp.DrakslerZvonko">Draksler Zvonko</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.DrakslerZvonko">Draksler Zvonko</actor>
                   .......................................... 92</castItem>
                <castItem>
-                  <actor xml:id="sp.GrabnerAlojz">Grabner Alojz</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.GrabnerAlojz">Grabner Alojz</actor>
                   ...................................... 102, 110</castItem>
                <castItem>
-                  <actor xml:id="sp.HalbJanko">Halb Janko</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.HalbJanko">Halb Janko</actor>
                   ........................................... 8, 122</castItem>
                <castItem>
-                  <actor xml:id="sp.HobičJože">Hobič Jože</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.HobičJože">Hobič Jože</actor>
                   ............................................... 99</castItem>
                <castItem>
-                  <actor xml:id="sp.HribarSpomenka">Hribar mag. Spomenka</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.HribarSpomenka">Hribar mag. Spomenka</actor>
                   ................................ 90, 120</castItem>
                <castItem>
-                  <actor xml:id="sp.JerajJožef">Jeraj Jožef</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.JerajJožef">Jeraj Jožef</actor>
                   .......................................... 54, 75</castItem>
                <castItem>
-                  <actor xml:id="sp.JuriFranco">Juri Franco</actor> ..............................
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.JuriFranco">Juri Franco</actor> ..............................
                   32, 37, 58, 65, 74</castItem>
                <castItem>
-                  <actor xml:id="sp.KocijančičJanez">Kocijančič mag. Janez</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.KocijančičJanez">Kocijančič mag. Janez</actor>
                   ............................ 27, 49, 69</castItem>
                <castItem>
-                  <actor xml:id="sp.KociperŠtefan">Kociper Štefan</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.KociperŠtefan">Kociper Štefan</actor>
                   ........................................ 6, 89</castItem>
                <castItem>
-                  <actor xml:id="sp.KolešnikCiril">Kolešnik Ciril</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.KolešnikCiril">Kolešnik Ciril</actor>
                   ........................... 30, 36, 59, 63, 73</castItem>
                <castItem>
-                  <actor xml:id="sp.KopačJanez">Kopač Janez</actor> ...............................
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.KopačJanez">Kopač Janez</actor> ...............................
                   5, 83, 84, 86, 93</castItem>
                <castItem>
-                  <actor xml:id="sp.KuharičBožo">Kuharič Božo</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.KuharičBožo">Kuharič Božo</actor>
                   ............................................. 60</castItem>
                <castItem>
-                  <actor xml:id="sp.LampretJanez">Lampret Janez</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.LampretJanez">Lampret Janez</actor>
                   ............................................. 6</castItem>
                <castItem>
-                  <actor xml:id="sp.Lavtižar-BeblerDarja">Lavtižar-Bebler Darja</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.Lavtižar-BeblerDarja">Lavtižar-Bebler Darja</actor>
                   ................................ 7, 106</castItem>
                <castItem>
-                  <actor xml:id="sp.LogarMihaela">Logar Mihaela</actor> ...........................
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.LogarMihaela">Logar Mihaela</actor> ...........................
                   69, 78, 80, 84, 113</castItem>
                <castItem>
-                  <actor xml:id="sp.LokarSonja">Lokar Sonja</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.LokarSonja">Lokar Sonja</actor>
                   .......................................... 61, 67</castItem>
                <castItem>
-                  <actor xml:id="sp.MagajnaAndrej">Magajna Andrej</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.MagajnaAndrej">Magajna Andrej</actor>
                   ........................................... 98</castItem>
                <castItem>
-                  <actor xml:id="sp.MagdičJože">Magdič dr. Jože</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.MagdičJože">Magdič dr. Jože</actor>
                   .......................................... 66</castItem>
                <castItem>
-                  <actor xml:id="sp.MarkežMarija">Markež Marija</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.MarkežMarija">Markež Marija</actor>
                   ............................................ 94</castItem>
                <castItem>
-                  <actor xml:id="sp.MarkičAlenka">Markič Alenka</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.MarkičAlenka">Markič Alenka</actor>
                   ............................................ 85</castItem>
                <castItem>
-                  <actor xml:id="sp.NemaničJulij">Nemanič mag. Julij</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.NemaničJulij">Nemanič mag. Julij</actor>
                   ....................................... 74</castItem>
                <castItem>
-                  <actor xml:id="sp.OstercJože">Osterc dr. Jože</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.OstercJože">Osterc dr. Jože</actor>
                   .......................................... 18</castItem>
                <castItem>
-                  <actor xml:id="sp.PahorBorut">Pahor Borut</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PahorBorut">Pahor Borut</actor>
                   ...................................... 22, 81, 91</castItem>
                <castItem>
-                  <actor sameAs="#sp.PeršakAnton">Peršak Anton</actor>
+                  <actor sameAs="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">Peršak Anton</actor>
                   ..................................... 38, 75, 97</castItem>
                <castItem>
-                  <actor xml:id="sp.PintarEmilMilan">Pintar Emil Milan</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PintarEmilMilan">Pintar Emil Milan</actor>
                   ......................................... 8</castItem>
                <castItem>
-                  <actor xml:id="sp.PirnatRajko">Pirnat dr. Rajko</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PirnatRajko">Pirnat dr. Rajko</actor>
                   .......................................... 7</castItem>
                <castItem>
-                  <actor xml:id="sp.PivecFranc">Pivec Franc</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PivecFranc">Pivec Franc</actor>
                   ........................................ 107, 111</castItem>
                <castItem>
-                  <actor xml:id="sp.PlešivčnikDrago">Plešivčnik dr. Drago</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PlešivčnikDrago">Plešivčnik dr. Drago</actor>
                   ................................... 5, 6</castItem>
                <castItem>
-                  <actor xml:id="sp.PolajnarIgnac">Polajnar Ignac</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PolajnarIgnac">Polajnar Ignac</actor>
                   ...................................... 47, 121</castItem>
                <castItem>
-                  <actor xml:id="sp.PozsonecMaria">Pozsonec Maria</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PozsonecMaria">Pozsonec Maria</actor>
                   ............................................ 4</castItem>
                <castItem>
-                  <actor xml:id="sp.PotočnikFranc">Potočnik Franc</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PotočnikFranc">Potočnik Franc</actor>
                   ........................................... 73</castItem>
                <castItem>
-                  <actor xml:id="sp.PotrčMiran">Potrč Miran</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PotrčMiran">Potrč Miran</actor>
                   ......................................... 95, 109</castItem>
                <castItem>
-                  <actor xml:id="sp.PredstavnikVlade"/></castItem>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PredstavnikVlade"/>
+               </castItem>
                <castItem>
-                  <actor xml:id="sp.PregeljŽarko">Pregelj Žarko</actor> ..................... 3, 42,
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.PregeljŽarko">Pregelj Žarko</actor> ..................... 3, 42,
                   49, 59, 70, 74, 78</castItem>
                <castItem>
-                  <actor xml:id="sp.RebercPeter">Reberc Peter</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.RebercPeter">Reberc Peter</actor>
                   ......................................... 25, 30</castItem>
                <castItem>
-                  <actor xml:id="sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
                   ....................................... 10</castItem>
                <castItem>
-                  <actor xml:id="sp.SmoleJože">Smole Jože</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.SmoleJože">Smole Jože</actor>
                   ....................................... 60, 66, 77</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠeligoRudi">Šeligo mag. Rudi</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.ŠeligoRudi">Šeligo mag. Rudi</actor>
                   ........................................ 119</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠešerkoLeo">Šešerko dr. Leo</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.ŠešerkoLeo">Šešerko dr. Leo</actor>
                   .......................................... 45</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠkolčJožef">Školč Jožef</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.ŠkolčJožef">Školč Jožef</actor>
                   .............................................. 30</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠukljeBorut">Šuklje Borut</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.ŠukljeBorut">Šuklje Borut</actor>
                   ..................................... 40, 51, 91</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.TomažičAnton">Tomažič Anton</actor>
                   ....................................... 84, 117</castItem>
                <castItem>
-                  <actor sameAs="#sp.ToplakLudvik">Toplak dr. Ludvik</actor>
+                  <actor sameAs="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">Toplak dr. Ludvik</actor>
                   .................................... 9, 105</castItem>
                <castItem>
-                  <actor xml:id="sp.ZagoženFranc">Zagožen dr. Franc</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.ZagoženFranc">Zagožen dr. Franc</actor>
                   ....................................... 100</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽagarZvone">Žagar Zvone</actor> ............................ 27,
+                  <actor xml:id="DZ-1992-DruzPolZb-36.sp.ŽagarZvone">Žagar Zvone</actor> ............................ 27,
                   57, 64, 118, 120</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.DruzPolZb">
+         <div xml:id="DZ-1992-DruzPolZb-36.div.1" ana="#PAR.DruzPolZb">
             <head>DRUŽBENOPOLITIČNI ZBOR SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="36">
+            <div xml:id="DZ-1992-DruzPolZb-36.div.1.1" ana="#PAR.Seja" n="36">
                <head>36. seja</head>
-               <docDate>(<date when="1992-04-08">8.</date>, <date when="1992-04-09">9.</date>, <date
-                     when="1992-04-22">22. april</date>, <date when="1992-05-12">12.</date>, <date
-                     when="1992-05-27">27. maj</date> in <date when="1992-07-25">25. julij
+               <docDate>(<date when="1992-04-08">8.</date>, <date when="1992-04-09">9.</date>, <date when="1992-04-22">22. april</date>, <date when="1992-05-12">12.</date>, <date when="1992-05-27">27. maj</date> in <date when="1992-07-25">25. julij
                      1992</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1992-04-08T10:18:00"/>
-                  <when synch="#stage.t.2" since="#TL.1" absolute="1992-04-08T14:10:00"
-                     interval="13920"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1992-04-09T10:14:00"/>
-                  <when synch="#stage.t.4" since="#TL.2" absolute="1992-04-09T11:00:00"
-                     interval="2760"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1992-04-09T11:05:00"/>
-                  <when synch="#stage.t.6" since="#TL.3" absolute="1992-04-09T12:50:00"
-                     interval="6300"/>
-                  <when synch="#stage.t.7" xml:id="TL.4" absolute="1992-04-09T13:15:00"/>
-                  <when synch="#stage.t.8" since="#TL.4" absolute="1992-04-09T14:02:00"
-                     interval="2820"/>
-                  <when synch="#stage.t.9" xml:id="TL.5" absolute="1992-04-22T13:20:00"/>
-                  <when synch="#stage.t.10" since="#TL.5" absolute="1992-04-22T14:00:00"
-                     interval="2400"/>
-                  <when synch="#stage.t.11" xml:id="TL.6" absolute="1992-05-12T10:20:00"/>
-                  <when synch="#stage.t.12" since="#TL.6" absolute="1992-05-12T10:25:00"
-                     interval="300"/>
-                  <when synch="#stage.t.13" xml:id="TL.7" absolute="1992-05-12T10:35:00"/>
-                  <when synch="#stage.t.14" since="#TL.7" absolute="1992-05-12T12:36:00"
-                     interval="7260"/>
-                  <when synch="#stage.t.15" xml:id="TL.8" absolute="1992-05-12T13:20:00"/>
-                  <when synch="#stage.t.16" since="#TL.8" absolute="1992-05-12T13:23:00"
-                     interval="180"/>
-                  <when synch="#stage.t.17" xml:id="TL.9" absolute="1992-05-12T13:35:00"/>
-                  <when synch="#stage.t.18" since="#TL.9" absolute="1992-05-12T13:37:00"
-                     interval="120"/>
-                  <when synch="#stage.t.19" xml:id="TL.10" absolute="1992-05-12T13:36:00"/>
-                  <when synch="#stage.t.20" since="#TL.10" absolute="1992-05-12T13:47:00"
-                     interval="660"/>
-                  <when synch="#stage.t.21" xml:id="TL.11" absolute="1992-05-27T10:22:00"/>
-                  <when synch="#stage.t.22" since="#TL.11" absolute="1992-05-27T11:25:00"
-                     interval="3780"/>
+               <timeline origin="#DZ-1992-DruzPolZb-36.TL.1" unit="s">
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.1"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.1"
+                        absolute="1992-04-08T10:18:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.2"
+                        since="#DZ-1992-DruzPolZb-36.TL.1"
+                        absolute="1992-04-08T14:10:00"
+                        interval="13920"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.3"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.2"
+                        absolute="1992-04-09T10:14:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.4"
+                        since="#DZ-1992-DruzPolZb-36.TL.2"
+                        absolute="1992-04-09T11:00:00"
+                        interval="2760"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.5"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.3"
+                        absolute="1992-04-09T11:05:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.6"
+                        since="#DZ-1992-DruzPolZb-36.TL.3"
+                        absolute="1992-04-09T12:50:00"
+                        interval="6300"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.7"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.4"
+                        absolute="1992-04-09T13:15:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.8"
+                        since="#DZ-1992-DruzPolZb-36.TL.4"
+                        absolute="1992-04-09T14:02:00"
+                        interval="2820"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.9"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.5"
+                        absolute="1992-04-22T13:20:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.10"
+                        since="#DZ-1992-DruzPolZb-36.TL.5"
+                        absolute="1992-04-22T14:00:00"
+                        interval="2400"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.11"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.6"
+                        absolute="1992-05-12T10:20:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.12"
+                        since="#DZ-1992-DruzPolZb-36.TL.6"
+                        absolute="1992-05-12T10:25:00"
+                        interval="300"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.13"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.7"
+                        absolute="1992-05-12T10:35:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.14"
+                        since="#DZ-1992-DruzPolZb-36.TL.7"
+                        absolute="1992-05-12T12:36:00"
+                        interval="7260"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.15"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.8"
+                        absolute="1992-05-12T13:20:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.16"
+                        since="#DZ-1992-DruzPolZb-36.TL.8"
+                        absolute="1992-05-12T13:23:00"
+                        interval="180"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.17"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.9"
+                        absolute="1992-05-12T13:35:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.18"
+                        since="#DZ-1992-DruzPolZb-36.TL.9"
+                        absolute="1992-05-12T13:37:00"
+                        interval="120"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.19"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.10"
+                        absolute="1992-05-12T13:36:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.20"
+                        since="#DZ-1992-DruzPolZb-36.TL.10"
+                        absolute="1992-05-12T13:47:00"
+                        interval="660"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.21"
+                        xml:id="DZ-1992-DruzPolZb-36.TL.11"
+                        absolute="1992-05-27T10:22:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-36.stage.t.22"
+                        since="#DZ-1992-DruzPolZb-36.TL.11"
+                        absolute="1992-05-27T11:25:00"
+                        interval="3780"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="sp.ToplakLudvik">dr.
+                     <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1992-DruzPolZb-36.sp.ToplakLudvik">dr.
                         Ludvik Toplak</actor>
-                     <role>predsednik Družbenopolitičnega zbora</role> in <actor
-                        xml:id="sp.PeršakAnton">Anton Peršak</actor>, <role>podpredsednik
+                     <role>predsednik Družbenopolitičnega zbora</role> in <actor xml:id="DZ-1992-DruzPolZb-36.sp.PeršakAnton">Anton Peršak</actor>, <role>podpredsednik
                         Družbenopolitičnega zbora</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1992-04-08T10:18:00" xml:id="stage.t.1"
-                     >pričela ob 10.18 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.ToplakLudvik">
+               <stage type="time">Seja se je <time from="1992-04-08T10:18:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.1">pričela ob 10.18 uri</time>.</stage>
+               <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.1.1">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Gospe in gospodje, cenjeni gostje! Pričenjam 36. sejo Družbenopolitičnega
                            zbora Skupščine Republike Slovenije, ki sem jo sklical na podlagi 31.
@@ -597,8 +630,10 @@
                         <p>Ugotavljam, da je zbor sklepčen in lahko nadaljujemo z delom.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.1.2"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.1.2">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Zboru predlagam, da najprej opravimo <title>proceduralna
                               vprašanja</title>. France Tomšič, poslanec Družbenopolitičnega zbora
                            ter Andrej Murn in Ivan Vivod so predložili predlog za izdajo zakona o
@@ -612,8 +647,7 @@
                         <p>Odpiram razpravo o predlogu! Če je ni, prehajamo na glasovanje. Najprej
                            ugotovimo, prisotnost se ni spremenila, zato najprej glasujemo o
                            predlogu, da zakon obravnavamo po skrajšanem postopku.</p>
-                        <p>Kdor je za skrajšani postopek, naj, prosim, glasuje! <stage type="vote"
-                              >(29 poslancev.)</stage> Je kdo proti? <stage type="vote">(5
+                        <p>Kdor je za skrajšani postopek, naj, prosim, glasuje! <stage type="vote">(29 poslancev.)</stage> Je kdo proti? <stage type="vote">(5
                               poslancev.)</stage> Se je kdo vzdržal? <stage type="vote">(6
                               poslancev.)</stage>
                         </p>
@@ -630,26 +664,20 @@
                            predlaga Skupščini Republike Slovenije, da hkrati obravnava in sprejme
                            predlog za izdajo zakona z osnutkom zakona.  </p>
                         <p>Odpiram razpravo o tem predlogu! Če ni razpravljavcev, prehajam na
-                           glasovanje. Prisotnost se je menjala. Ugotovimo prisotnost! <stage
-                              type="quorum">(52 prisotnih.)</stage>
+                           glasovanje. Prisotnost se je menjala. Ugotovimo prisotnost! <stage type="quorum">(52 prisotnih.)</stage>
                         </p>
-                        <p>Kdor je za združitev dveh faz zakona o grbu, naj, prosim, glasuje! <stage
-                              type="vote">(30 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(1 poslanec.)</stage> Se je kdo vzdržal? <stage type="vote">(8
+                        <p>Kdor je za združitev dveh faz zakona o grbu, naj, prosim, glasuje! <stage type="vote">(30 poslancev.)</stage> Je kdo proti? <stage type="vote">(1 poslanec.)</stage> Se je kdo vzdržal? <stage type="vote">(8
                               poslancev.)</stage>
                         </p>
                         <p>Ugotavljam, predlog združitve dveh faz je izglasovan.</p>
                         <p>Komisija za mednarodne odnose predlaga, da predlog dnevnega reda današnje
                            seje razširimo še s točko "Priznanje Republike Bosne in Hercegovine."
-                           Želi predlagatelj v imenu Komisije za mednarodne odnose besedo? <stage
-                              type="debate">(Ne.)</stage> Želijo besedo predstavniki delovnih teles?
+                           Želi predlagatelj v imenu Komisije za mednarodne odnose besedo? <stage type="debate">(Ne.)</stage> Želijo besedo predstavniki delovnih teles?
                               <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Odpiram razpravo! Če ni razpravljavcev, zaključujem.</p>
                         <p>Prisotnost se je zmanjšala za enega.</p>
-                        <p>Kdor je za razširitev dnevnega reda, naj, prosim, glasuje! <stage
-                              type="vote">(43 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(Nihče.)</stage> Se je kdo vzdržal? <stage type="comment">(Ni
+                        <p>Kdor je za razširitev dnevnega reda, naj, prosim, glasuje! <stage type="vote">(43 poslancev.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="comment">(Ni
                               konstalacije.)</stage>
                         </p>
                         <p>Predlog je soglasno izglasovan.</p>
@@ -684,8 +712,7 @@
                            preložitvi kdo razpravo? Če ne, prehajam na glasovanje. Navzočnost se ni
                            spremenila - 53 navzočih poslancev.</p>
                         <p>Kdo je za preložitev točke na naslednjo sejo, da se pripravi potrebno
-                           gradivo? <stage type="vote">(48 poslancev.)</stage> Je kdo proti? <stage
-                              type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(2
+                           gradivo? <stage type="vote">(48 poslancev.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(2
                               poslanca.)</stage>
                         </p>
                         <p>Ugotavljam, da je z večino glasov predlog izglasovan.</p>
@@ -693,7 +720,7 @@
                            dopolnjen s pravkar izglasovanimi spremembami in dopolnitvami.</p>
                         <p>Besedo želi gospod Žaro Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Pozdravljeni! Na podlagi 233. člena poslovnika, po katerem dela naša
                            skupščina, predlagam, da uvrstimo danes na dnevni red interpelacijo o
@@ -702,15 +729,14 @@
                            dni; Vlada ni dala nikakršnega sporočila in po tem členu avtomatično
                            sledi, da se ta interpelacija danes uvrsti na dnevni red. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Naj dam takoj pojasnilo poslancu Preglju. Po 118. členu
                            ustave najmanj 10 poslancev lahko sproži v Državnem zboru interpelacijo o
                            delu Vlade ali posameznega ministra. Če po razpravi o interpelaciji
                            večina vseh poslancev izreče nezaupnico Vladi in tako dalje, se ministre
                            razreši. To pa se po stališču opravi na skupni seji. Zato je
-                           interpelacija - po dogovoru s predsednikom Skupščine - predložena <stage
-                              type="comment">(po dikciji)</stage> na prvo naslednjo skupno sejo
+                           interpelacija - po dogovoru s predsednikom Skupščine - predložena <stage type="comment">(po dikciji)</stage> na prvo naslednjo skupno sejo
                            Skupščine.</p>
                         <p>Želi še kdo razpravljati o dnevnem redu? Če ne, dajem na</p>
                         <p>glasovanje predlog dnevnega reda s spremembami, kakor smo jih
@@ -720,15 +746,13 @@
                            Se je kdo vzdržal? <stage type="vote">(1 poslanec.)</stage>
                         </p>
                         <p>Zboru predlagam, da takoj imenujemo skupino za uskladitev dnevnega reda,
-                           če bo seveda potrebno. Prosim za predloge za 5 članov. <stage
-                              type="comment">(Predlagajo imena: Žarko Pregelj, Gajšek, Hobič,
+                           če bo seveda potrebno. Prosim za predloge za 5 članov. <stage type="comment">(Predlagajo imena: Žarko Pregelj, Gajšek, Hobič,
                               Anderlič, Balažic.)</stage>
                         </p>
                         <p>Predlagana je 5-članska komisija, in sicer: Pregelj, Gajšek, Hobič,
                            Anderlič in Balažic.</p>
                         <p>Kdo je za? <stage type="vote">(44 poslancev.)</stage> Je kdo proti?
-                              <stage type="vote">(2 poslanca.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(1 poslanec.)</stage>
+                              <stage type="vote">(2 poslanca.)</stage> Se je kdo vzdržal? <stage type="vote">(1 poslanec.)</stage>
                         </p>
                         <p>Ugotavljam, da je s 44 glasovi za, 2 proti in 1 vzdržanim predlog
                            dnevnega reda izglasovan.</p>
@@ -766,20 +790,22 @@
                            Tomažič, Šetinc, Bekeš pa Potočnik. Franc Pipan? Bekeš je že; še eden
                            manjka. Kolešnik. </p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KolešnikCiril">
                         <speaker>(Kolešnik iz klopi:</speaker>
                         <ab>Dva ne moreta biti od krščanskih demokratov.)</ab>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p> Nada Boljca, dobro. Reberc, Tomažič, Šetinc, Bekeš, Boljca.</p>
                         <p>Kdor je za, naj, prosim, glasuje! <stage type="vote">(47
                               poslancev.)</stage> Je kdo proti? <stage type="vote">(1
-                              poslanec.)</stage> Se je kdo vzdržal? <stage type="vote"
-                              >(Nihče.)</stage> Hvala.</p>
+                              poslanec.)</stage> Se je kdo vzdržal? <stage type="vote">(Nihče.)</stage> Hvala.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.TDR" n="13" corresp="#toc.1.3">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.1.3"
+                       ana="#PAR.TDR"
+                       n="13"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.1.3">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>In sedaj prehajam na začetno fazo <title>POBUD, PREDLOGOV IN VPRAŠANJ
                               POSLANCEV</title>.</p>
                         <p>V zvezi s tem prosim poslanke in poslance, da pri predsedniški mizi
@@ -789,18 +815,18 @@
                            Uvodno izvajanje naj bi bilo dolgo največ tri minute. Prosim, prva se
                            javlja Marija Pozsonec.</p>
                      </sp>
-                     <sp who="#sp.PozsonecMaria">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PozsonecMaria">
                         <speaker>MARIA POZSONEC:</speaker>
                         <p>Spoštovani! V Uradnem listu je bil objavljen odlok Vlade glede prodaje
                            lesa v obliki hlodovine tudi za tujino. Menim, da to ni pravilno
                            gospodarjenje. To je razprodaja narodnega gospodarstva in menim, da smo
                            poslanci dolžni to preprečiti.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Kdo je naslednji? Dalje prosim. Doktor Plešivčnik.</p>
                      </sp>
-                     <sp who="#sp.PlešivčnikDrago">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PlešivčnikDrago">
                         <speaker>DR. DRAGO PLEŠIVČNIK:</speaker>
                         <p>Povprašam. Kot ugledni slovenski ekonomist je gospod Janez  Kopač v
                            Sobotni prilogi Dela 21. marca izjavil: "Najbolj problematično se mi v
@@ -814,12 +840,12 @@
                             časopisu. Meni dosegljive informacije, s katerimi večkrat v tem zboru
                            pojasnjujem stanje v zdravstvu, so namreč drugačne.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. ...<stage type="gap">(Vmes vprašuje Kopač iz
                            klopi.)</stage>... Odgovor? Prosim, če je kratek. Ja.</p>
                      </sp>
-                     <sp who="#sp.KopačJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Čeprav ni navada, da se na poslanska vprašanja odgovarja kar tako
                            neposredno, bi rad odgovoril samo to. Dejstvo pač je, da je naš prispevek
@@ -862,13 +888,13 @@
                            vključiti sistem koncesij, ki je najbolj učinkovit sistem organiziranja
                            javnega sektorja. Na tem vztrajam. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Samo malo. Dr. Plešivčnika vprašujem, če je zadovoljen z
                            ustnim odgovorom, če ne, se bo poslanca Kopača pozvalo na pisni
                            odgovor.</p>
                      </sp>
-                     <sp who="#sp.PlešivčnikDrago">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PlešivčnikDrago">
                         <speaker>DR. DRAGO PLEŠIVČNIK:</speaker>
                         <p>Odgovor poslanca Kopača je bil seveda zelo pavšalen, da ne rečem
                            kavarniški. Želim, da se te stvari argumentirajo z nekimi številkami.
@@ -876,12 +902,12 @@
                            stvari utemeljiti, da bomo lahko potem pripravili nasprotne dokaze, ker
                            to, kar vi trdite, ne more biti res.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Gospod Lampret. Prosim, gospod Kopač, pisni odgovor na pisno
                            vprašanje. Besedo ima gospod Janez Lampret.</p>
                      </sp>
-                     <sp who="#sp.LampretJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LampretJanez">
                         <speaker>JANEZ LAMPRET:</speaker>
                         <p>Spoštovani! Moje vprašanje bo zelo kratko. Želel bi pa res, da je odgovor
                            že danes ali pa vsaj jutri. Naslavljam ga pa na Ministrstvo za šolstvo in
@@ -889,11 +915,11 @@
                            osnovnih šol še niso prejeli osebnih dohodkov za mesec marec in da se ta
                            zadeva razišče. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Za besedo se javlja, prosim, gospod Kociper.</p>
                      </sp>
-                     <sp who="#sp.KociperŠtefan">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KociperŠtefan">
                         <speaker>ŠTEFAN KOCIPER:</speaker>
                         <p>Spoštovani! Poslansko vprašanje naslavljam Vladi Republike Slovenije
                            oziroma njenemu Ministrstvu za zakonodajo ali Ministrstvu za pravosodje
@@ -912,11 +938,11 @@
                            prosim, da Vlada na moje vprašanje odgovori, če je mogoče danes oziroma
                            na današnji seji. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Še kdo? Pardon, doktor Buser, da, prosim.</p>
                      </sp>
-                     <sp who="#sp.BuserStanko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovani! Po mesecu in pol naslavljam na Vlado  zopet poslansko
                            vprašanje, ki je izredno pomembne vsebine. Kaj je Vlada storila v zvezi s
@@ -941,11 +967,11 @@
                            Zakaj Vlada ne reagira sprašujem že petič ali ne vem kolikič. Zato
                            vljudno prosim, da dobim danes odgovor. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Prosim, dr. Pirnat.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Najprej proceduralni del. Tu odgovarjam kot predsednik Odbora za državno
                            ureditev in javno upravo, ki je včeraj že obravnaval odgovor, Vlada ga pa
@@ -962,11 +988,11 @@
                            jedrsko varnost za tovrstno tolmačenje. Pisni odgovor bo gospod Buser
                            dobil verjetno v petek. Skratka, po četrtku, ko ga bo sprejela Vlada.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Za besedo se je javila Darja Lavtižar-Bebler.</p>
                      </sp>
-                     <sp who="#sp.Lavtižar-BeblerDarja">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.Lavtižar-BeblerDarja">
                         <speaker>DARJA LAVTIŽAR-BEBLER:</speaker>
                         <p>Spoštovane kolegice in kolegi! V Tamarju, v dolini pod Jalovcem, stoji
                            zelo grd objekt, ki je nekoč služil kot karavla za vojaške graničarske
@@ -982,11 +1008,11 @@
                            ministrstva in na podlagi katerih kriterijev je bilo tako odločeno, če je
                            bilo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Želi še kdo besedo? Prosim, Emil Milan Pintar.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Hvala lepa. Spoštovane kolegice in kolegi! Vsi vemo, da je cena kapitala
                            v Sloveniji nenormalno visoka, kar duši gospodarstvo in sopovzroča
@@ -1021,11 +1047,11 @@
                            normalnem sodelovanju se to ne bi smelo in moglo dogajati. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Želi še kdo? Prosim, Janko Halb.</p>
                      </sp>
-                     <sp who="#sp.HalbJanko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.HalbJanko">
                         <speaker>JANKO HALB:</speaker>
                         <p>Hvala lepa in lepo pozdravljeni! Eno vprašanje oziroma pobudo bom oddal
                            pisno in je ne bom argumentiral, eno pa moram. Gre za anketo, ki sem jo
@@ -1056,7 +1082,7 @@
                            Skupščine, da bi se zadeva premaknila z mrtve točke oziroma da bi služba
                            opravljala to vlogo, ki jo v tem trenutku še ima. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Želi še kdo besedo? Osebno se pridružujem vprašanju Janka
                            Halba in postavljam zelo konkretno vprašanje v tej zvezi Ministrstvu za
@@ -1082,9 +1108,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.1">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA - ODOBRITEV OSNUTKOV
                               ZAPISNIKOV 10. IN 11. SEJE, DELOVNE SEJE VSEH TREH ZBOROV SKUPŠČINE
                               REPUBLIKE SLOVENIJE IN OSNUTKA ZAPISNIKA 27. SEJE ZBORA</title>.</p>
@@ -1115,8 +1144,11 @@
                         <p>Ugotavljam, da je zapisnik sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.2">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA - OBRAVNAVA ZUNANJEPOLITIČNE
                               PROBLEMATIKE, S POSEBNIM POUDARKOM NA ODNOSIH S SOSEDNJIMI
                               DRŽAVAMI</title>.</p>
@@ -1135,7 +1167,7 @@
                            predhodno niso imeli možnost proučiti. Želi predstavnik Vlade besedo?
                            Prosim, minister dr. Dimitrij Rupel.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! V veliko zadovoljstvo mi je, da
                            lahko po nekaterih proceduralnih težavah vendarle nagovorim ta vaš zbor
@@ -1507,10 +1539,9 @@
                            dovolj natančno prezentirane. Če pa bo treba, sem pa seveda pripravljen
                            odgovarjati na vprašanja. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
-                        <p>Hvala. Ali želi besedo predstavnik Komisije za mednarodne odnose? <stage
-                              type="debate">(Ne.)</stage> Ne. Hvala. Če ne, potem odpiram razpravo
+                        <p>Hvala. Ali želi besedo predstavnik Komisije za mednarodne odnose? <stage type="debate">(Ne.)</stage> Ne. Hvala. Če ne, potem odpiram razpravo
                            in predlagam, da se v razpravi opredelite do predloženega osnutka stališč
                            in sklepov. Po razpravi v zboru se bo namreč ponovno sestala Komisija za
                            mednarodne odnose in zboru predložila predlog stališč in sklepov. Imamo
@@ -1519,7 +1550,7 @@
                         <p>Ja, besedo želi še gospod Osterc kot predstavnik Ministrstva za
                            kmetijstvo, ki bo očitno pojasnil nekatera vprašanja.</p>
                      </sp>
-                     <sp who="#sp.OstercJože">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.OstercJože">
                         <speaker>DR. JOŽE OSTERC:</speaker>
                         <p>Dovolite mi, ker je bilo napovedano, da samo na kratko poročam o tem, kaj
                            smo se včeraj uspeli dogovoriti pri ministru Rudolfu, ministru za
@@ -1563,11 +1594,11 @@
                            potem bomo uradno naše stališče okrog količin in sprejemljivosti te
                            njihove ponudbe posredovali. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala lepa. Pričenjamo z razpravo. Zdaj je prijavljen gospod Balažic.</p>
                      </sp>
-                     <sp who="#sp.BalažicMilan">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.BalažicMilan">
                         <speaker>MILAN BALAŽIC:</speaker>
                         <p>Hvala lepa za besedo. Spoštovani! Najprej zahvala gospodu ministru, ker
                            si je vzel čas še za dodatna pojasnila k tej točki, čeprav bom sam v tem
@@ -1730,12 +1761,12 @@
                            bo prišla in če bo prišla neka interpelacija o njem, takrat bom glasoval
                            v prid ministra Rupla, kljub vsemu. Toliko. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Glede tega sklepa bi prosil, če ga lahko, tako kot je običaj, v
                            pisni obliki oddate. Gospod Borut Pahor.</p>
                      </sp>
-                     <sp who="#sp.PahorBorut">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PahorBorut">
                         <speaker>BORUT PAHOR:</speaker>
                         <p>Spoštovane kolegice in kolegi! Jaz še vedno vztrajam pri oceni, da je dr.
                            Rupel dober zunanji minister, moram pa reči, da se strinjam, tako kot moj
@@ -1875,11 +1906,11 @@
                            pelje zunanje ministrstvo in Vlada stvari v pravi smeri in ima v tem
                            smislu našo podporo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Peter Reberc.</p>
                      </sp>
-                     <sp who="#sp.RebercPeter">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.RebercPeter">
                         <speaker>PETER REBERC:</speaker>
                         <p>Spoštovani zbor! V velikem delu diskusije se strinjam z obema
                            predgovornikoma, to je z gospodom Balažicem in Pahorjem, le da bi jaz
@@ -1970,11 +2001,11 @@
                            enega meseca Vlada zagotovi tako uresničevanje zunanjepolitične
                            aktivnosti, ki bo temeljilo na novi ustavi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Zvone Žagar. Repliko gospod Kocijančič najprej, prosim.</p>
                      </sp>
-                     <sp who="#sp.KocijančičJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KocijančičJanez">
                         <speaker>MAG. JANEZ KOCIJANČIČ:</speaker>
                         <p>Pravzaprav gre za vprašanje gospodu Rebercu. On je govoril o predsedniku
                            oziroma o predsedniški neoprijemljivosti. Jaz sem svoj čas študiral
@@ -1983,12 +2014,12 @@
                            predsedstva. ...<stage type="gap">(Nekaj glasov iz klopi - se ne
                               razume.)</stage>...</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Zdaj glede na to, da gospod Reberc ne kaže posebne želje po tem, da bi
                            odgovoril, vsaj javno ne, lahko nadaljujemo z razpravo. Gospod Žagar.</p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Hvala lepa za besedo. V glavnem bi poskusil povedati nekaj o odnosih
                            Slovenije s sosednjimi državami in predvsem s Hrvaško in ostalimi deli
@@ -2091,11 +2122,11 @@
                            da manjka kup stvari, med drugim tudi opredelitev Slovenije glede
                            nevtralnosti in podobno. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Reberc bo odgovoril na vprašanje gospoda Kocijančiča.</p>
                      </sp>
-                     <sp who="#sp.RebercPeter">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.RebercPeter">
                         <speaker>PETER REBERC:</speaker>
                         <p>Poznamo več vrst oprijemljivosti. Ena je taka fizična, če je nekdo
                            prevelik ali premajhen , da je zaradi tega neoprijemljiv. Potem je druga,
@@ -2104,11 +2135,11 @@
                            ko ima nekdo napeljanih dovolj vezi in dovolj marionet, da je nedosegljiv
                            normalnim državljanom. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Školč ima repliko.</p>
                      </sp>
-                     <sp who="#sp.ŠkolčJožef">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Jaz sem se javil zaradi tega, kar je govoril gospod Žagar. Tu je potrebno
                            povedati, da principa nedeljivosti zalivov ni, ali vsaj jaz zanj ne vem,
@@ -2119,11 +2150,11 @@
                            neoprijemljiv, da je bolj bistrega in hitrega duha, ne da rabi dve uri,
                            da se pripravi na neduhovit odgovor.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK</speaker>
                         <p>: Hvala. Gospod Kolešnik.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani poslanci! Jaz bi seveda rad opozoril na to, da se zavedam vaše
                            naveličanosti poslušati vse skupaj, posebno ob tako obsežnem tekstu, ki
@@ -2222,7 +2253,7 @@
                            ker mislim, da so prav v tistem delu kot sem rekel, pomanjkljivi, kar se
                            potem vleče skozi ves tekst. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Preden dam naprej besedo, sem bil pravkar naprošen, da v zvezi z
                            očitki oziroma z opažanji, da je gospod minister nenadoma zapustil zbor,
@@ -2233,7 +2264,7 @@
                            zapustil sejo zbora. Hvala.</p>
                         <p>Sedaj je na vrsti gospod Juri.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! Že dolgo smo čakali na to
                            razpravo. Pri tem je večkrat nastalo vzdušje, ki je bilo pogojeno z
@@ -2411,11 +2442,11 @@
                            dobrososedskih odnosov in upam, da se bo vsaj ta zbor, ki deluje večkrat
                            pragmatično in racionalno, opredelil za tako usmeritev. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Kolešnik ima repliko.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani poslanci! Zelo nevarno tezo je gospod Juri tule poskušal
                            plasirati. Rekel je, da ni važno, kje poteka meja, ampak da je važno,
@@ -2475,11 +2506,11 @@
                         <p>Če bomo pa tako delali, kot nam je gospod Juri nakazal, potem se bojim,
                            da bomo kmalu postali alpski Hrvati, kar pa sigurno nismo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Juri ima repliko.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Zahvaljujem se gospodu Kolešniku za ta opozorila. Mislim, da prav ta
                            način ne pelje do dogovorov, ampak postavlja stvari s predsodki, s
@@ -2520,7 +2551,7 @@
                            skratka, to sta ta dva trenutka. Upam, da sem zadovoljil tudi svojega
                            kolega.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Hvala. Po vrstnem redu prijavljenih za diskusijo sem na vrsti jaz.</p>
                         <p>Želim povedati, da sem s tem poročilom in elementi strategije kot
@@ -2604,7 +2635,7 @@
                            itd. Hvala.</p>
                         <p>Gospod Borut Šuklje.</p>
                      </sp>
-                     <sp who="#sp.ŠukljeBorut">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŠukljeBorut">
                         <speaker>BORUT ŠUKLJE:</speaker>
                         <p>Gospod predsedujoči, hvala za besedo. Gospe in gospodje poslanci! Na
                            splošno o slovenski zunanji politiki ne moremo govoriti drugače kot o
@@ -2679,11 +2710,11 @@
                            dokazano, ne gre zanašati. Sam se seveda izrekam za nevtralnost.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Žaro Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani! Mogoče bi se moral oglasiti malo prej, ampak opažam, da se je
                            današnja razprava mogoče deloma odvijala v napačni smeri. Mi smo na
@@ -2869,11 +2900,11 @@
                            to, če je od tega potem odvisna zunanja politika neke države, se pa tej
                            državi lahko zelo slabo piše. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Šešerko.</p>
                      </sp>
-                     <sp who="#sp.ŠešerkoLeo">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŠešerkoLeo">
                         <speaker>DR. LEO ŠEŠERKO:</speaker>
                         <p>Spoštovani! Ura se je zdaj že toliko odmaknila, jaz sem pa pričakoval, da
                            bom dobil malo prej besedo, tako da je skoraj že čas, da zaključim to
@@ -2964,13 +2995,13 @@
                            pridruženo članstvo najprej in potem dolgoročno polnopravno članstvo.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Zdaj je prijavljen samo še gospod Polajnar. Predlagam, da še on dobi
                            besedo in da potem zaključimo, razen če bo predstavnik Vlade mogoče še
                            kaj dodal.</p>
                      </sp>
-                     <sp who="#sp.PolajnarIgnac">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Hvala lepa. Jaz bom zelo kratek in prav lep pozdrav. No, jaz ne bom šel v
                            tako globalno ocenjevanje naše zunanje politike, ker mislim, da ni samo
@@ -3046,12 +3077,12 @@
                            nevtralnosti ali povezave s kakšnim faktorjem  ali tako naprej, je tudi
                            vprašanje tega političnega prostora. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Ja, opozarjam vas, da je ura sedaj že dve minuti čez dve. Replika
                            gospod Pregelj, potem gospod Kocijančič, gospod Pahor.    </p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Se oproščam, repliciram na zadnji stavek gospoda Polajnarja. Strategijo
                            je treba imeti, nujna je, drugače se ne da več delati, kajti te zunanje
@@ -3062,11 +3093,11 @@
                            lahko sedaj razvili nadaljnje zunanje politične odnose. Drugače nas bo ta
                            stvar lahko pripeljala v dokaj neugoden položaj. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala, gospod Kocijančič.</p>
                      </sp>
-                     <sp who="#sp.KocijančičJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KocijančičJanez">
                         <speaker>MAG. JANEZ KOCIJANČIČ:</speaker>
                         <p>Gospod predsedujoči, jaz se nisem prijavil za repliko, tako da od mene ne
                            pričakovati kakšen zelo polemičen ton, želel bi pa na podlagi tega, ko
@@ -3124,7 +3155,7 @@
                            obstoječih zaostritev razgraditi s čestimi kontakti in s sposobnostjo, da
                            se ne skregamo tam, kjer za to ni razlogov.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Glede na to, da je bila osrednja tema tista, kot je bil na začetku
                            tudi poziv, da se opredelimo do predlaganih sklepov in stališč,
@@ -3144,13 +3175,14 @@
                            izčrpal dnevni red današnje seje. Še enkrat: če bomo končali skupno sejo
                            do 17. ure in 30 minut, potem še nadaljujemo danes našo sejo.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1992-04-08T14:10:00"
-                           xml:id="stage.t.2">PREKINJENA 8. APRILA 1992 OB 14.10 URI</time> IN SE JE
-                           <time from="1992-04-09T10:14:00" xml:id="stage.t.3">NADALJEVALA 9. APRILA
+                     <stage type="time">(SEJA JE BILA <time to="1992-04-08T14:10:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.2">PREKINJENA 8. APRILA 1992 OB 14.10 URI</time> IN SE JE
+                           <time from="1992-04-09T10:14:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.3">NADALJEVALA 9. APRILA
                            1992 OB 10.14 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.Prisot" corresp="#toc.2.4">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.3"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.4">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Jaz bi z veseljem predlagal, da začnemo, v kolikor bi seveda bili
                            sklepčni. Predlagam, da ugotovimo, da nas je zdaj, upajmo, 35. Lahko
@@ -3160,7 +3192,7 @@
                            klubov ali njihove namestnike, da poskusijo medtem zagotoviti
                            sklepčnost.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Nadaljevati bi morali s 36. sejo Družbenopolitičnega zbora Skupščine
                            Republike Slovenije. Za današnje nadaljevanje so se opravičili: Peter
@@ -3172,8 +3204,10 @@
                            zbora, gospod Šuklje.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.Procedural" corresp="#toc.2.5">
-                     <sp who="#sp.ŠukljeBorut">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.4"
+                       ana="#PAR.Procedural"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.5">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŠukljeBorut">
                         <speaker>BORUT ŠUKLJE:</speaker>
                         <p>Gospod predsednik, hvala za besedo. Gospe in gospodje poslanci! Z ozirom
                            na to, da kaže, da se zna zgoditi, da danes naš zbor ne bo sklepčen,
@@ -3184,7 +3218,7 @@
                            zaradi situacije in razmer, kakršne so v tem hipu v tej državi, da bi
                            bilo zelo dobro. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Predlagam, da bi v tej zvezi, proceduralno predlog ne more biti sprejet,
                            predlagam pa, da v tej zvezi skličemo korespondenčno sejo, s tem, da je
@@ -3197,13 +3231,15 @@
                            poslance, če ste tako ljubeznivi, da potrpite, da boste podpisali
                            sklep.</p>
                         <p>Ponovno prosim, ugotovimo prisotnost! Ponovno prosim, ugotovimo
-                           prisotnost! Poslednjič prosim, ugotavljamo prisotnost! <stage
-                              type="quorum">(43 prisotnih.)</stage>
+                           prisotnost! Poslednjič prosim, ugotavljamo prisotnost! <stage type="quorum">(43 prisotnih.)</stage>
                         </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.5" ana="#PAR.TDR" n="5" corresp="#toc.2.6">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.5"
+                       ana="#PAR.TDR"
+                       n="5"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.6">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Predlagam, da preidemo na <title>5. TOČKO DNEVNEGA REDA - IZJAVA
                               SOLIDARNOSTI SKUPŠČINE REPUBLIKE SLOVENIJE, PRIZNANJE REPUBLIKE BOSNE
                               IN HERCEGOVINE</title>.</p>
@@ -3238,15 +3274,16 @@
                         </p>
                         <p>Ugotavljam, da je izjava soglasno izglasovana.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-04-09T11:00:00"
-                           xml:id="stage.t.4">prekinjena ob 11.00 uri</time> in se je <time
-                           from="1992-04-09T11:05:00" xml:id="stage.t.5">nadaljevala ob 11.05
+                     <stage type="time">(Seja je bila <time to="1992-04-09T11:00:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.4">prekinjena ob 11.00 uri</time> in se je <time from="1992-04-09T11:05:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.5">nadaljevala ob 11.05
                            uri</time>.) <stage type="comment">(Opomba: Vmes nadaljevanje 35. seje
                            DPZ.)</stage>
                      </stage>
                   </div>
-                  <div xml:id="div.1.1.2.6" ana="#PAR.TDR" n="3" corresp="#toc.2.7">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.6"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.7">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Sedaj prehajamo  na <title>3. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN VLADO ZVEZNE
@@ -3276,8 +3313,11 @@
                         <p>Ugotavljam, da je predlog zakona izglasovan.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.7" ana="#PAR.TDR" n="4" corresp="#toc.2.8">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.7"
+                       ana="#PAR.TDR"
+                       n="4"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.8">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prehajamo na <title>4. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               RATIFIKACIJI SPORAZUMA MED REPUBLIKO SLOVENIJO IN REPUBLIKO FINSKO O
                               UKINITVI VIZUMOV</title>.</p>
@@ -3289,8 +3329,7 @@
                            tudi strinjala, da se navedeni predlog obravnava po enofaznem postopku,
                            torej v skladu z določbami poslovnika Skupščine Republike Slovenije.</p>
                         <p>Ali želi besedo predstavnik Vlade? <stage type="debate">(Ne
-                              želi.)</stage> Želijo besedo poročevalci delovnih teles? <stage
-                              type="debate">(Ne želijo.)</stage> Odpiram razpravo. Predlog dajem na
+                              želi.)</stage> Želijo besedo poročevalci delovnih teles? <stage type="debate">(Ne želijo.)</stage> Odpiram razpravo. Predlog dajem na
                            glasovanje. Vložen je amandma. Na glasovanje dajem amandma
                            Zakonodajno-pravne komisije k 4. členu, ki se glasi:</p>
                         <p>Besede "z dnem objave" se nadomestijo z besedilom "naslednji dan po
@@ -3314,8 +3353,11 @@
                         <p>Ugotavljam, da je predlog zakona z amandmajem soglasno sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.8" ana="#PAR.TDR" n="5" corresp="#toc.2.9">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.8"
+                       ana="#PAR.TDR"
+                       n="5"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.9">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA</title>,</p>
                         <p>ki smo jo delno že izglasovali. Medtem se deli izjava, ki bi jo v tej
                            zvezi tudi sprejeli.</p>
@@ -3333,8 +3375,7 @@
                         <p>Skupščina Republike Slovenije sočustvuje s prizadetim prebivalstvom
                            Sarajeva in drugih bosansko hercegovskih mest.</p>
                         <p>Predlog izjave dajem v razpravo. Če ni razpravljavcev, dajem to izjavo na
-                           glasovanje. Ugotovimo navzočnost. Eden je dvorano zapustil. <stage
-                              type="quorum">(40 pristonih.)</stage> V dvorani nas je 42 poslancev,
+                           glasovanje. Ugotovimo navzočnost. Eden je dvorano zapustil. <stage type="quorum">(40 pristonih.)</stage> V dvorani nas je 42 poslancev,
                            čeprav je eden zapustil dvorano. Ugotavljamo navzočnost, vsi! V dvorani
                            je 42 poslancev. Ponovno prosim, ugotovimo navzočnost, ne izgubljajmo
                            časa. <stage type="quorum">(42 prisotnih.)</stage>
@@ -3348,8 +3389,11 @@
                         <p>Medtem je vstopil poslanec Pregelj v dvorano.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.9" ana="#PAR.TDR" n="6" corresp="#toc.2.10">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.9"
+                       ana="#PAR.TDR"
+                       n="6"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.10">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prehajamo na <title>6. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               RATIFIKACIJI SPORAZUMA O GOSPODARSKEM SODELOVANJU MED REPUBLIKO
                               SLOVENIJO IN REPUBLIKO HRVAŠKO</title>.</p>
@@ -3358,7 +3402,7 @@
                            komisija. Želi besedo predstavnik Vlade? Prosim, minister Jeraj. V
                            dvorani nas je 43, jaz se bom opravičil.</p>
                      </sp>
-                     <sp who="#sp.JerajJožef">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.JerajJožef">
                         <speaker>JOŽEF JERAJ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani zbor! Na včerajšnji seji Zbora občin
                            je bila ta točka precej živahna in diskusija je trajala kar dolgo. Zato
@@ -3470,12 +3514,12 @@
                            premoženja Slovenije ne samo v Hrvaški, pač pa tudi v drugih republikah.
                            Toliko se zahvaljujem za posluh in hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Želijo besedo poročevalci delovnih teles? Če ne, odpiram razpravo.
                            Prvi se je prijavil gospod Žagar.  </p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Hvala lepa za besedo. No, vse to, kar bom povedal, je v bistvu že potrdil
                            gospod Jeraj, zavzemam pa se za to, da Skupščina ne ratificira
@@ -3539,11 +3583,11 @@
                            vidim nobenega razloga, da bi ustvarjali vtis, da imamo zadevo urejeno in
                            bi gospodarstvo dobesedno zavajali. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala, gospod Juri.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Jaz bi le na kratko repliciral kolega Žagarja, ko trdi, da lastništvo
                            nima oziroma točka, ki predvideva jamstvo lastniških odnosov, nima nobene
@@ -3585,12 +3629,12 @@
                            Eden od pogojev za to, da bodo pogajanja vsaj delno uspešna, je tudi
                            ratifikacija tega sporazuma. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Kolešnik najprej, prosim. Ne, najprej gospod Pregelj ima
                            repliko, potem pa gospod Kolešnik in Kuharič.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani, se oproščam, toda govoriti o štrajku je nekoliko narobe. Vemo
                            vsi, kaj pomeni štrajk. Štrajk pomeni prekinitev dela in kdo pač ne dela
@@ -3599,11 +3643,11 @@
                            Sicer se strinjam, da je ta problematika odprta, ampak uporabljajmo
                            takšne izraze, kot se spodobi. Štrajk je nekaj drugega.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Prosim, gospod Kolešnik.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani! Prav gotovo sedaj in v tem trenutku predvsem govorimo tisti,
                            ki smo ob mejah, ki čutimo potrebo povezav s hrvaškim gospodarstvom
@@ -3644,11 +3688,11 @@
                            mislim, da ni problemov, če pa ne obstaja, potem pa seveda ta prošnja
                            ministra ne zaleže v taki meri, kot jo je on izrazil. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Kuharič prosim.</p>
                      </sp>
-                     <sp who="#sp.KuharičBožo">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KuharičBožo">
                         <speaker>BOŽO KUHARIČ:</speaker>
                         <p>Spoštovani! Govorim z aspekta, čistega aspekta gospodarstva, če lahko
                            tako rečem. Strinjam se z dejstvom, da marsikaj, ogromno tega v teh
@@ -3666,11 +3710,11 @@
                            da je nujno, da tudi problem lastnine v tem sporazumu torej praktično
                            poskušamo reševati. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Smole prosim.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Spoštovane kolegice in kolegi! Kolega Kolešnik je govoril o stvarnih
                            problemih, ki obstajajo med Slovenijo in Hrvaško. Jaz se z gospodom
@@ -3728,11 +3772,11 @@
                            živeti na teh prostorih in dajmo težiti k takšnim oblikam reševanja, ki
                            bodo obojestransko najbolj koristne.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Prosim, gospa Sonja Lokar.</p>
                      </sp>
-                     <sp who="#sp.LokarSonja">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LokarSonja">
                         <speaker>SONJA LOKAR:</speaker>
                         <p>Rada bi povedala nekaj argumentov, zakaj je treba investirati v
                            dobrososedske odnose in v čimbolj normalne odnose z našo sosednjo državo
@@ -3800,11 +3844,11 @@
                            prisiljeni čakati, da se jih usmilimo tukaj v ljubljanskem centru, potem
                            je njihova bitka v naprej izgubljena. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Kolešnik je prosil za repliko.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Najprej za gospoda Smoleta. Namreč, jaz se s carinsko unijo ne morem
                            strinjati, preprosto zato ne, ker prav gotovo za nas carinska unija v tem
@@ -3855,11 +3899,11 @@
                            riskirali vse, da bomo rešili majhen delček, velikih zadev pa ne vidimo.
                            Žal, to je značilno pri nas, Slovencih. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Že prej je prosil gospod Žagar za repliko.</p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Hvala lepa. Najprej, če dovolite, gospodu Smoletu. On je izjavil, da so
                            posledice, ki jih imamo, to, kar smo si sami skuhali. S tem se ne
@@ -3903,13 +3947,13 @@
                            tudi zadeva ustavi, potem bodo posledice hude. Preprosto gre za denar.
                            Zgubili ga bomo, to je vse. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK</speaker>
                         <p>: Repliko prosi gospod Buser. Prosil bi tudi, da  poveste, ali se
                            prijavljate za razpravo ali za repliko, zato da, najprej ima repliko
                            gospod Buser.</p>
                      </sp>
-                     <sp who="#sp.BuserStanko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovani! Moja replika oziroma tudi sama izvajanja so zmeraj kratka kot
                            replike. Danes ugibamo tukaj,</p>
@@ -3927,11 +3971,11 @@
                            Vsekakor bom pa za podpis takega sporazuma, kot je tukaj na klopi
                            predlagan, to pa čisto logično. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala lepa. Gospod Juri ima repliko.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Samo kratko repliko. Očitno, situacije so zelo različne. V Istri to mejo
                            doživljamo prav fizično. Zgodilo se je, da je precej dijakov zapustilo
@@ -3953,11 +3997,11 @@
                            in s tem so zamudili vsaj eno uro v požaru. To se dogaja danes. To ni
                            tako preprosto kot trdi gospod Kolešnik.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Smole ima repliko.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Kolega Kolešnik in Žagar sta po moje dovolj kulturno razgledana, da
                            poznata razliko med trdo in mehko mejo. Eno je meja med Rusijo in
@@ -3977,12 +4021,12 @@
                            pogovarjamo s partnerji, je potrebno tudi upoštevati interese
                            partnerja.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Nadaljujemo z razpravo. Gospod Magdič. Jaz sem vas napisal, to je
                            replika potem. Gospa Lokar, replika, gospod Battelli, replika.</p>
                      </sp>
-                     <sp who="#sp.MagdičJože">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.MagdičJože">
                         <speaker>DR. JOŽE MAGDIČ:</speaker>
                         <p>Spoštovane gospe in gospodje! Prihajam iz Prekmurja in temu primerno bo
                            tudi moje razpravljanje. Vsak teden sem najmanj enkrat v Lendavi kot
@@ -4025,11 +4069,11 @@
                            sporazuma s Hrvaško in končal bom s slovenskim izrekom, pravzaprav sosed
                            je najboljši sorodnik oziroma sosed je najboljša žlahta.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospa Lokar ima repliko!</p>
                      </sp>
-                     <sp who="#sp.LokarSonja">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LokarSonja">
                         <speaker>SONJA LOKAR:</speaker>
                         <p>O razlikah med mejami je že tovariš Smole bolje povedal, kot bi lahko
                            jaz, glede duha časa je pa tako. Duh časa je Sarajevo, ampak duh časa je
@@ -4057,11 +4101,11 @@
                            je treba ravnati modro in dolgoročno, ne pa kramarsko in egoistično.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Battelli, replika.</p>
                      </sp>
-                     <sp who="#sp.BattelliRoberto">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.BattelliRoberto">
                         <speaker>ROBERTO BATTELLI:</speaker>
                         <p>Marsikaj je bilo povedanega skozi replike od tega, kar sem mislil v svoji
                            razpravi povedati, morda pa ne bo odveč, če bom poskusil zelo na kratko
@@ -4108,11 +4152,11 @@
                            obstajajo. Dejansko so taki. To omogoča, da se potem tega lotimo, upam,
                            da čimprej. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospa Logar.</p>
                      </sp>
-                     <sp who="#sp.LogarMihaela">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LogarMihaela">
                         <speaker>MIHAELA LOGAR:</speaker>
                         <p>Če me spomin ne vara, govorim o gospodarskem sporazumu s Hrvaško, ker po
                            tej razpravi je težko ugotoviti, o čem govorimo. Ta gospodarski sporazum
@@ -4131,11 +4175,11 @@
                            čimprej sprejeli in sprejeli tudi v taki obliki, kot je predlagan.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Kocijančič.</p>
                      </sp>
-                     <sp who="#sp.KocijančičJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KocijančičJanez">
                         <speaker>MAG. JANEZ KOCIJANČIČ:</speaker>
                         <p>Spoštovane kolegice in kolegi! Jaz bi se v glavnem priključil
                            sogovornici. Govorimo o zakonu o ratifikaciji sporazuma o gospodarskem
@@ -4198,11 +4242,11 @@
                            Hrvaški, seveda ob polnem zavedanju tega, da moramo v vsakem segmentu
                            uveljavljati tudi svoje nacionalne in povsem konkretne interese.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Golija, je šel. Gospod Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani! Pridružujem se vsem tistim, ki menijo, da je potrebno ta
                            sporazum ratificirati, se pravi, ga sprejeti. Na Komisiji za mednarodne
@@ -4269,8 +4313,7 @@
                            svoje interpretira. Nihče ne pravi, da je taka meja dobra. Vsi dobro
                            vemo, kako je nastala meja na Debelem rtiču oziroma na minskih hribih in
                            kaj to pomeni za naše razmere in kako smo to mejo z veliko težavo
-                           premagali. Najtežje smo jo premagali in nismo še do konca ...<stage
-                              type="gap">(Prekinitev na traku.)</stage>... meje in smo vsi s to mejo
+                           premagali. Najtežje smo jo premagali in nismo še do konca ...<stage type="gap">(Prekinitev na traku.)</stage>... meje in smo vsi s to mejo
                            rasli in dobro vemo, kaj je ta meja.</p>
                         <p>Nihče ne želi ustvarjati nove meje na tej podlagi, s tem soglašam.
                            Prosim, samo ne stvari delati bolj fatalne kot so. Vi vidite črno tam,
@@ -4283,12 +4326,12 @@
                            če se pojavijo ti aneksi, kot jih določa 3. člen, da smo tudi primerno o
                            tem obveščeni. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK</speaker>
                         <p>: Hvala. Prosim, če predlog sklepa napišete. Gospod Battelli je prosil za
                            repliko.</p>
                      </sp>
-                     <sp who="#sp.BattelliRoberto">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.BattelliRoberto">
                         <speaker>ROBERTO BATTELLI:</speaker>
                         <p>Ponavljam, da razen v primerih, ki sem jih prej naštel, kar zadeva Istro,
                            seveda ona ni bila nikoli administrativno ločena  po osi sever - jug, to
@@ -4315,12 +4358,12 @@
                            nižji in primitivnejši ravni kakor sami zahtevamo, da na določeni ravni
                            ostajajo meje, ki smo jih podedovali. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Mislim, da tega ni nihče zahteval,da bi na ta način kdo postavljal.
                            Prosila sta za repliko gospod Potočnik in gospod Kolešnik potem.</p>
                      </sp>
-                     <sp who="#sp.PotočnikFranc">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PotočnikFranc">
                         <speaker>FRANC POTOČNIK:</speaker>
                         <p>Ob osamosvojitvi je gospod predsednik Kučan rekel - nikoli več ne bo
                            tako, kot je bilo - pa pustimo sedaj to, res ne bo nikoli več tako, jaz
@@ -4337,11 +4380,11 @@
                            imamo tu, na našem območju meje dostikrat, imamo z one strani več težav,
                            kot pa oni z mejo z naše strani.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Prosim, gospod Kolešnik.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Že predsedujoči je pač opozoril gospoda Battellija glede na to, kako je
                            on postavil izhodišče za postavljanje meje s Hrvaško. Tudi jaz moram
@@ -4374,11 +4417,11 @@
                            tudi med občinskimi mejami, pa bodo te občinske meje hujše kot pa je
                            kitajsko-ruska meja. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Juri. replika.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Jaz se opravičujem. Ne bi rad repliciral, ampak gospod Kolešnik nastopa z
                            netočnimi podatki. Problema očitno ne pozna dovolj ali se spreneveda.
@@ -4393,11 +4436,11 @@
                            status naših ribičev, in to je neposredna posledica novega statusa teh
                            držav. To vedo očitno vsi, samo gospod Kolešnik ne.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠKA:</speaker>
                         <p>Hvala. Gospod Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Pri teh ribičih mi dovolite še eno pojasnilo. To je stara problematika.
                            Večina problematičnega ribolova v tržaškem zalivu in v severnem Jadranu
@@ -4413,11 +4456,11 @@
                            ribištvo, kot so bili ti ribiči vajeni in kaj je pravo delo z morjem.
                            Tukaj ne vidim zadeve tako črno - za okolje bo to boljše.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Nemanič, prosim.</p>
                      </sp>
-                     <sp who="#sp.NemaničJulij">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.NemaničJulij">
                         <speaker>MAG. JULIJ NEMANIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! Državna meja je nujno posegla v
                            življenje in gospodarstvo obmejnih krajev in vsekakor se strinjam, da je
@@ -4434,7 +4477,7 @@
                            obkolpske, turistične, niso bile do sedaj izkoriščene, tako da imamo na
                            obeh straneh še velike načrte s Kolpo.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Kljub vsemu, če dovolite, bi še jaz nekaj vprašal. Jaz se  strinjam s
                            tistimi, ki pravijo, da se seveda meddržavni sporazumi ne sklepajo zaradi
@@ -4465,7 +4508,7 @@
                            vendarle je treba misliti tudi na tistih nekaj tisoč Slovencev, ki imajo
                            premoženje v sosednji državi. Hvala.</p>
                      </sp>
-                     <sp who="#sp.JerajJožef">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.JerajJožef">
                         <speaker>JOŽEF JERAJ:</speaker>
                         <p>Glede na dolgo diskusijo bom poskusil biti zelo kratek. Glede lastnine -
                            zadnje vprašanje. Dve uri in pol smo se pogovarjali v zvezi s tem
@@ -4519,7 +4562,7 @@
                            podpisovati. S tem bomo pokazali, da imamo mi iniciativo in to iniciativo
                            pričakuje od nas tudi Evropa. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>S tem je razprava zaključena. Sedaj bi morali glasovati. Prosim, da
                            ugotovimo navzočnost. Imamo amandma k zakonu. K zakonu, ne k sporazumu.
@@ -4550,8 +4593,7 @@
                         <p>Ugotavljam, da je ta amandma  sprejet.</p>
                         <p>Sedaj glasujemo o zakonu. Glasovali bomo o zakonu v celoti, vključno z
                            amandmajem, ki smo ga sprejeli.</p>
-                        <p>Kdor je za zakon o ratifikaciji, naj, prosim, glasuje! <stage type="vote"
-                              >(38 poslancev.)</stage> Je kdo proti? <stage type="vote">(1
+                        <p>Kdor je za zakon o ratifikaciji, naj, prosim, glasuje! <stage type="vote">(38 poslancev.)</stage> Je kdo proti? <stage type="vote">(1
                               poslanec.)</stage> Se je kdo vzdržal? <stage type="vote">(1
                               poslanec.)</stage>
                         </p>
@@ -4566,7 +4608,7 @@
                         <p>Prosim, gospod Smole želi razpravljati o predlogu dodatnega sklepa.
                            Prosim, da se ne razhajate med tem.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.SmoleJože">
                         <speaker>JOŽE SMOLE</speaker>
                         <p>: Za ta predlog ne bom glasoval, jaz sicer nisem znan po tem, da bi kaj
                            veliko hvalil Peterletovo Vlado, moram pa reči, da kar se obveščanja o
@@ -4575,13 +4617,13 @@
                            po sebi je razumljivo, da Vlada te stvari mora delati, ne vidim pa
                            razloga, da bi poseben sklep sprejemali.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Pregelj vztraja pri svojem predlogu? Zbor govori o obveščanju
                            zbora.</p>
                         <p>Gospod Battelli bo še pojasnil glas, prosim, da počakamo.</p>
                      </sp>
-                     <sp who="#sp.BattelliRoberto">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.BattelliRoberto">
                         <speaker>ROBERTO BATTELLI:</speaker>
                         <p>Sporazumi so plod pogajanj. Pogajanja se delajo pač na določen način. Ne
                            more se javno povedati tisto, kar so argumenti pogajanja. Mislim, taki
@@ -4594,11 +4636,11 @@
                            v bistvu nesmiseln, bi onemogočal, dejansko onemogočal pametno reševanje
                            meddržavnih zadev in odnosov.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala, gospod Pregelj bo povedal, kako bo glasoval o svojem predlogu.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Seveda bom glasoval za moj predlog, če ne ga ne bi predlagal. Gre za to,
                            da so pomanjkljivosti pri tem obveščanju in jaz mislim, da je današnja
@@ -4608,23 +4650,21 @@
                            sporazum pripravlja, pa mogoče nekaj osnovnih postavk tega. Mislim, da to
                            ne more škoditi.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospa Mihaela Logar bo pojasnila svoj glas.</p>
                      </sp>
-                     <sp who="#sp.LogarMihaela">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LogarMihaela">
                         <speaker>MIHAELA LOGAR:</speaker>
                         <p>Jaz bom glasovala proti takemu sklepu, ker pred podpisom sporazuma Vlade
                            Skupščina ne more glasovati o tem, ali Vlada to podpiše ali ne, ker s tem
                            mi prevzemamo tudi odgovornost za vse, kar potem Vlada naredi. Koga bomo
                            potem kritizirali? Mislim, da imamo tukaj vsak svoje delo.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Sedaj nas je 42, ker se je vrnil gospod Žagar - to je kvorum.</p>
-                        <p>Kdor je za predlog gospoda Preglja, naj, prosim, glasuje! <stage
-                              type="vote">(8 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(22  poslancev.)</stage>  Se je kdo vzdržal? <stage type="vote">(8
+                        <p>Kdor je za predlog gospoda Preglja, naj, prosim, glasuje! <stage type="vote">(8 poslancev.)</stage> Je kdo proti? <stage type="vote">(22  poslancev.)</stage>  Se je kdo vzdržal? <stage type="vote">(8
                               poslancev.)</stage>
                         </p>
                         <p>Ugotavljam, da predlog gospoda Preglja ni bil sprejet.</p>
@@ -4633,9 +4673,7 @@
                            Slovenije, da posebej pozorno prouči problem trgovinskega presežka s
                            Hrvaško in predlaga ustrezne rešitve, ki bi lahko zagotovile, da bi se
                            presežek v prihodnje zmanjševal." Še zmeraj nas je 42.</p>
-                        <p>Kdor je za predlog gospoda Žagarja, naj, prosim, glasuje! <stage
-                              type="vote">(24 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(4  poslanci.)</stage> Se je kdo vzdržal? <stage type="vote">(7
+                        <p>Kdor je za predlog gospoda Žagarja, naj, prosim, glasuje! <stage type="vote">(24 poslancev.)</stage> Je kdo proti? <stage type="vote">(4  poslanci.)</stage> Se je kdo vzdržal? <stage type="vote">(7
                               poslancev.)</stage>
                         </p>
                         <p>Ugotavljam, da je ta predlog dodatnega sklepa sprejet.</p>
@@ -4643,11 +4681,9 @@
                            Natanko ob 13,45 uri bom čakal tukaj, če boste pripravljeni na
                            nadaljevanje.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-04-09T12:50:00"
-                           xml:id="stage.t.6">prekinjena ob 12.50 uri</time> in se je <time
-                           from="1992-04-09T13:15:00" xml:id="stage.t.7">nadaljevala ob 13.15
+                     <stage type="time">(Seja je bila <time to="1992-04-09T12:50:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.6">prekinjena ob 12.50 uri</time> in se je <time from="1992-04-09T13:15:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.7">nadaljevala ob 13.15
                            uri</time>.)</stage>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Poslanci in poslanke, predlagam, da 5 minut po tistem roku, s katerim sem
                            vam zagrozil, da vas bom čakal, prvič preverimo sklepčnost. Vse navzoče
@@ -4657,7 +4693,7 @@
                            minut.</p>
                      </sp>
                      <stage type="time"> (5 minut kasneje.) </stage>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Predlagam, da ponovno preverimo navzočnost. Vse navzoče prosim, da
                            potrdijo svojo navzočnost. <stage type="vote">(28 poslancev.)</stage> Če
@@ -4666,7 +4702,7 @@
                            minut ne bomo sklepčni, se bomo razšli.</p>
                      </sp>
                      <stage type="time"> (5 minut kasneje.) </stage>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Drage poslanke in poslanci, predlagam, da še tretjič preverimo
                            navzočnost. Vse navzoče poslance prosim, da potrdite svojo navzočnost.
@@ -4676,13 +4712,15 @@
                            pa slučajno kaj čudežnega zgodilo, bomo pa o tem obvestili. Nikoli se ne
                            ve.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1992-04-09T14:02:00"
-                           xml:id="stage.t.8">PREKINJENA 9. APRILA 1992 OB 14.02 URI</time> IN SE JE
-                           <time from="1992-04-22T13:20:00" xml:id="stage.t.9">NADALJEVALA 22.
+                     <stage type="time">(SEJA JE BILA <time to="1992-04-09T14:02:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.8">PREKINJENA 9. APRILA 1992 OB 14.02 URI</time> IN SE JE
+                           <time from="1992-04-22T13:20:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.9">NADALJEVALA 22.
                            APRILA 1992 OB 13.20 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.10" ana="#PAR.TDR" n="1" corresp="#toc.2.11">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.10"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.11">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>
                            <title>Pri 1. točki dnevnega reda iz 36. seje</title> moramo urediti še
@@ -4724,8 +4762,7 @@
                            sem to dopolnitev prebral, naj, prosim, glasuje! To dopolnitev predlaga
                            Zbor občin oziroma ni v Zboru občin, ampak je dopolnitev predlagal gospod
                            Schwarzbartl. <stage type="vote">(25 poslancev.)</stage> Je kdo proti?
-                              <stage type="vote">(2 poslanca.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(15 poslancev.)</stage>
+                              <stage type="vote">(2 poslanca.)</stage> Se je kdo vzdržal? <stage type="vote">(15 poslancev.)</stage>
                         </p>
                         <p>Ugotavljam, da je ta dopolnitev sprejeta.</p>
                         <p>Sedaj dajem na glasovanje osnutek zapisnika 11. skupne delovne seje vseh
@@ -4738,8 +4775,11 @@
                         <p>Ugotavljam, da je zapisnik sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.11" ana="#PAR.TDR" n="2" corresp="#toc.2.12">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.11"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.12">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA - OBRAVNAVA ZUNANJEPOLITIČNE
                               PROBLEMATIKE S POSEBNIM POUDARKOM NA ODNOSIH S SOSEDNJIMI
                               DRŽAVAMI</title>.</p>
@@ -4748,7 +4788,7 @@
                            razpravljati o predlogu stališč in sklepov. Želi kdo razpravljati? Besedo
                            ima gospa Logarjeva.</p>
                      </sp>
-                     <sp who="#sp.LogarMihaela">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LogarMihaela">
                         <speaker>MIHAELA LOGAR:</speaker>
                         <p>V imenu Komisije za mednarodne odnose. Ta komisija je na svoji 69. seji,
                            včeraj, na podlagi razprave v vseh treh zborih Skupščine Republike
@@ -4769,26 +4809,25 @@
                            izrazila svoji ločeni mnenji k predlogu stališč in sklepov, ki sta
                            prilogi poročila. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Želi še kdo razpravljati? Želite razpravljati? Prosim, samo o
                            stališčih in sklepih.</p>
                      </sp>
-                     <sp who="#sp.PahorBorut">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PahorBorut">
                         <speaker>BORUT PAHOR:</speaker>
                         <p>Spoštovani! Prišlo je do napake. Jaz sem pri 2. točki imel ločeno mnenje
                            in verjetno je bilo tiskarsko narobe zapisano, tako da nimam posebnega
                            mnenja.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Želi še kdo razpravljati? Če ne želi nihče razpravljati, prehajamo
                            na glasovanje! Vse navzoče prosim, da pritisnejo na gumb! 41 prisotnih
                            delegatov.</p>
                         <p>Kdor je za predlog stališč in sklepov Skupščine Republike Slovenije o
                            zunanjepolitičnih aktivnostih po mednarodnem priznanju, naj, prosim,
-                           glasuje! <stage type="vote">(34 poslancev.)</stage> Je kdo proti? <stage
-                              type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(2
+                           glasuje! <stage type="vote">(34 poslancev.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(2
                               poslanca.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog sprejet.</p>
@@ -4808,9 +4847,7 @@
                         <p>Prosim, da preverimo navzočnost! <stage type="quorum">(41 prisotnih
                               poslancev.)</stage>
                         </p>
-                        <p>Kdor je za to 1. točko, kot sem jo prebral, naj, prosim, glasuje! <stage
-                              type="vote">(13 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(15 poslancev.)</stage> Se je kdo vzdržal? <stage type="vote">(9
+                        <p>Kdor je za to 1. točko, kot sem jo prebral, naj, prosim, glasuje! <stage type="vote">(13 poslancev.)</stage> Je kdo proti? <stage type="vote">(15 poslancev.)</stage> Se je kdo vzdržal? <stage type="vote">(9
                               poslancev.)</stage>
                         </p>
                         <p>Ugotavljam, da ta točka ni bila sprejeta.</p>
@@ -4854,9 +4891,7 @@
                         <p>Gospod Žagar, ali ostajate pri svojem predlogu? Vztraja. Prosim, da
                            preverimo navzočnost, ker je bilo medtem nekaj prometa. 42 navzočih
                            poslancev.</p>
-                        <p>Kdor je za predlog gospoda Žagarja, naj, prosim, glasuje! <stage
-                              type="vote">(20 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(6 poslancev.)</stage> Se je kdo vzdržal? <stage type="vote">(15
+                        <p>Kdor je za predlog gospoda Žagarja, naj, prosim, glasuje! <stage type="vote">(20 poslancev.)</stage> Je kdo proti? <stage type="vote">(6 poslancev.)</stage> Se je kdo vzdržal? <stage type="vote">(15
                               poslancev.)</stage>
                         </p>
                         <p>Ugotavljam, da ta predlog ni bil sprejet.</p>
@@ -4864,8 +4899,11 @@
                         <p>S tem smo to točko konzumirali.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.12" ana="#PAR.TDR" n="7" corresp="#toc.2.13">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.12"
+                       ana="#PAR.TDR"
+                       n="7"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.13">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <p>Poskusili bi opraviti še <title>7. TOČKO DNEVNEGA REDA - PREDLOG ZA
                               IZDAJO ZAKONA O SPREMEMBI ZAKONA O FINANCIRANJU JAVNE PORABE, S
                               PREDLOGOM ZAKONA</title>.</p>
@@ -4899,7 +4937,7 @@
                               želi.)</stage> Želijo besedo poročevalci delovnih teles? Gospod
                            Kopač.</p>
                      </sp>
-                     <sp who="#sp.KopačJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Spoštovani, Odbor za proračun in javne finance se je kar dolgo pomudil
                            pri tem zakonu, najprej v lanskem decembru, ko smo ga spreminjali prvič
@@ -4947,13 +4985,12 @@
                            predlog nanašal v osnovnem zakonu. Upam, da je bilo razumljivo.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
-                        <p>Hvala. Želi besedo predstavnik oziroma predstavnica Vlade? <stage
-                              type="debate">(Ne želi.)</stage> Hvala. Odpiram razpravo. Želi kdo
+                        <p>Hvala. Želi besedo predstavnik oziroma predstavnica Vlade? <stage type="debate">(Ne želi.)</stage> Hvala. Odpiram razpravo. Želi kdo
                            razpravljati o tem zakonu? Gospa Logar.</p>
                      </sp>
-                     <sp who="#sp.LogarMihaela">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LogarMihaela">
                         <speaker>MIHAELA LOGAR:</speaker>
                         <p>Nastopam v imenu ene od ljubljanskih občin, situacija je zelo zapletena.
                            Do spremembe, do decembra 1991, je bilo to delitveno razmerje 60/40, 40
@@ -4971,12 +5008,12 @@
                            dogovarjati in predlagam, da sprejmemo prvotni predlog spremembe, to se
                            pravi nazaj na 60/40. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Gospod Kopač, potem gospod
                            Tomažič.</p>
                      </sp>
-                     <sp who="#sp.KopačJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Želel sem se oglasiti samo zato, da povem vseeno, kakšno je to delitveno
                            razmerje, ker to je res problematika v odnosu med občinami in mestom
@@ -4993,11 +5030,11 @@
                            strinjam, želel pa sem dati poudarek temu načelnemu stališču. Torej
                            vseeno predlagam, da podprete amandmaje odbora. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Tomažič.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Ker Zakonodajno-pravna komisija še ni obravnavala teh amandmajev, bi si
                            dovolil samo pripombo, ki je po mojem mnenju, upam vsaj tako, lepotne
@@ -5011,12 +5048,12 @@
                            je to redakcijska stvar in da je republika namesto država, tako kot je v
                            celotnem zakonu. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Predlagatelj je Komisija za nacionalne in regionalne, Odbor za proračun
                            in javne finance. Ja, gospa Markičeva.</p>
                      </sp>
-                     <sp who="#sp.MarkičAlenka">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.MarkičAlenka">
                         <speaker>ALENKA MARKIČ:</speaker>
                         <p>Glede na problematiko tekočega financiranja v Ljubljani, na katero je
                            opozorila gospa Logarjeva, mislim, da je treba stvar obravnavati ločeno
@@ -5039,7 +5076,7 @@
                            najti tudi rešitev, ki bo omogočala financiranje v Ljubljani, ne glede na
                            te zaplete. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala lepa, gospod Kopač, jaz sodim, da ta predlog redakcijskega popravka
                            vašega amandmaja ni vsebinski, tako da bi ga najbrž lahko sprejeli s
@@ -5055,7 +5092,7 @@
                            bo pojasnil svoj glas, ampak bi najprej počakali, če bi dobili potrebnega
                            glasovalca.</p>
                      </sp>
-                     <sp who="#sp.KopačJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Jaz bom glasoval seveda za ta amandma in predlagal bi, da tudi vi. Zbor
                            občin amandmaja tako ali tako ni sprejel. Zbor združenega dela ga pa je
@@ -5066,7 +5103,7 @@
                            zakona ne podpre, da pa podprete amandmaje Odbora za javne finance in
                            proračun. Samo to.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Usklajevalno komisijo bomo imenovali po glasovanju. Prosim, če lahko še
                            koga pokličemo. Še enkrat preverimo sklepčnost prosim? Ali smo vsi
@@ -5074,8 +5111,7 @@
                            42, glasujemo o amandmaju Odbora za proračun in javne finance, 42 nas je.
                            Kdo je za, naj prosim k 1. členu glasuje?</p>
                         <p>Kdo je za? <stage type="vote">(16 poslancev.)</stage> Je kdo proti?
-                              <stage type="vote">(4 poslanci.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(12 poslancev.)</stage>
+                              <stage type="vote">(4 poslanci.)</stage> Se je kdo vzdržal? <stage type="vote">(12 poslancev.)</stage>
                         </p>
                         <p>S 16 glasovi za, 4 proti in 12 vzdržanimi je ta amandma sprejet.</p>
                         <p>Sedaj glasujemo o amandmaju k 2. členu, ki pravi: zakon o financiranju
@@ -5087,8 +5123,7 @@
                            družbenega knjigovodstva Slovenije." Predlagatelj je Odbor za proračun in
                            javne finance. Vlada ne nasprotuje amandmaju.</p>
                         <p>Kdo je za? <stage type="vote">(31 poslancev.)</stage> Je kdo proti?
-                              <stage type="vote">(3 poslanci.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(6 poslancev.)</stage>
+                              <stage type="vote">(3 poslanci.)</stage> Se je kdo vzdržal? <stage type="vote">(6 poslancev.)</stage>
                         </p>
                         <p>Z 31 za, 3 proti in 6 vzdržanimi je amandma sprejet.</p>
                         <p>Tretji amandma je predlagal ravno tako Odbor za proračun in javne
@@ -5102,7 +5137,7 @@
                            nismo prej kaj drugega sprejeli? Če mislite, da je v redu? Gospod Kopač
                            bo glasoval proti amandmaju svojega odbora.</p>
                      </sp>
-                     <sp who="#sp.KopačJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Ne se smejati! Poglejte, sedaj smo z dvema amandmajema vrgli ven
                            delitveno razmerje. Sedaj pa bi ga za prehodno obdobje postavili, in
@@ -5112,7 +5147,7 @@
                            bi glasoval proti temu amandmaju, kar pomeni, da se moramo tako ali tako
                            o tem potem pomeniti.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Dobro, hvala. Še zmeraj nas je 42.</p>
                         <p>Kdor je za amandma odbora, naj, prosim, glasuje! <stage type="vote">(10
@@ -5125,9 +5160,7 @@
                            črta. Gre za 24. člen veljavnega zakona o financiranju javne porabe.
                            Predlagatelj je Komisija za strategijo nacionalnega in regionalnega
                            razvoja, še zmeraj nas je 42.</p>
-                        <p>Kdor je za, naj, prosim, glasuje! 13 poslancev.) Je kdo proti? <stage
-                              type="vote">(5 poslancev.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(17 poslancev.)</stage>
+                        <p>Kdor je za, naj, prosim, glasuje! 13 poslancev.) Je kdo proti? <stage type="vote">(5 poslancev.)</stage> Se je kdo vzdržal? <stage type="vote">(17 poslancev.)</stage>
                         </p>
                         <p>S 13 za, 5 proti in 17 vzdržanimi glasovi ta amandma ni bil sprejet.</p>
                         <p>In sedaj amandma, ki se nanaša na 38. člen veljavnega zakona seveda,
@@ -5146,9 +5179,7 @@
                            tri, potem pride blaženi čas kosila. <stage type="vote">(41
                               poslancev.)</stage>
                         </p>
-                        <p>Kdor je za amandma, kot je bil prebran, naj, prosim, glasuje! <stage
-                              type="vote">(37 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(3
+                        <p>Kdor je za amandma, kot je bil prebran, naj, prosim, glasuje! <stage type="vote">(37 poslancev.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(3
                               poslanci.)</stage>
                         </p>
                         <p>S 37 za in 3 vzdržanimi glasovi je amandma sprejet.</p>
@@ -5176,13 +5207,14 @@
                         <p>S 36 za, 2 proti in 4 vzdržanimi je skupina izvoljena. Pavza za kosilo.
                            Ob natančno 15.00 uri nadaljujemo skupno sejo.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1992-04-22T14:00:00"
-                           xml:id="stage.t.10">PREKINJENA 22. APRILA 1992 OB 14.00 URI</time> IN SE
-                        JE <time from="1992-05-12T10:20:00" xml:id="stage.t.11">NADALJEVALA 12. MAJA
+                     <stage type="time">(SEJA JE BILA <time to="1992-04-22T14:00:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.10">PREKINJENA 22. APRILA 1992 OB 14.00 URI</time> IN SE
+                        JE <time from="1992-05-12T10:20:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.11">NADALJEVALA 12. MAJA
                            1992 OB 10.20 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.13" ana="#PAR.Prisot" corresp="#toc.2.14">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.13"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.14">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovane gospe in gospodje, cenjeni gostje, spoštovani predstavniki
                            sredstev obveščanja! Nadaljujemo 36. sejo Družbenopolitičnega zbora
@@ -5196,8 +5228,10 @@
                            vsi. <stage type="quorum">(41, 42.)</stage> Nadaljujemo z delom.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.14" ana="#PAR.DolDnevRed" corresp="#toc.2.15">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.14"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.15">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prvo kratka obvestila. Na nadaljevanju 36. seje zbora bo zbor obravnaval
                            še nedokončane zadeve s sprejetega <title>dnevnega reda</title>.</p>
                         <p>To je predlog za izdajo zakona o spremembi zakona o financiranju javne
@@ -5213,8 +5247,10 @@
                             združil z naslednjo sejo.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.15" ana="#PAR.Procedural" corresp="#toc.2.16">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.15"
+                       ana="#PAR.Procedural"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.16">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Poslance prosim, da se ponovno prijavijo za razpravo, kljub temu da so
                            svojo prijavnico morda že oddali na prejšnjem zasedanje te seje. Po
                            končani obravnavi 36. seje zborov bomo nadaljevali z nedokončanima
@@ -5232,11 +5268,9 @@
                            zbor s tem strinja, prosim, da potrdite. <stage type="vote">(39
                               poslancev.)</stage> Je kdo proti? (Dobro hvala.) </p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-05-12T10:25:00"
-                           xml:id="stage.t.12">prekinjena ob 10.25 uri</time> in se je <time
-                           from="1992-05-12T10:35:00" xml:id="stage.t.13">nadaljevala ob 10.35
+                     <stage type="time">(Seja je bila <time to="1992-05-12T10:25:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.12">prekinjena ob 10.25 uri</time> in se je <time from="1992-05-12T10:35:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.13">nadaljevala ob 10.35
                            uri</time>.)</stage>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Pri</p>
                         <p>7. TOČKI DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O SPREMEMBI ZAKONA O
@@ -5245,8 +5279,11 @@
                            preskočili.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.16" ana="#PAR.TDR" n="8" corresp="#toc.2.17">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.16"
+                       ana="#PAR.TDR"
+                       n="8"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.17">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prehajamo na <title>8. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O IGRAH NA
                               SREČO</title>.</p>
                         <p>Osnutek zakona je predložila Vlada Republike Slovenije. Osnutek zakona so
@@ -5269,7 +5306,7 @@
                               želi.)</stage> Želijo besedo poročevalci delovnih teles? Če ne želijo,
                            odpiram razpravo. Prosim, gospod Kociper.</p>
                      </sp>
-                     <sp who="#sp.KociperŠtefan">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KociperŠtefan">
                         <speaker>ŠTEFAN KOCIPER</speaker>
                         <p>: Hvala lepa za besedo. Verjetno nas je presenetila ta točka. Slučajno
                            sem pri zadnji obravnavi imel nekaj misli zabeleženih o tem osnutku
@@ -5309,12 +5346,12 @@
                            kazalo v ta zakon vključiti tudi igralnice z avtomati, tako zakonske
                            luknje na tem področju odpraviti že s tem zakonom. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa, gospod Miran Potrč, ne pardon. Še kdo? Prosim, Spomenka
                            Hribar.</p>
                      </sp>
-                     <sp who="#sp.HribarSpomenka">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.HribarSpomenka">
                         <speaker>MAG. SPOMENKA HRIBAR:</speaker>
                         <p>Spoštovani, kadar neka družba začenja tako rekoč na novo svoj način
                            življenja, nove odnose, nov gospodarski ciklus, je treba posebej pomembno
@@ -5358,11 +5395,11 @@
                            posredoval Odbor za proračun in javne finance in da ne sprejmemo tega
                            osnutka kot je predložen. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Še kdo? Gospod Šuklje.</p>
                      </sp>
-                     <sp who="#sp.ŠukljeBorut">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŠukljeBorut">
                         <speaker>BORUT ŠUKLJE:</speaker>
                         <p>Gospod predsednik, gospe in gospodje poslanci, hvala za besedo. V glavnih
                            črtah podpiram to, kar je povedala gospa Spomenka Hribar. Mislim, da
@@ -5384,11 +5421,11 @@
                            dobili, zavrnemo in sprejmemo v razpravo predlog, ki ga je posredoval
                            Odbor za proračun in javne finance. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Želi še kdo? Prosim, gospod Pahor želi besedo.</p>
                      </sp>
-                     <sp who="#sp.PahorBorut">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PahorBorut">
                         <speaker>BORUT PAHOR:</speaker>
                         <p>Gospod predsednik, kolegice in kolegi! Ker so bili argumenti za zavrnitev
                            osnutka zakona že predloženi, jih ne bi ponavljal. Osebno ne vidim
@@ -5406,11 +5443,11 @@
                            lastnika in podjetnika. Tako predlagam, da se sprejme poročilo matičnega
                            odbora. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Želi še kdo? Prosim, predstavnik Vlade.</p>
                      </sp>
-                     <sp who="#sp.DrakslerZvonko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.DrakslerZvonko">
                         <speaker>ZVONKO DRAKSLER:</speaker>
                         <p>Glede na to, da sta dva zbora že zavrnila tak predlog in sta sprejela
                            predlog Odbora za proračun in javne finance, bomo v vsakem primeru prišli
@@ -5422,7 +5459,7 @@
                            bila najbolj primerna, zato imamo že pripravljene druge rešitve in bomo v
                            osnutku stvari nekoliko drugače zastavili.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Želi še kdo? Če ne, zaključujem razpravo in dajem zboru na
                            glasovanje naslednji sklep:</p>
@@ -5430,16 +5467,16 @@
                         <p>2. Zbor nalaga predlagatelju, da ob upoštevanju razprave v zboru in v
                            delovnih telesih pripravi nov osnutek zakona v roku 30 dni. </p>
                      </sp>
-                     <sp who="#sp.PredstavnikVlade">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PredstavnikVlade">
                         <speaker>(Vmes se iz klopi oglasi predstavnik Vlade,</speaker>
                         <ab>da "enkrat do junija".)</ab>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Kako je to "enkrat do junija"? Enkrat do junija je 30 dni, ampak mi imamo
                            v proceduri (kot smo slišali) že druge predloge. Mi moramo določiti
                            rok.</p>
                      </sp>
-                     <sp who="#sp.DrakslerZvonko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.DrakslerZvonko">
                         <speaker>ZVONKO DRAKSLER:</speaker>
                         <p>Rekel sem "junija". Formalno je sedaj predložen še alternativni predlog
                            zakona, predlog zakona o prirejanju iger na srečo. Sedaj bomo mi
@@ -5450,7 +5487,7 @@
                            spremembo tega zakona in da se potem to upošteva ob našem zakonu, ob
                            osnutku novega zakona.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Samo malo. Nekaj moramo pojasniti predstavniku Vlade: kaj je razlika med
                            pobudo in predlogom za izdajo oziroma osnutkom zakona. Pobuda je to, kar
@@ -5458,18 +5495,18 @@
                            če poslanci napišejo zakon, ali morebiti tudi predlog za izdajo zakona z
                            obrazložitvijo. To sta dve stvari. To ni pobuda!</p>
                      </sp>
-                     <sp who="#sp.DrakslerZvonko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.DrakslerZvonko">
                         <speaker>ZVONKO DRAKSLER:</speaker>
                         <p>Zato čakamo, da bo Skupščina zavzela stališče do predloga za izdajo
                            zakona z osnutkom, alternativnega in šele potem bomo lahko napravili
                            osnutek našega zakona. Ker lahko Skupščina tistega sprejme in potem
                            našega sploh ne bo.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>To pomeni, da Vlada umika osnutek?</p>
                      </sp>
-                     <sp who="#sp.DrakslerZvonko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.DrakslerZvonko">
                         <speaker>ZVONKO DRAKSLER:</speaker>
                         <p>Ne, ne! Vlada čaka. Vladi sta dva zbora naročila, da pripravi nov
                            osnutek. In mi pripravljamo nov osnutek. Vendar bomo nov osnutek
@@ -5478,14 +5515,14 @@
                            predlagala skupina delegatov. Mi pa računamo, da bo zakon pripravljen in
                            predložen do konca junija - to je novi osnutek zakona. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Dobro, hvala. Skratka: rok 30 dni. Zbor nalaga predlagatelju, da ob
                            upoštevanju razprave na zboru in v delovnih telesih pripravi nov osnutek
                            zakona v roku 30 dni. To naj bi bil sklep.</p>
                         <p>Predlog dajem na glasovanje. Besedo želi še Janez Kopač.</p>
                      </sp>
-                     <sp who="#sp.KopačJanez">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.KopačJanez">
                         <speaker>JANEZ KOPAČ:</speaker>
                         <p>Hvala za besedo. Jaz sem se s predlagateljem alternativnega predloga
                            zakona pogovarjal in dogovorili smo se, da v primeru, da bo postavljena
@@ -5496,7 +5533,7 @@
                            In če že mora biti rok, bi predlagal, da je ta rok 45 dni. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Rok 45 dni je variantni predlog. Damo na glasovanje rok 45 dni. Ugotovimo
                            navzočnost <stage type="quorum">(45 prisotnih.)</stage>
@@ -5510,8 +5547,11 @@
                            pripraviti tega v roku 15 dni. Dobro.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.17" ana="#PAR.TDR" n="8" corresp="#toc.2.18">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.17"
+                       ana="#PAR.TDR"
+                       n="8"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.18">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>Prehajamo na <title>PREDLOG DODATNEGA SKLEPA ODBORA ZA VARSTVO
                               POTROŠNIKOV</title>,</p>
                         <p>ki predlaga zborom naslednje dodatne sklepe: "Vlada Republike Slovenije
@@ -5532,8 +5572,11 @@
                         <p>Ugotavljam, da je predlog dodatnega sklepa izglasovan.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.18" ana="#PAR.TDR" n="9" corresp="#toc.2.19">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.18"
+                       ana="#PAR.TDR"
+                       n="9"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.19">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <p>In sedaj prehajamo na <title>9. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O
                               GOZDOVIH</title>.</p>
                         <p>Osnutek zakona je predložila v obravnavo Vlada Republike Slovenije.
@@ -5547,7 +5590,7 @@
                            Predstavnik Vlade k tej točki je gospa Marija Markež. Želi besedo?
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.MarkežMarija">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.MarkežMarija">
                         <speaker>MARIJA MARKEŽ:</speaker>
                         <p>Lepo pozdravljeni! Nekaj besed kot uvod. Skoraj dveletne razprave so
                            pripomogle, da je pred nami osnutek zakona o gozdovih, za katerega
@@ -5617,12 +5660,12 @@
                            pomena okolju, ne moremo biti. Zato predlagamo, da osnutek zakona o
                            gozdovih podprete. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Želijo besedo poročevalci delovnih teles? Če ne, začenjamo
                            razpravo. Zaenkrat sva prijavljena dva, trije. Gospod Potrč.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Hvala lepa. Škoda, ki je zaradi nesmotrnih odločitev oblasti, zaradi
                            neizvajanja obstoječih, še veljavnih predpisov in zaradi namernega
@@ -5719,11 +5762,11 @@
                            prej, dokler ne bo prepozno, le prevladal razum nad ozkimi interesi.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa gospodu Potrču. Naslednji ima besedo gospod Tone Peršak.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Jaz sem ta zakon bral predvsem z vidika okolja - če lahko tako rečem, in
                            ne toliko z lastninskih in drugih vidikov, temveč predvsem s tega vidika,
@@ -5759,11 +5802,11 @@
                            nemožnosti zmanjševanja površine, in drugič tudi zaščito pred te vrste
                            posegih. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa gospodu Peršaku. Besedo ima še gospod Magajna.</p>
                      </sp>
-                     <sp who="#sp.MagajnaAndrej">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.MagajnaAndrej">
                         <speaker>ANDREJ MAGAJNA:</speaker>
                         <p>Na Klubu neodvisnih poslancev smo sprejeli več pripomb - mislim, da gre
                            za osemnajst členov in smo jih tudi posredovali ministrstvu. Prebral bom
@@ -5816,11 +5859,11 @@
                            vključene te inštitucije, menim pa, da bi jih bilo potrebno vključiti še
                            pri oblikovanju predloga. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa gospodu Magajni. Besedo ima gospod Jože Hobič.</p>
                      </sp>
-                     <sp who="#sp.HobičJože">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.HobičJože">
                         <speaker>JOŽE HOBIČ</speaker>
                         <p>: Hvala za besedo. No končno smo spet pri zakonu o gozdovih, pri osnutku
                            in jaz bi šel na kratko skozi in prebral oziroma obrazložil stališče
@@ -5887,11 +5930,11 @@
                            ministrstvo te naše pripombe obravnavalo in predložilo predlog zakona,
                            tak, da ga bomo v čim krajšem času lahko sprejeli. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa gospodu Hobiču. Besedo ima dr. Zagožen.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Spoštovani! Jaz bi najprej zavrnil zahtevo gospoda Peršaka, da bi bilo
                            treba v zakon vgraditi določbo, da se gozdne površine ne smejo
@@ -5967,11 +6010,11 @@
                         <p>Jaz mislim, da je čas, da ta osnutek zakona potrdimo in upamo, da bomo
                            čimprej dobili ustrezen predlog. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa dr. Zagožnu. Še gospod Alojz Grabner ima besedo.</p>
                      </sp>
-                     <sp who="#sp.GrabnerAlojz">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.GrabnerAlojz">
                         <speaker>ALOJZ GRABNER:</speaker>
                         <p>Spoštovani, tresla se je gora, rodila se ni niti miš. Pustimo to šalo,
                            bolj me skrbi tisto dejstvo ali resnica, ki mi jo je pred dnevi, pred
@@ -6130,11 +6173,11 @@
                            sem na razpolago, ali pa, da mu lahko še bolj natančno povem o teh
                            stroških, ki nastajajo pri obnovi in negi gozdov. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Besedo ima gospod Toplak, nato pa gospod Pivec.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ToplakLudvik">
                         <speaker>DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Spoštovane poslanke in poslanci!  Mi smo dobili osnutek
                            zakona, ki se je dolgo dolgo pripravljal. V vsebino ne bi posegel toliko,
@@ -6179,11 +6222,11 @@
                            družbeni lastnini. Osebno predlagam, da se vsi gozdovi v družbeni
                            lastnini prenesejo v sklad kmetijskih zemljišč in gozdov. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Besedo ima gospa Lavtižar-Bebler.</p>
                      </sp>
-                     <sp who="#sp.Lavtižar-BeblerDarja">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.Lavtižar-BeblerDarja">
                         <speaker>DARJA LAVTIŽAR-BEBLER:</speaker>
                         <p>Spoštovane kolegice, spoštovani kolegi! Resnici na ljubo je treba
                            povedati, da osnutek zakona o gozdovih upošteva dejstvo, da je z novo
@@ -6231,11 +6274,11 @@
                            predlagatelj do priprave predloga zakona še upošteval malo te stvari, ki
                            se nanašajo na občino tudi kot na lastnika gozdov in teh parcel.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Besedo ima gospod Pivec.</p>
                      </sp>
-                     <sp who="#sp.PivecFranc">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PivecFranc">
                         <speaker>FRANC PIVEC:</speaker>
                         <p>Hvala lepa. Jaz sem bil prepričan, da smo za to verzijo osnutka na sledi
                            nekim koristnim kompromisom, ki so pač v takih rečeh nujni in čeprav se
@@ -6325,11 +6368,11 @@
                            morali razrešiti vprašanje trenutnega stanja in temu primerno te prehodne
                            določbe, ko gre za gozdne ceste, dopolnili. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Za repliko sta prosila še gospod Potrč pa gospod Grabnar.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>O dveh stvareh bi kratko govoril oziroma repliciral. Gotovo je, da ob tem
                            zakonu obstajajo različni interesi. Ni razloga ne jih priznati in najbrž
@@ -6371,11 +6414,11 @@
                            poskušali strokovno korektno oceniti, ne pa, da jih ne želimo priznavati,
                            ker imamo določen interes nekega problema, ki res obstaja. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Prosim, gospod Grabnar.</p>
                      </sp>
-                     <sp who="#sp.GrabnerAlojz">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.GrabnerAlojz">
                         <speaker>ALOJZ GRABNAR:</speaker>
                         <p>Zdaj bom krajši. Samo vprašanje gospodu Pivcu, od kod ti podatki, ki jih
                            navaja? Ali je videl sam? Ali citira? Ali citira podatke gozdarske
@@ -6412,25 +6455,24 @@
                            bolezni. Lahko tudi dokažem. Nekdo me je vprašal, s čim gnojim. Sem
                            rekel, z ničemer, samo pustim tisto, da se razvija samo kakor se.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Pivec replika.</p>
                      </sp>
-                     <sp who="#sp.PivecFranc">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PivecFranc">
                         <speaker>FRANC PIVEC:</speaker>
                         <p>Gospod poslanec Grabnar, papir, iz katerega sem bral, je v Skupščino
                            posredovala Vlada Republike Slovenije. Te ocene in številke sem iz tega
                            prebiral. Bo objavljen v Poročevalcu, tako kot vsi, ali večina odgovorov
                            na poslanska vprašanja.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Če ni več razpravljavcev, zaključujemo razpravo in predlagam zboru
                            naslednji sklep: "Zbor sprejema osnutek zakona o gozdovih. Zbor nalaga
                            predlagatelju, da ob upoštevanju razprave na zboru in v delovnih telesih
                            pripravi predlog zakona."</p>
-                        <p>Želi o predlogu sklepa kdo razpravljati? <stage type="debate"
-                              >(Ne.)</stage> Pardon, nisem vprašal, če imajo predlagatelji kakšno
+                        <p>Želi o predlogu sklepa kdo razpravljati? <stage type="debate">(Ne.)</stage> Pardon, nisem vprašal, če imajo predlagatelji kakšno
                            repliko? <stage type="debate">(Nimajo.)</stage> Če ne želi nihče
                            razpravljati o predlaganem sklepu, predlagam, da o njem glasujemo.
                            Najprej ugotavljamo navzočnost. Vse vas prosim, da potrdite navzočnost.
@@ -6457,21 +6499,17 @@
                            za ponedeljek in je zaradi nesklepčnosti odpadla, danes ob 13. uri v sobi
                            311 v tretjem nadstropju. Dnevni red pa gotovo poznate.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-05-12T12:36:00"
-                           xml:id="stage.t.14">prekinjena ob 12.36 uri</time> in se je <time
-                           from="1992-05-12T13:20:00" xml:id="stage.t.15">nadaljevala ob 13.20
+                     <stage type="time">(Seja je bila <time to="1992-05-12T12:36:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.14">prekinjena ob 12.36 uri</time> in se je <time from="1992-05-12T13:20:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.15">nadaljevala ob 13.20
                            uri</time>.)</stage>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Pet, šest nas je trenutno v dvorani, ura je pa že 13.21. Po strankah pa
                            moram reči, da smo tukaj demokrati 1, liberalci 1, SLS 2, liberalni
                            demokrati 2 in SDP 2. Ob pol dveh bomo ponovno preverjali sklepčnost.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-05-12T13:23:00"
-                           xml:id="stage.t.16">prekinjena ob 13.23 uri</time> in se je <time
-                           from="1992-05-12T13:35:00" xml:id="stage.t.17">nadaljevala ob 13.35
+                     <stage type="time">(Seja je bila <time to="1992-05-12T13:23:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.16">prekinjena ob 13.23 uri</time> in se je <time from="1992-05-12T13:35:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.17">nadaljevala ob 13.35
                            uri</time>.)</stage>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Poslanke in poslanci, ponovno bomo poskusili nadaljevati sejo. Predlagam,
                            da preverimo sklepčnost. Vse navzoče prosim, da potrdite svojo
@@ -6479,16 +6517,13 @@
                            prisotni. Če ne bo medtem prišel predsednik, ki je bolj velikodušen s
                            podaljški, bom jaz čez 10 minut, če ne bomo sklepčni, razpustil
                            nadaljevanje današnje seje. Čez 10 minut bom še enkrat preverjal
-                           sklepčnost in če ne bomo takrat sklepčni, bomo sejo razpustili. <stage
-                              type="gap">(Pripomba iz klopi.)</stage> Vem, samo to pomeni, da naj
+                           sklepčnost in če ne bomo takrat sklepčni, bomo sejo razpustili. <stage type="gap">(Pripomba iz klopi.)</stage> Vem, samo to pomeni, da naj
                            sedaj teh 30 ljudi čaka tistih 10, ki so na delovnih telesih takole 2
                            uri.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-05-12T13:37:00"
-                           xml:id="stage.t.18">prekinjena ob 13.37 uri</time> in se je <time
-                           from="1992-05-12T13:36:00" xml:id="stage.t.19">nadaljevala ob 13.46
+                     <stage type="time">(Seja je bila <time to="1992-05-12T13:37:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.18">prekinjena ob 13.37 uri</time> in se je <time from="1992-05-12T13:36:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.19">nadaljevala ob 13.46
                            uri</time>.)</stage>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Poslanke in poslanci, ostalo nam je pri točki 2. današnjega dnevnega reda
                            v bistvu glasovanje o osnutku zakona o gozdovih. Prosim, da preverimo
@@ -6498,13 +6533,14 @@
                            tistem in predlagam, da nadaljujemo sejo po tem, ko bomo opravili
                            jutrišnji dnevni red. Hvala.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1992-05-12T13:47:00"
-                           xml:id="stage.t.20">PREKINJENA 12. MAJA 1992 OB 13.47 URI</time> IN SE JE
-                           <time from="1992-05-27T10:22:00" xml:id="stage.t.21">NADALJEVALA 27. MAJA
+                     <stage type="time">(SEJA JE BILA <time to="1992-05-12T13:47:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.20">PREKINJENA 12. MAJA 1992 OB 13.47 URI</time> IN SE JE
+                           <time from="1992-05-27T10:22:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.21">NADALJEVALA 27. MAJA
                            1992 OB 10.22 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.19" ana="#PAR.DolDnevRed" corresp="#toc.2.20">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.19"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.20">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Na nadaljevanju 36. seje bo zbor obravnaval še nedokončane zadeve iz
                            sprejetega <title>dnevnega reda</title>. Najprej</p>
@@ -6524,8 +6560,11 @@
                            delegatov, kar bomo združili za vse seje.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.20" ana="#PAR.TDR" n="7" corresp="#toc.2.21">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.20"
+                       ana="#PAR.TDR"
+                       n="7"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.21">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <p>Prehajamo na <title>7. TOČKO DNEVNEGA REDA - PONOVNA OBRAVNAVA PREDLOGA
                               ZA IZDAJO ZAKONA O SPREMEMBI ZAKONA O FINANCIRANJU JAVNE PORABE, S
                               PREDLOGOM ZAKONA</title>.</p>
@@ -6539,7 +6578,7 @@
                            o spremembi zakona o financiranju javne porabe, s predlogom zakona.
                            Ponovna obravnava. Gospa Logarjeva.</p>
                      </sp>
-                     <sp who="#sp.LogarMihaela">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.LogarMihaela">
                         <speaker>MIHAELA LOGAR:</speaker>
                         <p>Jaz se opravičujem, ker nisem uspela tako hitro najti papirja. V tem
                            poročilu je povedano, da so vsi trije zbori o tem sklepali in da so
@@ -6562,7 +6601,7 @@
                         <p>Zato predlagam, da najprej sprejmete to, da se naša delovna skupina
                            preimenuje v usklajevalno skupino.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Procedura je taka, da se po ugotovitvi o tem, da je nek predlog sprejet v
                            neenakem besedilu, opravi ponovna obravnava, pri čemer je taka skupina,
@@ -6612,17 +6651,14 @@
                            financiranju javne porabe v občini se smiselno uporabljajo tudi za
                            financiranje javne porabe v mestnih in regionalnih skupnostih." Sledi
                            daljša obrazložitev. Predlagam, da glasujemo.</p>
-                        <p>Kdor je za predlog usklajevalne komisije, naj, prosim, glasuje! <stage
-                              type="vote">(37 poslancev.)</stage> Je kdo proti? <stage type="vote"
-                              >(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(3
+                        <p>Kdor je za predlog usklajevalne komisije, naj, prosim, glasuje! <stage type="vote">(37 poslancev.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(3
                               poslanci.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog usklajevalne komisije sprejet.</p>
                         <p>Sedaj moramo glasovati še o zakonu v celoti. Še enkrat preverimo
                            navzočnost! 52 prisotnih poslancev.</p>
                         <p>Kdor je za zakon z amandmaji, kakor smo jih sedaj sprejeli, naj, prosim,
-                           glasuje! <stage type="vote">(44 poslancev.)</stage> Je kdo proti? <stage
-                              type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(4
+                           glasuje! <stage type="vote">(44 poslancev.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(4
                               poslanci.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog zakona sprejet s pooblastilom, da bo
@@ -6630,8 +6666,11 @@
                            potrebne redakcijske izboljšave.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.21" ana="#PAR.TDR" n="9" corresp="#toc.2.22">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.21"
+                       ana="#PAR.TDR"
+                       n="9"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.22">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <p>Prehajamo na <title>9. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O
                               GOZDOVIH</title>.</p>
                         <p>Tu smo razpravo zaključili. Preostane nam samo še odločanje. Zadnjič
@@ -6652,8 +6691,11 @@
                         <p>S tem je sprejet tudi osnutek.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.22" ana="#PAR.TDR" n="10" corresp="#toc.2.23">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.22"
+                       ana="#PAR.TDR"
+                       n="10"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.23">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <p>Prehajamo na <title>10. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               UPORABI GRBA, ZASTAVE IN HIMNE REPUBLIKE SLOVENIJE, Z OSNUTKOM
                               ZAKONA</title>.</p>
@@ -6668,7 +6710,7 @@
                            teles? <stage type="debate">(Ne želijo.)</stage> Odpiram razpravo. Za
                            sedaj sva prijavljena dva za razpravo. Prosim, gospod Balažic.</p>
                      </sp>
-                     <sp who="#sp.BalažicMilan">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.BalažicMilan">
                         <speaker>MILAN BALAŽIC:</speaker>
                         <p>Hvala lepa za besedo. Gospod predsedujoči, spoštovani poslanci in
                            poslanke! Bom zelo kratek. Imam nekaj krajših pripomb k predlogu za
@@ -6732,7 +6774,7 @@
                            nosijo kot obeležja, bom rekel, moderne države. To bi bilo vse. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Hvala. Zdaj sem na vrsti jaz.</p>
                         <p>Nekatere pripombe, ki jih imam, so skladne s tem, kar je povedal že
@@ -6778,11 +6820,11 @@
                            zastava. Glede načina obešanja sem že povedal svoje mnenje, sicer pa
                            nimam drugih pripomb. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Tomažič.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Hvala. Tudi naš poslanski klub ocenjuje, da je ta zakon kar dobro
                            pripravljen. Imam samo dve pripombi, in sicer najprej pri 3. členu, kjer
@@ -6813,11 +6855,11 @@
                            položiš, gre tako, se barve ne morejo menjati. Tako da res predlagam, da
                            se drugi odstavek 15. člena črta. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Žagar. Potem gospod Šeligo.</p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Hvala lepa za besedo. Ne glede na to, kako je komu všeč zastava oziroma
                            obratno, tu je potrebno pri vsaki zastavi upoštevati določena pravila.
@@ -6879,11 +6921,11 @@
                            razvidne, neobledele. Skratka, naj bi tudi na ta način predstavljale
                            države. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gospod Rudi Šeligo.</p>
                      </sp>
-                     <sp who="#sp.ŠeligoRudi">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŠeligoRudi">
                         <speaker>MAG. RUDI ŠELIGO:</speaker>
                         <p>Spoštovani! Strinjam se z vsemi predgovorniki, ki so rekli, da v 25.
                            členu, varianti, ne pride v poštev, ker ne more Ministrstvo za upravo
@@ -6907,11 +6949,11 @@
                            jo sme uporabljati. Kaj šele, da bi smel imeti take apetite zakon. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Žagar ima še repliko.</p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Glede te narodne zastave. Z gospodom Šeligom sva se ob sprejemanju ustave
                            zaradi tega sporekla in sva se drla drug na drugega. Gre za dvoumno
@@ -6926,11 +6968,11 @@
                         <p>Gre za določitev narodne zastave oziroma za problem, da ne bo ostal vtis,
                            da je odpravljena, zanikana ali odpovedana. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospa Hribarjeva.</p>
                      </sp>
-                     <sp who="#sp.HribarSpomenka">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.HribarSpomenka">
                         <speaker>MAG. SPOMENKA HRIBAR:</speaker>
                         <p>Če sem prav razumela gospoda Šeligo, oba z Žagarjem isto želita, s tem,
                            da Šeligo pravi, da je že določena s samo zgodovino, da je nimamo kaj
@@ -6974,11 +7016,11 @@
                            izdelovalci delajo dve vrsti zastav in je to tudi gospodarska škoda, da
                            ne govorim o simbolnem pomenu. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala lepa. Gospod Polajnar.</p>
                      </sp>
-                     <sp who="#sp.PolajnarIgnac">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Hvala lepa. Mislim, da delamo umetno težavo, kje naj bodo barve, na levi
                            ali desni. Mislim, da se zastava gleda z dveh strani. Če bomo rekli,
@@ -7020,12 +7062,12 @@
                            svilene zastave. Sicer je to zelo drago, ampak po moje bi bila to edina
                            sprejemljiva oblika v materialnem smislu. H vala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Če ni več razpravljavcev, zaključujem razpravo. Gospod Halb se je še
                            prijavil. Prosim.</p>
                      </sp>
-                     <sp who="#sp.HalbJanko">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.HalbJanko">
                         <speaker>JANKO HALB:</speaker>
                         <p>Ne bom ponavljal tega, kar je bilo že izrečeno, nekaj pa ni v zakonu,
                            niti ni bilo rečeno. In jaz bi opozoril predvsem na to. V zakonodaji
@@ -7073,7 +7115,7 @@
                            njo in se zažge. Gre za to, da ta intimni vidik uporabe zastave ta zakon
                            ne določa. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Če ni več razpravljavcev, predlagam zboru naslednji sklep:</p>
                         <p>"Zbor sprejema predlog za izdajo zakona o uporabi grba, zastave in himne
@@ -7094,8 +7136,11 @@
                            sklepa in s tem tudi osnutek zakona sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.23" ana="#PAR.TDR" n="11" corresp="#toc.2.24">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.23"
+                       ana="#PAR.TDR"
+                       n="11"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.24">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <p>Prehajamo na <title>11. TOČKO DNEVNEGA REDA - SOGLASJE K STATUTU SKLADA
                               REPUBLIKE SLOVENIJE ZA RAZVOJ</title>.</p>
                         <p>Na podlagi zakona o Skladu Republike Slovenije za razvoj je svet Sklada
@@ -7131,7 +7176,7 @@
                               navzočih.)</stage> Prosim, da ponovimo preverjanje navzočnosti. Vse
                            navzoče poslance prosim, da potrdijo svojo navzočnost!</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Smo vsi? <stage type="quorum">(40 prisotnih.)</stage> Bomo še
                            enkrat. Zdaj prosim vse navzoče poslance, če lahko pritisnejo na gumb.
@@ -7147,8 +7192,11 @@
                            sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.24" ana="#PAR.TDR" n="12" corresp="#toc.2.25">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.24"
+                       ana="#PAR.TDR"
+                       n="12"
+                       corresp="#DZ-1992-DruzPolZb-36.toc.2.25">
+                     <sp who="#DZ-1992-DruzPolZb-36.sp.PeršakAnton">
                         <p>Prehajamo na naslednjo <title>TOČKO DNEVNEGA REDA - PREDLOG AKTA O
                               SPREMEMBI V SESTAVI ODBORA DRUŽBENOPOLITIČNEGA ZBORA ZA KREDITNO
                               MONETARNI SISTEM IN POLITIKO IN ODBORA DRUŽBENOPOLITIČNEGA ZBORA ZA
@@ -7171,9 +7219,7 @@
                         <p>Najprej ugotavljamo navzočnost. Vse navzoče prosim. Ugotavljamo
                            navzočnost še vedno. Smo vsi? 41 prisotnih.</p>
                         <p>Kdor je za razrešitev gospoda Roberta Battellija naj, prosim, glasuje!
-                              <stage type="vote">(33 poslancev.)</stage> Je kdo proti? <stage
-                              type="vote">(1 poslanec.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(3 poslanci.)</stage>
+                              <stage type="vote">(33 poslancev.)</stage> Je kdo proti? <stage type="vote">(1 poslanec.)</stage> Se je kdo vzdržal? <stage type="vote">(3 poslanci.)</stage>
                         </p>
                         <p>Ugotavljam, da s 33 za, enim proti in tremi vzdržanimi je sklep o
                            razrešitvi sprejet.</p>
@@ -7199,8 +7245,7 @@
                            da je razrešitev povezana z izvolitvijo za predsednika, da ne bo
                            nesporazuma.</p>
                         <p>Kdor je za razrešitev gospoda Plešivčnika kot člana odbora, naj, prosim,
-                           glasuje! <stage type="vote">(38 poslancev.)</stage> Je kdo proti? <stage
-                              type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(1
+                           glasuje! <stage type="vote">(38 poslancev.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(1
                               poslanec.)</stage>
                         </p>
                         <p>Z 38 za in enim vzdržanim glasom je gospod Plešivčnik kot član
@@ -7240,8 +7285,7 @@
                         <p>Komisija je imenovana.</p>
                      </sp>
 
-                     <stage type="time">(Seja je bila <time to="1992-05-27T11:25:00"
-                           xml:id="stage.t.22">prekinjena 27. maja 1992 ob 11.25
+                     <stage type="time">(Seja je bila <time to="1992-05-27T11:25:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.22">prekinjena 27. maja 1992 ob 11.25
                         uri</time>.)</stage>
 
                      <p>Opomba redakcije: 13. in 20. točki zbora sta končani na eni kasnejših sej,

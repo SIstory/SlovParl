@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -133,25 +131,25 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:                                              STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Uvodna beseda k aktom s področja mednarodnih odnosov
+                     <item n="1" xml:id="DZ-1991-Zasedanje-13.toc.1.1">Uvodna beseda k aktom s področja mednarodnih odnosov
                         ................................... 1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. Dimitrij Rupel .................................... 1</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.1.2">Uvodna beseda k aktom v zvezi z državljanstvom ........ 4<list rend="simple">
+                     <item n="2" xml:id="DZ-1991-Zasedanje-13.toc.1.2">Uvodna beseda k aktom v zvezi z državljanstvom ........ 4<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Igor Bavčar ........................................... 4</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.1.3">Uvodna beseda k aktom s področja kreditno-monetarne politike
+                     <item n="3" xml:id="DZ-1991-Zasedanje-13.toc.1.3">Uvodna beseda k aktom s področja kreditno-monetarne politike
                         ........................... 8<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Stanko Debeljak ....................................... 8</item>
                            <item>Jože Smole ........................................... 12</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.1.4">Seznam govornikov .................................. II/1</item>
+                     <item n="4" xml:id="DZ-1991-Zasedanje-13.toc.1.4">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -162,44 +160,48 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.BavčarIgor">Bavčar Igor</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-13.sp.BavčarIgor">Bavčar Igor</actor>
                   ............................................... 4</castItem>
                <castItem>
-                  <actor xml:id="sp.DebeljakStanko">Debeljak Stanko</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-13.sp.DebeljakStanko">Debeljak Stanko</actor>
                   ........................................... 8</castItem>
                <castItem>
-                  <actor xml:id="sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-13.sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
                   ........................................ 1</castItem>
                <castItem>
-                  <actor xml:id="sp.SmoleJože">Smole Jože</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-13.sp.SmoleJože">Smole Jože</actor>
                   ............................................... 12</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-Zasedanje-13.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="13">
+            <div xml:id="DZ-1991-Zasedanje-13.div.1.1" ana="#PAR.Zasedanje" n="13">
                <head>13. zasedanje</head>
                <docDate>(<date when="1991-05-09">9. maj 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-05-09T12:45:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1991-Zasedanje-13.TL.1" unit="s">
+                  <when synch="#DZ-1991-Zasedanje-13.stage.t.1"
+                        xml:id="DZ-1991-Zasedanje-13.TL.1"
+                        absolute="1991-05-09T12:45:00"/>
+                  <when synch="#DZ-1991-Zasedanje-13.stage.t.2"
+                        since="#DZ-1991-Zasedanje-13.TL.1"
                         absolute="1991-05-09T13:30:00"
                         interval="2700"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.ZupančičJože">Jože Zupančič</actor>, <role>predsednik Zbora
+                     <actor xml:id="DZ-1991-Zasedanje-13.sp.ZupančičJože">Jože Zupančič</actor>, <role>predsednik Zbora
                         združenega dela</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-05-09T12:45:00" xml:id="stage.t.1">pričela ob 12.45 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.TDR" corresp="#toc.1.1">
-                     <sp who="#sp.ZupančičJože">
+               <stage type="time">Seja se je <time from="1991-05-09T12:45:00" xml:id="DZ-1991-Zasedanje-13.stage.t.1">pričela ob 12.45 uri</time>.</stage>
+               <div xml:id="DZ-1991-Zasedanje-13.div.1.1.1" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-Zasedanje-13.div.1.1.1.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Zasedanje-13.toc.1.1">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Drage poslanke, poslanci, dragi gostje, cenjeni novinarji! Pričenjam
                            skupno zasedanje vseh treh zborov Skupščine Republike Slovenije. Danes
@@ -211,7 +213,7 @@
                            še kreditno-monetarnih. Najprej bi dal besedo gospodu dr. Dimitriju
                            Ruplu.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovane poslanke in poslanci! Okvir
                            zakonodaje, ki bo postavila samostojnost in suverenost Republike
@@ -375,14 +377,16 @@
                            zakone, ki je zanje zadolžen Sekretariat za mednarodno sodelovanje. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa, gospod dr. Rupel. Tu poslušamo samo obrazložitve. Prosim,
                            gospod Igor Bavčar.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.TDR" corresp="#toc.1.2">
-                     <sp who="#sp.BavčarIgor">
+                  <div xml:id="DZ-1991-Zasedanje-13.div.1.1.1.2"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Zasedanje-13.toc.1.2">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.BavčarIgor">
                         <speaker>IGOR BAVČAR:</speaker>
                         <p>poštovane poslanke, spoštovani poslanci, gospe in gospodje, cenjeno
                            predsedstvo! Pred seboj imate komplet predpisov s področja notranjih
@@ -552,7 +556,7 @@
                            storiti. Predlagam, da osnutke sprejmete, vaše predloge pa bomo
                            upoštevali v nadaljnjih fazah. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa, gospod Bavčar. Še gospod Stanko Debeljak. Poslušamo samo
                            informacijo za naše boljše delo, v zborih. Prosim tudi vse poslance, da
@@ -560,8 +564,10 @@
                            kratko skupno sejo še po tem skupnem zasedanju.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.TDR" corresp="#toc.1.3">
-                     <sp who="#sp.DebeljakStanko">
+                  <div xml:id="DZ-1991-Zasedanje-13.div.1.1.1.3"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Zasedanje-13.toc.1.3">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.DebeljakStanko">
                         <speaker>MAG. STANKO DEBELJAK:</speaker>
                         <p>Spoštovane delegatke, spoštovani delegati! V skladu z obveznostmi iz
                            zakona o plebiscitu je Izvršni svet Skupščine Republike Slovenije
@@ -753,7 +759,7 @@
                            Republike Slovenije. Mislim samo ta zadnji zakon, ostale tri zakone, pa
                            da obravnavate danes, kar je že v teku. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa gospod Debeljak. Preden zaključim, bi povedal še dvoje
                            obvestil in eno opravičilo. Prvo, skupna seja, ki se bo nadaljevala, bo
@@ -767,12 +773,12 @@
                            da te obrazložitve skupaj poslušamo. In zato prosim, da tisti, ki se
                            jezite, vzamete to opravičilo na znanje. Hvala lepa za danes.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1991-Zasedanje-13.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Gospod predsedujoči, prosim, da se zabeleži v zapisniku vse, kar ste
                            rekli glede sklica današnjega skupnega zasedanja.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-05-09T13:30:00" xml:id="stage.t.2">končana 9. maja 1991 ob 13.30 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-05-09T13:30:00" xml:id="DZ-1991-Zasedanje-13.stage.t.2">končana 9. maja 1991 ob 13.30 uri</time>.)</stage>
                   </div>
                </div>
             </div>

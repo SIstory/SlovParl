@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,21 +132,21 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                         STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov ..................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda ................................ 1</item>
+                     <item n="1" xml:id="DZ-1991-VsiZbor-25.toc.1.1">Ugotavljanje prisotnosti delegatov ..................... 1</item>
+                     <item n="2" xml:id="DZ-1991-VsiZbor-25.toc.1.2">Določitev dnevnega reda ................................ 1</item>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Odobritev zapisnika 24. skupne seje  ................... 1</item>
-                     <item n="2" xml:id="toc.2.2">Predlog pogajalskih izhodišč za razprave o postopku in načinu
+                     <item n="1" xml:id="DZ-1991-VsiZbor-25.toc.2.1">Odobritev zapisnika 24. skupne seje  ................... 1</item>
+                     <item n="2" xml:id="DZ-1991-VsiZbor-25.toc.2.2">Predlog pogajalskih izhodišč za razprave o postopku in načinu
                         uresničevanja odločitev Skupščine Republike Slovenije in način uresničevanja
                            odločitev:<list rend="ordered">
-                           <item n="a" xml:id="toc.2.a">predlog izhodišč</item>
-                           <item n="b" xml:id="toc.2.b">odnos Republike Slovenije do političnega položaja v
+                           <item n="a" xml:id="DZ-1991-VsiZbor-25.toc.2.a">predlog izhodišč</item>
+                           <item n="b" xml:id="DZ-1991-VsiZbor-25.toc.2.b">odnos Republike Slovenije do političnega položaja v
                               Jugoslaviji, še posebej do vojne na Hrvaškem</item>
-                           <item n="c" xml:id="toc.2.c">sklic mednarodne konference o Jugoslaviji  .......... 2<list rend="simple">
+                           <item n="c" xml:id="DZ-1991-VsiZbor-25.toc.2.c">sklic mednarodne konference o Jugoslaviji  .......... 2<list rend="simple">
                                  <head>GOVORNIKI:</head>
                                  <item>Milan Kučan ............................................
                                     2</item>
@@ -260,15 +258,15 @@
                            </item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3">Priznanje neodvisnih držav Litve, Latvije in Estonije . 39<list rend="simple">
+                     <item n="3" xml:id="DZ-1991-VsiZbor-25.toc.2.3">Priznanje neodvisnih držav Litve, Latvije in Estonije . 39<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>mag. Matjaž Šinkovec .................................. 39</item>
                            <item>Peter Bekeš ........................................... 41</item>
                            <item>Emil Milan Pintar ..................................... 41</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.2.4">Ugotavljanje prisotnosti delegatov .................... 41</item>
-                     <item n="5" xml:id="toc.2.5">Poročilo delovne skupine za usklajevanje končnega besedila predloga
+                     <item n="4" xml:id="DZ-1991-VsiZbor-25.toc.2.4">Ugotavljanje prisotnosti delegatov .................... 41</item>
+                     <item n="5" xml:id="DZ-1991-VsiZbor-25.toc.2.5">Poročilo delovne skupine za usklajevanje končnega besedila predloga
                         izjave o vojni v Republiki Hrvaški .. 42<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Anton Peršak .......................................... 42</item>
@@ -286,7 +284,7 @@
                            <item>Sonja Lokar ........................................... 48</item>
                         </list>
                      </item>
-                     <item n="6" xml:id="toc.2.6">Seznam govornikov ................................... II/1</item>
+                     <item n="6" xml:id="DZ-1991-VsiZbor-25.toc.2.6">Seznam govornikov ................................... II/1</item>
                   </list>
                </item>
             </list>
@@ -297,150 +295,156 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.AnderličTone">Anderlič Tone</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.AnderličTone">Anderlič Tone</actor>
                   ..............................................21</castItem>
                <castItem>
-                  <actor xml:id="sp.BekešPeter">Bekeš Peter</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.BekešPeter">Bekeš Peter</actor>
                   ........................................... 27, 41</castItem>
                <castItem>
-                  <actor xml:id="sp.BuserStanko">Buser dr. Stanko</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.BuserStanko">Buser dr. Stanko</actor>
                   .......................................... 31</castItem>
                <castItem>
-                  <actor xml:id="sp.DvornikMarjan">Dvornik Marjan</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.DvornikMarjan">Dvornik Marjan</actor>
                   ............................................ 29</castItem>
                <castItem>
-                  <actor xml:id="sp.GlavičPeter">Glavič dr. Peter</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.GlavičPeter">Glavič dr. Peter</actor>
                   .......................................... 13</castItem>
                <castItem>
-                  <actor xml:id="sp.GolijaFranc">Golija Franc</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.GolijaFranc">Golija Franc</actor>
                   .............................................. 33</castItem>
                <castItem>
-                  <actor xml:id="sp.GrosVitomir">Gros Vitomir</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.GrosVitomir">Gros Vitomir</actor>
                   .................................  16, 29, 38, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.HermanMarko">Herman Marko</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.HermanMarko">Herman Marko</actor>
                   .............................................. 48</castItem>
                <castItem>
-                  <actor xml:id="sp.KreflIvan">Krefl Ivan</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.KreflIvan">Krefl Ivan</actor>
                   ................................................ 45</castItem>
                <castItem>
-                  <actor xml:id="sp.KreftLev">Kreft dr. Lev</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.KreftLev">Kreft dr. Lev</actor>
                   ......................................... 19, 33</castItem>
                <castItem>
-                  <actor xml:id="sp.KučanMilan">Kučan Milan</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.KučanMilan">Kučan Milan</actor>
                   ............................................ 2, 35</castItem>
                <castItem>
-                  <actor xml:id="sp.LokarSonja">Lokar Sonja</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.LokarSonja">Lokar Sonja</actor>
                   ........................................... 18, 48</castItem>
                <castItem>
-                  <actor xml:id="sp.LukačJanez">Lukač Janez</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.LukačJanez">Lukač Janez</actor>
                   ........................................... 36, 46</castItem>
                <castItem>
-                  <actor xml:id="sp.PavšičTomaž">Pavšič Tomaž</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.PavšičTomaž">Pavšič Tomaž</actor>
                   .............................................. 36</castItem>
                <castItem>
-                  <actor xml:id="sp.PerkoFranc">Perko mag. Franc</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.PerkoFranc">Perko mag. Franc</actor>
                   .......................................... 22</castItem>
                <castItem>
-                  <actor xml:id="sp.PeršakAnton">Peršak Anton</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.PeršakAnton">Peršak Anton</actor>
                   .................................  11, 42, 46, 48</castItem>
                <castItem>
-                  <actor xml:id="sp.PeterleLojze">Peterle Lojze</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.PeterleLojze">Peterle Lojze</actor>
                   .............................................. 6</castItem>
                <castItem>
-                  <actor xml:id="sp.PintarEmilMilan">Pintar Emil Milan</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.PintarEmilMilan">Pintar Emil Milan</actor>
                   ..................................... 26, 41</castItem>
                <castItem>
-                  <actor xml:id="sp.PotrčMiran">Potrč Miran</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.PotrčMiran">Potrč Miran</actor>
                   ............................................... 37</castItem>
                <castItem>
-                  <actor xml:id="sp.PregeljŽarko">Pregelj Žarko</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.PregeljŽarko">Pregelj Žarko</actor>
                   ......................................... 26, 32</castItem>
                <castItem>
-                  <actor xml:id="sp.RibičičCiril">Ribičič dr. Ciril</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.RibičičCiril">Ribičič dr. Ciril</actor>
                   ..................................... 14, 24</castItem>
                <castItem>
-                  <actor xml:id="sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
                   ........................  8, 28, 30, 34, 38</castItem>
                <castItem>
-                  <actor xml:id="sp.SmoleJože">Smole Jože</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.SmoleJože">Smole Jože</actor>
                   ........................................ 15, 36, 38</castItem>
                <castItem>
-                  <actor xml:id="sp.StadlerMarko">Stadler Marko</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.StadlerMarko">Stadler Marko</actor>
                   ............................................. 18</castItem>
                <castItem>
-                  <actor xml:id="sp.StarmanDanijel">Starman Danijel</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.StarmanDanijel">Starman Danijel</actor>
                   ................................... 24, 30, 32</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠinkovecMatjaž">Šinkovec mag. Matjaž</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ŠinkovecMatjaž">Šinkovec mag. Matjaž</actor>
                   .....................  17, 28, 39, 45, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠkolčJožef">Školč Jožef</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ŠkolčJožef">Školč Jožef</actor>
                   ............................................... 47</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠoncMetod">Šonc Metod</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ŠoncMetod">Šonc Metod</actor>
                   ................................................ 22</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠukljeBorut">Šuklje Borut</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ŠukljeBorut">Šuklje Borut</actor>
                   .............................................. 17</castItem>
                <castItem>
-                  <actor xml:id="sp.ThalerZoran">Thaler Zoran</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ThalerZoran">Thaler Zoran</actor>
                   ...................................... 25, 34, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.TomažičAnton">Tomažič Anton</actor>
                   ............................................. 31</castItem>
                <castItem>
-                  <actor xml:id="sp.TomšičFranc">Tomšič Franc</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.TomšičFranc">Tomšič Franc</actor>
                   .............................................. 23</castItem>
                <castItem>
-                  <actor xml:id="sp.ToplakLudvik">Toplak dr. Ludvik</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ToplakLudvik">Toplak dr. Ludvik</actor>
                   ..................................... 25, 37</castItem>
                <castItem>
-                  <actor xml:id="sp.UrbančičMiloš">Urbančič Miloš</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.UrbančičMiloš">Urbančič Miloš</actor>
                   ............................................ 25</castItem>
                <castItem>
-                  <actor xml:id="sp.ZagoženFranc">Zagožen dr. Franc</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ZagoženFranc">Zagožen dr. Franc</actor>
                   ......................................... 35</castItem>
                <castItem>
-                  <actor xml:id="sp.ZlobecJašaL">Zlobec Jaša L.</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ZlobecJašaL">Zlobec Jaša L.</actor>
                   ........................................ 22, 44</castItem>
                <castItem>
-                  <actor xml:id="sp.ZupančičJože">Zupančič Jože</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ZupančičJože">Zupančič Jože</actor>
                   ......................................... 15, 23</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽakeljViktor">Žakelj mag. Viktor</actor>
+                  <actor xml:id="DZ-1991-VsiZbor-25.sp.ŽakeljViktor">Žakelj mag. Viktor</actor>
                   ........................................ 20</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-VsiZbor-25.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="25">
+            <div xml:id="DZ-1991-VsiZbor-25.div.1.1" ana="#PAR.Seja" n="25">
                <head>25. skupna seja</head>
                <docDate>(<date when="1991-08-28">28. avgust 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-08-28T16:00:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1991-VsiZbor-25.TL.1" unit="s">
+                  <when synch="#DZ-1991-VsiZbor-25.stage.t.1"
+                        xml:id="DZ-1991-VsiZbor-25.TL.1"
+                        absolute="1991-08-28T16:00:00"/>
+                  <when synch="#DZ-1991-VsiZbor-25.stage.t.2"
+                        since="#DZ-1991-VsiZbor-25.TL.1"
                         absolute="1991-08-28T19:15:00"
                         interval="11700"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1991-08-28T19:30:00"/>
-                  <when synch="#stage.t.4"
-                        since="#TL.2"
+                  <when synch="#DZ-1991-VsiZbor-25.stage.t.3"
+                        xml:id="DZ-1991-VsiZbor-25.TL.2"
+                        absolute="1991-08-28T19:30:00"/>
+                  <when synch="#DZ-1991-VsiZbor-25.stage.t.4"
+                        since="#DZ-1991-VsiZbor-25.TL.2"
                         absolute="1991-08-28T20:00:00"
                         interval="1800"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.PuklVitodrag">VITODRAG
+                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="DZ-1991-VsiZbor-25.sp.PuklVitodrag">VITODRAG
                         PUKL</actor>, <role>podpredsednik Skupščine Republike Slovenije</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-08-28T16:00:00" xml:id="stage.t.1">pričela ob 16.00 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.PuklVitodrag">
+               <stage type="time">Seja se je <time from="1991-08-28T16:00:00" xml:id="DZ-1991-VsiZbor-25.stage.t.1">pričela ob 16.00 uri</time>.</stage>
+               <div xml:id="DZ-1991-VsiZbor-25.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-VsiZbor-25.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-VsiZbor-25.toc.1.1">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Spoštovane delegatke in delegati! Pričenjam 25. skupno sejo vseh zborov
                            Skupščine Republike Slovenije, ki sem jo sklical na podlagi 364. člena
@@ -457,8 +461,10 @@
                            Skupščine Republike Slovenije sklepčna.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.PuklVitodrag">
+                  <div xml:id="DZ-1991-VsiZbor-25.div.1.1.1.2"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-VsiZbor-25.toc.1.2">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <p>Predlog dnevnega reda ste prejeli. Predlaga pa, da v okviru 2. točke
                            dnevnega reda razpravljamo še o teh vprašanjih: 1. o predlogu pogajalskih
                            izhodišč za razgovore o postopku in načinu uresničevanja odločitve
@@ -475,9 +481,12 @@
                   </div>
 
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.PuklVitodrag">
+               <div xml:id="DZ-1991-VsiZbor-25.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-VsiZbor-25.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-VsiZbor-25.toc.2.1">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <p>Ugotavljam, da je dnevni red v obsegu, kot je bil predložen in
                            specificiran, to je:</p>
                         <p>1. Odobritev zapisnika 24. skupne seje</p>
@@ -495,8 +504,11 @@
                         <p>Ugotavljam, da je zapisnik 24. skupne seje z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.PuklVitodrag">
+                  <div xml:id="DZ-1991-VsiZbor-25.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1991-VsiZbor-25.toc.2.2">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA, to je PREDLOG POGAJALSKIH
                               IZHODIŠČ ZA RAZGOVORE O POSTOPKU IN NAČINU URESNIČEVANJA ODLOČITEV
                               SKUPŠČINE REPUBLIKE SLOVENIJE Z DNE 25. JUNIJA 1991</title>.</p>
@@ -517,7 +529,7 @@
                         <p>Dajem besedo gospodu predsedniku Predsedstva Republike Slovenije Milanu
                            Kučanu in prosim, da poda obrazložitev.</p>
                      </sp>
-                     <sp who="#sp.KučanMilan">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.KučanMilan">
                         <speaker>MILAN KUČAN:</speaker>
                         <p>Gospod predsednik, spoštovane poslanke in poslanci!</p>
                         <p>Skupščina Republike Slovenije je na skupni seji vseh zborov dne 10.
@@ -728,13 +740,13 @@
                            Hvala lepa.<stage type="vocal">(ploskanje)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Zahvaljujem se predsedniku Predsedstva za njegovo izvajanje in prosim
                            predsednika vlade Lojzeta Peterleta, da da svoja pojasnila k
                            predlogom.</p>
                      </sp>
-                     <sp who="#sp.PeterleLojze">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PeterleLojze">
                         <speaker>LOJZE PETERLE</speaker>
                         <p>: Spoštovano predsedstvo, spoštovane poslanke in poslanci! V tednih po
                            vojaški agresiji na Slovenijo se je zgodilo več pomembnih zadev, med
@@ -831,12 +843,12 @@
                            pridružujem stališčem, ki jih je povedal že prej predsednik in o katerih
                            smo govorili na razširjeni seji predsedstva. Toliko. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Zahvaljujem se predsedniku za razlago in prosim ministra za zunanje
                            zadeve dr. Rupla, da obrazloži predlog glede konference.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Spoštovani podpredsednik, spoštovani predsednik Predsedstva, spoštovane
                            poslanke, poslanci. Dovolite, mi da vas seznanim z nekaterimi
@@ -979,7 +991,7 @@
                            izmed nas. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Zahvaljujem se ministru dr. Ruplu za njegovo razlago in prosim gospoda
                            Peršaka, da obrazloži izjavo Skupščine Republike Slovenije o vojni v
@@ -987,7 +999,7 @@
                            prebrati, ker bomo o tej izjavi morali, če bi hoteli, da doseže svoj
                            učinek, danes sklepati. Gospod Peršak, prosim.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Spoštovani! Dovolite, da na kratko razložim predlog izjave, ki smo jo
                            sprva predlagali za obravnavo na sejah zborov in se je potem izkazalo, da
@@ -1034,7 +1046,7 @@
                            parlamentom vseh držav članic Konference o evropski varnosti in
                            sodelovanju. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Zahvaljujem se gospodu Peršaku za razlago predloga. Končali smo s
                            pojasnili pojasnjevalcev. Glede razširjanja 2. točke dnevnega reda bi se
@@ -1056,7 +1068,7 @@
                         <p>Ali bi želel kdo razpravljati o prvem predlogu se pravi, da se
                            razpravljanje in odločanje o pogajalskih izhodiščih odloži?</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Gospod predsedujoči, spoštovane kolegice in kolegi. Mislim, da so
                            izhodišča, ki so nam bila razdeljena in predstavljena, dobra osnova za
@@ -1101,28 +1113,28 @@
                               prekine)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
 
                         <p>Kolega Glavič, mi bi razpravljali samo o predlogu, da se odloži
                            razpravljanje in bi potem ta razprava prišla takrat, če se bomo za to
                            odločili.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Ja, saj jaz sem s tem že pravzaprav končal.Hočem reči samo to, da mi
                            imamo ustrezne pogoje za to, da se te akcije lotimo in menim, da bi bilo
                            do takrat, ko bomo začeli s to razpravo potrebno hkrati predložiti tudi
                            stališča, ki sem jih zdaj omenil. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Ribičič. Kolege poslance bi prosil, da bi razpravljali
                            res o tem predlogu ali razpravljamo danes, o tem bomo tudi potem danes
                            glasovali, ali pa se razprava in odločanje odloži na naslednjo skupno
                            sejo. Gospod Ribičič, prosim.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Spoštovane kolegice in kolegi. Tudi jaz ne bom razpravljal v skladu s
                            tem, kar želi predsedujoči. Rad bi rekel nekaj besed v zvezi z izjavo o
@@ -1162,7 +1174,7 @@
                            Kluba SDP, da se v našem imenu uvrsti v to skupino Emil Milan Pintar.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa gospodu Ribičiču. Zaradi učinkovitosti predlagam, da dejansko
                            formiramo komisijo 5 ali 6 ali pa 4 članov in da začnemo z razpravo po
@@ -1172,7 +1184,7 @@
                            da je v komisiji vsekakor gospod Peršak. Prosim za predloge:
                            Lavtižar-Bebler, Schwartzbartl, Muharem Bolić.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Poslanke in poslance moram obvestiti, da smo mi to točko dnevnega reda na
                            ZZD sprejeli in imenovali svojo komisijo. Zato menim, da bi morali enako
@@ -1180,7 +1192,7 @@
                            izvoljeno, ne pa da se zdaj tu pogajamo, kdo bo sedel v tej komisiji. Če
                            pa že hočete tako, pa predlagam iz našega zbora Muharema Bolića.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Predlog je sprejet. Da se ne bi lovili okoli tega; če bo skupščina na
                            skupni seji odločala, mislim, da je čisto zadosti, da 5 članska komisija
@@ -1195,7 +1207,7 @@
                            Republike Slovenije o vojni v Republiki Hrvaški, to je o tem, o čemer je
                            govoril že gospod Ciril Ribičič. Gospod Smole, prosim.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Spoštovani predsednik, vi ste nas pozvali, naj se opredelimo glede tega,
                            ali bomo razpravljali o temeljnih izhodiščih za pogajanja. Razumem
@@ -1232,7 +1244,7 @@
                            z nekim apelom obrniti na Skupščino Bosne in Hercegovine in na Skupščino
                            Makedonije. To so moji predlogi.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Podpiramo, da se odloži razpravljanje o teh papirjih na prihodnjo sejo,
                            iz razlogov, ki jih bom sedajle naštel. Že na prvi pogled Priloga 2
@@ -1253,7 +1265,7 @@
                            danes dobili na klop - Nekaj izhodišč za stališča Slovenije do
                            Jugoslavije. Tukaj je nekaj kontradiktornosti. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Kolege poslance bi prosil, da bi res ostali pri tem. Sedaj
                            obravnavamo izjavo Skupščine Republike Slovenije o vojni v Republiki
@@ -1263,7 +1275,7 @@
                            nima smisla. Na vrsti je gospod Šinkovec, potem gospod Šuklje, nato gospa
                            Lokarjeva in naprej.</p>
                      </sp>
-                     <sp who="#sp.ŠinkovecMatjaž">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC</speaker>
                         <p>: Spoštovani! Ker mi ni povsem jasno, čemu vse smo se odpovedali z
                            brionsko deklaracijo, mi tudi ni jasno, ali smo mi priznali Republiko
@@ -1273,11 +1285,11 @@
                            priznanje neodvisnosti Republike Hrvaške ter za vzpostavitev medsebojnih
                            diplomatskih odnosov." Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Šuklje.</p>
                      </sp>
-                     <sp who="#sp.ŠukljeBorut">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠukljeBorut">
                         <speaker>BORUT ŠUKLJE:</speaker>
                         <p>Gospod predsedujoči hvala za besedo. Pred dnevi je Socialistična stranka
                            Slovenije naslovila na vlado Slovenije pobudo, naj se sestane z vlado
@@ -1317,12 +1329,12 @@
                            koliko so lahko vprašljive.</p>
                         <p>To so racionalna izhodišča, ki omogočajo pogajanja.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Zahvaljujem se gospodu Šukljetu za vsebinsko razpravo o
                            pogajalskih osnovah.</p>
                      </sp>
-                     <sp who="#sp.StadlerMarko">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.StadlerMarko">
                         <speaker>MARKO STADLER</speaker>
                         <p>: Spoštovano predsedstvo, spoštovani delegati in delegatke. Moje ime je
                            Marko Stadler, Ljudska stranka. Mene tale izjava malo moti. Osebno
@@ -1338,11 +1350,11 @@
                            mu nekateri zaploskali. Na žalost mislim, da je tega pri nas tudi še
                            preveč. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospa Lokar, prosim.</p>
                      </sp>
-                     <sp who="#sp.LokarSonja">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.LokarSonja">
                         <speaker>SONJA LOKAR:</speaker>
                         <p>Hvala lepa. Čisto na kratko. Podpiram predloge predsednika Kučana, ker
                            sem prepričana, da dokler miru na Hrvaškem ne bo, tudi ni pogojev za
@@ -1384,11 +1396,11 @@
                            ne pa se delati kot, da ga ni in ga obravnavati v kratkih noticah.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Kreft.</p>
                      </sp>
-                     <sp who="#sp.KreftLev">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.KreftLev">
                         <speaker>DR. LEV KREFT:</speaker>
                         <p>Hvala lepa. Spoštovane delegatke in delegati. Najprej naj povem (zato, da
                            ne bom tega odlagal), da se strinjam z obrazložitvijo razprave o
@@ -1448,11 +1460,11 @@
                            zaslugo, da pri nas doma njegovo izginotje ni zahtevalo takih žrtev, kot
                            jih po slejkoprej v Republikah Srbiji in Črni gori. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Žakelj.</p>
                      </sp>
-                     <sp who="#sp.ŽakeljViktor">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŽakeljViktor">
                         <speaker>MAG. VIKTOR ŽAKELJ:</speaker>
                         <p>Spoštovani! Mi smo družba enoglasnega petja in večina naših zaključevanj
                            boleha na tem, da se apostrofira v ospredje postavljena ena sama resnica.
@@ -1487,7 +1499,7 @@
                            končujem, v upanju, da sem opozoril na misel, morda slabše izraženo,
                            ampak mora biti, po mojem prepričanju, v naših pogledih.</p>
                      </sp>
-                     <sp who="#sp.AnderličTone">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.AnderličTone">
                         <speaker>TONE ANDERLIČ:</speaker>
                         <p>Spoštovani. Očitno je, da lahko tale izjava ostane na nivoju
                            deklarativnosti in da ne bo veliko prispevala k razreševanju razmer na
@@ -1529,12 +1541,12 @@
                            pripravljena te svoje ljudi na teh mestih, ki te zadeve omogočajo, še
                            priznavati. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala. Vidim, da ni več razpravljalcev glede predloga te izjave.
                            Prosim!</p>
                      </sp>
-                     <sp who="#sp.PerkoFranc">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PerkoFranc">
                         <speaker>MAG. FRANC PERKO:</speaker>
                         <p>Hvala lepa. Podpiram idejo, da se v Skupščini Republike Slovenije
                            pripravi izjavo o stanju na Hrvaškem in da se obsodi agresijo nanjo in
@@ -1548,7 +1560,7 @@
                            drugače dogajalo. Samo to sem hotel opozoriti v tem kontekstu, ko tole
                            izjavo pišemo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ŠoncMetod">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠoncMetod">
                         <speaker>METOD ŠONC:</speaker>
                         <p>Razpravljal bi samo o predlogu, da se v izjavi izjasnimo tudi o konkretni
                            pomoči. Imam pomisleke zaradi tega, ker menim, da nekateri v Jugoslaviji
@@ -1562,7 +1574,7 @@
                            da bo Slovenija konkretno pomagala, ker bi velika večina ljudi razumela,
                            da jim bomo dali orožje ali še kaj drugega. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Čisto kratko repliko na kolega. Že večkrat doslej se je zgodilo, da se
                            obnašamo kot najbolj navadni hinavci. Zahodni svet ves čas prosimo, naj
@@ -1581,11 +1593,11 @@
                            nivojih, od diplomatskega do sanitetnega itd., kar se le da in moramo
                            pomagati tudi če bo potrebno, z begunci. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Zupančič.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Že prej, ko smo sprejeli podoben predlog v Zboru združenega dela, sem
                            imel pomisleke. Glede na to, da imamo vsi poslanci pravico (potem, ko
@@ -1617,11 +1629,11 @@
                            zadeve v Sloveniji in jih potem mi sprejmemo. Nikakor pa ne na vrat na
                            nos.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Tomšič.</p>
                      </sp>
-                     <sp who="#sp.TomšičFranc">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.TomšičFranc">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Spoštovane poslanke, poslanci! Torej to, kar je kolega Šonc preje
                            predlagal, da ne preveč konkretno, je seveda njegovo osebno mnenje in je
@@ -1649,11 +1661,11 @@
                            rečem, da bomo mi danes dali to izjavo, ampak apeliramo na vlado, da
                            pripravi konkretne predloge, in to hitro. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Ribičič.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Spoštovani! Sem na strani tistih, ki se zavzemajo za konkretne ukrepe.
                            Podpiram tudi to, kar je gospod Tomšič povedal v svoji diskusiji. Rad bi
@@ -1678,7 +1690,7 @@
                            bodimo vsaj enako konkretni tudi tokrat, ko se bliža število žrtev na
                            Hrvaškem že številki tisoč.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RibičičCiril">
                         <p>DANIJEL STARMAN:</p>
                         <p>Spoštovano predsedstvo, drage kolegice in kolegi. Smo pred dilemo ali
                            konkretna ali abstraktna podpora v deklaraciji o pomoči oziroma v izjavi
@@ -1701,7 +1713,7 @@
                            praktičnih aktov in da je to pristojnost vsakega organa posebej.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ToplakLudvik">
                         <speaker>DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane gospe in gospodje. Pridružil bi se
                            predvsem tistim, ki poudarjajo, da ta zbor ni kompetenten, niti bi bilo
@@ -1718,18 +1730,18 @@
                            Konkretne pomoči tečejo ne glede na naše razprave tukaj, predlagam pa da
                            v mejah pravic in obveznosti parlamenta, tudi glasujemo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.UrbančičMiloš">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Pridružujem se tistim, ki so za bolj deklarativno podporo Hrvaški. Ker
                            praktične, tiste bi rekel, konkretne podpore ne moremo niti dati:
                            Slovenija je vezana z brionskimi sporazumi in kršimo brionske sporazume,
                            če se tu vmešavamo v drugo državo, v tise spore. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Thaler.</p>
                      </sp>
-                     <sp who="#sp.ThalerZoran">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ThalerZoran">
                         <speaker>ZORAN THALER:</speaker>
                         <p>Spoštovani. Menim, da je včerajšnja deklaracija iz Bruslja dober prikaz
                            evolucije stališč v Evropski skupnosti, in na splošno v mednarodni
@@ -1755,12 +1767,12 @@
                            močna Hrvaška in da ji bo Slovenija pri tem pomagala z vsemi silami, ki
                            so ji na voljo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
 
                         <p>Hvala. Gospod Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ</speaker>
                         <p>: Pozdravljeni. Poglejte, mene je na začetku te razprave rahlo (ali pa
                            močno) motilo argumentiranje, da moramo sedaj Hrvaški pomagati; če ne
@@ -1786,11 +1798,11 @@
                            namen, kajti na ta način bomo odvrnili tudi agresijo, ki je v strahu
                            lahko tudi nase prikličeš. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Emil Milan Pintar.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Spoštovane kolegice in kolegi! Rad bi podprl diskusijo, ki jo je imel
                            gospod Pregel. Mislim, da je par stvari, ki sem jih hotel povedati, zelo
@@ -1821,11 +1833,11 @@
                            institucij, ampak odločitev mora biti za konkretno pomoč, ne samo za
                            načelno obsojanje). Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Peter Bekeš.</p>
                      </sp>
-                     <sp who="#sp.BekešPeter">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.BekešPeter">
                         <speaker>PETER BEKEŠ:</speaker>
                         <p>Hvala lepa za besedo gopod predsedujoči, spoštovane kolegice in kolegi!
                            Rad bi poudaril stvar, h kateri me je izzval predsednik našega zbora dr.
@@ -1860,7 +1872,7 @@
                            za sklepanje tudi v tej situaciji, o kateri danes razpravljamo.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Želi še kdo razpravljati? <stage type="debate">(Ne.)</stage> Prosil bi oz. predlagal,
                            da člani komisije poskušajo na osnovni tekst povzeti še misli, katere so
@@ -1888,7 +1900,7 @@
                         <p>Odpiram razpravo, želi o tem predlogu sklepa razpravljati? Če ne, dajem
                            ta sklep... Prosim?</p>
                      </sp>
-                     <sp who="#sp.ŠinkovecMatjaž">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC:</speaker>
                         <p>Spoštovani, sicer menim, da je to res treba sprejeti, ker se kažemo za
                            dobrega partnerja v mednarodnih odnosih, vendar mi iz tega papirja ni
@@ -1898,11 +1910,11 @@
                            odločanju o bodočem položaju Slovenije, ali gre samo za vojno ha
                            Hrvaškem. To mi pač iz tega papirja ni bilo povsem jasno. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa, bi morda minister podal pojasnilo.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Meni je bilo iz branja teksta popolnoma razumljivo, da gre za mirovno
                            konferenco o Jugoslaviji in da gre v bistvu za pozitiven odgovor na našo
@@ -1915,7 +1927,7 @@
                            velika stvar in mislim, da je to zelo dobro. Zahteva oz. prošnja je bila,
                            naj bi slovensko vodstvo izrazilo svoje mnenje o tej pobudi.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Ne vem, če sem gospoda ministra prav razumel, naj bi nekako sprejeli to
                            deklaracijo, jo podprli. Ne vem, radi bi decidirano trditev, ne "mislim,
@@ -1938,20 +1950,20 @@
                            zoper pogajajo o Sloveniji drugi in drugi odločajo o nas, namesto da bi
                            mi bili vsaj zraven pri pogajanjih . Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa, gospod Gros. Opozoril bi samo na dejstvo,da naš parlament ni
                            pristojen spreminjati deklaracije izrednega ministrskega sestanka v
                            Bruslju o Jugoslaviji.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GrosVitomir">
                         <speaker>VITOMIR GORS:</speaker>
                         <p>Se strinjam, da ne moremo nekomu izsiljevati mnenja, ampak tudi ne more
                            nihče drug nam vsiljevati svojega mnenja. Mislim, tudi Evropska skupnost
                            se ne more tako zviška obnašati do naše države. Zato se ne strinjam s tem
                            mnenjem, gospod Pukl.</p>
                      </sp>
-                     <sp who="#sp.DvornikMarjan">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.DvornikMarjan">
                         <speaker>MARJAN DVORNIK:</speaker>
                         <p>Pri razlagi oziroma uvodu v predstavitev te deklaracije sem poslušal dve
                            različni verziji razlage, in sicer deklaracijo o Jugoslaviji in
@@ -1961,7 +1973,7 @@
                            kvečjemu o konferenci v Jugoslaviji, ne pa o Jugoslaviji (in jasno vse
                            izvedbe raznih definicij, ki iz tega tudi izhajajo). Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Starman, takoj. Pojasnil bi. Vsi imate pred sabo
                            deklaracijo o Jugoslaviji, katera je bila sprejeta na izrednem sestanku
@@ -1969,7 +1981,7 @@
                            deklaracijo podpiramo ali ne. Popolnoma enostavno. Prosim, gospod
                            Starman!</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovani. Gotovo je, da ta tekst predstavlja izjemno kvaliteten
                            mednarodni akt in vsakokrat, ko ga prebereš najdeš v njem nove skrivnosti
@@ -1991,7 +2003,7 @@
                            bivše Jugoslavije, da je Slovenija lahko samo suverena in neodvisna
                            država.  Hvala.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Gospodu Starmanu bi rad povedal svoje branje tega teksta oz. tako kot
                            mislim, da v resnici je. Gre za mirovno konferenco na kateri bodo
@@ -2029,7 +2041,7 @@
                            morejo zahtevati. Če naša skupščina smatra, da je to dober dokument lahko
                            to seveda podpre. Tako sem tudi razumel predlog. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BuserStanko">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovani. Gospod minister Rupel, ne dvomim, nikakor ne, v vaše težnje
                            in v težnje naše, da bomo samostojni; vendar med vrsticami tega dokumenta
@@ -2045,12 +2057,12 @@
                            jo mi enostavno dostikrat ne razumemo; upam pa, da vi bolje kot jaz.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Mislim, da je prijavljen gospod Tomažič, nato gospod Pregel,
                            potem pa še enkrat Starman.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Tudi jaz sem iz teh razlag čutil neko našo pogojno neodvisnosst in
                            suverenost. Mi ne smemo pristati na nobeno pogojno"; mi smo to razglasili
@@ -2070,11 +2082,11 @@
                            določbo, ki govori o neki novi Jugoslaviji. O tem pa se brez novega
                            plebiscita ta Skupščina ne more pogovarjati. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Pregel.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Preje sem hotel zgolj kratko repliko. To arbitražno komisijo razumem, da
                            je to komisija iz čisto tujih članov in sicer pet ustavnih sodnikov iz
@@ -2095,7 +2107,7 @@
                            dejavnik, se pravi kot subjekt, kot država in potem se lahko vsi ti
                            mehanizmi sprožijo, tako kot je v svetu v navadi. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Sedaj je na vrsti gospod Starman, nato Golja. Predlagal bi
                            razpravljalcem, da upoštevajo, da gre za spor o sami razlagi; vsak po
@@ -2103,7 +2115,7 @@
                            da to listino odstopimo matičnemu delovnemu telesu, ki naj jo prouči in
                            do naslednje seje pripravi svoje mnenje in razlago.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Moja intervencija je v bistvu replika, pravzaprav vprašanje vsem
                            udeležencem, ki so sodelovali pri brionski deklaraciji. Bil sem eden
@@ -2127,12 +2139,12 @@
                            arbitražo, ker se jaz ne pustim arbitrirati kakršnimkoli strokovnjakom na
                            podlagi proste presoje obeh spornih načel. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. G. Golja. Potem bi glasovali o predlogu, da se odstopi
                            matični komisiji v proučitev in razlago.</p>
                      </sp>
-                     <sp who="#sp.GolijaFranc">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GolijaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Glede na nejasnosti in na razpravo, ki je v tej smeri potekala,
                            predlagam, da Skupščina Republike Slovenije v zvezi z deklaracijo sprejme
@@ -2143,11 +2155,11 @@
                            deklaracija nikakor ne zanika plebiscitarne odločitve slovenskega
                            naroda.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Kreft.</p>
                      </sp>
-                     <sp who="#sp.KreftLev">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.KreftLev">
                         <speaker>DR. LEV KREFT:</speaker>
                         <p>Hvala lepa. Gospod predsednik, drage gospe, spoštovani gospodje ! Najprej
                            bi se želel opravičiti kolegu poslancu Grosu. Upam, da mi kljub temu
@@ -2186,11 +2198,11 @@
                            omejeno suverenost pristati (če jo primerjamo s suverenostjo kakršna je
                            veljala za takoimenovane nacionalne države 19. stoletja). Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Rupel.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Več glav več ve. Mislim, da je ta razprava plodna in je tudi mene na
                            marsikaj opozorila. Mi smo, ko smo se pogovarjali z mednarodnimi
@@ -2219,11 +2231,11 @@
                            dokumentu ali neki posebni izjavi izraziti odnos do tega, kar se je
                            včeraj zgodilo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala. G. Thaler.</p>
                      </sp>
-                     <sp who="#sp.ThalerZoran">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ThalerZoran">
                         <speaker>ZORAN THALER:</speaker>
                         <p>Spoštovani ! Veliko je bilo rečenega posebej pri zadnjih dveh izvajanjih.
                            Menim, da je načelna potrditev oziroma strinjanje s tem dokumentom
@@ -2245,7 +2257,7 @@
                            Komisija za mednarodne odnose zelo kvalificirana, da ta kratek spremni
                            tekst k tej novici, da to podpiramo, pripravi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Ob sprejemanju brionske deklaracije sem bil prepričan, da jo moramo
                            sprejeti in takrat sem se bal, da bo parlament izglasoval drugačno
@@ -2265,11 +2277,11 @@
                            krize znotraj Jugoslavije, ne pa pravici do samoodločbe. To pa je za nas
                            temeljno. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Predsednik Kučan.</p>
                      </sp>
-                     <sp who="#sp.KučanMilan">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.KučanMilan">
                         <speaker>MILAN KUČAN:</speaker>
                         <p>Spoštovane poslanke in poslanci ! Se opravičujem za to intervencijo,
                            ampak rad bi prispeval k temu, da se ne bi po nepotrebnem zapletli z
@@ -2303,7 +2315,7 @@
                            in takrat boste imeli vse možnosti, da ugotovite, ali so ti vaši strahovi
                            in pomisleki utemeljeni ali ne. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PavšičTomaž">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PavšičTomaž">
                         <speaker>TOMAŽ PAVŠIČ:</speaker>
                         <p>Spoštovani predsedujoči, dragi kolegi in kolegice. Tudi jaz sem mislil
                            predlagati to, kar je gospod Thaler predlagal, namreč, da bi vse to, kar
@@ -2314,7 +2326,7 @@
                            v vsem besedilu ni imena Slovenija, niti v samostalniški niti v
                            pridevniški obliki. Hvala.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospoda ministra bi samo vprašal, ali je poskušal s svojim
                            kolegom v Hrvaški preveriti predloge, ki so tu podani. Namreč,
@@ -2327,7 +2339,7 @@
                            tiče, pa nas, žal, imajo še vedno v Jugoslaviji ali v novi Jugoslaviji,
                            tako kot je to notri navedeno. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Spoštovani. Mi smo ta dokument izrednega ministrskega sestanka v Bruslju
                            dobili pred parimi urami in seveda ni nič čudnega, da ga vsak čita po
@@ -2353,7 +2365,7 @@
                            sovražnosti in nedotakljivosti notranjih meja, nanaša se na obsodbo
                            delovanja Srbije in Jugoslovanske armade. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ToplakLudvik">
                         <speaker>DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovano predsedstvo. Osebno bi želel izreči priznanje za velike napore
                            vlade in predsedstva k razvoju miru, neodvisnosti in samostojnosti
@@ -2373,7 +2385,7 @@
                            Hvala. Zato predlagam, da ta sklep, ki ga je dal gospod Golija, da na
                            glasovanje. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Spoštovane kolegice in kolegi. Ne bom sodeloval v razpravi, ker se najbrž
                            niti zelo dobrih pa niti vprašljivih misli ne da kaj bistveno
@@ -2385,7 +2397,7 @@
                            zagotovitve samostojnosti in suverenosti države Republike Slovenije in
                            njene sporazumne razdružitve od dosedanje SFRJ." Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Tu imamo sedaj dva predloga sklepov, in sicer Liberalne stranke (Golja
                            Franc): "Skupščina Republike Slovenije podpira deklaracijo o Jugoslaviji
@@ -2398,20 +2410,20 @@
                            predlagatelj na to pristal -, da bi " in neodvisnimi državami" izpadlo iz
                            tega sklepa.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Problem je v nečem drugem. Problem je v tem, da Slovenija in Hrvaška že
                            hočeta biti neodvisni državi, morda pa Srbija in Črna Gora nočeta biti
                            vsaka svoja država. Ne bi se sedaj spuščal v zadeve drugih republik.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Dobro, ostanemo pri tej formulaciji. Drugo ste pa slišali, kot je
                            ravnokar prebral gospod Potrč.</p>
                         <p>Najprej bi dal na glasovanje predlog sklepa, kot ga je podal Franc
                            Golija.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Opravičujem se kolegi Golji, samo prosim, še enkrat poglejmo ! Ta
                            deklaracija se ne nanaša na bodočo ureditev Jugoslavije. Ta deklaracija
@@ -2420,22 +2432,22 @@
                            tu hruške in jabolka, ko gre vendarle za deklaracijo, ki je zelo
                            konkretno vezana na prekinitev sovražnosti proti Republiki Hrvaški.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Smole, konkretni predlog, prosim.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Predlagam, da Skupščina Slovenije izrazi podporo temu dokumentu. Če pa
                            želite, naj se jutri zjutraj sestane Komisija za mednarodne odnose in še
                            enkrat skupaj s strokovnjaki celo stvar pregleda in da ponovno v
                            obravnavo. To je tudi možno.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Moram reči, da je pa gospod Smole res pomešal jabolka in hruške, pa še to
                            suhe. Z ozirom na to, da tukaj izrecno govori o arbitraži o odnosih v
@@ -2445,7 +2457,7 @@
                            to. In zato predlagamo, da o dodatnem sklepu, kot ga je predlagal gospod
                            Golija, glasujemo in vas prosim za podporo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Še kdo ?</p>
                         <p>Ugotavljamo navzočnost: Družbenopolitični zbor: 47 delegatov. Zbor občin:
@@ -2462,8 +2474,11 @@
                            odločitev v Sloveniji." - sprejet. Hvala lepa.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" n="3" corresp="#toc.2.3">
-                     <sp who="#sp.PuklVitodrag">
+                  <div xml:id="DZ-1991-VsiZbor-25.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1991-VsiZbor-25.toc.2.3">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <p>Prehajamo na
                            <title>3. TOČKO DNEVNEGA REDA</title>,
                            in sicer gre za
@@ -2483,7 +2498,7 @@
                            posebnega odposlanca."</p>
                         <p>Odpiram razpravo. Gospod Šinkovec, prosim.</p>
                      </sp>
-                     <sp who="#sp.ŠinkovecMatjaž">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC:</speaker>
                         <p>Spoštovani ! Dovolite, da vas seznanim z dejavnostjo Skupščine Republike
                            Slovenije v zvezi s priznanjem Litve, Latvije in Estonije. Tudi na
@@ -2581,7 +2596,7 @@
                            predlog Predsedstva Republike Slovenije in ministrstva za zunanje zadeve.
                            Očitno gre v predloženem predlogu za tiskovno pomoto. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Ali želi še kdo razpravljati? Vprašal bi predstavnika
                            Izvršnega sveta, dr. Rupel, ali soglašate s to spremembo - namesto
@@ -2608,7 +2623,7 @@
                         <p>Medtem so nas obvestili, da je skupina, ki sestavlja izjavo, to izjavo že
                            sestavila in jo bo v čistopisu predložila.</p>
                      </sp>
-                     <sp who="#sp.BekešPeter">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.BekešPeter">
                         <speaker>PETER BEKEŠ:</speaker>
                         <p>Žal, predsedujoči ni opazil, ko sem prej dvignil roko. Bojim se, da
                            logična analiza teksta teh treh točk, za katere sem sicer glasoval in se
@@ -2621,7 +2636,7 @@
                            formulira, da bo sklep izvršljiv v celoti, tako kot je bil mišljen.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Ali bi počakali na ta čistopis v klopeh ali bi imeli odmor?
                            Menim, da bi morda lahko danes sprejeli ta tekst, ker jutri bomo v celoti
@@ -2629,7 +2644,7 @@
                            bodo zbori nadaljevali delo jutri ob 10. uri. Se pravi, danes bi
                            poskušali rešiti vsaj to.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Predsednik. Prosil bi vas - če bomo naredili pavzo, se bomo težko nazaj
                            sestali. Komisija je svoj posel opravila, mi smo tekst uskladili in je
@@ -2638,16 +2653,18 @@
                            minutah bo tekst tukaj. Prosil bi, da se ne razbežimo, ampak
                            počakamo.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Kljub temu, bi bilo verjetno dobro - 15 minut odmora. Prosim, samo dajmo
                            danes končati.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1991-08-28T19:15:00" xml:id="stage.t.2">PREKINJENA OB 19.15 URI</time> IN SE JE <time from="1991-08-28T19:30:00" xml:id="stage.t.3">NADALJEVALA OB 19.30
+                     <stage type="time">(SEJA JE BILA <time to="1991-08-28T19:15:00" xml:id="DZ-1991-VsiZbor-25.stage.t.2">PREKINJENA OB 19.15 URI</time> IN SE JE <time from="1991-08-28T19:30:00" xml:id="DZ-1991-VsiZbor-25.stage.t.3">NADALJEVALA OB 19.30
                            URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.Prisot" corresp="#toc.2.4">
-                     <sp who="#sp.PuklVitodrag">
+                  <div xml:id="DZ-1991-VsiZbor-25.div.1.1.2.4"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-VsiZbor-25.toc.2.4">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Nadaljujemo s sejo. <title>Ugotavljali bomo prisotnost</title>. Prosim
                            poslance, da se usedejo na svoja mesta. Družbenopolitični zbor.
@@ -2665,8 +2682,10 @@
                            prebere.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.5" ana="#PAR.TDR" corresp="#toc.2.5">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1991-VsiZbor-25.div.1.1.2.5"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-VsiZbor-25.toc.2.5">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Na delovni skupini smo se pogovarjali o predlogih, ki so bili dani. V
                            precejšnji meri smo jih upoštevali, nekaterih pa tudi ne zaradi tega, ker
@@ -2760,13 +2779,13 @@
                            s polno mednarodno-pravno subjektiviteto."</p>
                         <p>To je, kot rečeno, rezultat sestanka te delovne skupine.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Nadaljujem razpravo, če želi še kdo razpravljati o tem
                            dokumentu, sicer bomo po razpravi glasovali ločeno o obeh dodatnih
                            sklepih in ločeno o osnovnem dokumentu. - Gospod Zlobec, prosim.</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Veste, da nisem nikdar tečen in ne mislim sedaj iti v kakšne finese.
                            Ampak imel bi neko malo, redakcijsko spremembo, ki je pa tudi vsebinsko
@@ -2789,7 +2808,7 @@
                         <p>To bi bili ti dve moji pripombi. Za prvo bi prosil, da kar glasujemo, ker
                            je res malenkost.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Menim, da bi prva pripomba - zamenjava besedila - lahko
                            sprejeli brez glasovanja; glede druge - nedotakljivosti meja - pa bi
@@ -2798,7 +2817,7 @@
                            glasovali ločeno kot o amandmaju.</p>
                         <p>Ali želi še kdo razpravljati? Gospod Šinkovec, prosim.</p>
                      </sp>
-                     <sp who="#sp.ŠinkovecMatjaž">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC:</speaker>
                         <p>Hvala. Spoštovani! Vesel sem, da je bil sprejet predlog drugega dodatnega
                            sklepa, ki sem ga predlagal, vendar na koncu se mi zdi, da je izpuščeno
@@ -2807,12 +2826,12 @@
                            o odprtju misije v Zagrebu. Tako predlagam, da se doda na koncu "in
                            vspostavitev oziroma navezava diplomatskih odnosov."</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Menim, da gre tudi za redakcijsko dopolnitev, da lahko drugi sklep na
                            koncu dopolnimo s tem "in vzpostavitev diplomatskih odnosov."</p>
                      </sp>
-                     <sp who="#sp.KreflIvan">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.KreflIvan">
                         <speaker>IVAN KREFL:</speaker>
                         <p>Hvala za besedo. Tu bi imel še dodatni slep in prosim, če bi ga lahko
                            dali na glasovanje. In sicer se ta sklep glasi: "Skupščina Republike
@@ -2826,14 +2845,14 @@
                            ukrene vse potrebno za ponovno in popolno uveljavitev vseh določil vseh
                            štirinajstih osamosvojitvenih aktov Republike Slovenije". Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Dodaten sklep po mojem mnenju ni v celoti konsistent, ampak bomo o tem
                            glasovali kot o tretjem dodatnem sklepu. Bi še kdo razpravljal. Če ne bi
                            prosil samo še predlagatelja, ali bo na predlog gospoda Zlobca v tekst
                            vnešena nedotakljivost meja.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Prej sem rekel, da se je skupina kot celota do tega opredelila, da je
                            bilo na neki način tej zahtevi že nekajkrat (in tudi danes) zadovoljeno;
@@ -2843,7 +2862,7 @@
                            republikami dosedanje Jugoslavije," ali pa nekaj takega, da se ne
                            spreminjajo. Stavek bi bilo treba formulirati.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Predlagal bi, da bi mi sprejeli tekst in bi pooblastili komisijo, da v
                            teh petih minutah stavek v tem smislu doda. To se pravi nespremenljivost
@@ -2873,7 +2892,7 @@
                         <p>Dajem na glasovanje amandmajski dodatni sklep poslanca Krefl Ivana kot
                            vam ga je predstavil.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Takega sklepa najbrž ta zbor ne more danes sprejeti, ker vrsta elementov,
                            ki so navedeni v tem predlogu sklepa, ni preverjenih, jih ne poznamo in
@@ -2884,12 +2903,12 @@
                            pogajanjih. Zato, da ne bi prehitro skočili v neko težavo, predlagam, da
                            danes ne razpravljamo in ne sklepamo o tem sklepu. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Se pravi, predlog je, da se odstopi sklep matični komisiji. Hvala. Gospod
                            Školč.</p>
                      </sp>
-                     <sp who="#sp.ŠkolčJožef">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Hvala lepa za besedo. Jaz bom, glede na to, da je sklep že v proceduri in
                            da bomo po vsej verjetnosti glasovali o njem, povedal, da bom glasoval
@@ -2900,13 +2919,13 @@
                            internacionalizaciji reševanja tega našega problema in zato ne morem
                            glasovati za in se mi je zdelo nujno, da to tudi povem. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Še kdo? Potem bi prvo dal na galsovanje predlog, da se ta
                            amandmajski dodatni sklep odstopi matičnemu... No, gospod Thaler,
                            izvolite? Pa še kdo? Gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.ThalerZoran">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ThalerZoran">
                         <speaker>ZORAN THALER:</speaker>
                         <p>Spoštovani gospod predsedujoči. Menim, da ta predlog ne spada v ta
                            dokument oziroma sploh v to točko dnevnega reda, ker je to resolucija o
@@ -2916,11 +2935,11 @@
                            razloge, iz formalnih razlogov zavrniti in ga ne dati na dnevni red
                            oziroma na glasovanje. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Hvala lepa. Gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Zelo značilno je kako sta člana Liberalno demokratske stranke uporabljala
                            besede "samomorilsko, neumno" in tako naprej. Moram povedati, da je
@@ -2933,11 +2952,11 @@
                            matično delovno telo, jo oceni in potem predloži ali tudi ne, kakor bo
                            pač ocenilo, Skupščini Republike Slovenije. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.GrosVitomir">
                         <p>PODPREDSEDNIK VITODRAG PUKL:</p>
                         <p>Hvala lepa. Gospod Šinkovec.</p>
                      </sp>
-                     <sp who="#sp.ŠinkovecMatjaž">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.ŠinkovecMatjaž">
                         <speaker>MAG. MATJAŽ ŠINKOVEC:</speaker>
                         <p>Spoštovani. Sem eden tistih, ki zelo spoštuje Liberlnao stranko, ker se
                            zavzema za samostojnost Slovenije. Vendar v tem trenutku res ne bi mogel
@@ -2952,7 +2971,7 @@
                            priznanje prav gotovo, če mi zdržimo, do tistega 7. oktobra (čeprav morda
                            tudi preveč podrobno izpolnjujemo brionsko deklaracijo). Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Prosil bi poslance, če kdo meni da podpira predlog, da odstopimo ta
                            dodatni sklep matičnemu telesu, naj to svojo misel izrazi pri glasovanju,
@@ -2964,7 +2983,7 @@
                               delegatov)</stage>. Vzdržanih ? <stage type="vote">(24 delegatov)</stage>.</p>
                         <p>Predlog je z večino glasov sprejet.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Prebral bi tisti stavek o mejah, ki smo ga dodali, da boste vedeli, kaj
                            ste sprejeli (je pa na podlagi teksta s te evropske deklaracije, samo
@@ -2974,12 +2993,12 @@
                            SFRJ, ki bi  nastale na nasilen  način ali bi bile izsiljene na
                            nedemokratičen način."</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Prosim, malo še potrpite, ker moram obvestiti, da bo predavanje (kdo je
                            to zaprosil, naj sam pove).</p>
                      </sp>
-                     <sp who="#sp.HermanMarko">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.HermanMarko">
                         <speaker>MARKO HERMAN:</speaker>
                         <p>Dogovorjeno je bilo, vsaj tako me je obvestil predsednik Odbora za
                            monetarni sistem, gospod Deželak, da bo imel gospod McDonald, svetovalec
@@ -2988,11 +3007,11 @@
                            klubov in tistimi poslanci, ki se s tem ukvarjajo razgovor, o
                            ustanavljanju in upravljanju s skladi.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>S tem smo zaključili. Prosim, gospa Lokarjeva.</p>
                      </sp>
-                     <sp who="#sp.LokarSonja">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.LokarSonja">
                         <speaker>SONJA LOKAR:</speaker>
                         <p>Se vam oproščam, prej je bil nesporazum. Gre še za sklep v zvezi z
                            izjavo, ki smo jo pravkar sprejeli. Predlagala bi čisto kratek sklep, ki
@@ -3003,7 +3022,7 @@
                            daleč, ampak za tiste, ki so ta trenutek v JLA, je pa zelo krvavo resna.
                            Prosim vas, podprite ta sklep. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-VsiZbor-25.sp.PuklVitodrag">
                         <speaker>PODPREDSEDNIK VITODRAG PUKL:</speaker>
                         <p>Bi kdo razpravljal o tem ? Je tak predlog, da se odstopi matičnemu
                            telesu, ali ga dam na glasovanje ?</p>
@@ -3012,7 +3031,7 @@
                         <p>Vzdržanih ? <stage type="vote">(Nihče)</stage>.</p>
                         <p>Sklep je z večino glasov sprejet.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-08-28T20:00:00" xml:id="stage.t.4">končana ob 20,00 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-08-28T20:00:00" xml:id="DZ-1991-VsiZbor-25.stage.t.4">končana ob 20,00 uri</time>.)</stage>
                   </div>
                </div>
 

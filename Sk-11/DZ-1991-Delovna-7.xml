@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -146,19 +144,19 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda ............................... 1</item>
+                     <item n="1" xml:id="DZ-1991-Delovna-7.toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1</item>
+                     <item n="2" xml:id="DZ-1991-Delovna-7.toc.1.2">Določitev dnevnega reda ............................... 1</item>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Predlog zakona o vojaški dolžnosti .................... 1<list rend="simple">
+                     <item n="1" xml:id="DZ-1991-Delovna-7.toc.2.1">Predlog zakona o vojaški dolžnosti .................... 1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Tomaž Pavšič .......................................... 2</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Seznam govornikov .................................. II/1</item>
+                     <item n="2" xml:id="DZ-1991-Delovna-7.toc.2.2">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -170,33 +168,37 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.PavšičTomaž">Pavšič Tomaž</actor>
+                  <actor xml:id="DZ-1991-Delovna-7.sp.PavšičTomaž">Pavšič Tomaž</actor>
                   .............................................. 2</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-Delovna-7.div.1" ana="#PAR.VsiZbor">
             <head>DELOVNA SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Delovna" n="7">
+            <div xml:id="DZ-1991-Delovna-7.div.1.1" ana="#PAR.Delovna" n="7">
                <head>7. seja</head>
                <docDate>(<date when="1991-04-18">18. april 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-04-18T17:20:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1991-Delovna-7.TL.1" unit="s">
+                  <when synch="#DZ-1991-Delovna-7.stage.t.1"
+                        xml:id="DZ-1991-Delovna-7.TL.1"
+                        absolute="1991-04-18T17:20:00"/>
+                  <when synch="#DZ-1991-Delovna-7.stage.t.2"
+                        since="#DZ-1991-Delovna-7.TL.1"
                         absolute="1991-04-18T17:30:00"
                         interval="600"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Sejo je vodil</roleDesc>: <actor xml:id="sp.BizjakIvan">Ivan
+                     <roleDesc>Sejo je vodil</roleDesc>: <actor xml:id="DZ-1991-Delovna-7.sp.BizjakIvan">Ivan
                         Bizjak</actor>, <role>predsednik Zbora občin</role>.</castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-04-18T17:20:00" xml:id="stage.t.1">začela ob 17.20 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.BizjakIvan">
+               <stage type="time">Seja se je <time from="1991-04-18T17:20:00" xml:id="DZ-1991-Delovna-7.stage.t.1">začela ob 17.20 uri</time>.</stage>
+               <div xml:id="DZ-1991-Delovna-7.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-Delovna-7.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-Delovna-7.toc.1.1">
+                     <sp who="#DZ-1991-Delovna-7.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Poslanke in poslanci, gospe in gospodje, pričenjam s 7. delovno skupno
                            sejo vseh treh zborov Skupščine Republike Slovenije, kjer bomo
@@ -213,8 +215,10 @@
                            vsakem zboru. S tem je 7. delovna skupna seja sklepčna.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-Delovna-7.div.1.1.1.2"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-Delovna-7.toc.1.2">
+                     <sp who="#DZ-1991-Delovna-7.sp.BizjakIvan">
                         <p>
                            <title>V zvezi s predlogom</title> zakona o vojaški dolžnosti, ki je
                            predmet te skupne delovne seje, se zbori po dveh zaporednih obravnavah
@@ -230,9 +234,11 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" corresp="#toc.2.1">
-                     <sp who="#sp.BizjakIvan">
+               <div xml:id="DZ-1991-Delovna-7.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-Delovna-7.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Delovna-7.toc.2.1">
+                     <sp who="#DZ-1991-Delovna-7.sp.BizjakIvan">
                         <p>Prehajamo na odločanje o spornih vprašanjih pri <title>predlogu zakona o
                               vojaški dolžnosti</title>. Najprej bomo glasovali o amandmajih, in
                            sicer najprej o amandmaju k 1. členu, ki se glasi: "1. člen se spremeni
@@ -297,7 +303,7 @@
                            zamenjata z besedama "častnik" in "podčastnik". Gospod Tomaž Pavšič želi
                            pojasniti, kako bo glasoval.</p>
                      </sp>
-                     <sp who="#sp.PavšičTomaž">
+                     <sp who="#DZ-1991-Delovna-7.sp.PavšičTomaž">
                         <speaker>TOMAŽ PAVŠIČ:</speaker>
                         <p>Spoštovano predsedstvo, drage kolegice in kolegi poslanci. Kadar kdo
                            skuša malenkostno jezikovno izboljšati takšno besedilo se reče, to je
@@ -308,7 +314,7 @@
                            ker sem poslanec in imam to pravico, ampak tudi kot slavist in slovenski
                            rezervni častnik. Lahko rečem še po starem - stotnik. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-Delovna-7.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Prehajamo na glasovanje.</p>
                         <p>Kdo je za ta amandma? <stage type="vote">(123 delegatov.)</stage>
@@ -327,7 +333,7 @@
                         <p>S tem zaključujem delovno skupno sejo vseh treh zborov Skupščine
                            Republike Slovenije. Hvala.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-04-18T17:30:00" xml:id="stage.t.2">končana 18. aprila 1991 ob 17.30 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-04-18T17:30:00" xml:id="DZ-1991-Delovna-7.stage.t.2">končana 18. aprila 1991 ob 17.30 uri</time>.)</stage>
                   </div>
                </div>
             </div>

@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,7 +132,7 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:                                              STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Uvodna beseda k predlogu za izdajo zakona o zunanjih zadevah in
+                     <item n="1" xml:id="DZ-1991-Zasedanje-12.toc.1.1">Uvodna beseda k predlogu za izdajo zakona o zunanjih zadevah in
                         temeljem strategije zunanje politike Republike Slovenije
                         .................................. 1<list rend="simple">
                            <head>GOVORNIK:</head>
@@ -149,33 +147,37 @@
             <castList>
                <head>SEZNAM GOVORNIKOV</head>
                <castItem>
-                  <actor xml:id="sp.RupelDimitrij">Rupel Dimitrij</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-12.sp.RupelDimitrij">Rupel Dimitrij</actor>
                   ................................... 1</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-Zasedanje-12.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="12">
+            <div xml:id="DZ-1991-Zasedanje-12.div.1.1" ana="#PAR.Zasedanje" n="12">
                <head>12. zasedanje</head>
                <docDate>(<date when="1991-04-24">24. april 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-04-24T11:18:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1991-Zasedanje-12.TL.1" unit="s">
+                  <when synch="#DZ-1991-Zasedanje-12.stage.t.1"
+                        xml:id="DZ-1991-Zasedanje-12.TL.1"
+                        absolute="1991-04-24T11:18:00"/>
+                  <when synch="#DZ-1991-Zasedanje-12.stage.t.2"
+                        since="#DZ-1991-Zasedanje-12.TL.1"
                         absolute="1991-04-24T11:45:00"
                         interval="1620"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
+                     <actor xml:id="DZ-1991-Zasedanje-12.sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
                         Družbenopolitičnega zbora</role>.</castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-04-24T11:18:00" xml:id="stage.t.1">pričela ob 11.18 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.TDR" corresp="#toc.1.1">
+               <stage type="time">Seja se je <time from="1991-04-24T11:18:00" xml:id="DZ-1991-Zasedanje-12.stage.t.1">pričela ob 11.18 uri</time>.</stage>
+               <div xml:id="DZ-1991-Zasedanje-12.div.1.1.1" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-Zasedanje-12.div.1.1.1.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Zasedanje-12.toc.1.1">
                      <sp>
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci, gospe in gospodje, cenjeni
@@ -188,7 +190,7 @@
                            Rupel, član Izvršnega sveta Skupščine Republike Slovenije in republiški
                            sekretar za mednarodno sodelovanje. Prosim gospoda Rupla za besedo.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-Zasedanje-12.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Spoštovani gospod predsedujoči spoštovani predsedniki, poslanke,
                            poslanci!</p>
@@ -541,7 +543,7 @@
                         <p>Zbori nadaljujejo svoje delo na ločenih sejah, Družbenopolitični zbor
                            nadaljuje zdaj takoj tukaj. Hvala.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-04-24T11:45:00" xml:id="stage.t.2">končana 24. aprila 1991 ob 11.45 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-04-24T11:45:00" xml:id="DZ-1991-Zasedanje-12.stage.t.2">končana 24. aprila 1991 ob 11.45 uri</time>.)</stage>
                   </div>
                </div>
             </div>

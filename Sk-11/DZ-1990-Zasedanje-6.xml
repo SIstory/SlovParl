@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -146,13 +144,13 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Določitev dnevnega reda ............................... 1</item>
+                     <item n="1" xml:id="DZ-1990-Zasedanje-6.toc.1.1">Določitev dnevnega reda ............................... 1</item>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Poročilo o stanju v gospodarstvu Republike Slovenije in ukrepih za
+                     <item n="1" xml:id="DZ-1990-Zasedanje-6.toc.2.1">Poročilo o stanju v gospodarstvu Republike Slovenije in ukrepih za
                         razreševanje gospodarske krize - Uvodna obrazložitev iz sklopov zakonov o
                         privatizaciji podjetij, o Agenciji Republike Slovenije za privatizacijo
                         podjetij, o Skladu Republike Slovenije za razvoj (1. točka dnevnega reda -
@@ -161,7 +159,7 @@
                            <item>dr. Jože Mencinger .................................... 5</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Problematika reševanja posledic katastrofalnih poplav v Sloveniji
+                     <item n="2" xml:id="DZ-1990-Zasedanje-6.toc.2.2">Problematika reševanja posledic katastrofalnih poplav v Sloveniji
                         (2. točka dnevnega reda - sprejem predloga priporočil z glasovanje vsakega
                         zbora posebej) ........................................ 9<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -189,7 +187,7 @@
                            <item>Marjan Podobnik ...................................... 35</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3">Seznam govornikov ...................................II/1</item>
+                     <item n="3" xml:id="DZ-1990-Zasedanje-6.toc.2.3">Seznam govornikov ...................................II/1</item>
                   </list>
                </item>
             </list>
@@ -201,82 +199,86 @@
             <castList>
                <head>GOVORNIKI:                                              STRAN</head>
                <castItem>
-                  <actor xml:id="sp.ArzenšekJože">Arzenšek dr. Jože</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.ArzenšekJože">Arzenšek dr. Jože</actor>
                   ........................................ 16</castItem>
                <castItem>
-                  <actor xml:id="sp.BogatajMiran">Bogataj Miran</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.BogatajMiran">Bogataj Miran</actor>
                   ............................................ 32</castItem>
                <castItem>
-                  <actor xml:id="sp.DretnikIvan">Dretnik Ivan</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.DretnikIvan">Dretnik Ivan</actor>
                   ............................................. 28</castItem>
                <castItem>
-                  <actor xml:id="sp.FeltrinFranci">Feltrin Franci</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.FeltrinFranci">Feltrin Franci</actor>
                   ....................................... 28, 34</castItem>
                <castItem>
-                  <actor xml:id="sp.JazbinšekMiha">Jazbinšek Miha</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.JazbinšekMiha">Jazbinšek Miha</actor>
                   ................................ 9, 31, 33, 34</castItem>
                <castItem>
-                  <actor xml:id="sp.KolešnikCiril">Kolešnik Ciril</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.KolešnikCiril">Kolešnik Ciril</actor>
                   ........................................... 23</castItem>
                <castItem>
-                  <actor xml:id="sp.MencingerJože">Mencinger dr. Jože</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.MencingerJože">Mencinger dr. Jože</actor>
                   ........................................ 1</castItem>
                <castItem>
-                  <actor xml:id="sp.MesičekIvan">Mesiček Ivan</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.MesičekIvan">Mesiček Ivan</actor>
                   ............................................. 28</castItem>
                <castItem>
-                  <actor xml:id="sp.PintarEmilMilan">Pintar Emil Milan</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.PintarEmilMilan">Pintar Emil Milan</actor>
                   ........................................ 30</castItem>
                <castItem>
-                  <actor xml:id="sp.PodobnikMarjan">Podobnik Marjan</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.PodobnikMarjan">Podobnik Marjan</actor>
                   .................................. 27, 32, 35</castItem>
                <castItem>
-                  <actor xml:id="sp.PotočnikViktorija">Potočnik Viktorija</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.PotočnikViktorija">Potočnik Viktorija</actor>
                   ....................................... 26</castItem>
                <castItem>
-                  <actor xml:id="sp.RojecAnton">Rojec Anton</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.RojecAnton">Rojec Anton</actor>
                   .............................................. 13</castItem>
                <castItem>
-                  <actor xml:id="sp.VoljčBožidar">Voljč dr. Božidar</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.VoljčBožidar">Voljč dr. Božidar</actor>
                   ........................................ 25</castItem>
                <castItem>
-                  <actor xml:id="sp.ZagoženFranc">Zagožen dr. Franc</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.ZagoženFranc">Zagožen dr. Franc</actor>
                   ........................................ 29</castItem>
                <castItem>
-                  <actor sameAs="#sp.ZupančičJože">Zupančič Jože</actor>
+                  <actor sameAs="#DZ-1990-Zasedanje-6.sp.ZupančičJože">Zupančič Jože</actor>
                   ............................................ 33</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽakeljViktor">Žakelj mag. Viktor</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.ŽakeljViktor">Žakelj mag. Viktor</actor>
                   ....................................... 30</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽunterAnton">Žunter dr. Anton</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-6.sp.ŽunterAnton">Žunter dr. Anton</actor>
                   ......................................... 20</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1990-Zasedanje-6.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="6">
+            <div xml:id="DZ-1990-Zasedanje-6.div.1.1" ana="#PAR.Zasedanje" n="6">
                <head>6. zasedanje</head>
                <docDate>(<date when="1990-11-20">20. november 1990</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1990-11-20T14:10:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1990-Zasedanje-6.TL.1" unit="s">
+                  <when synch="#DZ-1990-Zasedanje-6.stage.t.1"
+                        xml:id="DZ-1990-Zasedanje-6.TL.1"
+                        absolute="1990-11-20T14:10:00"/>
+                  <when synch="#DZ-1990-Zasedanje-6.stage.t.2"
+                        since="#DZ-1990-Zasedanje-6.TL.1"
                         absolute="1990-11-20T16:40:00"
                         interval="9000"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.ZupančičJože">Jože Zupančič</actor>, <role>predsednik Zbora
+                     <actor xml:id="DZ-1990-Zasedanje-6.sp.ZupančičJože">Jože Zupančič</actor>, <role>predsednik Zbora
                         združenega dela</role>.</castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1990-11-20T14:10:00" xml:id="stage.t.1">pričela ob 14.10 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.DolDnevRed" corresp="#toc.1.1">
-                     <sp who="#sp.ZupančičJože">
+               <stage type="time">Seja se je <time from="1990-11-20T14:10:00" xml:id="DZ-1990-Zasedanje-6.stage.t.1">pričela ob 14.10 uri</time>.</stage>
+               <div xml:id="DZ-1990-Zasedanje-6.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1990-Zasedanje-6.div.1.1.1.1"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1990-Zasedanje-6.toc.1.1">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke, poslanci, člani Izvršnega sveta, dragi gostje,
                            cenjeni novinarji!</p>
@@ -296,9 +298,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.ZupančičJože">
+               <div xml:id="DZ-1990-Zasedanje-6.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1990-Zasedanje-6.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1990-Zasedanje-6.toc.2.1">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <p>Prehajamo na PRVO TEMO, to je <title>POROČILO O STANJU V GOSPODARSTVU
                               REPUBLIKE SLOVENIJE IN UKREPIH ZA RAZREŠEVANJE GOSPODARSKE
                               KRIZE</title> ter <title>UVODNO OBRAZLOŽITEV IZ SKLOPOV ZAKONOV O
@@ -306,7 +311,7 @@
                         <p>Besedo ima dr. Jože Mencinger, podpredsednik Izvršnega sveta Skupščine
                            Republike Slovenije.</p>
                      </sp>
-                     <sp who="#sp.MencingerJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.MencingerJože">
                         <speaker>DR. JOŽE MENCINGER:</speaker>
                         <p>Spoštovane poslanke in poslanci! Ker ste ekspoze dobili na mizo skupaj s
                            tabelami, ki kažejo stanje v gospodarstvu, ker imate tudi tabele, ki
@@ -661,14 +666,17 @@
                            uskladi z razpravo. Problemi nastanejo takrat, kadar so pripombe
                            popolnoma neusklajene. Hvala lepa za potrpljenje.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa, gospod dr. Jože Mencinger za uvodno besedo. Obravnavo še
                            enkrat o teh temah, bomo opravili na sejah posameznih zborov.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1990-Zasedanje-6.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1990-Zasedanje-6.toc.2.2">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <p>Predlagam, da pričnemo z drugo temo, z <title>2. TOČKO</title>
                            današnjega skupnega zasedanja, to je
                            <title>PROBLEMATIKA REŠEVANJA POSLEDIC KATASTROFALNIH POPLAV V SLOVENIJI</title>.</p>
@@ -702,7 +710,7 @@
                            poda uvodno obrazložitev. Prosim, gospod Miha Jazbinšek, republiški
                            sekretar za varstvo okolja in urejanje prostora.</p>
                      </sp>
-                     <sp who="#sp.JazbinšekMiha">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.JazbinšekMiha">
                         <speaker>MIHA JAZBINŠEK:</speaker>
                         <p>Gospe in gospodje! Naloge v zvezi z izvajanjem ukrepov za zagotovitev
                            osnovnih pogojev za življenje tudi na najbolj prizadetih območjih so bile
@@ -901,14 +909,14 @@
                            priložena je tudi tabela škode na današnji dan po občinah in po
                            dejavnostih.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Mislim, da vas moram vseeno opozoriti in se hkrati tudi opravičiti. Ta
                            gradiva so na poti k nam. Ampak glede na to, da smo slišali to
                            informacijo, verjetno ni nesporazumov. Prosim gospoda Antona Rojca, da
                            nam poda dodatno obrazložitev.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Spoštovano predsedstvo, gospe in gospodje, poslanke in poslanci!
                            Dovolite, da ob tej  priložnosti povem tudi nekaj več o poplavi v Celju,
@@ -1062,11 +1070,11 @@
                            v obrambi ob tej katastrofi, kakor tudi vsem tistim, ki so dajali ali še
                            bodo dajali svojo pomoč. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še gospod dr. Jože Arzenšek.</p>
                      </sp>
-                     <sp who="#sp.ArzenšekJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ArzenšekJože">
                         <speaker>DR. JOŽE ARZENŠEK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani zbor! Kot nadaljevanje izvajanja
                            gospoda župana celjske občine bi podal kratko poročilo o katastrofi,
@@ -1257,11 +1265,11 @@
                            soglasja vseh v skladu s predpisi. Kazalo pa bi analizirati tudi te
                            vidike. Hvala za pozornost.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala, gospod Arzenšek. Še gospod Žunter.</p>
                      </sp>
-                     <sp who="#sp.ŽunterAnton">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ŽunterAnton">
                         <speaker>DR. ANTON ŽUNTER:</speaker>
                         <p>Spoštovani predsednik, spoštovani zbor! Prihajam iz občine Mozirje. 1.
                            novembra se je, kot je znano, razbesnela vodna ujma, ki je v naši občini
@@ -1374,7 +1382,7 @@
                            radi, kajti manjka jim nekaj velikega kar vsi drugim imamo. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Za ta uvod smo potrebovali točno eno uro in trdno sem
                            prepričan, da si vsi poplavljenci to uro zaslužijo in zato se mi ne zdi
@@ -1383,7 +1391,7 @@
                         </p>
                         <p>Odpiram razpravo. Gospod Kolešnik.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani, jaz se z gospodom predsednikom prav gotovo v tej njegovi
                            pripombi strinjam in mislim, da je to najmanj prav gotovo pošteno, da so
@@ -1461,11 +1469,11 @@
                            državljanom Republike Slovenije, kje so vzroki in za kaj se je to zgodilo
                            kot se je zgodilo.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Voljč.</p>
                      </sp>
-                     <sp who="#sp.VoljčBožidar">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.VoljčBožidar">
                         <speaker>DR. BOŽIDAR VOLJČ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Ob tej veliki
                            katastrofi, ki je zadela Slovenijo, mislim, da je povsem umestno, da v
@@ -1531,11 +1539,11 @@
                            sprejmemo, vanjo pa vključimo vse značilnosti stroke zadnjih let. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospodična Vika Potočnik.</p>
                      </sp>
-                     <sp who="#sp.PotočnikViktorija">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.PotočnikViktorija">
                         <speaker>VIKTORIJA POTOČNIK:</speaker>
                         <p>Spoštovani kolegi, spoštovane kolegice! Ne mislim danes posebej hvaliti
                            prizadevanja Izvršnega sveta niti izvršnih svetov občin, ker se mi zdi,
@@ -1578,11 +1586,11 @@
                            pogosto, sicer pa jaz predlagam, da tudi po potrebi</p>
                         <p>informira vse tri zbore skupščine. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Podobnik.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Spoštovani, Marjan Podobnik, Slovenska kmečka zveza. Čeprav sem iz
                            območja in iz občine, ki je bila tudi prizadeta - iz idrijske občine,
@@ -1634,11 +1642,11 @@
                            prednosti, zlasti še, ker je zagotovo naš skupen cilj ta, da se zbere in
                            čimprej koristno uporabi čimveč pomoči. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Dretnik.</p>
                      </sp>
-                     <sp who="#sp.DretnikIvan">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.DretnikIvan">
                         <speaker>IVAN DRETNIK:</speaker>
                         <p>K zakonu o prisilnem prispevku za poplavljena območja, ki smo ga pred
                            kratkim sprejeli, sem naknadno poslal pisno poslansko pobudo z naslednjo
@@ -1653,11 +1661,11 @@
                            zato prosim vse poslance in poslanke, da, ko bo prišel ta amandma na
                            mizo, da ga tudi pogledate in podprete. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Feltrin.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Skoraj vse je
                            bilo že povedano. Tudi jaz prihajam iz območja Škofje Loke, kjer je ujma
@@ -1668,11 +1676,11 @@
                            potrebno pomoči. Pa mislim, da ne bo ne Izvršni svet ne nihče drug na nas
                            pozabil. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p> Hvala lepa. Gospod Mesiček.</p>
                      </sp>
-                     <sp who="#sp.MesičekIvan">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.MesičekIvan">
                         <speaker>IVAN MESIČEK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani delegati, spoštovane delegatke! Sem
                            Krščanski demokrat, občina Maribor - Pesnica. Mislim, da je bilo resnično
@@ -1693,11 +1701,11 @@
                            se šele potem, ko iz tega naslova ne pride dovolj sredstev, pokliče druge
                            k pomoči pri takih nesrečah. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Zagožen.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Spoštovani, ob tem bi opozoril na vse pozabljene kraje v Sloveniji.
                            Analiza kaže ob pripravi zakona o pospešenem razvoju manj razvitih
@@ -1727,13 +1735,13 @@
                            obvladamo in če ga več ne obvladamo polovico, potem smo ogroženi tudi v
                            drugi polovici. To je moje mnenje. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Glede na to, da smo imeli 60 minut uvoda, 35 minut razprave
                            in 8 razpravljalcev, če je še kaj pomembnega, vas prosim, drugače bi
                             počasi zaključili. Gospod Pintar.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Spoštovane kolegice in kolegi! V razpravi bi rad opozoril samo na dve
                            stvari. Najprej mislim, da je ta nesreča, ki je zadela Slovenijo,
@@ -1760,11 +1768,11 @@
                            spomladi ponovimo razpravo z vidika, kje je treba nadaljevati, da nas
                            naslednja ujma ne preseneti. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala, gospod Pintar. Gospod Žakelj.</p>
                      </sp>
-                     <sp who="#sp.ŽakeljViktor">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ŽakeljViktor">
                         <speaker>MAG. VIKTOR ŽAKELJ:</speaker>
                         <p>K besedi me je najprej spodbudil dr. Voljč in ponavljam za njim in širim.
                            Nesreča, kot je ta, seveda ne sme biti predmet politikanstva, področje
@@ -1799,12 +1807,12 @@
                            požari, se pa ciklično ponavljajo povodnji in zdi se mi, da je v to treba
                            usmeriti in intelektualne in materialne potenciale. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Žakelj. Gospod Jazbinšek, republiški sekretar za varstvo
                            okolja in urejanje prostora.</p>
                      </sp>
-                     <sp who="#sp.JazbinšekMiha">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.JazbinšekMiha">
                         <speaker>MIHA JAZBINŠEK:</speaker>
                         <p>Jaz bi mogoče, da ne bi porabili  preveč časa prosil to, da bi stališča
                            sklepe, to, kar so občine zdaj ponudile, vendarle sprejeli na način
@@ -1838,11 +1846,11 @@
                            Izvršnemu svetu pri pripravi programa sanacije za srednjeročne obdobje
                            oziroma za obdobje treh do petih let.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Prosim, Marjan Podobnik.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Moram povedati, da se ne strinjam s stališčem gospoda Jazbinška, da bi
                            bilo to le kot priporočilo. Strinjam se, da je marsikaj nedorečenega in
@@ -1862,11 +1870,11 @@
                            dvakrat mesečno dajati poročilo o poteku in stroških del in da se da tudi
                            drugim zadevam, ki so navedene, dejansko težo zakona. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Zdaj ne vem, gospod Jazbinšek ali gospod Bogataj. Dogovorita se.</p>
                      </sp>
-                     <sp who="#sp.BogatajMiran">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.BogatajMiran">
                         <speaker>MIRAN BOGATAJ:</speaker>
                         <p>Spoštovani! Samo nekaj. V zvezi s konkretnim vprašanjem, ki je bilo
                            postavljeno. Želel bi odgovoriti tudi v imenu republiškega štaba za
@@ -1901,11 +1909,11 @@
                            Skupščine Republike Slovenije. To je morda nejasno napisano tudi v sami
                            informaciji. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še gospod Jazbinšek.</p>
                      </sp>
-                     <sp who="#sp.JazbinšekMiha">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.JazbinšekMiha">
                         <speaker>MIHA JAZBINŠEK:</speaker>
                         <p>Želel sem zelo enostavno povedati. Ta stališča in sklepi so že s
                            poročilom, ki smo ga mi dali, preseženi. V smislu tega, kaj že teče, kaj
@@ -1930,7 +1938,7 @@
                            obveznosti, kakor da Izvršni svet nič ne dela. Dela,ne. Brez teh sklepov
                            na osnovi tistih priporočil, ki so bila dana do sedaj.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Spoštovane poslanke in poslanci! Tudi tisti, ki smo pripravljali
                            ta stališča, smo se zavedali tega, kar je sedaj povedal gospod Jazbinšek.
@@ -1953,7 +1961,7 @@
                            sprejema." Jaz mislim, da bi sprejeli takšno stališče oziroma takšna
                            priporočila, s takšnimi dopolnitvami. Prosim.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Spoštovani! Jaz sem že prej povedal, da bom skromen. In prav zaradi tega
                            prihajam gor, ker vidim, kdor je skromen, potem nikamor ne pride. Žal. Ni
@@ -1968,11 +1976,11 @@
                            izvajalca del, zato, da ne bi prišlo do malverzacij." Žal, sem rekel, da
                            v petih minutah, malo več, sem se čutil izigranega. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Zdaj verjetno morate odgovoriti, gospod Jazbinšek. Prosim.</p>
                      </sp>
-                     <sp who="#sp.JazbinšekMiha">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.JazbinšekMiha">
                         <speaker>MIHA JAZBINŠEK:</speaker>
                         <p>Kaj tudi delamo. Danes je korenspondenčna seja tistih, ki odobravajo
                            denar za Škofjo Loko, šla ven in ta denar bo v nekaj dneh nakazan.
@@ -1991,11 +1999,11 @@
                            predračuni in tako naprej. To je dva meseca takoj mimo, preden je posel
                            dobljen. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Podobnik.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Opravičujem se in obljubljam, da sem tukaj zadnjič. Samo, bom pa povedal
                            sedaj moj nesrečni primer pri tej točki, zaradi katerega sem tudi med
@@ -2025,7 +2033,7 @@
                            občine, ki so deležne teh sredstev, da so dolžne opraviti te licitacije
                            in voditi to evidenco. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-Zasedanje-6.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Sedaj bi dejansko lahko tudi to dodatno 7. točko, v kateri bo moral
                            Izvršni svet upoštevati vse, kar smo danes tu rekli, bomo pač na
@@ -2074,7 +2082,7 @@
                            pravično in upravičeno tudi uporabili. Zahvaljujem se vam za sodelovanje
                            in zaključujem skupno zasedanje vseh treh zborov Skupščine Slovenije.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1990-11-20T16:40:00" xml:id="stage.t.2">končana 20. novembra 1990 ob 16.40
+                     <stage type="time">(Seja je bila <time to="1990-11-20T16:40:00" xml:id="DZ-1990-Zasedanje-6.stage.t.2">končana 20. novembra 1990 ob 16.40
                         uri</time>.)</stage>
                   </div>
                </div>

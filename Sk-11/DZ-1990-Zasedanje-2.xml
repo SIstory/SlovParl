@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -146,14 +144,14 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:                                              STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Uvodna beseda k stališčem Komisije Skupščine Republike Slovenije za
+                     <item n="1" xml:id="DZ-1990-Zasedanje-2.toc.1.1">Uvodna beseda k stališčem Komisije Skupščine Republike Slovenije za
                         ustavna vprašanja k osnutku amandmajev k Ustavi SFRJ ......................
                            1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Vitodrag Pukl ......................................... 1</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.1.2">Informacija glede nadaljnjega dela zborov ............. 6<list rend="simple">
+                     <item n="2" xml:id="DZ-1990-Zasedanje-2.toc.1.2">Informacija glede nadaljnjega dela zborov ............. 6<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. Ludvik Toplak ..................................... 6</item>
                         </list>
@@ -168,38 +166,43 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.PuklVitodrag">Pukl Vitodrag</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-2.sp.PuklVitodrag">Pukl Vitodrag</actor>
                   ............................................. 1</castItem>
                <castItem>
-                  <actor sameAs="#sp.ToplakLudvik">Toplak dr. Ludvik</actor>
+                  <actor sameAs="#DZ-1990-Zasedanje-2.sp.ToplakLudvik">Toplak dr. Ludvik</actor>
                   ......................................... 6</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1990-Zasedanje-2.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="2">
+            <div xml:id="DZ-1990-Zasedanje-2.div.1.1" ana="#PAR.Zasedanje" n="2">
                <head>2. zasedanje</head>
                <docDate>(<date when="1990-07-02">2. julij 1990</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1990-07-02T12:00:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1990-Zasedanje-2.TL.1" unit="s">
+                  <when synch="#DZ-1990-Zasedanje-2.stage.t.1"
+                        xml:id="DZ-1990-Zasedanje-2.TL.1"
+                        absolute="1990-07-02T12:00:00"/>
+                  <when synch="#DZ-1990-Zasedanje-2.stage.t.2"
+                        since="#DZ-1990-Zasedanje-2.TL.1"
                         absolute="1990-07-02T12:30:00"
                         interval="1800"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
+                     <actor xml:id="DZ-1990-Zasedanje-2.sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
                         Družbenopolitičnega zbora</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1990-07-02T12:00:00" xml:id="stage.t.1">pričelo ob 12.00 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.TDR" n="1" corresp="#toc.1.1">
-                     <sp who="#sp.ToplakLudvik">
+               <stage type="time">Seja se je <time from="1990-07-02T12:00:00" xml:id="DZ-1990-Zasedanje-2.stage.t.1">pričelo ob 12.00 uri</time>.</stage>
+               <div xml:id="DZ-1990-Zasedanje-2.div.1.1.1" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1990-Zasedanje-2.div.1.1.1.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1990-Zasedanje-2.toc.1.1">
+                     <sp who="#DZ-1990-Zasedanje-2.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Delegatke in delegati, gospe in gospodje, pričenjam skupno zasedanje
                            Zbora združenega dela, Zbora občin in Družbenopolitičnega zbora Skupščine
@@ -210,7 +213,7 @@
                            in drugič, kratko informacijo glede nadaljnjega dela. Besedo predajam
                            gospodu Vitodragu Puklu.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1990-Zasedanje-2.sp.PuklVitodrag">
                         <speaker>VITODRAG PUKL:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane delegatke in delegati. Komisija
                            Skupščine Republike Slovenije za ustavna vprašanja je obravnavala osnutka
@@ -449,13 +452,16 @@
                            enakopravno sodelovale republike in pokrajine, in da se odpravi možnost
                            izrednih ukrepov. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-Zasedanje-2.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa gospodu Puklu. S tem smo zaključili 1. točko.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.TDR" n="2" corresp="#toc.1.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1990-Zasedanje-2.div.1.1.1.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1990-Zasedanje-2.toc.1.2">
+                     <sp who="#DZ-1990-Zasedanje-2.sp.ToplakLudvik">
                         <p>Pri <title>2. TOČKI</title> pa samo nekaj tehničnih obvestil.</p>
                         <p>V tej dvorani, v tej sestavi se bo nadaljevala skupna seja. Takoj po
                            zaključku skupne seje se bodo zbori razporedili takole: zbor združenega
@@ -479,7 +485,7 @@
                         <p>Toliko. S tem zaključujem skupno zasedanje Zbora združenega dela, Zbora
                            občin in Družbenopolitičnega zbora. Hvala lepa.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1990-07-02T12:30:00" xml:id="stage.t.2">končana 2. julija 1990 ob 12.30 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1990-07-02T12:30:00" xml:id="DZ-1990-Zasedanje-2.stage.t.2">končana 2. julija 1990 ob 12.30 uri</time>.)</stage>
                   </div>
                </div>
             </div>

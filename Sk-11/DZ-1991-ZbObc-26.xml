@@ -31,8 +31,7 @@
             <pubPlace>https://github.com/SIstory/Seje_DZ/tree/master/</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
             <date when="2016-08-05+02:00"/>
@@ -53,9 +52,7 @@
                      <date>(7. in 8. oktober 1991)</date>
                   </imprint>
                </monogr>
-               <ref
-                  target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=5BBF9361D7C3F75FC1257C3D004A85AB"
-                     >(<date>2016-04-12</date>)</ref>
+               <ref target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=5BBF9361D7C3F75FC1257C3D004A85AB">(<date>2016-04-12</date>)</ref>
             </biblStruct>
             <biblFull>
                <titleStmt>
@@ -67,10 +64,10 @@
                   <publisher>Državni zbor Republike Slovenije</publisher>
                   <availability status="free">
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                              xml:lang="slv">Avtorske pravice so potekle, delo je v javni
                         domeni.</licence>
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                              xml:lang="eng">Public Domain Mark 1.0</licence>
                   </availability>
                </publicationStmt>
             </biblFull>
@@ -79,14 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -141,9 +132,9 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM: STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov
+                     <item n="1" xml:id="DZ-1991-ZbObc-26.toc.1.1">Ugotavljanje prisotnosti delegatov
                         .................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda
+                     <item n="2" xml:id="DZ-1991-ZbObc-26.toc.1.2">Določitev dnevnega reda
                         ............................... 1<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Franci Feltrin ........................................ 2</item>
@@ -155,7 +146,7 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Predlog zakona o denarni enoti Republike Slovenije
+                     <item n="1" xml:id="DZ-1991-ZbObc-26.toc.2.1">Predlog zakona o denarni enoti Republike Slovenije
                         ............................................. 3<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Janez Lukač ........................................... 4</item>
@@ -187,13 +178,13 @@
                            <item>Leopold Frelih ....................................... 19</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Predlog zakona o uporabi denarne enote Republike
+                     <item n="2" xml:id="DZ-1991-ZbObc-26.toc.2.2">Predlog zakona o uporabi denarne enote Republike
                         Slovenije .................................. 20<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Vitomir Gros ......................................... 20</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3">Predlog za izdajo zakona o spreminjanju
+                     <item n="3" xml:id="DZ-1991-ZbObc-26.toc.2.3">Predlog za izdajo zakona o spreminjanju
                         deponiranih deviznih vlog občanov pri Narodni banki Jugoslavije v dolg
                         Republike Slovenije in izdajanje obveznic na podlagi deviznih vlog občanov
                         pri bankah v Republiki Sloveniji z osnutkom zakona
@@ -216,7 +207,7 @@
                            <item>Vitomir Gros ......................................... 28</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.2.4">Nadaljevanje obravnave predloga zakona o denarni
+                     <item n="4" xml:id="DZ-1991-ZbObc-26.toc.2.4">Nadaljevanje obravnave predloga zakona o denarni
                         enoti Republike Slovenije .................. 29<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Janko Deželak ........................................ 29</item>
@@ -243,7 +234,7 @@
                            <item>Vitomir Gros ......................................... 39</item>
                         </list>
                      </item>
-                     <item n="5" xml:id="toc.2.5">Nadaljevanje obravnave predloga zakona o uporabi
+                     <item n="5" xml:id="DZ-1991-ZbObc-26.toc.2.5">Nadaljevanje obravnave predloga zakona o uporabi
                         denarne enote Republike Slovenije ............ 40<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Janko Deželak ........................................ 40</item>
@@ -251,7 +242,7 @@
                            <item>Andrej Rant .......................................... 41</item>
                         </list>
                      </item>
-                     <item n="6" xml:id="toc.2.6">Poročilo delovne skupine za usklajevanje predloga
+                     <item n="6" xml:id="DZ-1991-ZbObc-26.toc.2.6">Poročilo delovne skupine za usklajevanje predloga
                         zakona o denarni enoti Republike Slovenije in predloga zakona o uporabi
                         denarne enote Republike Slovenije .................... 42<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -261,16 +252,16 @@
                         </list>
                      </item>
                      <note>Nadaljevanje seje 8.10.1991</note>
-                     <item n="7" xml:id="toc.2.7">Imenovanje skupne komisije za pripravo
+                     <item n="7" xml:id="DZ-1991-ZbObc-26.toc.2.7">Imenovanje skupne komisije za pripravo
                         sporazumnega predloga ................................ 45<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Anton Rojec .......................................... 46</item>
                            <item>Boris Jež ............................................ 46</item>
                         </list>
                      </item>
-                     <item n="8" xml:id="toc.2.8">Ugotavljanje prisotnosti delegatov
+                     <item n="8" xml:id="DZ-1991-ZbObc-26.toc.2.8">Ugotavljanje prisotnosti delegatov
                         ................... 46</item>
-                     <item n="9" xml:id="toc.2.9">Poročilo skupne komisije za pripravo sporazumnega
+                     <item n="9" xml:id="DZ-1991-ZbObc-26.toc.2.9">Poročilo skupne komisije za pripravo sporazumnega
                         predloga ................................ 46<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Janez Lukač .......................................... 46</item>
@@ -281,9 +272,9 @@
                            <item>Tone Kramarič ........................................ 48</item>
                         </list>
                      </item>
-                     <item n="10" xml:id="toc.2.10">Seznam govornikov
+                     <item n="10" xml:id="DZ-1991-ZbObc-26.toc.2.10">Seznam govornikov
                         .................................... II</item>
-                     <item n="11" xml:id="toc.2.11">Priloga: zapisnik seje
+                     <item n="11" xml:id="DZ-1991-ZbObc-26.toc.2.11">Priloga: zapisnik seje
                         .............................. III</item>
                   </list>
                </item>
@@ -295,150 +286,173 @@
             <castList>
                <head>GOVORNIKI: STRAN</head>
                <castItem>
-                  <actor xml:id="sp.AtelšekIvan">Atelšek Ivan</actor> .............................
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.AtelšekIvan">Atelšek Ivan</actor> .............................
                   11, 18, 24, 30, 34, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.BožičDanijel">Božič Danijel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.BožičDanijel">Božič Danijel</actor>
                   ............................................ 10, 18</castItem>
                <castItem>
-                  <actor xml:id="sp.DebeljakStanko">Debeljak Stanko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.DebeljakStanko">Debeljak Stanko</actor>
                   .......................................... 33, 39</castItem>
                <castItem>
-                  <actor xml:id="sp.DeželakJanko">Deželak Janko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.DeželakJanko">Deželak Janko</actor>
                   ............................................ 29, 40</castItem>
                <castItem>
-                  <actor xml:id="sp.DragovanSlavko">Dragovan Slavko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.DragovanSlavko">Dragovan Slavko</actor>
                   ...................................... 19, 26, 41</castItem>
                <castItem>
-                  <actor xml:id="sp.DularJanez">Dular dr. Janez</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.DularJanez">Dular dr. Janez</actor>
                   ....................................... 7, 16, 18</castItem>
                <castItem>
-                  <actor xml:id="sp.DvornikMarjan">Dvornik Marjan</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.DvornikMarjan">Dvornik Marjan</actor>
                   ............................................... 33</castItem>
                <castItem>
-                  <actor xml:id="sp.FrankoKarel">Franko Karel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.FrankoKarel">Franko Karel</actor>
                   ................................................. 36</castItem>
                <castItem>
-                  <actor xml:id="sp.FeltrinFranci">Feltrin Franci</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.FeltrinFranci">Feltrin Franci</actor>
                   ........................................ 2, 26, 28</castItem>
                <castItem>
-                  <actor xml:id="sp.FrelihLeopold">Frelih Leopold</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.FrelihLeopold">Frelih Leopold</actor>
                   ................................... 14, 19, 25, 36</castItem>
                <castItem>
-                  <actor xml:id="sp.GlavičPeter">Glavič dr. Peter</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.GlavičPeter">Glavič dr. Peter</actor>
                   ................................. 13, 17, 26, 27</castItem>
                <castItem>
-                  <actor xml:id="sp.GradišarCvetko">Gradišar dr. Cvetko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.GradišarCvetko">Gradišar dr. Cvetko</actor>
                   ........................................... 6</castItem>
                <castItem>
-                  <actor xml:id="sp.GrosVitomir">Gros Vitomir</actor> .. 8, 14, 16, 20, 22, 28, 30,
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.GrosVitomir">Gros Vitomir</actor> .. 8, 14, 16, 20, 22, 28, 30,
                    31, 32, 39, 43, 44, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.IvanušičZvonko">Ivanušič Zvonko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.IvanušičZvonko">Ivanušič Zvonko</actor>
                   .............................................. 23</castItem>
                <castItem>
-                  <actor xml:id="sp.JežBoris">Jež Boris</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.JežBoris">Jež Boris</actor>
                   .................................................... 46</castItem>
                <castItem>
-                  <actor xml:id="sp.KlavoraFedja">Klavora Fedja</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.KlavoraFedja">Klavora Fedja</actor>
                   ............................................ 17, 24</castItem>
                <castItem>
-                  <actor xml:id="sp.KramaričTone">Kramarič Tone</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.KramaričTone">Kramarič Tone</actor>
                   ............................................. 9, 48</castItem>
                <castItem>
-                  <actor xml:id="sp.LovšinFranc">Lovšin Franc</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.LovšinFranc">Lovšin Franc</actor>
                   ................................................. 13</castItem>
                <castItem>
-                  <actor sameAs="sp.LukačJanez">Lukač Janez</actor>
+                  <actor sameAs="#DZ-1991-ZbObc-26.">Lukač Janez</actor>
                   ........................................... 4, 34, 46</castItem>
                <castItem>
-                  <actor xml:id="sp.NovakBranko">Novak Branko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.NovakBranko">Novak Branko</actor>
                   ................................................. 21</castItem>
                <castItem>
-                  <actor xml:id="sp.OgrisFranc">Ogris Franc</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.OgrisFranc">Ogris Franc</actor>
                   .................................................. 13</castItem>
                <castItem>
-                  <actor xml:id="sp.PavšičTomaž">Pavšič Tomaž</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.PavšičTomaž">Pavšič Tomaž</actor>
                   ................................................. 10</castItem>
                <castItem>
-                  <actor xml:id="sp.PeskarMatjaž">Peskar Matjaž</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.PeskarMatjaž">Peskar Matjaž</actor>
                   ................................................. 8</castItem>
                <castItem>
-                  <actor xml:id="sp.RantAndrej">Rant Andrej</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.RantAndrej">Rant Andrej</actor>
                   .................................................. 41</castItem>
                <castItem>
-                  <actor xml:id="sp.RežunJanez">Režun Janez</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.RežunJanez">Režun Janez</actor>
                   ................................................... 2</castItem>
                <castItem>
-                  <actor xml:id="sp.RojecAnton">Rojec Anton</actor> ..............................
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.RojecAnton">Rojec Anton</actor> ..............................
                   15, 32, 35, 37, 46, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
                   ................................ 35</castItem>
                <castItem>
-                  <actor xml:id="sp.SlejkoVladimir">Slejko Vladimir</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.SlejkoVladimir">Slejko Vladimir</actor>
                   .......................................... 36, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.StarmanDanijel">Starman Danijel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.StarmanDanijel">Starman Danijel</actor>
                   .................................. 34, 35, 42, 43</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠoncMetod">Šonc Metod</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.ŠoncMetod">Šonc Metod</actor>
                   ............................................... 25, 27</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠtefančičMarcel">Štefančič Marcel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.ŠtefančičMarcel">Štefančič Marcel</actor>
                   ....................................... 5, 8, 32</castItem>
                <castItem>
-                  <actor xml:id="sp.unknown"/></castItem>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.unknown"/>
+               </castItem>
                <castItem>
-                  <actor xml:id="sp.UrbančičMiloš">Urbančič Miloš</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.UrbančičMiloš">Urbančič Miloš</actor>
                   ............................................... 35</castItem>
                <castItem>
-                  <actor xml:id="sp.VivodIvan">Vivod dr. Ivan</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.VivodIvan">Vivod dr. Ivan</actor>
                   ............................................ 5, 37</castItem>
                <castItem>
-                  <actor xml:id="sp.ZakonjšekJože">Zakonjšek Jože</actor>
+                  <actor xml:id="DZ-1991-ZbObc-26.sp.ZakonjšekJože">Zakonjšek Jože</actor>
                   ........................................... 23, 31</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.ZbObc">
+         <div xml:id="DZ-1991-ZbObc-26.div.1" ana="#PAR.ZbObc">
             <head>ZBOR  OBČIN</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="26">
+            <div xml:id="DZ-1991-ZbObc-26.div.1.1" ana="#PAR.Seja" n="26">
                <head>26. seja</head>
                <docDate>(<date when="1991-10-07">7.</date> in <date when="1991-10-08">8. oktober
                      1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-10-07T15:30:00"/>
-                  <when synch="#stage.t.2" since="#TL.1" absolute="1991-10-07T15:40:00"
-                     interval="600"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1991-10-07T18:18:00"/>
-                  <when synch="#stage.t.4" since="#TL.2" absolute="1991-10-07T20:15:00"
-                     interval="7020"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1991-10-07T21:15:00"/>
-                  <when synch="#stage.t.6" since="#TL.3" absolute="1991-10-07T22:13:00"
-                     interval="3480"/>
-                  <when synch="#stage.t.7" xml:id="TL.4" absolute="1991-10-07T23:47:00"/>
-                  <when synch="#stage.t.8" since="#TL.4" absolute="1991-10-08T00:05:00"
-                     interval="1080"/>
-                  <when synch="#stage.t.9" xml:id="TL.5" absolute="1991-10-08T00:12:00"/>
-                  <when synch="#stage.t.10" since="#TL.5" absolute="1991-10-08T00:16:00"
-                     interval="240"/>
-                  <when synch="#stage.t.11" xml:id="TL.6" absolute="1991-10-08T00:30:00"/>
-                  <when synch="#stage.t.12" since="#TL.6" absolute="1991-10-08T00:40:00"
-                     interval="600"/>
+               <timeline origin="#DZ-1991-ZbObc-26.TL.1" unit="s">
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.1"
+                        xml:id="DZ-1991-ZbObc-26.TL.1"
+                        absolute="1991-10-07T15:30:00"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.2"
+                        since="#DZ-1991-ZbObc-26.TL.1"
+                        absolute="1991-10-07T15:40:00"
+                        interval="600"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.3"
+                        xml:id="DZ-1991-ZbObc-26.TL.2"
+                        absolute="1991-10-07T18:18:00"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.4"
+                        since="#DZ-1991-ZbObc-26.TL.2"
+                        absolute="1991-10-07T20:15:00"
+                        interval="7020"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.5"
+                        xml:id="DZ-1991-ZbObc-26.TL.3"
+                        absolute="1991-10-07T21:15:00"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.6"
+                        since="#DZ-1991-ZbObc-26.TL.3"
+                        absolute="1991-10-07T22:13:00"
+                        interval="3480"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.7"
+                        xml:id="DZ-1991-ZbObc-26.TL.4"
+                        absolute="1991-10-07T23:47:00"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.8"
+                        since="#DZ-1991-ZbObc-26.TL.4"
+                        absolute="1991-10-08T00:05:00"
+                        interval="1080"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.9"
+                        xml:id="DZ-1991-ZbObc-26.TL.5"
+                        absolute="1991-10-08T00:12:00"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.10"
+                        since="#DZ-1991-ZbObc-26.TL.5"
+                        absolute="1991-10-08T00:16:00"
+                        interval="240"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.11"
+                        xml:id="DZ-1991-ZbObc-26.TL.6"
+                        absolute="1991-10-08T00:30:00"/>
+                  <when synch="#DZ-1991-ZbObc-26.stage.t.12"
+                        since="#DZ-1991-ZbObc-26.TL.6"
+                        absolute="1991-10-08T00:40:00"
+                        interval="600"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.BizjakIvan">Ivan
-                        Bizjak</actor>, <role>predsednik Zbora občin</role> in <actor
-                        xml:id="sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik
+                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="DZ-1991-ZbObc-26.sp.BizjakIvan">Ivan
+                        Bizjak</actor>, <role>predsednik Zbora občin</role> in <actor xml:id="DZ-1991-ZbObc-26.sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik
                      zbora</role>.</castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-10-07T15:30:00" xml:id="stage.t.1"
-                     >pričela ob 15.30 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <sp who="#sp.BizjakIvan">
+               <stage type="time">Seja se je <time from="1991-10-07T15:30:00" xml:id="DZ-1991-ZbObc-26.stage.t.1">pričela ob 15.30 uri</time>.</stage>
+               <div xml:id="DZ-1991-ZbObc-26.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                      <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                      <p>Spoštovane delegatke in delegati, gospe in gospodje! Pričenjam 26. sejo
                         Zbora občin Skupščine Republike Slovenije, ki sem jo sklical v skladu s
@@ -446,8 +460,10 @@
                         roku, in sicer na predlog Izvršnega sveta Skupščine Republike Slovenije.</p>
                   </sp>
 
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-ZbObc-26.toc.1.1">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>Za današnjo sejo zbora so se <title>opravičili</title>: Izabela Flego,
                            Vojka Štular, Vika Potočnik, Anton Partljič, Jože Protner in dr. Marjan
                            Mlaker.</p>
@@ -457,8 +473,10 @@
                            in sklepa.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.1.2"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-ZbObc-26.toc.1.2">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>
                            <title>Izvršni svet</title> je danes predložil tri zakone, ki so
                            posebnega pomena za nadaljnje osamosvajanje Republike Slovenije. Ker je
@@ -485,7 +503,7 @@
                            dnevnem redu. Kot rečeno, na žalost gradiv nimate še tukaj. Želi o
                            predlogu dnevnega reda kdo razpravljati? Prosim, gospod Feltrin.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Spoštovani kolegi in kolegice! Zanima me gospod predsendik, ali je 1.
                            točka o imenu denarja? Če ne, bi predlagal, da bi to zadnje
@@ -494,12 +512,12 @@
                         <p>Takole je. Jaz moram čisto odkrito priznati, da teh papirjev še nisem
                            videl. Prosim, gospod Ocvirk. Ne? Dobro.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Potem bi predlagal, da bi to zadnjo obravnaval, da bi druge dve stvari
                            prej, ker se nam lahko zavleče do jutri.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Mnenja sem, da je ravno ta točka tudi zelo pomembna, morda celo bolj od
                            zadnje točke, kjer obravnavamo šele osnutek zakona in bo na vsak način še
@@ -515,8 +533,7 @@
                            koncu obravnave vse to vrniti. To bi prosil, da opravite takrat, ko bomo
                            prekinili - pred odhodom na skupno zasedanje.</p>
                         <p>Želi še kdo o dnevnem redu kaj razpravljati? Če ne, dajem tak predlog
-                           dnevnega reda na glasovanje. Poglejmo prisotnost? <stage type="quorum"
-                              >(47 prisotnih.)</stage>
+                           dnevnega reda na glasovanje. Poglejmo prisotnost? <stage type="quorum">(47 prisotnih.)</stage>
                         </p>
                         <p>Kdo je za predlagani dnevni red? <stage type="vote">(44
                               delegatov.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage>
@@ -533,21 +550,20 @@
                            Republike Slovenije. Želi o tem predlogu izvršni svet razpravljati?
                            Prosim, gospod Režun.</p>
                      </sp>
-                     <sp who="#sp.RežunJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RežunJanez">
                         <speaker>JANEZ REŽUN:</speaker>
                         <p>Spoštovano predsedstvo, kolegi in kolegice! Nisem mislil oteževati
                            postopka, samo ne vem, mislim, da bi moral, prej ste govorili predsednik,
                            da je osnutek.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Zadnja točka je osnutek, prvi dve točki sta predlagani po hitrem
                            postopku. Ja, zadnji je osnutek, potem je v redu. Hvala lepa.</p>
                         <p>Želi še kdo razpravljati? Ne, potem dajem ta predlog izvršnega sveta na
                            glasovanje.</p>
                         <p>Kdo je za ta predlog? <stage type="vote">(46 delegatov.)</stage> Je kdo
-                           proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(1 vzdržan)</stage>.</p>
+                           proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(1 vzdržan)</stage>.</p>
                         <p>Ugotavljam, da je predlog izvršnega sveta z večino glasov sprejet.</p>
                         <p>In končno še tretji akt, to je predlog za izdajo zakona o spreminjanju
                            deponiranih deviznih vlog občanov pri Narodni banki Jugoslavije v dolg
@@ -560,23 +576,19 @@
                         <p>Želi o tem predlogu izvršni svet razpravljati? Ne. Potem dajem ta predlog
                            izvršnega sveta za združitev faz na glasovanje.</p>
                         <p>Kdo je za? <stage type="vote">(40 delegatov.)</stage> Je kdo proti?
-                              <stage type="vote">(2 delegata.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(3 delegati.)</stage>
+                              <stage type="vote">(2 delegata.)</stage> Se je kdo vzdržal? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je ta predlog z večino glasov sprejet.</p>
                         <p>S tem prekinjam to sejo in vas prosim, da se zberemo v veliki dvorani,
                            kjer bomo na skupnem zasedanju poslušali uvodno besedo. Še prej pa
                            prosim, da dvignete gradivo in se ustrezno seveda podpišete.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-10-07T15:40:00"
-                           xml:id="stage.t.2">prekinjena ob 15.40 uri</time> in se je <time
-                           from="1991-10-07T18:18:00" xml:id="stage.t.3">nadaljevala ob 18.18
+                     <stage type="time">(Seja je bila <time to="1991-10-07T15:40:00" xml:id="DZ-1991-ZbObc-26.stage.t.2">prekinjena ob 15.40 uri</time> in se je <time from="1991-10-07T18:18:00" xml:id="DZ-1991-ZbObc-26.stage.t.3">nadaljevala ob 18.18
                            uri</time>.)</stage>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Želel bi da nadaljujemo našo sejo. Najprej pa seveda, da ugotovimo
-                           prisotnost, če je zbor sklepčen. Prosim, da vsi pritisnete tipko. <stage
-                              type="quorum">(41 prisotnih.)</stage> Ugotavljam, da je zbor sklepčen,
+                           prisotnost, če je zbor sklepčen. Prosim, da vsi pritisnete tipko. <stage type="quorum">(41 prisotnih.)</stage> Ugotavljam, da je zbor sklepčen,
                            zato lahko nadaljujemo z delom.</p>
                         <p>Opravičujem se zaradi zamude pri tem nadaljevanju. Do nje je prišlo, ker
                            je Odbor za kreditno monetarni sistem delal še in žal še ni zaključil s
@@ -589,9 +601,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.BizjakIvan">
+               <div xml:id="DZ-1991-ZbObc-26.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.1">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA</title>, to je na obravnavo
                            PREDLOGA ZAKONA O DENARNI ENOTI REPUBLIKE SLOVENIJE.</p>
                         <p>Predlog zakona je predložil Izvršni svet Skupščine Republike Slovenije.
@@ -607,7 +622,7 @@
                            tako da odpiram razpravo in prosim, kdo želi besedo? Prosim, gospod
                            Lukač.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Gospod predsednik, hvala. Spoštovani kolegi! Kolegic danes nimamo. K
                            predlogu zakona o denarni enoti Republike Slovenije predlagam amandma, in
@@ -670,11 +685,11 @@
                            Karantanijo in vsaj simbolično povežemo našo prvobitno domovino s
                            sedanjo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa, gospod Lukač. Naslednji ima besedo gospod dr. Vivod.</p>
                      </sp>
-                     <sp who="#sp.VivodIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.VivodIvan">
                         <speaker>DR. IVAN VIVOD:</speaker>
                         <p>Pridružujem se amandmaju gospoda Lukača, in sicer v imenu Franca Tomšiča,
                            poslanca Družbenopolitičnega zbora, Marjana Vilfana in v svojem imenu.
@@ -690,7 +705,7 @@
                            karant pa spominja tudi na garant oziroma na garancijo, kar naj bi
                            slovenska denarna enota v bodoče tudi bila. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Preden dam besedo naslednjemu razpravljalcu, bi samo
                            predstavnike izvršnega sveta povprašal, namreč v 1. členu, drugi odstavek
@@ -701,7 +716,7 @@
                            del. Dobro.</p>
                         <p>Naslednji ima besedo gospod Štefančič.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Hvala lepa. Spoštovani predsednik, poslanci in poslanke! Imel sem
                            dobesedno enako besedilo amandmaja, ki ga je predložil gospod Lukač. Reči
@@ -735,7 +750,7 @@
                            valute z r dosegajo določeno prodornost: lira, marka, sterling, celo
                            rubelj itd. Tudi s tega stališča podpiram to stvar. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Torej tako je, jaz bi, preden gremo naprej, samo na nekaj
                            opozoril. Ne bi želel, da preveč upoštevam željo posameznikov, da
@@ -746,7 +761,7 @@
                            daleč. Da ne bi bil kdo užaljen, če bom malce opozoril, kdaj pa malce
                            potečnaril. Gospod Gradišar ima naslednji besedo.</p>
                      </sp>
-                     <sp who="#sp.GradišarCvetko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Stvari so zelo resne. Ampak jaz bi se tudi za ta karantan odločil, ker
                            klas pomeni klasna borba, tega smo 40 let imeli. Potem je bil klas spet
@@ -777,11 +792,11 @@
                            razdeliti, da bi bil v Sloveniji čebelnjak, v Hrvaškem trotnjak, v Srbiji
                            pa termitnjak.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Gospod minister Dular ima besedo.</p>
                      </sp>
-                     <sp who="#sp.DularJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DularJanez">
                         <speaker>DR. JANEZ DULAR:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani! Časi so resni. Zelo trivialno lahko
                            zveni tale debata, ampak resnično so resni in minute so zelo dragocene.
@@ -826,12 +841,12 @@
                            kot so jen, funt, šiling, pezo, sama trdna valuta, brez kakšnega "r" in
                            zelo dobro kotira po vseh borzah. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Najprej gospod Gros. Zdaj pa še tisto počasi bruha, na kar
                            sem prej opozarjal. Počakajte, da vidim koliko je replik.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Moram protestirati proti takemu govorjenju, češ, da so poslanci
                            duhovičili itn. Poslanec ima pravico svoje mnenje povedati. Če se drugi
@@ -841,11 +856,11 @@
                         <p>Obenem bi pa še povedal, da ima klas tudi nadškof ljubljanski v svojem
                            grbu in sicer dva.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Štefančič.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Jaz moram vendarle gospodu ministru oporekati. Namreč njegovemu načinu
                            nastopanja. Zakaj? Jaz sem povedal zelo naglas, ne bom ponavljal tega,
@@ -856,13 +871,13 @@
                            pa, da ni debate o merilih. Merila so pravšnja, zato mislim, da debate o
                            merilih ne bo dosti.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Repliko ima še gospod Gradišar. Je še aktualno? Dobro, ni.
                            Potem gremo po vrstnem redu prijavljenih. Naslednji ima besedo gospod
                            Matjaž Peskar.</p>
                      </sp>
-                     <sp who="#sp.PeskarMatjaž">
+                     <sp who="#DZ-1991-ZbObc-26.sp.PeskarMatjaž">
                         <speaker>MATJAŽ PESKAR:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani zbor! Zdaj vidim, da je bil predlog
                            gospoda Feltrina ob predlogu sprejemanja dnevnega reda popolnoma
@@ -893,11 +908,11 @@
                            oblasti, da je ponavadi ravnala ravno v nasprotju z javnim mnenjem. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Besedo ima gospod Kramarič.</p>
                      </sp>
-                     <sp who="#sp.KramaričTone">
+                     <sp who="#DZ-1991-ZbObc-26.sp.KramaričTone">
                         <speaker>TONE KRAMARIČ:</speaker>
                         <p>Gospod predsednik, gospe in gospodje poslanci! Škoda, ker smo šele danes
                            na klop dobili to gradivo, namesto, da bi ga doma preštudirali. Mislim,
@@ -919,7 +934,7 @@
                            je že v preteklosti znano tudi na območju Republike Slovenije. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Predlagatelja amandmajev bi spomnil na to, da ste dobili
                            amandma Zakonodajno-pravne komisije, kjer naj bi se okrajšava za denarno
@@ -930,7 +945,7 @@
                            opozorilo in pomoč mogoče, da bi bili amandmaji kakor se "šika". Gospod
                            Pavšič ima naslednji besedo.</p>
                      </sp>
-                     <sp who="#sp.PavšičTomaž">
+                     <sp who="#DZ-1991-ZbObc-26.sp.PavšičTomaž">
                         <speaker>TOMAŽ PAVŠIČ:</speaker>
                         <p>Spoštovani! Občutek imam, da poslanci ne pomenimo veliko niti pri
                            določanju denarja; je takšen občutek. Klas je pravzaprav zelo simbolično
@@ -946,11 +961,11 @@
                            sta mi dva zgodovinarja, ena bančnica in ena učiteljica in vsi so rekli,
                            kar koli že bo, ampak, klas pa ni dober. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Božič je naslednji.</p>
                      </sp>
-                     <sp who="#sp.BožičDanijel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BožičDanijel">
                         <speaker>DANIJEL BOŽIČ:</speaker>
                         <p>Hvala. Spoštovano predsedstvo, spoštovane kolegice in kolegi! Sem prišel
                            ob glas oz. na slab glas, ampak se bom potrudil vseeno par stvari
@@ -1008,11 +1023,11 @@
                            prisvajamo tudi tisto, kar ni povsem naše, ampak je skupna dediščina
                            veliko širše populacije kot samo današnjih Slovencev. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Atelšek ima naslednji besedo.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Gospod predsednik, spoštovani poslanci! Mislim, da ta naš denar,
                            kakorkoli se bo že imenoval, ne bo konvertibilen. Že zaradi izgubljanja
@@ -1071,11 +1086,11 @@
                            kako naj bi izgledal ta naš denar in kako bo, in da bi več govorili o
                            tem, kako ga bomo podprli, da bo resnično nekaj veljal. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Lovšin ima naslednji besedo.</p>
                      </sp>
-                     <sp who="#sp.LovšinFranc">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LovšinFranc">
                         <speaker>FRANC LOVŠIN:</speaker>
                         <p>Danes iščemo slovensko denarno enoto. Vendar me zanima, če jo je sploh še
                            mogoče iskati. Zato je treba najprej rešiti vprašanje, ali nima naš
@@ -1092,12 +1107,12 @@
                            neobremenjena, slovenska pa je po začetnicah slovenskih besed slovenska
                            denarna enota. To predlagam, potem pa, kakor veste. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Če želite vložiti amandma, potem prosim v pisni obliki.
                            Naslednji ima besedo gospod Ogris.</p>
                      </sp>
-                     <sp who="#sp.OgrisFranc">
+                     <sp who="#DZ-1991-ZbObc-26.sp.OgrisFranc">
                         <speaker>FRANC OGRIS:</speaker>
                         <p>Spoštovani! Tudi jaz ne bi, kot že prej gospod Atelšek, o imenu govoril.
                            Pogrešam pa nekaj v tem zakonu, ki nosi naslov "zakon o denarni enoti
@@ -1111,11 +1126,11 @@
                            je tukaj določeno, da apoene in glavna znamenja denarne enote Republike
                            Slovenije določi Banka Slovenije.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Prosim, dr. Glavič.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Gospod predsednik, spoštovani kolegi! Predlog Zakonodajno-pravne komisije
                            k 2. členu je, da bi se skrajšano ime denarne enote glasilo "slk". To je
@@ -1128,11 +1143,11 @@
                            Mislim, da je to pomembna zadeva, ki je ne bi smeli pozabiti ob tem, ko
                            razmišljamo o imenu. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gros ima naslednji besedo.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Predlagam, da sprejme naš zbor predlog Zakonodajno-pravne komisije, ki
                            govori o tem, da bi zakon moral imeti bolj določen datum začetka veljave
@@ -1146,12 +1161,12 @@
                            v Ur.l. Republike Slovenije, ki je izdan na dan 8.10.1991. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Boste to predlagali kot amandma? Prosil bi v pisni
                            obliki.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Bom dal. Moram še povedati, da Liberalna stranka zagovarja ime lipa,
                            potem stotina te enote naj bi bil lipek ali podobno, čeprav se smešno
@@ -1162,15 +1177,14 @@
                            zasebna zaenkrat, je zamenljiva, je konvertibilna, je stabilna, ima eno
                            vrednost, ima podlago in mislim, da bi se država lahko z njim dogovorila,
                            da bi ta lipa postala tudi državen denar in bi pač Banka Slovenije ta
-                           njegov projekt prevzela in od njega odkupila. Hvala. <stage type="vocal"
-                              >(Ploskanje.)</stage>
+                           njegov projekt prevzela in od njega odkupila. Hvala. <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Frelih, prosim!</p>
                      </sp>
-                     <sp who="#sp.FrelihLeopold">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FrelihLeopold">
                         <speaker>LEOPOLD FRELIH:</speaker>
                         <p>Spoštovani predsednik, spoštovani kolegi! Jaz bi močno podprl gospoda
                            Grosa in mislim, da bi morala država nekako sprejeti ta izziv s tem, da
@@ -1183,16 +1197,15 @@
                            premislek, ne da imamo na razpolago tri ure in v treh urah smo že
                            nanizali 7 kombinacij. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
-                        <p>Hvala lepa. Prijavljenih za razpravo trenutno ni več. <stage
-                              type="location">(Iz klopi ...)</stage> Prosim, gospod Rojec, potem
+                        <p>Hvala lepa. Prijavljenih za razpravo trenutno ni več. <stage type="location">(Iz klopi ...)</stage> Prosim, gospod Rojec, potem
                            morda predstavnik izvršnega sveta, potem pa nameravam prekiniti to
                            razpravo. Ne bi je zaključil, ker moramo najprej še slišati poročilo
                            matičnega delovnega telesa in bi potem še eventualno nadaljevali
                            razpravo. Gospod Rojec, prosim!</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Gospod predsednik, spoštovane poslanke, poslanci! Mi smo danes v tej
                            razpravi slišali med drugim tudi to, češ, da so bila postavljena merila
@@ -1238,12 +1251,12 @@
                            dobesedno s strani določenih ljudi izmišljena, temu po moje ta skupščina
                            ne bi smela slediti. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Še kdo? Gospod Dular, vi ste se priglasili. Besedo ima Janez
                            Dular, član Izvršnega sveta Skupščine Republike Slovenije.</p>
                      </sp>
-                     <sp who="#sp.DularJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DularJanez">
                         <speaker>DR. JANEZ DULAR:</speaker>
                         <p>Jaz se zahvaljujem zadnjemu govorniku zato, ker je govoril o merilih.
                            Namreč, ne glede na to, ali si je kdo ta merila izmislil ali ne, dejstvo
@@ -1288,11 +1301,11 @@
                            razpletal. Diskusija je bila, kakršna je bila, prepuščam, da se potem
                            odločite. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Mislim, da je taka obrazložitev ne sprejetja imena Lipe nesprejemljiva.
                            Ne vem in tudi ne verjamem, da je gospod Oblak tako ne komunikativen, da
@@ -1307,12 +1320,12 @@
                            Veste, v gospodarstvu je tako, da se ne moreš vedno samo s prijetnimi
                            pogovarjati. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Je še nekaj, ja gospod Klavora najprej! Gospod dr. Glavič ste
                            vi tudi želeli replicirati? Ja, naslednji ste.</p>
                      </sp>
-                     <sp who="#sp.KlavoraFedja">
+                     <sp who="#DZ-1991-ZbObc-26.sp.KlavoraFedja">
                         <speaker>FEDJA KLAVORA:</speaker>
                         <p>Ne bi želel nadaljevati to debato v smeri, ki ste jo vodili vsi skupaj.
                            Ampak mislim, da je predstavnik izvršnega sveta pozabil na eno pobudo, ki
@@ -1323,11 +1336,11 @@
                            kot je pač običajna procedura in sprejmemo zakon za te začasne bone. Samo
                            toliko, Če mogoče predstavnik odgovori v tem smislu!</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod dr. Glavič.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Dovolite, samo replika na vprašanje lipe. Mi smo z gospodom Hamurabijem
                            govorili tudi o tej zadevi in on meni, da ta sistem, ki je tu predlagan,
@@ -1359,11 +1372,11 @@
                            je za to potrebno neko prehodno obdobje, potem se je treba temu primerno
                            naravnati in ne zahtevati v prvi fazi vse, ker to ni mogoče. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Atelšek.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Jaz bi podprl predlog gospoda Klavore in mislim, da je važno, da se za
                            jutri ali naprej sprejme ta del, kar zadeva bone, ostalo se lahko
@@ -1381,11 +1394,11 @@
                            samo dizajn, ker to je en segment, ampak cela tehnologija denarja tako
                            daleč obdelana, da je sprejemljiva, da to lahko vzamemo v zakon.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod dr. Dular prosim.</p>
                      </sp>
-                     <sp who="#sp.DularJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DularJanez">
                         <speaker>DR. JANEZ DULAR:</speaker>
                         <p>Najprej povem samo nekaj, kar sem prej pozabil v zvezi z apoeni in temi
                            rečmi. Torej za to je pristojna Banka Slovenije, da z ustreznimi
@@ -1404,11 +1417,11 @@
                            prekrstilo in to ni najboljša psihološka priprava za trdnost in sploh za
                            image neke valute.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Božič.</p>
                      </sp>
-                     <sp who="#sp.BožičDanijel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BožičDanijel">
                         <speaker>DANIJEL BOŽIČ:</speaker>
                         <p>Mislim, da nas večina govori isto, razen tisti, ki se ukvarjajo z
                            glasbeno platjo imena. Namreč, kaj bomo imeli od denarja, ki bo imel
@@ -1428,11 +1441,11 @@
                            odgovornost, to podpisati, da ga potem lahko seveda preganjamo naslednjih
                            30, 40 let in naredimo iz njega novega junaka. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Dragovan.</p>
                      </sp>
-                     <sp who="#sp.DragovanSlavko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DragovanSlavko">
                         <speaker>SLAVKO DRAGOVAN:</speaker>
                         <p>Menim, da kakorkoli se bo že imenoval ta denar, glede na gospodarsko
                            situacijo bo tak, ali drugačen denar obsojen na propad. Dejal bi takole:
@@ -1447,11 +1460,11 @@
                            v naši državi in da se s tem zelo, zelo na veliko manipulira. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Frelih.</p>
                      </sp>
-                     <sp who="#sp.FrelihLeopold">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FrelihLeopold">
                         <speaker>LEOPOLD FRELIH:</speaker>
                         <p>Spoštovani! Jaz bi samo eno repliko na gospoda Dularja. Gre za tako
                            imenovani brez imenski bon. Jaz mislim, da je to prava strategija. V tem
@@ -1466,7 +1479,7 @@
                            je bila že v tako imenovani javnosti dve leti. Hvala lepa. Amandma sem
                            vložil in ga boste dobili na mizo.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Če dovolite, bi prekinil to razpravo, namreč, ker ne bo, po
                            mojem mnenju, v tem trenutku nekaj novega prinesla. BOmo se že vrnili k
@@ -1494,8 +1507,11 @@
                            poročilo matičnega odbora.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.2">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>Želi kdo vsekakor še sedaj spregovoriti? Če ne, prekinjam to razpravo in
                            prehajamo na <title>2. TOČKO DNEVNEGA REDA</title>, to je na obravnavo
                            PREDLOGA ZAKONA O UPORABI DENARNE ENOTE REPUBLIKE SLOVENIJE.</p>
@@ -1508,7 +1524,7 @@
                            denarne enote Republike Slovenije. Kdo želi besedo? Prosim, gospod
                            Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Tudi pri tem zakonu predlagam, da podpremo mnenje Zakonodajno-pravne
                            komisije, ki je dala mnenje, da naj bi v 10. členu bilo določeno, da bi
@@ -1518,7 +1534,7 @@
                            Slovenije, ki bo izšel dne 8/10-1991. Iz podobnih razlogov kot sem
                            povedal prej, da ne zavlačujem. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Naslednji razpravljalci. Želi še kdo besedo? Če ne, potem
                            tudi tukaj prekinjam razpravo. Je še ne zaključujem, da slišimo prej še
@@ -1529,8 +1545,11 @@
                            morda prihranimo malce časa.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" n="3" corresp="#toc.2.3">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.3">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>
                            <title>3. TOČKA DNEVNEGA REDA JE OBRAVNAVA PREDLOGA ZA IZDAJO ZAKONA O
                               SPREMINJANJU DEPONIRANIH DEVIZNIH VLOG OBČANOV PRI NARODNI BANKI
@@ -1550,7 +1569,7 @@
                            poročevalec tega odbora, gospod Branko Novak, besedo. Prosim gospod
                            Novak.</p>
                      </sp>
-                     <sp who="#sp.NovakBranko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.NovakBranko">
                         <speaker>BRANKO NOVAK:</speaker>
                         <p>Spoštovani! Ker tole naše poročilo ni razmnoženo, ga bom prebral. V
                            začetku obravnave je Odbor za proračun in javne finance postavil nekaj
@@ -1593,13 +1612,13 @@
                            deviznih vlog občanov pri bankah v Republiki Sloveniji z osnutkom zakona,
                            skupaj s pripombami odbora, ki sem jih zdaj prebral. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa, gospod Novak. S strani Zakonodajno-pravne komisije ni
                            potrebno poročilo. Torej začenjam razpravo. Kdo želi besedo? Prosim,
                            gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Sem se že bal, da ne bo nobeden dvignil, pa da bo šlo mimo vse skupaj.
                            Vidim, da se je še gospod Atelšek javil. Torej, zlasti tisti 3. člen tega
@@ -1631,7 +1650,7 @@
                            bomo podpisali ropa bank nad državo ali njenimi varčevalci. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Preden nadaljujemo z razpravo, vprašam, ali imamo prisotnega
                            predstavnika izvršnega sveta? <stage type="debate">(Ne.)</stage> Ali se
@@ -1639,7 +1658,7 @@
                            ali odgovor?</p>
                         <p>Dalje se je k besedi priglasil gospod Ivanušič.</p>
                      </sp>
-                     <sp who="#sp.IvanušičZvonko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.IvanušičZvonko">
                         <speaker>ZVONKO IVANUŠIČ:</speaker>
                         <p>Pri tem zakonu gre za nadaljevanje prisilne odtujitve deviznih sredstev
                            in v smeri povečevanja zaupanja v ta bančni sistem predlagam v preučitev,
@@ -1654,12 +1673,12 @@
                            razširili za vsa plačila državi. Kajti mislim, da bomo na tak način lahko
                            bolj zainteresirani. Pa tudi za davke. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Gospod Zakonjšek, potem gospod Atelšek in za njim gospod
                            Klavora.</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1991-ZbObc-26.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
                         <p>Podpredsednik, spoštovani zbor! Vidite, gospod Gros se je izgleda zaman
                            bal, da ne bo razprave o tem osnutku zakona. Jaz bi se pridružil, da ne
@@ -1689,11 +1708,11 @@
                            o katerih je bilo govora, tudi glede deviz občanov - potem izgubi svoj
                            smisel. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ</speaker>
                         <p>: Hvala lepa. Gospod Atelšek.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Spoštovani! 3. člen - Vse banke v Sloveniji so dobile dinarsko
                            protivrednost za odstopljene devizne Narodni banki Jugoslavije in so te
@@ -1738,11 +1757,11 @@
                            Če niso še to dobile, potem je pa katastrofa. Potem je pa nemogoče. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospod Klavora.</p>
                      </sp>
-                     <sp who="#sp.KlavoraFedja">
+                     <sp who="#DZ-1991-ZbObc-26.sp.KlavoraFedja">
                         <speaker>FEDJA KLAVORA:</speaker>
                         <p>Če dovolite, se kljub temu oglasim, čeprav mislim, da je kolega iz Odbora
                            za finance že obrazložil, zakaj bi ne smeli sprejeti tega 15. člena,
@@ -1758,11 +1777,11 @@
                            vrniti, tako kot je bilo že predlagano, nazaj izvršnemu svetu, da ga
                            dopolni v vseh vidikih.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospod Šonc.</p>
                      </sp>
-                     <sp who="#sp.ŠoncMetod">
+                     <sp who="#DZ-1991-ZbObc-26.sp.ŠoncMetod">
                         <speaker>METOD ŠONC:</speaker>
                         <p>Ocenjujem, da je ta zakon izjemno pomemben za našo javnost in da ga ne bi
                            mogli poslanci kar tako sprejeti z levo roko, in sploh se ne strinjam, da
@@ -1783,11 +1802,11 @@
                            podpiram, če so že obveznice, morajo biti uporabne na trgu kot denar.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Lista razpravljalcev še ni izčrpana. Gospod Frelih.</p>
                      </sp>
-                     <sp who="#sp.FrelihLeopold">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FrelihLeopold">
                         <speaker>LEOPOLD FRELIH:</speaker>
                         <p>Spoštovani! Jaz bi podprl gospoda Ivanušiča, če sem prav povedal,
                            predvsem z dveh vidikov. Mislim, da razumemo vsi, da je treba ta javni
@@ -1808,11 +1827,11 @@
                            bi predlagal, da se to veže na kombinacijo marka, dolar, švicarski frank.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospod Glavič.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Spoštovani kolegi, tudi jaz se pridružujem temu predlogu. Obveznice v
                            Avstriji in v drugih avstrijskih deželah so najmanj 8 %, ali pa celo več
@@ -1831,20 +1850,20 @@
                            strokovno razdelati in formulirati ustrezno politiko, ki bo potem zdržala
                            tudi v zakonu o lastninjenju bank. Hvala.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Gospod Dragovan.</p>
                      </sp>
-                     <sp who="#sp.DragovanSlavko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DragovanSlavko">
                         <speaker>SLAVKO DRAGOVAN:</speaker>
                         <p>Želim samo bolj jasno povedati, kar je že gospod Frelih rekel. Predlagam,
                            da se obveznice obrestujejo po 10 % obrestni letni meri. Hvala.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Gospod Feltrin.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Občutek imam, da je ta zakon prišel tako vroč na naše klopi, kot ne bi
                            bilo treba. Ne vem, kdo ga je v vladi tako forsiral, da tako rečem, da
@@ -1878,15 +1897,14 @@
                            varčevalcem, bo pa po sto mark, začela bo. To, kar je pa tukaj predlagano
                            je pa čista kraja in čista lopovščina, kar mislim, da si tudi Srbija ne
                            bo tega privoščila, pa ne Hrvaška, čeprav je v vojni. Mi pa, Slovenija,
-                           pravimo, kako smo pošteni, si pa to privoščimo. Hvala. <stage
-                              type="vocal">(Ploskanje.)</stage>
+                           pravimo, kako smo pošteni, si pa to privoščimo. Hvala. <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Ali še kdo želi? Prosim, gospod dr. Glavič ima repliko.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Jaz hočem samo to reči, da je vlada resnično nespretna v teh zadevah. Če
                            želite, jaz imam predlog, kako bi te devize, ki so sedaj v nogavicah,
@@ -1894,7 +1912,7 @@
                            ponavljal, če kdo hoče, sem na voljo, če pa ne, pač naj propadajo tam,
                            kjer so. Hvala.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Še kdo? Če ne, potem lahko zaključim razpravo in prosim, da
                            ugotovimo sklepčnost! 46. Dovolj, da veljavno sklepamo.</p>
@@ -1910,14 +1928,14 @@
                            pripombe ter predloge iz razprave delegatov na seji zbora.</p>
                         <p>Želi kdo razpravljati o tem predlogu sklepa? Gospod Šonc.</p>
                      </sp>
-                     <sp who="#sp.ŠoncMetod">
+                     <sp who="#DZ-1991-ZbObc-26.sp.ŠoncMetod">
                         <speaker>METOD ŠONC:</speaker>
                         <p>Jaz mislim, da v tem sklepu ni enega zelo pomembnega določila. To je to,
                            kar sem jaz tudi predlagal, da se "strogo zaupno" črta in bi predlagal
                            zboru, da to sprejmemo s sklepom, če sprejmemo to, kar je gospod
                            podpredsednik predlagal.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Imam opozorilo gospoda sekretarja, da je to v pristojnosti predlagatelja,
                            to je Izvršnega sveta, ki je to stopnjo zaupnosti določil in mi lahko
@@ -1927,12 +1945,12 @@
                            zaupnosti, če se gospod Šonc s tem strinja? To bi bilo v skladu z
                            določilom. Prosim.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Jaz sem predlagal, da ga sploh ne sprejmemo, pa naj vlada da nov osnutek
                            zakona.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Prav. Imamo dva predloga. Predlog, ki sem ga prebral, v katerem se
                            predlog za izdajo zakona z osnutkom zakona sprejme in nalaga
@@ -1963,7 +1981,7 @@
                         </p>
                         <p>Moment, gospod Gros želi obrazložitev glasu.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Moram reči, da se z gospodom Feltrinom strinjam s tistim, kar je govoril;
                            večji del. Mislim, da skoraj v vsem. Ampak, mi bi le morali predlog za
@@ -1972,7 +1990,7 @@
                            vlada prouči in dajmo vlado zadolžiti, da bo nekaj naredila, ne pa da se
                            bo skrila za naš sklep in ne bo nič naredila. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa gospod Gros. Torej, glasujemo o predlogu oziroma jaz bi takole
                            postavil: predlog gospoda Feltrina, kolikor razumem, je negacija predloga
@@ -1993,11 +2011,9 @@
                            bližini, morda bo lahko tudi dlje trajala, tako da se pač odzivajte na
                            signal.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-10-07T20:15:00"
-                           xml:id="stage.t.4">prekinjena ob 20.15 uri</time> in se je <time
-                           from="1991-10-07T21:15:00" xml:id="stage.t.5">nadaljevala ob 21.15
+                     <stage type="time">(Seja je bila <time to="1991-10-07T20:15:00" xml:id="DZ-1991-ZbObc-26.stage.t.4">prekinjena ob 20.15 uri</time> in se je <time from="1991-10-07T21:15:00" xml:id="DZ-1991-ZbObc-26.stage.t.5">nadaljevala ob 21.15
                            uri</time>.)</stage>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Zato poglejmo ali je prisotnost zadostna? 43 prisotnih. Ugotavljam, da je
                            zbor sklepčen, zato nadaljujemo z delom. Gremo po vrsti. Ti dve točki,
@@ -2007,14 +2023,17 @@
                            odločamo.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.3a" ana="#PAR.TDR" n="1" corresp="#toc.2.4">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.3a"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.4">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>Prehajamo najprej na 1. TOČKO, TOREJ PREDLOG ZAKONA O DENARNI ENOTI
                            REPUBLIKE SLOVENIJE.</p>
                         <p>Prosim poročevalca matičnega odbora, da nam poda poročilo. Gospod Janko
                            Deželak.</p>
                      </sp>
-                     <sp who="#sp.DeželakJanko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DeželakJanko">
                         <speaker>JANKO DEŽELAK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane kolegice in kolegi poslanci! Moram
                            reči, da so dogajanja današnjega dne v parlamentu te države bila zelo
@@ -2068,12 +2087,12 @@
                            primer, če sem dal dovolj dobro primerjavo, ne vem. Upam, da ste
                            zaslutili to distinkcijo v načinu obravnave. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi o tem poročilu še kdo razpravljati? Prosim gospod
                            Atelšek.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Že prej sem poudaril, da je vlada imela tri mesece čas, da bi lahko
                            temeljito pripravila in vi bi lahko včeraj ob 9. uri prišli, namesto
@@ -2099,11 +2118,11 @@
                            iti, nisem čisto nič nasproten ničemur, da sprejmemo karkoli, sem pa
                            načinu nasproten. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gros, prosim!</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Kakor je gospod Atelšek povedal, je kar zelo res. Moram reči, da se z
                            večino teh predlogov strinjam, ker dejansko smo tukaj samo, se gremo
@@ -2122,11 +2141,11 @@
                            dejansko jutri zjutraj začne tiskati Uradni list z datumom 8. oktober.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Zakonjšek, prosim!</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1991-ZbObc-26.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani zbor! Spomnim se ene razprave
                            nazaj, šlo je za zakone o osamosvajanju, ki smo bili postavljeni pred
@@ -2142,11 +2161,11 @@
                            naj se imenuje kakorkoli že hoče. O tem se bomo lahko še pogovorili.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Rojec.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Gospod predsednik, spoštovani poslanci! Moram reči, da mene razlogi, ki
                            jih je podal moj prijatelj, poslanec, gospod Deželak, niso prepričali.
@@ -2166,11 +2185,11 @@
                            to poimenovanje zdaj ni pogoj, brez katerega mi ne bi mogli te zadeve
                            urediti. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Štefančič. Dobro, takoj za tem.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Torej, jaz mislim na vsak način, da velja prisluhniti tudi tem razpravam,
                            ki tečejo sedaj in verjetno da ni ugoden čas za nominacijo. Kajti mnenja
@@ -2184,11 +2203,11 @@
                            dodajamo mi, ali dajmo, vse napore, da vse to uredimo, medtem ko bo
                            imenovanje denarja verjetno treba prepustiti času.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gros ima besedo.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Prišel sem dol glede na to, da imamo do polnoči še dve uri in pol časa in
                            pred polnočjo itak tega zakona zaradi brionske deklaracije ne smemo
@@ -2205,14 +2224,13 @@
                            izdajati denar v obliki bonov. To se pravi, to je dokaz, da to sploh ni
                            pomembno ali smo priznani ali nismo. Moram reči, da kranjska občina, če
                            ne bomo sprejeli svojega denarja, tudi razmišlja o izdaji svojega
-                           denarja. Toliko, da ne boste mislili, da to ni možno. <stage type="vocal"
-                              >(Ploskanje in smeh)</stage>.</p>
+                           denarja. Toliko, da ne boste mislili, da to ni možno. <stage type="vocal">(Ploskanje in smeh)</stage>.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Prosim, še gospod Dvornik.</p>
                      </sp>
-                     <sp who="#sp.DvornikMarjan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DvornikMarjan">
                         <speaker>MARJAN DVORNIK:</speaker>
                         <p>Rad bi rekel samo to, da sem v tej skupščini vse prepogosto priča veliki
                            cagavosti in cagavost je v slovenski zgodovini ponavadi pomenila, da smo
@@ -2221,12 +2239,12 @@
                            klas. Glede na razprave, ki pa govorijo, da bi morali imeti bonske
                            vrednosti, jaz poznam samo eno, to je pa marka.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Ali bo morda predstavnik vlade še želel kaj dodati k tej razpravi?
                            Prosim, gospod Stanko Debeljak, namestnik ministra za finance.</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Jaz verjamem, da to, kar bom sedaj povedal, ne bo presekalo razprave o
                            imenu. Veliko jo je bilo že do sedaj, veliko je je danes na seji zbora,
@@ -2255,11 +2273,11 @@
                            predlagam, da podprete predlog Odbora za kreditno monetarni sistem, da se
                            ostane na imenu klas in da tudi o tem glasujete. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Atelšek.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Kaj je vzrok vlade, da nobenega amandmaja, ki so bili tu vloženi, ne
                            akceptira. O imenu jaz sedaj govorim, pa ne misliti, da sem za ime. Kaj
@@ -2267,11 +2285,11 @@
                            še ni nič natiskano in tako naprej? Ostali argumenti so bili tudi podani
                            v samih amandmajih. Prosim, rad bi tu odgovor imel.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. No bom še tole Dragovan prosim, naslednji je gospod Lukač.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa gospod predsednik. Spoštovani kolegi, bom zelo kratek. Ni fer,
                            da se bistvena vsebinska vprašanja, ki jih sploh ne urejamo s prvim
@@ -2287,11 +2305,11 @@
                            za karant, celo če bi hotel ga parafrazirati, je on dal najboljšo
                            utemeljitev za to. Hvala lepa. Zato vztrajam pri svojem amandmaju.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Starman.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Nisem mislim razpravljati, vendar mislim, da je potrebno povedati to, da
                            so razlogi, ki jih navaja vlada takega pomena, da moramo danes nekaj
@@ -2313,7 +2331,7 @@
                            strokovnem timu so v klasu vsebovani. In nekaj je še potrebno povedati.
                            Danes...</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospod Starman, jaz bi prosil, da ne bi preveč utemeljevali posamezne
                            predloge. To bomo pokazali z glasovanjem, da ne bi predolgo šlo, zato vas
@@ -2321,7 +2339,7 @@
                            pustil govoriti. Samo toliko, da ne bi tukaj 60 ljudi utemeljevalo svoje
                            stališče.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Gospod predsednik, jaz sem prvič tukaj, stvar je izjemno pomembna in ni
                            vseeno, ali bo naš zbor sprejel takšno ali drugačno stališče. Moram
@@ -2329,14 +2347,14 @@
                            amandmaji se ukvarjajo z imeni, ki so že v javnosti, samo gre za to,
                            kateri lobi bo močnejši. Samo toliko. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. No, ravno to je tisto, ne bi želel tukaj, ali bi uporabil eno
                            grdo besedo, "prepucavanja" lobijev, ker potem bo treba glavo nekam
                            skriti, konec bo pa takrat, ko bomo vsi izčrpani, kajne.</p>
                         <p>Gospod Urbančič ima besedo.</p>
                      </sp>
-                     <sp who="#sp.UrbančičMiloš">
+                     <sp who="#DZ-1991-ZbObc-26.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Jaz bi se zahvalil jugu, da nas je prisilil, da bomo oddali svoj denar.
                            Potem se za to, ker smo pač, nimamo več kaj iskati ali pa odlagati, da se
@@ -2347,11 +2365,11 @@
                            Brionski sporazumi so samo prepovedovali, da ne smemo izdati denarja,
                            razpravo bi pa mi lahko opravljali. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Rojec.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Namreč želel bi samo gospodu Grosu odgovoriti to, da mi imamo priznanje o
                            treh baltskih držav, je meni znano. Torej, to v bistvu zadeve ne
@@ -2360,14 +2378,14 @@
                            glavnih gospodarskih partnerjev s to novo valuto, npr. z Avstrijo,
                            Nemčijo in ostalimi.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Glede na to, da z dinarji nismo plačevali Avstrijcem, mislim da to
                            vprašanje ni relevantno v tem trenutku, jaz bi prosil, prosim? Je
                            vsebinsko vprašanje? Dobro, naslednji ima besedo gospod Schwarzbartl.
                            Jemljem svojo besedo nazaj, sem se prenaglil.</p>
                      </sp>
-                     <sp who="#sp.SchwarzbartlErvinAnton">
+                     <sp who="#DZ-1991-ZbObc-26.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Mislim, da se je razvnela debata ravno okrog tega, kaj je vsebinsko
                            vprašanje in dejansko je to vsebinsko vprašanje, da se zmenimo, kaj bo
@@ -2386,7 +2404,7 @@
                            zato ker bi bilo zelo koristno, da mi še nocoj sprejmemo zakone. Ne gre
                            pa toliko za ime. Ker mene skrbi predvsem vsebina.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Tega odgovora ne morem dati. Začeli smo vsi trije zbori
                            hkrati. Glede na to, kako živahni smo danes v našem zboru, v nasprotju z
@@ -2395,7 +2413,7 @@
                            rekel, gonjač danes in malo priganjam, krajšam in tako dalje. Gospod
                            Slejko ima besedo.</p>
                      </sp>
-                     <sp who="#sp.SlejkoVladimir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.SlejkoVladimir">
                         <speaker>VLADIMIR SLEJKO:</speaker>
                         <p>Že cel večer poslušam, kakšen denar bomo imeli. Sem mislil, da se je
                            Demos vsaj med sabo zmenil, kakšnega hočejo imeti, na svojih poslanskih
@@ -2407,14 +2425,14 @@
                            resnost je te vlade, če nam ne more določiti enega denarja, pa stati za
                            tem. Zdaj se med sabo ne morete zmeniti, bomo šli ven in se zmenite.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Očitno ime ni toliko pomembno vprašanje, da bi ga šli poenotiti znotraj
                            Demosa. Lepo prosim, da zadržimo mirno kri. Če ni kake nuje, da kdo še
                            kaj govori, bi predlagal, da gremo čimprej na glasovanje. Prosim, gospod
                            Frelih.</p>
                      </sp>
-                     <sp who="#sp.FrelihLeopold">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FrelihLeopold">
                         <speaker>LEOPOLD FRELIH:</speaker>
                         <p>Spoštovani predsednik in kolegi! Vedno večja nuja je, da bi glasovali o
                            mojem amandmaju. Ker očitno vidim, da je to tako pereč problem; načeli
@@ -2422,17 +2440,17 @@
                            imamo do dvanajste ure pa sem prepričan, da če začnemo drugače
                            usklajevati, ne bomo prišli do konca. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Še kdo želi razpravljati? Prosim, gospod Franko.</p>
                      </sp>
-                     <sp who="#sp.FrankoKarel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.FrankoKarel">
                         <speaker>KAREL FRANKO:</speaker>
                         <p>Klas naj bo pšeničen ali rženi, nam daje kruh, kako z veseljem gledamo
                            kmetje in tudi drugi po polju, če vidimo, da so klasi lepi, da so dorasli
                            in nam obetajo dobro letino. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Ker ni razprave, zaključujem razpravo.</p>
                         <p>Prehajamo na glasovanje. Opozarjam na to, da imamo k 1. členu kar nekaj
@@ -2459,7 +2477,7 @@
                            zbor izpadli razdvojeni. Gospod Rojec imate proceduralno zadevo?
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Gospod predsednik, mislim naslednje. Če je tu več amandmajev, ne vidim
                            razloga, zakaj tudi več amandmajev ne bi moglo biti izglasovanih. Bomo
@@ -2467,7 +2485,7 @@
                            zdaj nam, bi rekel, ukazati, kako naj o posameznem amandmaju
                            glasujemo.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Ja, hvala lepa za tako inovativno pripombo, mislim, da zakona, v katerem
                            bi imeli dva prva člena, ne moremo objaviti. Ne glede na to, da imamo za
@@ -2478,12 +2496,12 @@
                         <p>Gremo na glasovanje. Torej poglejmo prisotnost. 55 prisotnih.</p>
                         <p>Gospod Vivod želite besedo? Prosim.</p>
                      </sp>
-                     <sp who="#sp.VivodIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.VivodIvan">
                         <speaker>DR. IVAN VIVOD:</speaker>
                         <p>Jaz umikam amandma, ker itak gospod Lukač podobno nastopa in nima smisla,
                            da se potem tukaj komplicira pri glasovanju.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospod Vivod je umaknil svoj amandma. Hvala. Gremo na glasovanje o
                            amandmaju gospoda Lukača. Besedi "klas" v prvem in drugem odstavku tega
@@ -2496,11 +2514,11 @@
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>Gremo na amandma gospoda Štefančiča. Prosim? </p>
                      </sp>
-                     <sp who="#sp.unknown">
+                     <sp who="#DZ-1991-ZbObc-26.sp.unknown">
                         <stage type="location">(Iz klopi:</stage>
                         <ab>Število se ne ujema!)</ab>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p> Je razlika tako velika, ujema se le za en glas, čeprav računam. Dobro,
                            to pomeni, da en glas ne bi prevagal v nobeno smer.</p>
                         <p>Drugi amandma gospoda Štefančiča, ki pravi, da je to amandma gospoda
@@ -2508,8 +2526,7 @@
                            odstavku se beseda "klas" nadomesti z besedo "karant" v drugem odstavku
                            se beseda "stotin" nadomesti z besedo "stotink".</p>
                         <p>Kdo je za ta amandma? <stage type="vote">(22 delegatov.)</stage> Kdo je
-                           proti? <stage type="vote">(21 delegatov.)</stage> Vzdržani? <stage
-                              type="vote">(12 delegatov.)</stage>
+                           proti? <stage type="vote">(21 delegatov.)</stage> Vzdržani? <stage type="vote">(12 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da tudi ta amandma ni sprejet.</p>
                         <p>Naslednji je amandma gospoda Kramariča. Besedilo 1. člena se spremeni
@@ -2521,8 +2538,7 @@
                            besedo "lipa". Beseda "stotin" v 1. členu se zamenja z besedo
                            "lipek".</p>
                         <p>Kdo je za ta amandma? <stage type="vote">(33 delegatov.)</stage> Kdo je
-                           proti? <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage
-                              type="vote">(19 delegatov.)</stage>
+                           proti? <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage type="vote">(19 delegatov.)</stage>
                         </p>
                         <p>Ugotavlja, da je amandma gospoda Grosa z večino glasov sprejet.</p>
                         <p>Imamo naslednji amandma gospoda Lovšina, denarna enota Republike
@@ -2544,8 +2560,7 @@
                            amandma gospoda Grosa. Beseda "KRS" v 2. členu se zamenja z besedo
                            "SLL".</p>
                         <p>Kdo je za ta amandma? <stage type="vote">(35 delegatov.)</stage> Kdo je
-                           proti? <stage type="vote">(8 delegatov.)</stage> Vzdržanih? <stage
-                              type="vote">(9 delegatov.)</stage>
+                           proti? <stage type="vote">(8 delegatov.)</stage> Vzdržanih? <stage type="vote">(9 delegatov.)</stage>
                         </p>
                         <p>Amandma je z večino glasov sprejet.</p>
                         <p>Naprej. Ali kdo umika amandma k 2. členu zdaj? Nihče. Amandma
@@ -2582,7 +2597,7 @@
                         <p>Stališč vlade načeloma nimamo kaj dosti, k imenom vemo kakšno je
                            stališče, k drugemu pa mislim, da je korektno.</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Res je razprava zaključena, vendar moram povedati, da se z zakonom ne da
                            določiti tehničnih možnosti za datum izdaje zakona. O tem lahko po
@@ -2590,11 +2605,11 @@
                            tem členu odveč oz. je tako kratek, da se ga tehnično ne da
                            uveljaviti.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gros prosim.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Meni ne preostane drugega kot da obrazložim svoj glas, moram pa povedat,
                            da to, kar je gospod Debeljak rekel, ne drži. Nikjer, ne v poslovniku
@@ -2606,19 +2621,17 @@
                            jaz priskrbel privatnega tiskarja, ki bo natisnil kolikor hočete uradnih
                            listov do jutri zjutraj. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Glasujemo o amandmaju gospoda Grosa.</p>
                         <p>Kdo je za ta amandma? <stage type="vote">(44 delegatov.)</stage> Kdo je
-                           proti? <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage
-                              type="vote">(9 delegatov.)</stage>
+                           proti? <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage type="vote">(9 delegatov.)</stage>
                         </p>
                         <p>Amandma je z večino glasov sprejet.</p>
                         <p>Glasujemo o predlogu zakona o denarni enoti Republike Slovenije skupaj s
                            sprejetimi amandmaji.</p>
                         <p>Kdo je za? <stage type="vote">(51 delegatov.)</stage> Kdo je proti?
-                              <stage type="vote">(1 delegat.)</stage> Vzdržani? <stage type="vote"
-                              >(3 delegati.)</stage>
+                              <stage type="vote">(1 delegat.)</stage> Vzdržani? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je zakon o denarni enoti Republike Slovenije z večino
                            glasov sprejet.</p>
@@ -2638,8 +2651,11 @@
                            gre na delo.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.TDR" n="2" corresp="#toc.2.5">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.4"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.5">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>Ponovno se vračamo na <title>2. TOČKO DNEVNEGA REDA</title>, to je na
                            obravnavo PREDLOGA ZAKONA O UPORABI DENARNE ENOTE REPUBLIKE
                            SLOVENIJE.</p>
@@ -2647,7 +2663,7 @@
                            za kreditno monetarni sistem in politiko za poročilo o tem zakonu.
                            Prosim, gospod Janko Deželak.</p>
                      </sp>
-                     <sp who="#sp.DeželakJanko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DeželakJanko">
                         <speaker>JANKO DEŽELAK:</speaker>
                         <p>Hvala lepa. Moram reči, da sem še malo pod vtisom glasovanja pod prvo
                            točko dnevnega reda in bom zato zelo kratek. Ne bi bral. Odbor je podprl
@@ -2686,30 +2702,30 @@
                            predlagal zboru, da tak predlog zakona v tej dikciji tudi sprejme. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi o tem poročilu kdo razpravljati? Ne želi nihče, kot
                            vidim. Gospod Dragovan prosim.</p>
                      </sp>
-                     <sp who="#sp.DragovanSlavko">
+                     <sp who="#DZ-1991-ZbObc-26.sp.DragovanSlavko">
                         <speaker>SLAVKO DRAGOVAN:</speaker>
                         <p>Samo eno vprašanje. Kako bo s tako imenovanimi krediti oz. obrestmi na
                            dosedanje dinarje? Ali bo tu vlada predpisala neke obresti, ali bo to šlo
                            ta teden še vse po starem? Zanima me to vprašanje, kako bo to rešljivo.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Ali se da dobiti odgovor na to vprašanje? Prosim, gospod Rant.</p>
                      </sp>
-                     <sp who="#sp.RantAndrej">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RantAndrej">
                         <speaker>ANDREJ RANT:</speaker>
                         <p>(Banka Slovenije) Krediti in terminski depoziti Slovenije naj bi se po
                            stanju na dan, ko bo začel veljati ta zakon, obračunali na dosedanji
                            način in preračunali po tečaju, ki bo veljal z obrestno mero, ki bo
                            veljala v novi valuti.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Torej, prijavljenih za razpravo ni več. Zato naj razpravo
                            zaključim. K temu zakonu imamo skupaj dva amandmaja, in sicer k 9. členu
@@ -2722,28 +2738,24 @@
                            Republike Slovenije. Najprej glasujemo o amandmaju Zakonodajno-pravne
                            komisije k 9. členu.</p>
                         <p>Poglejmo prisotnost - 51. Kdo je za amandma Zakonodajno-pravne komisije?
-                              <stage type="vote">(47 delegatov.)</stage> Kdo je proti? <stage
-                              type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(3
+                              <stage type="vote">(47 delegatov.)</stage> Kdo je proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(3
                               delegati.)</stage> Amandma je z večino glasov sprejet.</p>
                         <p>Glasujemo o amandmaju gospoda Grosa k 10. členu, ki pravi: "ta zakon
                            začne veljati z dnem objave v Uradnem listu Republike Slovenije, ki izide
                            8.10.1991".</p>
                         <p>Kdo je za? <stage type="vote">(36 delegatov.)</stage> Kdo je proti?
-                              <stage type="vote">(4 delegati.)</stage> Vzdržani? <stage type="vote"
-                              >(12 delegatov.)</stage>
+                              <stage type="vote">(4 delegati.)</stage> Vzdržani? <stage type="vote">(12 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je amandma z večino glasov sprejet.</p>
                         <p>Prehajamo na glasovanje o predlogu zakona o uporabi denarne enote
                            Republike Slovenije skupaj s sprejetimi amandmaji.</p>
                         <p>Kdo je za? <stage type="vote">(54 delegatov.)</stage> Kdo je proti?
-                              <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote"
-                              >(Nihče.)</stage>
+                              <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog zakona soglasno sprejet.</p>
                         <p>Predlagam, da pooblastimo isto delovno skupino za pripravo tudi morda
                            potrebnega usklajenega predloga za ponovno poravnavo. Torej, samo za vsak
-                           primer. Ali kdo temu predlogu nasprotuje? <stage type="vote"
-                              >(Nihče.)</stage>
+                           primer. Ali kdo temu predlogu nasprotuje? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog potrjen. Torej je imenovana ista delovna
                            skupina tudi za ta predlog zakona.</p>
@@ -2756,27 +2768,27 @@
                         <p>Lepo prosim, da vsi ostanemo tukaj, dokler ne končamo današnjega dela.
                            Sedaj še nismo nič dokončnega naredili.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-10-07T22:13:00"
-                           xml:id="stage.t.6">prekinjena ob 22.13 uri</time> in se je <time
-                           from="1991-10-07T23:47:00" xml:id="stage.t.7">nadaljevala ob 23.47
+                     <stage type="time">(Seja je bila <time to="1991-10-07T22:13:00" xml:id="DZ-1991-ZbObc-26.stage.t.6">prekinjena ob 22.13 uri</time> in se je <time from="1991-10-07T23:47:00" xml:id="DZ-1991-ZbObc-26.stage.t.7">nadaljevala ob 23.47
                            uri</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.5" ana="#PAR.Prisot">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.5" ana="#PAR.Prisot">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovani kolegi, predlagam, da gremo v naslednji del, da nadaljujemo z
                            našo sejo. Poglejmo najprej <title>prisotnost</title> - 50. Ugotavljam,
                            da je zbor sklepčen in lahko nadaljujemo.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.6" ana="#PAR.TDR" corresp="#toc.2.6">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.6"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.6">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p>Obveščen sem, da je <title>delovna skupina</title> za pripravo
                            usklajenega predloga za ponovno obravnavo obeh obravnavanih predlogov
                            zakonov opravila svoje delo. Prosim poročevalca delovne skupine za
                            poročilo. Gospod Danijel Starman.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Skušal bom biti kratek in jedrnat. Imeli smo sledeče alternative. Oba
                            ostala zbora sta sprejela tolar kot valuto, za zbor veste, da je sprejel
@@ -2808,23 +2820,23 @@
                            konkreten tekst. Tako, da mi, razen tega, da umaknemo amandmaja k 1. in
                            4. členu oz. 10. členu zakona o uporabi drugega dela nimamo.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Še eno opozorilo. Amandma k 2. členu moramo verjetno tudi umakniti tam,
                            kjer gre za skrajšano obliko. Samo toliko, da zaključimo to poročilo.
                            Umik amandmaja k 2. členu in kaj sprejmemo k SLK?</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-26.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>SLK naj bi bila kratica, ker če bi bila samo SK, je to isto kot švedska
                            krona, zato smo se odločili za skrajšano ime SLK. To bi bilo skrajšano
                            ima naše valute.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gros želi dodatno pojasniti.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Moram dodatno pojasniti, da je gospod Starman pozabil povedati, da moramo
                            sprejeti amandma, da bo ta valuta namesto klas, karant. Ali pa sem jaz to
@@ -2836,7 +2848,7 @@
                            nič pa ne piše koliko dni, lahko je tudi nič dni. Toliko, da smo si na
                            jasnem, da je naš zbor sprejel pravilno dikcijo.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa, gospod Gros. Jaz bi v izogib kasnejšim težavam še prebral
                            sklepe, ki naj bi jih naš zbor sprejel ob tem, ko naj bi umaknil amandma
@@ -2876,7 +2888,7 @@
                         <p>Prosim gospod Starman, smo kaj narobe delali? Prosim, lahko kdorkoli s
                            strani skupine, če to v njenem imenu stori.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Torej, na predlog Zakonodajno-pravne komisije je gospod Pintar predložil
                            Skupščini predlog oz. amandma, ki ga je Družbenopolitični zbor sprejel in
@@ -2886,31 +2898,29 @@
                            "vrednostne bone" namesto "je izdala" "izdaja Republika Slovenija v imenu
                            in za račun Banke Slovenije" in ...</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospod Gros, to bo naslednji zakon. Bomo pri tistem to sprejeli. Hvala
                            lepa. Ja, lahko.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Bom kar zdaj povedal. In pa "določa" namesto "določi" v 3. členu.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Dobro, hvala lepa. To so redakcijski amandmaji. Pri naslednjem zakonu
                            bomo tudi to sprejemali. Imamo, kot sem že prebral, še predlog, da
                            umaknemo amandma k 4. členu.</p>
                         <p>Kdo je za ta predlog? S tem v zvezi bomo kasneje glasovali o dodatnem
-                           sklepu. <stage type="vote">(53 delegatov.)</stage> Kdo je proti? <stage
-                              type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(2
+                           sklepu. <stage type="vote">(53 delegatov.)</stage> Kdo je proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(2
                               delegata.)</stage>
                         </p>
                         <p>Ugotavljam, da je z večino glasov ta predlog sprejet.</p>
                         <p>Glasujemo še o predlogu zakona o denarni enoti Republike Slovenije v
                            celoti.</p>
                         <p>Kdo je za predlog? <stage type="vote">(52 delegatov.)</stage> Je kdo
-                           proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote"
-                              >(4 delegati.)</stage>
+                           proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(4 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog zakona o denarni enoti Republike Slovenije z
                            večino glasov sprejet.</p>
@@ -2923,8 +2933,7 @@
                            drugem odstavku stoji "izda" in pa "določi." Dobro. O tem predlogu
                            delovne skupine glasujemo.</p>
                         <p>Kdo je za ta predlog? <stage type="vote">(56 delegatov.)</stage> Kdo je
-                           proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote"
-                              >(Nihče.)</stage>
+                           proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Ugotavljam, da je soglasno sprejeto.</p>
                         <p>Glasujemo še o umiku našega amandmaja k 10. členu tega zakona, ki se
@@ -2937,8 +2946,7 @@
                         <p>Glasujemo še o predlogu zakona o uporabi denarne enote Republike
                            Slovenije v celoti.</p>
                         <p>Kdo je za? <stage type="vote">(51 delegatov.)</stage> Kdo je proti?
-                              <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage type="vote"
-                              >(3 delegati.)</stage>
+                              <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog zakona o uporabi denarne enote Republike
                            Slovenije z večino glasov sprejet.</p>
@@ -2948,8 +2956,7 @@
                            Slovenije v Uradnem listu Republike Slovenije, ki izide 8.10.1991", se
                            pravi na dan, ki se pravkar začenja.</p>
                         <p>Kdo je za ta dodatni sklep? <stage type="vote">(56 delegatov.)</stage> Je
-                           kdo prit? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(Nihče.)</stage>
+                           kdo prit? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(Nihče.)</stage>
                         </p>
                         <p>Dodatni sklep je soglasno sprejet.</p>
                         <p>Družbenopolitični zbor predlaga ostalima dvema zboroma, da sprejmeta še
@@ -2960,21 +2967,20 @@
                            enote Republike Slovenije lahko odloči, da bodo vse banke na območju
                            Republike Slovenije dne 8.10.1991 zaprte."</p>
                         <p>Kdo je za ta dodatni sklep? <stage type="vote">(52 delegatov.)</stage>
-                           Kdo je proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage
-                              type="vote">(3 delegati.)</stage>
+                           Kdo je proti? <stage type="vote">(Nihče.)</stage> Vzdržani? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlagani dodatni sklep z večino glasov sprejet.</p>
                         <p>Prosim, da počakate na svojih mestih do dokončnega obvestila o usklajenem
                            sprejemu obeh zakonov, ali pa eventualno do obvestila, da še nismo
                            usklajeni. V tem primeru gremo v usklajevalno komisijo.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1991-10-08T00:05:00"
-                           xml:id="stage.t.8">PREKINJENA OB 24.05</time> IN SE JE <time
-                           from="1991-10-08T00:12:00" xml:id="stage.t.9">NADALJEVALA 8.10.1991 OB
+                     <stage type="time">(SEJA JE BILA <time to="1991-10-08T00:05:00" xml:id="DZ-1991-ZbObc-26.stage.t.8">PREKINJENA OB 24.05</time> IN SE JE <time from="1991-10-08T00:12:00" xml:id="DZ-1991-ZbObc-26.stage.t.9">NADALJEVALA 8.10.1991 OB
                            00.12 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.7" ana="#PAR.TDR" corresp="#toc.2.7">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.7"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.7">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Zbor združenega dela ni sprejel predloga delovne skupine, prav tako ne
                            Družbenopolitični zbor. Zato je potrebno imenovati <title>usklajevalno
@@ -2986,8 +2992,7 @@
                         <p>Kdo je za isto sestavo usklajevalne komisije kot je bila usklajevalna
                            delovna skupina.</p>
                         <p>Kdo je za? <stage type="vote">(45 delegatov.)</stage> Kdo je proti?
-                              <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage type="vote"
-                              >(3 delegati.)</stage>
+                              <stage type="vote">(2 delegata.)</stage> Vzdržani? <stage type="vote">(3 delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da smo se odločili za enako sestavo usklajevlane
                            komisije.</p>
@@ -2995,14 +3000,14 @@
                            da ostanemo tukaj prisotni do izida. Samo prosim mir. Gospod Rojec želi
                            nekaj povedati.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Gospod predsednik! Namreč želel bi naslednje pojasnilo. V takšnih
                            primerih, ko nismo bili med zbori usklajeni, smo potem vedno šli na
                            skupno sejo in tam o sporni zadevi odločali. Ne vem, od kod recimo, bi
                            rekle, zdaj ta nova praksa, da se gre ponovno na usklajevanje.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospod Rojec, to bom zelo hitro pojasnil. Ustava določa v tistem svojem
                            amandmaju, kadar v zborih po dveh zaporednih obravnavah ni doseženo
@@ -3014,46 +3019,48 @@
                            takrat se gre takoj v komisijo. Se pravi, ni potrebna ponovna obravnava.
                            Tako je besedilo tistega ustavnega amandmaja. Prosim, gospod Jež.</p>
                      </sp>
-                     <sp who="#sp.JežBoris">
+                     <sp who="#DZ-1991-ZbObc-26.sp.JežBoris">
                         <speaker>BORIS JEŽ:</speaker>
                         <p>Mislim, da se je Zbor občin uklonil mnenju ostalih dveh zborov in se
                            odrekel temu lepemu imenu lipa zato, da bi prispevala k hitrejši rešitvi
                            tega problema. Zdaj, če oni tega niso sprejeli, potem ne vem, če ima
                            smisel, da smo tudi mi sprejeli.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Ne, mi smo le to sprejeli, ne moremo nazaj jemati. Predlog delovne
                            skupine je bil. Dobro. Gospodje, imeli bomo še enkrat priliko se
                            izjasnjevati.</p>
                      </sp>
-                     <sp who="#sp.JežBoris">
+                     <sp who="#DZ-1991-ZbObc-26.sp.JežBoris">
                         <speaker>BORIS JEŽ:</speaker>
                         <p>Mislim, da smo se vsaj glede na prejšnji izid glasovanja dokaj s težavo
                            dorekli temu imenu denarne enote lipa. Ker nam je ...</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Dobro, torej malce pavze imamo zdajle. Koliko pa, še ne vemo.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-10-08T00:16:00"
-                           xml:id="stage.t.10">prekinjena bo 00.16 uri</time> in se je <time
-                           from="1991-10-08T00:30:00" xml:id="stage.t.11">nadaljevala ob 00.30
+                     <stage type="time">(Seja je bila <time to="1991-10-08T00:16:00" xml:id="DZ-1991-ZbObc-26.stage.t.10">prekinjena bo 00.16 uri</time> in se je <time from="1991-10-08T00:30:00" xml:id="DZ-1991-ZbObc-26.stage.t.11">nadaljevala ob 00.30
                            uri</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.8" ana="#PAR.Prisot" corresp="#toc.2.8">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.8"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.8">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Ali lahko nadaljujemo s sejo? Prosim preverimo <title>prisotnost</title>
                            - 41. </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.9" ana="#PAR.TDR" corresp="#toc.2.9">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-26.div.1.1.2.9"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-26.toc.2.9">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <p> Ugotavljam, da smo sklepčni. Prosim za poročilo usklajevalne komisije.
                            Gospod Lukač prosim.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1991-ZbObc-26.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Komisija je ugotovila, da je zakon o uporabi denarne enote Republike
                            Slovenije usklajeno sprejet v vseh treh zborih, ni pa sprejet zakon o
@@ -3066,12 +3073,12 @@
                            istočasno predlog komisije, da bi sklenili, da se dobimo na skupnem
                            zasedanju in se tam uskladimo. To je sedaj vse.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa gospod Lukač. Gospod Slejko želi besedo. Tudi on je član te
                            komisije.</p>
                      </sp>
-                     <sp who="#sp.SlejkoVladimir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.SlejkoVladimir">
                         <speaker>VLADIMIR SLEJKO:</speaker>
                         <p>Mislim, da na usklajevalni komisiji sploh nismo razpravljali, samo
                            glasovali smo. Takoj smo se strinjali, da vsak vztraja pri svojem in
@@ -3082,12 +3089,12 @@
                            predlogih kot pa naš in mislim, da bi morala večina poslancev o tem
                            odločiti.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gremo torej na glasovanje o predlogu usklajevalne komisije.
                            Slišali ste predlog. Gospod Gros želi obrazložiti svoj glas.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-26.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Tudi jaz se strinjam s tem, kar je povedal gospod Slejko. Obenem bi še
                            pripomnil, da je tolar še vedno v veljavi. To je zlatnik, ki je še v
@@ -3098,12 +3105,12 @@
                            pravi za karant, in predlagamo zborom skupno zasedanje. Seveda pa tudi,
                            da se tam tudi tako odločno držimo kot tukaj in to izglasujemo.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Glasovali bomo o predlogu usklajevalne komisije. Prosim gospod
                            Atelšek.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Razumem Grosa in ostale o vztrajnosti, vendar mislim, da mora biti naša
                            morala prisotna, da logično pristanemo na tak usklajevalni predlog, kot
@@ -3111,12 +3118,12 @@
                            ni važno toliko ime, ampak je važno, kakšna bo vsebina tega tolarja. Jaz
                            bom glasoval za tolar.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa, gospod Atelšek.</p>
                         <p>Gospod Rojec ima besedo.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-26.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Želim obrazložiti svoj glas. Namreč, denarna enota tolar je za slovenske
                            razmere enota, ki je povsem primerna. Odraža tisto, kar je slovenski
@@ -3125,11 +3132,11 @@
                            in iz tega razloga mislim, da je primerno ime in bom tudi glasoval za to
                            denarno enoto.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Kramarič je še želel besedo.</p>
                      </sp>
-                     <sp who="#sp.KramaričTone">
+                     <sp who="#DZ-1991-ZbObc-26.sp.KramaričTone">
                         <speaker>TONE KRAMARIČ:</speaker>
                         <p>Predhodno sem omenil, ko sem predlagal amandma, da smo se v klubu menili
                            o tolarju ali pa o kroni. Sedaj je tolar na vrsti. Ker bom obrazložil
@@ -3137,7 +3144,7 @@
                            ob slovenskem kongresu izdali slovenski tolar in tudi ta je kot
                            numizmatični denar že nekako obstojal tudi pri nas. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-26.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Mislim, da smo vsi, ki smo želeli glas obrazložiti, to
                            storili. Zato prehajamo na glasovanje o predlogu usklajevalne komisije.
@@ -3158,9 +3165,7 @@
                         <p>Velja glasovati še o zakonu kot celoti, ker smo s tem en amandma
                            pravzaprav umaknili in drugega sprejeli tako, da ne bi bilo karkoli
                            narobe. Glasujemo o predlogu zakona v celoti.</p>
-                        <p>Kdo je za predlog zakona o denarni enoti Republike Slovenije? <stage
-                              type="vote">(37 delegatov.)</stage> Kdo je proti? <stage type="vote"
-                              >(6 delegatov.)</stage> Vzdržani? <stage type="vote">(4
+                        <p>Kdo je za predlog zakona o denarni enoti Republike Slovenije? <stage type="vote">(37 delegatov.)</stage> Kdo je proti? <stage type="vote">(6 delegatov.)</stage> Vzdržani? <stage type="vote">(4
                               delegati.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog zakona o denarni enoti Republike Slovenije
@@ -3168,8 +3173,7 @@
                         <p>S tem zaključujem včerajšnjo in današnjo sejo našega zbora. Zahvaljujem
                            se vam za potrpežljivost in udeležbo in na svidenje.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-10-08T00:40:00"
-                           xml:id="stage.t.12">končana ob 00.40 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-10-08T00:40:00" xml:id="DZ-1991-ZbObc-26.stage.t.12">končana ob 00.40 uri</time>.)</stage>
                   </div>
                </div>
             </div>

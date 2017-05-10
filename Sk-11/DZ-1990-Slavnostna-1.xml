@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,21 +132,21 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:                                            STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Uvodni pozdravni nagovor predsednika Skupščine Republike Slovenije
+                     <item n="1" xml:id="DZ-1990-Slavnostna-1.toc.1.1">Uvodni pozdravni nagovor predsednika Skupščine Republike Slovenije
                         ob razglasitvi rezultatov plebiscita
                         ............................................ 1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. France Bučar ...................................... 1</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.1.2">Govor predsednika Predsedstva Republike Slovenije ob razglasitvi
+                     <item n="2" xml:id="DZ-1990-Slavnostna-1.toc.1.2">Govor predsednika Predsedstva Republike Slovenije ob razglasitvi
                         rezultatov plebiscita o samostojnosti in neodvisnosti Republike Slovenije
                         .......................... 3<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Milan Kučan ........................................... 3</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.1.3">Seznam govornikov .................................. II/1</item>
+                     <item n="3" xml:id="DZ-1990-Slavnostna-1.toc.1.3">Seznam govornikov .................................. II/1</item>
 
                   </list>
                </item>
@@ -161,34 +159,38 @@
             <castList>
                <head>GOVORNIKA:                                               STRAN</head>
                <castItem>
-                  <actor sameAs="#sp.BučarFrance">Bučar dr. France</actor>
+                  <actor sameAs="#DZ-1990-Slavnostna-1.sp.BučarFrance">Bučar dr. France</actor>
                   .......................................... 1</castItem>
                <castItem>
-                  <actor xml:id="sp.KučanMilan">Kučan Milan</actor>
+                  <actor xml:id="DZ-1990-Slavnostna-1.sp.KučanMilan">Kučan Milan</actor>
                   ............................................... 3</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1990-Slavnostna-1.div.1" ana="#PAR.VsiZbor">
             <head>SLAVNOSTNA SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Slavnostna" n="1">
+            <div xml:id="DZ-1990-Slavnostna-1.div.1.1" ana="#PAR.Slavnostna" n="1">
                <head>1. seja</head>
                <docDate>(<date when="1990-12-26">26. december 1990</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1990-12-26T18:00:00"/>
+               <timeline origin="#DZ-1990-Slavnostna-1.TL.1" unit="s">
+                  <when synch="#DZ-1990-Slavnostna-1.stage.t.1"
+                        xml:id="DZ-1990-Slavnostna-1.TL.1"
+                        absolute="1990-12-26T18:00:00"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.BučarFrance">dr. France Bučar</actor>, <role>predsednik
+                     <actor xml:id="DZ-1990-Slavnostna-1.sp.BučarFrance">dr. France Bučar</actor>, <role>predsednik
                         Skupščine Republike Slovenije</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1990-12-26T18:00:00" xml:id="stage.t.1">pričela ob 18.00 uri</time>.</stage>
-               <div xml:id="div.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.2.1" ana="#PAR.TDR" corresp="#toc.1.1">
-                     <sp who="#sp.BučarFrance">
+               <stage type="time">Seja se je <time from="1990-12-26T18:00:00" xml:id="DZ-1990-Slavnostna-1.stage.t.1">pričela ob 18.00 uri</time>.</stage>
+               <div xml:id="DZ-1990-Slavnostna-1.div.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1990-Slavnostna-1.div.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-Slavnostna-1.toc.1.1">
+                     <sp who="#DZ-1990-Slavnostna-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci, cenjeni gostje! Začenjam skupno
                            sejo vseh zborov Skupščine Republike Slovenije, ki sem jo sklical v skladu z
@@ -314,11 +316,13 @@
                         </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.2.2" ana="#PAR.TDR" corresp="#toc.1.2">
-                  <sp who="#sp.KučanMilan">
-                     <speaker>MILAN KUČAN:</speaker>
-                     <p>Spoštovani predsednik, spoštovane poslanke in poslanci!</p>
-                     <p>Izid plebiscitarnega ugotavljanja volje Slovencev, državljanov naše
+                  <div xml:id="DZ-1990-Slavnostna-1.div.1.2.2"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-Slavnostna-1.toc.1.2">
+                     <sp who="#DZ-1990-Slavnostna-1.sp.KučanMilan">
+                        <speaker>MILAN KUČAN:</speaker>
+                        <p>Spoštovani predsednik, spoštovane poslanke in poslanci!</p>
+                        <p>Izid plebiscitarnega ugotavljanja volje Slovencev, državljanov naše
                         Republike in vseh njenih stalnih prebivalcev glede prihodnosti Slovenije je
                         poznan in uradno sporočen. Slovenija je zdaj samostojna in neodvisna država.
                            <stage type="vocal">(Aplavz.)</stage> Tretjič je bilo nam Slovencem v novejši
@@ -326,7 +330,7 @@
                         rodov. Odločitev, ki nam jo je naložil splet zgodovinskih okoliščin, smo
                         sprejeli razsodno in pogumno, s častjo in dostojanstvom. Izid glasovanja nam
                         more utrditi samozavest in utemeljiti upanje tudi za naprej.</p>
-                     <p>V našo odločitev so vtkana mnoga častna dejanja, vsa pretekla upanja,
+                        <p>V našo odločitev so vtkana mnoga častna dejanja, vsa pretekla upanja,
                         iskanja in sanje Slovencev. Legitimnost tej naši odločitvi dajejo med drugim
                         program Zedinjene Slovenije, Majniška deklaracija in slovensko
                         narodnoosvobodilno gibanje. To je čas, ko je bila slovenska partizanska
@@ -337,7 +341,7 @@
                         Neposredna zastopstva zavezniških vojska pri vodstvu samostojnega
                         osvobodilnega gibanja slovenskega naroda so bila za to prvi, a dovolj
                         zgovoren in prepričljiv dokaz.</p>
-                     <p>Odločitev za samostojno in neodvisno državo Slovenijo smo sprejeli
+                        <p>Odločitev za samostojno in neodvisno državo Slovenijo smo sprejeli
                         demokratično. S svojo prepričljivostjo zavezuje sedanjo in vse prihodnje
                         slovenske oblasti. Začenja se novo obdobje v zgodovini našega naroda.
                         Odločitev je jasna in zavezujoča. More in mora biti temelj za ustvarjanje
@@ -347,7 +351,7 @@
                         enakega tistim, kakršne so si zgradili ali si jih še bodo veliki in mali
                         narodi svobodne Evrope, da bi lahko v njej živeli skupaj ustvarjalno,
                         demokratično, enakopravno in enako odgovorno).</p>
-                     <p>Odločitev je častna in zgodovinska. Njeno prvo vrednost in pomen bo v celoti
+                        <p>Odločitev je častna in zgodovinska. Njeno prvo vrednost in pomen bo v celoti
                         pokazala prihodnost. Ta bo preizkusila, dokazala in utemeljila nedeljsko
                         odločitev. Objektivno sodbo o pomenu tega dejanja bodo nedvomno mogli dati
                         šele prihodnji rodovi. Mi smo mogli in smo z osvobojeno mislijo in odprtim
@@ -362,7 +366,7 @@
                         nadaljevanje smiselnega in ustvarjalnega razvoja slovenske kulturne in
                         civilizacijske samobitnosti, ki smo ji zavezani tako s svojo zgodovino in
                         svojo kulturno in naravno dediščino kot s pluralnostjo nove Evrope.</p>
-                     <p>Dovolite mi, spoštovane poslanke in poslanci, da v imenu Predsedstva
+                        <p>Dovolite mi, spoštovane poslanke in poslanci, da v imenu Predsedstva
                         Republike Slovenije predlagam nekaj temeljnih usmeritev za uresničevanje na
                         plebiscitu sprejete odločitve. Predlog je naslonjen na Izjavo o dobrih
                         namenih. Ta je z demokratičnostjo in jasnostjo svojih sporočil naletela na
@@ -372,18 +376,18 @@
                         podrobnejšo razčlenitev. Pri predlogu se Predsedstvo opira na politično
                         soglasje slovenskih političnih strank parlamentarnega loka, ki je bilo
                         pomemben pogoj za uspeh plebiscita.</p>
-                     <p>Predsedstvo predlaga, da usmerimo pozornost predvsem v naslednje smeri in
+                        <p>Predsedstvo predlaga, da usmerimo pozornost predvsem v naslednje smeri in
                         dejanja:</p>
-                     <p>1. Priprava in spomladi tudi sprejem Ustave Republike Slovenije kot
+                        <p>1. Priprava in spomladi tudi sprejem Ustave Republike Slovenije kot
                         samostojne države, na izhodiščih, ki jih je na predlog Predsedstva že
                         sprejel ta visoki in spoštovani dom.</p>
-                     <p>Ta so v temeljnih rešitvah že zajeta v njenem osnutku, ki je tačas v javni
+                        <p>Ta so v temeljnih rešitvah že zajeta v njenem osnutku, ki je tačas v javni
                         razpravi. Na tem temelju nam bo mogoče pripraviti in sprejeti tudi vse druge
                         pravne akte in opraviti dejanja, ki so potrebna za oblikovanj celovitega
                         pravno političnega in ekonomskega sistema.</p>
-                     <p>Hkrati mora potekati dejavnost, da Republika Slovenija prevzame vse suverene
+                        <p>Hkrati mora potekati dejavnost, da Republika Slovenija prevzame vse suverene
                         pravice, katerih izvrševanje je prenesla na organe Jugoslavije.</p>
-                     <p>Nedvomno zasluži dogovor o tem temeljnem zakonu družbeno pravne ureditve v
+                        <p>Nedvomno zasluži dogovor o tem temeljnem zakonu družbeno pravne ureditve v
                         trenutku, ko dobivamo svojo nacionalno suverenost in državno samostojnost,
                         prvenstveno mesto. Ustava mora biti le akt, ki je po meri vseh Slovencev in
                         državljanov republike, ne ene same stranke ali skupine strank. prav zato
@@ -404,9 +408,9 @@
                         ureditve, ki bo veljala za vse ljudi, brez razlik glede na narodnost, vero,
                         politično prepričanje in spol in brez tej ureditvi ustreznega obnašanja, ne
                         moremo upati, da nam bodo odprta vrata v evropske institucije.</p>
-                     <p>Ustavi moramo nameniti prednost, mora imeti nadstrankarski pristop in
+                        <p>Ustavi moramo nameniti prednost, mora imeti nadstrankarski pristop in
                         medstrankarsko soglasje.</p>
-                     <p>O zadevah, ki so ključnega nacionalnega pomena, ni mogoče odločati zgolj z
+                        <p>O zadevah, ki so ključnega nacionalnega pomena, ni mogoče odločati zgolj z
                         navadno večino ali z mehaničnim preglasovanjem, ampak samo na podlagi
                         vsesplošnega soglasja vseh političnih sil, ki so zastopane v parlamentu.
                         Tudi zato, da bodo zavezane za uresničevanje odločitev. Pogoj za tako
@@ -414,7 +418,7 @@
                         parlamentarni dialog. Zahteva po soglasju nalaga izvršni oblasti, da
                         predloge odločitev temeljito pripravi, argumentira in predstavi njihove
                         posledice.</p>
-                     <p>Slovenska država bo torej temeljila na visokem spoštovanju človekovih pravic
+                        <p>Slovenska država bo torej temeljila na visokem spoštovanju človekovih pravic
                         in svoboščin. Uveljavljanje političnih pravic je zahteva politične kulture.
                         Politična demokracija brez upoštevanja človekovih pravic in še posebej
                         uveljavljanja socialno-ekonomskih pravic nima prave vsebine. Te omogočajo
@@ -427,7 +431,7 @@
                         v skladu z Evropsko konvencijo o človekovih pravicah na Evropsko komisijo za
                         človekove pravice. Tudi zato želi postati Slovenija članica Sveta
                         Evrope.</p>
-                     <p>Spoštovanje človekovih pravic, pa tudi lastna demokratična drža ter interes
+                        <p>Spoštovanje človekovih pravic, pa tudi lastna demokratična drža ter interes
                         in odgovornost za položaj slovenskih manjšin nas določno zavezuje tako v
                         razmerjih do italijanske in madžarske narodnosti kot tudi v razmerjih do
                         pripadnikov vseh drugih narodov in narodnosti, ki živijo v Sloveniji. Ustava
@@ -443,13 +447,13 @@
                         poštev samo za tiste, ki do sedaj niso imeli stalnega bivališča v Sloveniji.
                         Njihov položaj bo urejen in zavarovan, kot je v demokratičnih državah
                         zavarovan položaj in priznane pravice tujih in dvojnih državljanov.</p>
-                     <p>Posebej želim poudariti, da morajo postati sestavina novo nastajajoče
+                        <p>Posebej želim poudariti, da morajo postati sestavina novo nastajajoče
                         samostojne in neodvisne slovenske države vse tiste demokratične vrednote,
                         zlasti samostojnost in neodvisnost sodišč, depolitizacija državne uprave in
                         še posebej njenih represivnih mehanizmov, ki so vsebina pravne države. Taka
                         država služi človeku. Zato je podrejena civilni družbi in ni gospodar nad
                         njo.</p>
-                     <p>Socialna država in vsebina socialne blaginje nasploh morajo biti ena od
+                        <p>Socialna država in vsebina socialne blaginje nasploh morajo biti ena od
                         bistvenih osnov družbenega soglasja. Izražati ga mora že vsebina in način
                         sprejemanja lastninskega, stanovanjskega, pokojninskega in drugih zakonov s
                         tega področja. Celovito bo to vsebino moral uresničiti ves splet zakonov za
@@ -462,7 +466,7 @@
                         sistemom Slovenije in zmanjševanje visoke stopnje degradacije okolja. Kajti
                         preživetje nam dolgoročno zagotavlja le ohranjanje bioloških pogojev
                         življenja in usklajeno delovanje vseh naših ekoloških sistemov.</p>
-                     <p>2. Oblikovanje lastnega gospodarskega sistema. Ta nam bo, skupaj z ustreznim
+                        <p>2. Oblikovanje lastnega gospodarskega sistema. Ta nam bo, skupaj z ustreznim
                         naborom ekonomsko-političnih instrumentov, omogočil samosvoj ekonomski
                         razvoj, krepitev gospodarskih temeljev suverenosti in lastno socialno
                         politiko, hkrati pa nas bo naredil prožnejše in bolj sposobne za vsa
@@ -470,7 +474,7 @@
                         usodo v svoje roke, kolikor je to seveda mogoče v majhnem in odprtem
                         gospodarstvu, za katerega velja, da njegova usoda ni v vsakem trenutku
                         odvisna samo od njegovih lastnih odločitev.</p>
-                     <p>Gospodarski sistem naj temelji na načelih primerljivosti in prilagodljivosti
+                        <p>Gospodarski sistem naj temelji na načelih primerljivosti in prilagodljivosti
                         sistema evropskih držav, prožnosti delovanja in postopnosti uvajanja.
                         Zaokrožen naj bo z lastnim zaščitnim ter denarnim in kreditnim sistemom, ki
                         bodo varovali gospodarstvo pred intervencionističnimi ukrepi drugih držav in
@@ -479,7 +483,7 @@
                         in oblikovati mehanizme za razreševanje konfliktov, do katerih bo prišlo
                         zaradi spreminjanja lastniške strukture in zahtev po socialni varnosti
                         ljudi.</p>
-                     <p>Proces lastninjenja mora upoštevati tudi načelo socialne pravičnosti, zlasti
+                        <p>Proces lastninjenja mora upoštevati tudi načelo socialne pravičnosti, zlasti
                         glede tistega, in to večinskega dela prebivalstva, ki živi samo od svojega
                         dela in je ustvarilo največji del narodnega bogastva, opredmetenega v
                         družbeni lastnini. Načelo pravičnosti zahteva, da nihče ne sme biti
@@ -488,7 +492,7 @@
                         Razvita in socialno pravična družba, v kateri se uveljavlja posameznik kot
                         svobodno politično bitje, mu mora omogočati soodločanje o ustvarjanju in
                         delitvi družbenega proizvoda.</p>
-                     <p>Proces gospodarskega osamosvajanja Slovenije pomeni tudi prevzemanje
+                        <p>Proces gospodarskega osamosvajanja Slovenije pomeni tudi prevzemanje
                         odgovornosti za nezaposlenost, trgovinske tokove in tokove plačevanja, za
                         inflacijo, povzročeno z lastnimi odločitvami ter za vse napetosti v družbi,
                         ki jo bodo izzvale odločitve o delitvenih procesih. To je sestavina
@@ -501,12 +505,12 @@
                         ves potreben intervencionističen in protekcionističen instrumentarij in
                         hkrati skrbeti za nezmanjšano ali celo povečano vpetost slovenskega
                         gospodarstva v mednarodne tokove trgovine in kapitala.</p>
-                     <p>3. Urejanje odnosov z drugimi republikami Jugoslavije. Plebiscit in Izjava o
+                        <p>3. Urejanje odnosov z drugimi republikami Jugoslavije. Plebiscit in Izjava o
                         dobrih namenih sta zavezujoča za slovensko oblast tudi glede tega vprašanja,
                         ki je za naše prihodnje življenje na tem prostoru in za vstopanje v
                         mednarodno skupnost glede na njen strah pred morebitnim nasilnim in
                         stihijnim razpadanjem Jugoslavije ključnega pomena.</p>
-                     <p>Izhodišče nam je naša opredelitev, da postanemo v vseh bistvenih določnicah
+                        <p>Izhodišče nam je naša opredelitev, da postanemo v vseh bistvenih določnicah
                         našega gospodarskega, političnega in duhovnega življenja del svobodnega
                         sveta in eden od narodov in držav, ki bodo ustvarile Evropo prihodnosti. Na
                         tem izhodišču smo v sodelovanju z Republiko Hrvaško že pred časom pripravili
@@ -516,7 +520,7 @@
                         interes in možnosti za ustanovitev nove zveze ali skupnosti suverenih držav,
                         ki bi temeljila predvsem na ekonomskih interesih. Le na teh temeljih je po
                         naši sodbi možno iskati nov sporazum jugoslovanskih narodov in držav.</p>
-                     <p>Osamosvojena Slovenija je nedvomno zainteresirana za ohranitev dobrih
+                        <p>Osamosvojena Slovenija je nedvomno zainteresirana za ohranitev dobrih
                         odnosov in za dobro sodelovanje z drugimi narodi Jugoslavije. Samostojen
                         položaj nam omogoča, da tudi uradno ponudimo oblastem v drugih republikah,
                         ki so se konstituirale in legitimirale z demokratičnimi parlamentarnimi
@@ -524,14 +528,14 @@
                         zadeva Slovenijo, odločal naš interes in realizem v razumevanju dejstva, da
                         se sodobni svet civilizacijsko, gospodarsko in tehnološko vse bolj povezuje,
                         da pa se hkrati nacionalno ter kulturno vse bolj individualizira.</p>
-                     <p>S pripravo predloga konfederalne pogodbe moramo določiti svoje interese in
+                        <p>S pripravo predloga konfederalne pogodbe moramo določiti svoje interese in
                         izhodiščne pogajalske pozicije. Hkrati kaže pripraviti tudi naš predlog
                         sporazuma o pravnem nasledstvu SFRJ, o prevzemu njenih pravic in obveznosti.
                         Pri tem ne more iti na urejanje razmerij, kakršna nastajajo z odcepitvijo,
                         ampak z razdružitvijo narodov oz. republik, ki so po svoji volji ustvarile
                         skupno zvezno državo in ki so zdaj znova v položaju, da odločajo o njeni
                         usodi.</p>
-                     <p>V vseh republikah so zdaj opravljene volitve. So demokratičen izraz volje
+                        <p>V vseh republikah so zdaj opravljene volitve. So demokratičen izraz volje
                         njihovih državljanov. To voljo spoštujemo. Izvoljena vodstva so
                         kvalificirana tudi za razpravljanje o naših ponudbah. Te ponudbe velja
                         čimprej, po možnosti skupaj s Hrvaško, pripraviti v ustrezni obliki in jih
@@ -543,7 +547,7 @@
                         že sprejeti sklep te Skupščine, da mora biti o vseh pogovorih obveščena in
                         da ji morajo biti vsi dogovori ali sporazumi predloženi v razpravo in
                         odobritev.</p>
-                     <p>Politika podiranja mostov, ki so nas povezovali v Jugoslaviji, ni in ne more
+                        <p>Politika podiranja mostov, ki so nas povezovali v Jugoslaviji, ni in ne more
                         biti v našem interesu. Ne samo zato, ker želimo biti odprti v sveti, ampak
                         tudi zato, ker bi nas sebična in ozkosrčna politika osamitve peljala v
                         osamitev tudi v odnosu do drugih držav, v domačem okviru pa v gospodarski,
@@ -552,7 +556,7 @@
                         preseganje meja kot ločnic tudi proti Italiji, Avstriji in Madžarski. Seveda
                         s povsem jasnim stališčem, da ob spoštovanju zunanjih meja tudi notranjih, v
                         Jugoslaviji, ni mogoče spremeniti po nasilni poti.</p>
-                     <p>4. Prevzemanje pristojnosti, katerih uresničevanje je bilo preneseno na
+                        <p>4. Prevzemanje pristojnosti, katerih uresničevanje je bilo preneseno na
                         zvezne organe. To je pogoj za demokratično razrešitev jugoslovanske krize in
                         preseganje dvovladja, v katerem se prepletajo, pa tudi vse bolj med seboj
                         blokirajo ustavnopravne, zakonodajne, gospodarske in politične pristojnosti
@@ -566,14 +570,14 @@
                         medrepubliških pogovorih. Glede tega so edino vodilo organom Slovenije na
                         plebiscitu izražena volja slovenskega naroda ter pravni akti in dejanja
                         slovenske skupščine, ki so skladna s to voljo.</p>
-                     <p>Vloga zveznih organov je nedvomno tudi v tem obdobju do končne odločitve o
+                        <p>Vloga zveznih organov je nedvomno tudi v tem obdobju do končne odločitve o
                         prihodnosti jugoslovanskih narodov ali pri preprečevanju stihijnega razvoja
                         pomembna. vendar so ti organi lahko predvsem organizatorji in posredovalci v
                         neposrednih pogajanjih republik, nikakor pa ne njim nadrejeni organi s
                         svojimi posebnimi nadnacionalnimi interesi, ki bi lahko razsojali ali celo
                         sprejemali samostojne odločitve, razen tistih, za katere bi jih posebej v
                         tem procesu pooblastile republike.</p>
-                     <p>To velja tudi za vlogo zveznih organov pri pripravljanju sporazuma o
+                        <p>To velja tudi za vlogo zveznih organov pri pripravljanju sporazuma o
                         razdružitvi. Navsezadnje je to potrebno tudi zaradi gospodarskih,
                         teritorialnih in drugih interesov Slovenije in drugih republik, kakor tudi
                         zato, da bi preprečili nasilje stihijnega razpada. Prav to pričakuje in
@@ -581,7 +585,7 @@
                         za našo demokratično držo in naravno željo, da zavrnemo vsako skrbništvo in
                         vsako omejevanje naše politične in gospodarske suverenosti. Na to nismo in
                         ne bomo pristajali.</p>
-                     <p>Pri omogočanju in zagotavljanju tekočega poslovanja federacije v času do
+                        <p>Pri omogočanju in zagotavljanju tekočega poslovanja federacije v času do
                         dogovora republik, ima po naravi stvari osrednje mesto Zvezni izvršni svet
                         in je razumljiv naš interes, da vztraja, ne pa da se še naprej odmika od
                         izhodišč reforme. Pri usodi zborov Skupščine in Predsedstva Jugoslavije ter
@@ -592,14 +596,14 @@
                         položaja. Tako je republika Srbija povsem neupravičeno predstavljena v
                         zveznih organih s trojnimi glasovi, kar postavlja druge republike v
                         neenakopraven položaj in otežuje sporazumevanje.</p>
-                     <p>Predvsem v Predsedstvu in Zveznem izvršnem svetu, po presoji pa tudi v
+                        <p>Predvsem v Predsedstvu in Zveznem izvršnem svetu, po presoji pa tudi v
                         drugih zveznih organih, morajo v tem prehodnem obdobju še naprej ostati
                         slovenski predstavniki. Oni delijo našo zavzetost, skrb in odgovornost za
                         osamosvojitev Slovenije in mirno ter razumno ureditev odnosov z drugimi
                         narodi Jugoslavije. Zdaj je potrebno njihovo angažiranje za naše zamisli in
                         interese, za iskanje in utiranje neposrednih pogovorov in za pravočasno
                         informiranje.</p>
-                     <p>Subjekt pogajanj in sporazumov o prihodnji ureditvi odnosov v Jugoslaviji
+                        <p>Subjekt pogajanj in sporazumov o prihodnji ureditvi odnosov v Jugoslaviji
                         so, naj ponovim, samo republike. Zato tudi vnaprej zavračamo konstrukcijo,
                         ki sicer načelno priznava pravico naroda do samoodločbe, uresničevanje te
                         pravice pa veže na zvezno ustavo in na pogoje, postavljene z nekim novim
@@ -611,7 +615,7 @@
                         Pristati na to bi pomenilo, da smo zaman prehodili vse to, več let dolgo in
                         težko pot v slovensko državnost. Verjamem, da ni med nami nikogar, ki bi jo
                         bil pripravljen prehoditi še enkrat.</p>
-                     <p>Predlagamo, da Skupščina Jugoslavije ugotovi, da je mogoče gospodarsko,
+                        <p>Predlagamo, da Skupščina Jugoslavije ugotovi, da je mogoče gospodarsko,
                         politično, ustavno in državno krizo v Jugoslaviji razrešiti samo z novim
                         dogovorom narodov oz. njihovih republik na osnovi njihove pravice do
                         samoodločbe in popolne poprejšnje samostojnosti, česar niti obstoječa ustava
@@ -629,16 +633,16 @@
                         opredelitve nove slovenske države, v realnem svetu, takšnem, kot je
                         dostikrat tudi mimo naše volje. Tak pristop bo določal tudi vrstni red
                         prihodnjih skupščinskih in vladnih odločitev.</p>
-                     <p>S svojimi odločitvami ne želimo vplivati na poslabšanje gospodarskih razmer
+                        <p>S svojimi odločitvami ne želimo vplivati na poslabšanje gospodarskih razmer
                         v drugih republikah, ker tudi mi pričakujemo, da odločitve drugih ne bodo
                         povzročale gospodarske škode naši republiki.</p>
-                     <p>Ob spoštovanju legitimnosti interesov vseh republik ter želje, posamične in
+                        <p>Ob spoštovanju legitimnosti interesov vseh republik ter želje, posamične in
                         skupne, po gospodarskem napredku in blaginji prebivalstva ter ob sodelovanju
                         zveznih organov v procesu osamosvajanja republik, kaže vsem predlagati
                         sodelovanje pri izmenjavi informacij o namenih, ciljih, prioritetah ter z
                         njimi načrtovanih ukrepih in pri nevtralizaciji odprtih gospodarskih kriznih
                         žarišč.</p>
-                     <p>5. Vzpostavitev mednarodnih stikov in aktivnost za priznanje samostojne in
+                        <p>5. Vzpostavitev mednarodnih stikov in aktivnost za priznanje samostojne in
                         neodvisne Slovenije kot države in samostojnega subjekta mednarodnega prava.
                         Prepričljiv izid plebiscita, njegova demokratična izvedba, naše notranje
                         demokratično življenje, naša pripravljenost, da ponudimo drugim narodom
@@ -661,7 +665,7 @@
                         nam more biti pri teh naporih v veliko oporo, saj daje tem dejanjem
                         legitimnost in kredibilnost tudi v mednarodnih razmerjih. Upravičeno zdaj
                         pričakujemo, da bo plebiscit spoštovala tudi mednarodna javnost.</p>
-                     <p>Plebiscit je s svojim dostojanstvom pokazal, da slovensko osamosvajanje ni
+                        <p>Plebiscit je s svojim dostojanstvom pokazal, da slovensko osamosvajanje ni
                         dejanje separatizma, egoističnega ravnanja enega dela Jugoslavije, enega
                         naroda zoper druge in v njihovo škodo. Pokazal je le voljo Slovencev, da
                         konstituirajo samostojno in neodvisno državo, ki ni podrejena nikomur. In
@@ -672,7 +676,7 @@
                         privrženost sklepom in sporočilom KEVS, posebej tistim, ki se nanašajo na
                         nedotakljivost državnih meja ter svobodni pretok blaga, idej in ljudi, pa
                         tudi programski izjavi zadnjega pariškega zasedanja.</p>
-                     <p>Nedvomno bi bilo priznanje Slovenije kot države bistveno olajšano, če bi se
+                        <p>Nedvomno bi bilo priznanje Slovenije kot države bistveno olajšano, če bi se
                         uspeli v Jugoslaviji dogovoriti o medsebojnih odnosih in o njenem pravnem
                         nasledstvu. Demokratična Slovenija navznotraj, resnično pripravljena za
                         sodelovanje z drugimi republikami v Jugoslaviji in s svetom je tisto
@@ -684,11 +688,11 @@
                         za zdaj zapuščala svoje mesto v institucijah medregionalnega sodelovanja. O
                         tem kaže sproti obveščati slovensko skupščino in k temu zavezati Predsedstvo
                         in Izvršni svet.</p>
-                     <p>Enaka zaveza naj velja tudi za program intenziviranja aktivnosti, s katerimi
+                        <p>Enaka zaveza naj velja tudi za program intenziviranja aktivnosti, s katerimi
                         naj se razširijo možnost za mednarodno ekonomsko sodelovanje gospodarskih in
                         drugih subjektov v Sloveniji in s tem razširi njen ekonomski prostor v
                         svetu. Naša zunanja politika mora biti v službi tega interesa.</p>
-                     <p>Mednarodno priznanje Slovenije ni samo stvar naše volje. Za zdaj je subjekt
+                        <p>Mednarodno priznanje Slovenije ni samo stvar naše volje. Za zdaj je subjekt
                         mednarodnega prava SFRJ in dokler ne razrešimo notranjih odnosov v
                         Jugoslaviji, ne moremo formirati lastne diplomatske službe. Lahko pa in
                         moramo pripraviti vse potrebno za njeno vzpostavitev. To funkcijo lahko zdaj
@@ -697,7 +701,7 @@
                         Slovenije, pridobljena v rednem postopku, da bodo v posameznih državah lahko
                         opravljala zadeve za Republiko Slovenijo in za njene državljane po
                         svetu.</p>
-                     <p>Pogoj za mednarodno-pravno priznanje Slovenije je, da ima Slovenija na
+                        <p>Pogoj za mednarodno-pravno priznanje Slovenije je, da ima Slovenija na
                         svojem ozemlju v njenih sedanjih mejah vso ekonomsko in politično oblast, da
                         je sposobna zagotavljati svojo nacionalno varnost, da v njej vlada politični
                         pluralizem in demokracija, da izpolnjuje in je pripravljena ravnati po vseh
@@ -705,7 +709,7 @@
                         Jugoslavije po načelih pravnega nasledstva in da je z vsem svojim delovanjem
                         in razvojem dejavnik stabilnosti, miru in mednarodnega povezovanja v tem
                         delu Evrope. Naj ponovim, želimo biti vsem dobri in odgovorni mejaši.</p>
-                     <p>6. Zavarovanje in obramba suverenosti Republike Slovenije. Za uresničitev te
+                        <p>6. Zavarovanje in obramba suverenosti Republike Slovenije. Za uresničitev te
                         naloge smo zadnje mesece storili veliko, neredko tudi kot naš odziv na
                         pretnje slovenski svobodi in suverenosti, tudi na tiste, ki so prihajale iz
                         vodstva JLA. O tem sem govoril na zasedanju Skupščine 6. decembra. Še vedno
@@ -725,14 +729,14 @@
                         da v armadi prevladajo tiste sile, ki so se sposobne prilagoditi novim
                         zgodovinskim okoliščinam in priznati realnost procesov, ki zahtevajo
                         temeljno preureditev Jugoslavije.</p>
-                     <p>Znotraj tega velja poiskati rešitve tudi za dileme pri postavljanju ustavnih
+                        <p>Znotraj tega velja poiskati rešitve tudi za dileme pri postavljanju ustavnih
                         temeljev našega obrambnega koncepta ter organizacije obrambe na tradicijah
                         NOB in sedanje naše teritorialne obrambe. Pri tem velja upoštevati, da je v
                         sedanjih evropskih in svetovnih razmerah nevarnost vojnih spopadov v tem
                         delu sveta bistveno zmanjšana in da bomo svojo varnost mogli učinkovito
                         zagotoviti le v okviru nastajajočega sistema evropske kolektivne varnosti in
                         obrambe.</p>
-                     <p>Izdelavi mirovne izbire in projektu o demilitarizaciji Slovenije velja dati
+                        <p>Izdelavi mirovne izbire in projektu o demilitarizaciji Slovenije velja dati
                         enakopravno možnost pri odločanju o temeljih nacionalne varnostne politike.
                         Pot nenasilnega reševanja meddržavnih in drugih konfliktov ter aktivna
                         mirovna politika Slovenije je gotovo pomembna vstopnica v evropski dom miru
@@ -742,7 +746,7 @@
                         razmerij v Jugoslaviji, kajti brez tega se v Evropo ne moremo vključiti kot
                         dejavnik miru, stabilnosti in integracije, ki deluje skladno s težnjami in
                         interesi te skupnosti.</p>
-                     <p>Slovenija želi mir in normalen razvoj zase in za vse druge narode. Storila
+                        <p>Slovenija želi mir in normalen razvoj zase in za vse druge narode. Storila
                         bo za to vse, da bodo živeli v miru in blaginji. Toda na ogrožanje
                         ozemeljske celovitosti in suverenosti, na vsako agresijo - tudi s strani
                         sedanje armade, utemeljevano z že znanimi ideološkimi formulami o enotnosti,
@@ -751,20 +755,20 @@
                         republik. Vsekakor je nujno, da Skupščina še pred sprejetjem ustave
                         celoviteje razpravlja o temeljih nacionalne varnostne politike, o stanju
                         obrambnih priprav naše republike in o perspektivi razorožitve.</p>
-                     <p>Spoštovane poslanke in poslanci!</p>
-                     <p>To naj bi bile po mnenju Predsedstva poglavitne smeri aktivnosti, ki nam je
+                        <p>Spoštovane poslanke in poslanci!</p>
+                        <p>To naj bi bile po mnenju Predsedstva poglavitne smeri aktivnosti, ki nam je
                         zdaj naložena in ki so jim izhodišče 6. decembra na predlog našega Izvršnega
                         sveta sprejeta gradiva o osamosvajanju Slovenije, pa tudi pričakovanje
                         velike večine prebivalcev in državljanov Slovenije, kakor jih je zaznala
                         decembrska raziskava slovenskega javnega mnenja, s katero bo te dni
                         seznanjena tudi javnost.</p>
-                     <p>Visok rezultat plebiscitarne odločitve je potemtakem osnova za našo
+                        <p>Visok rezultat plebiscitarne odločitve je potemtakem osnova za našo
                         samozavest, s katero se moramo njenega uresničevanja lotevati. Spremljati pa
                         jo mora pripravljenost prisluhniti interesom drugih, smisel za realnost,
                         nepopustljivost pri ključnih vprašanjih in sposobnost za prilagajanje in
                         kompromise, ki so smiselni in utemeljeni. Skratka, pokazati velja pravi
                         evropski pogajalski duh, da nam bo olajšan vstop v evropske integracije.</p>
-                     <p>Politično osnovo za vso to dejavnost predstavlja strankarsko soglasje;
+                        <p>Politično osnovo za vso to dejavnost predstavlja strankarsko soglasje;
                         sposobnost strank, da v nacionalnem interesu v tem občutljivem času
                         uskladijo svoje poglede in dejavnosti na temelju sporazuma, ki so ga
                         podpisale pred plebiscitom. Potekati mora na temelju dobrih priprav in mora
@@ -780,7 +784,7 @@
                         vprašanje njene sposobnosti in odgovornosti v parlamentu na način in s
                         sredstvi, ki jih pozna parlamentarna demokracija. In, seveda, z vso
                         odgovornostjo za ta politični korak.</p>
-                     <p>Zdaj smo brez dvoma na tisti točki naše prihodnje zgodovine, ko je vsaka
+                        <p>Zdaj smo brez dvoma na tisti točki naše prihodnje zgodovine, ko je vsaka
                         pomembnejša odločitev lahko tudi usodna. Časa ni veliko. Razmere, v katerih
                         živimo, in cilji, ki smo si jih zastavili, zahtevajo spremembe. Toda, kakor
                         že je pomembna hitrost teh sprememb, je še odločilnejša njihova kakovost.
@@ -800,8 +804,8 @@
                         razpoznavni: miru, svobode, blaginje, materialnega napredka in razvoja,
                         odgovornosti za okolje, socialne pravičnosti, odgovornosti in zavarovanja
                         človeškega dostojanstva.</p>
-                     <p>Spoštovane poslanke in poslanci!</p>
-                     <p>S plebiscitom smo si naložili odgovornost za obstoj in prihodnost
+                        <p>Spoštovane poslanke in poslanci!</p>
+                        <p>S plebiscitom smo si naložili odgovornost za obstoj in prihodnost
                         slovenstva. Ne moremo in ne želimo je zdaj odložiti niti prenesti na koga
                         drugega. Naložiti si jo želimo pošteno, zavedajoč se, da bo zgodovina
                         postavljala vprašanje, kako smo jo izpolnili. Ostaja nam upanje, naslonjeno
@@ -819,7 +823,7 @@
                         nevarnost, ki nam ta čas grozi, prihaja od nas samih. Zato ne dovolimo
                         nikomur, da bi si odločitev ljudstva sebično prilaščal ali jo s svojo
                         nesposobnostjo onemogočal.</p>
-                     <p>Verjamem, spoštovani poslanci in poslanke, da misel vsakogar od nas ta
+                        <p>Verjamem, spoštovani poslanci in poslanke, da misel vsakogar od nas ta
                         slovesni večer bega po mnogih obzorjih, da se giblje med strogo razumskimi
                         premisleki in čustvenimi opredelitvami. A na koncu, o tem ne dvomim, se bomo
                         na ključnih stvareh poenotili. Saj nam, navsezadnje, nič drugega tudi ne
@@ -829,7 +833,7 @@
                         nova zgodovina človeštva. verjamem, da si vsakdo od nas želi čistega srca in
                         jasnega pogleda, poštenega in častnega odgovora - preprosto bili smo
                         zraven!</p>
-                     <p>Čestitam vam s to mislijo, spoštovane poslanke in poslanci, in se vam
+                        <p>Čestitam vam s to mislijo, spoštovane poslanke in poslanci, in se vam
                         zahvaljujem za vse, kar ste naredili, da je celotno plebiscitarno dejanje
                         potekalo tako demokratično, prepričljivo in dostojanstveno. Seveda pa gredo
                         zahvala in čestitke tudi vsem Slovenkam in Slovencem, pa tudi vsem drugim
@@ -837,20 +841,20 @@
                         pokazali veliko zrelost, odgovornost in zavzetost za svojo boljšo prihodnost
                         in za prihodnost nove slovenske države. Verjamem, da bo tako tudi v
                         prihodnje.</p>
-                     <p>Predsedstvo Slovenije in tudi jaz sam smo pri tem pripravljeni prevzeti svoj
+                        <p>Predsedstvo Slovenije in tudi jaz sam smo pri tem pripravljeni prevzeti svoj
                         del odgovornosti. Hvala. <stage type="vocal">(Aplavz.)</stage>
-                     </p>
-                  </sp>
-                  <sp who="#sp.BučarFrance">
-                     <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
-                     <p>Spoštovani zbor, aplavz, s katerim ste pospremili izvajanje predsednika
+                        </p>
+                     </sp>
+                     <sp who="#DZ-1990-Slavnostna-1.sp.BučarFrance">
+                        <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
+                        <p>Spoštovani zbor, aplavz, s katerim ste pospremili izvajanje predsednika
                         Predsedstva mi dokazuje, da ta izhodišča sprejemate kot primerna za
                         nadaljnjo izdelavo programa za izvajanje naročila mandata, ki ga nam je dal
                         plebiscit in zato to sejo zaključujem. Hvala lepa.</p>
-                  </sp>
-                  <stage type="time">(Seja je bila <time to="1990-12-26T19:15:00" xml:id="stage.t.2">končana 26. decembra 1990 ob 19.15 uri</time>.)</stage>
+                     </sp>
+                     <stage type="time">(Seja je bila <time to="1990-12-26T19:15:00" xml:id="DZ-1990-Slavnostna-1.stage.t.2">končana 26. decembra 1990 ob 19.15 uri</time>.)</stage>
+                  </div>
                </div>
-             </div>
             </div>
          </div>
       </body>

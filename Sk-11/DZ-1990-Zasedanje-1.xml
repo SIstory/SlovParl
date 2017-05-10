@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -146,7 +144,7 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:</head>
-                     <item n="1" xml:id="toc.1.1">Uvodna beseda Izvršnega sveta Skupščine Republike Slovenije v zvezi
+                     <item n="1" xml:id="DZ-1990-Zasedanje-1.toc.1.1">Uvodna beseda Izvršnega sveta Skupščine Republike Slovenije v zvezi
                         s predlogi za obremenitev gospodarstva in izpolnjevanje obveznosti Republike
                         Slovenije do federacije ......................................... 1<list rend="simple">
                            <head>GOVORNIK:</head>
@@ -159,14 +157,14 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Informacija Predsedstva Republike Slovenije o ukrepih in aktivnosti
+                     <item n="1" xml:id="DZ-1990-Zasedanje-1.toc.2.1">Informacija Predsedstva Republike Slovenije o ukrepih in aktivnosti
                         v zvezi s premeščanjem orožja Teritorialne obrambe
                         .................................. 4<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. Dušan Plut ........................................ 5</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Informacija o aktivnostih Izvršnega sveta Skupščine Republike
+                     <item n="2" xml:id="DZ-1990-Zasedanje-1.toc.2.2">Informacija o aktivnostih Izvršnega sveta Skupščine Republike
                         Slovenije v zvezi s premeščanjem orožja Teritorialne obrambe
                         .................................. 6<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -176,7 +174,7 @@
                            <item>Milan Aksentijević .................................... 9</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3">Seznam govornikov .................................. II/1</item>
+                     <item n="3" xml:id="DZ-1990-Zasedanje-1.toc.2.3">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -188,52 +186,58 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.AksentijevićMilan">Aksentijević Milan</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-1.sp.AksentijevićMilan">Aksentijević Milan</actor>
                   ......................................8, 9</castItem>
                <castItem>
-                  <actor xml:id="sp.JanšaJanez">Janša Janez</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-1.sp.JanšaJanez">Janša Janez</actor>
                   ............................................... 6</castItem>
                <castItem>
-                  <actor xml:id="sp.MencingerJože">Mencinger dr. Jože</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-1.sp.MencingerJože">Mencinger dr. Jože</actor>
                   ........................................ 1</castItem>
                <castItem>
-                  <actor xml:id="sp.PirnatRajko">Pirnat dr. Rajko</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-1.sp.PirnatRajko">Pirnat dr. Rajko</actor>
                   .......................................... 8</castItem>
                <castItem>
-                  <actor xml:id="sp.PlutDušan">Plut dr. Dušan</actor>
+                  <actor xml:id="DZ-1990-Zasedanje-1.sp.PlutDušan">Plut dr. Dušan</actor>
                   ............................................ 5</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1990-Zasedanje-1.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="1">
+            <div xml:id="DZ-1990-Zasedanje-1.div.1.1" ana="#PAR.Zasedanje" n="1">
                <head>1. zasedanje</head>
                <docDate>(<date when="1990-07-13">13.</date> in <date when="1990-07-14">14. julij
                      1990</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1990-07-13T14:15:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1990-Zasedanje-1.TL.1" unit="s">
+                  <when synch="#DZ-1990-Zasedanje-1.stage.t.1"
+                        xml:id="DZ-1990-Zasedanje-1.TL.1"
+                        absolute="1990-07-13T14:15:00"/>
+                  <when synch="#DZ-1990-Zasedanje-1.stage.t.2"
+                        since="#DZ-1990-Zasedanje-1.TL.1"
                         absolute="1990-07-13T14:30:00"
                         interval="900"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1990-07-14T13:20:00"/>
-                  <when synch="#stage.t.4"
-                        since="#TL.2"
+                  <when synch="#DZ-1990-Zasedanje-1.stage.t.3"
+                        xml:id="DZ-1990-Zasedanje-1.TL.2"
+                        absolute="1990-07-14T13:20:00"/>
+                  <when synch="#DZ-1990-Zasedanje-1.stage.t.4"
+                        since="#DZ-1990-Zasedanje-1.TL.2"
                         absolute="1990-07-14T13:40:00"
                         interval="1200"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="sp.Zupančič.Jože">Jože
-                        Zupančič</actor>, <role>predsednik Zbora združenega dela</role> in <actor xml:id="sp.Bizjak.Ivan">Ivan Bizjak</actor>, <role>predsednik Zbora
+                     <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1990-Zasedanje-1.sp.Zupančič.Jože">Jože
+                        Zupančič</actor>, <role>predsednik Zbora združenega dela</role> in <actor xml:id="DZ-1990-Zasedanje-1.sp.Bizjak.Ivan">Ivan Bizjak</actor>, <role>predsednik Zbora
                         občin</role>.</castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1990-07-13T14:15:00" xml:id="stage.t.1">pričela ob 14. 15 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.TDR" corresp="#toc.1.1">
-                     <sp who="#sp.Zupančič.Jože">
+               <stage type="time">Seja se je <time from="1990-07-13T14:15:00" xml:id="DZ-1990-Zasedanje-1.stage.t.1">pričela ob 14. 15 uri</time>.</stage>
+               <div xml:id="DZ-1990-Zasedanje-1.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1990-Zasedanje-1.div.1.1.1.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-Zasedanje-1.toc.1.1">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Zupančič.Jože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Poslanke in poslanci, cenjeni člani Izvršnega sveta in vsi gostje, dragi
                            novinarji. Pričenjamo prvo skupno zasedanje Zbora združenega dela, Zbora
@@ -246,7 +250,7 @@
                            odločitvami. Občutek imam, da se bomo pomena teh težkih in odgovornih
                            odločitev zavedali šele sedaj, kar nam bo povedal dr. Jože Mencinger.</p>
                      </sp>
-                     <sp who="#sp.MencingerJože">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.MencingerJože">
                         <speaker>DR. JOŽE MENCINGER:</speaker>
                         <p>Spoštovane poslanke in poslanci! Ne bi veliko govoril o kriznem stanju v
                            slovenskem gospodarstvu, ker ga vsi dobro poznate. Vlada se je tega
@@ -395,7 +399,7 @@
                            <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.Zupančič.Jože">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Zupančič.Jože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospodu Mencingerju bi se zahvalil za te uvodne besede. Rekli smo, da
                            bomo tu samo poslušali. Drznil bi si povedati samo en stavek. Upam, da
@@ -408,14 +412,16 @@
                            zborih.</p>
                         <p>S tem bi skupno zasedanje zaključil. Hvala.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1990-07-13T14:30:00" xml:id="stage.t.2">PREKINJENA 13. JUNIJA 1990 OB 14.30 URI</time> IN SE
-                        JE <time from="1990-07-14T13:20:00" xml:id="stage.t.3">NADALJEVALA 14.
+                     <stage type="time">(SEJA JE BILA <time to="1990-07-13T14:30:00" xml:id="DZ-1990-Zasedanje-1.stage.t.2">PREKINJENA 13. JUNIJA 1990 OB 14.30 URI</time> IN SE
+                        JE <time from="1990-07-14T13:20:00" xml:id="DZ-1990-Zasedanje-1.stage.t.3">NADALJEVALA 14.
                            JUNIJA 1990 OB 13.20 URI</time>.)</stage>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" corresp="#toc.2.1">
-                     <sp who="#sp.Bizjak.Ivan">
+               <div xml:id="DZ-1990-Zasedanje-1.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1990-Zasedanje-1.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-Zasedanje-1.toc.2.1">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Bizjak.Ivan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Začenjam Skupno zasedanje Družbenopolitičnega zbora, Zbora združenega
                            dela in Zbora občin Skupščine Republike Slovenije, na katerem bo član
@@ -432,7 +438,7 @@
                            opravili v zborih.</p>
                         <p>Besedo dajem dr. Dušanu Plutu, članu Predsedstva Republike Slovenije.</p>
                      </sp>
-                     <sp who="#sp.PlutDušan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.PlutDušan">
                         <speaker>DR. DUŠAN PLUT:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane delegatke in delegati. Predsedstvo
                            Republike Slovenije je pripravilo podrobnejšo informacijo o ukrepih in
@@ -523,8 +529,10 @@
                         </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" corresp="#toc.2.2">
-                     <sp who="#sp.Bizjak.Ivan">
+                  <div xml:id="DZ-1990-Zasedanje-1.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-Zasedanje-1.toc.2.2">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Bizjak.Ivan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Zahvaljujem se dr. Plutu za njegovo izvajanje. V nadaljevanju bo
                            <title>INFORMACIJO O AKTIVNOSTIH IZVRŠNEGA SVETA SKUPŠČINE REPUBLIKE
@@ -532,7 +540,7 @@
                            predstavil republiški sekretar za ljudsko obrambo, gospod Janez Janša.
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.JanšaJanez">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.JanšaJanez">
                         <speaker>JANEZ JANŠA:</speaker>
                         <p>Spoštovane poslanke, spoštovani kolegi poslanci. Informacijo Izvršnega
                            sveta oziroma Sekretariata za ljudsko obrambo ste dobili včeraj na klop,
@@ -599,14 +607,14 @@
                            instrumente, da take ukrepe uveljavi. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.Bizjak.Ivan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Bizjak.Ivan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Razprava ni predvidena, vendar pa, naredimo izjemo. Upam, da
                            jih ne bo več. Rad bi vas opozoril, da predvidevamo razpravo ločeno po
                            zborih. To pa je le skupno zasedanje, na katerem se poslanci seznanjamo s
                            temi informacijami.</p>
                      </sp>
-                     <sp who="#sp.AksentijevićMilan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.AksentijevićMilan">
                         <speaker>MILAN AKSENTIJEVIĆ:</speaker>
                         <p>Spoštovani zbor! Ker je razprava po zborih, a sem sam predstavnik
                            oboroženih sil, vas prosim, da mi dovolite, da povem tisto, kar čutim, da
@@ -618,17 +626,17 @@
                            Sloveniji dobilo je sprovođenje tog naređnja negativno konotaciju,
                            izrazito politično.....</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>
                            <stage type="location">(Glas iz klopi)</stage>. Protestiram proti uporabi tujega jezika v
                            skupščini in ga ne bomo več poslušali.</p>
                      </sp>
-                     <sp who="#sp.Bizjak.Ivan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Bizjak.Ivan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Prosim gospode delegate, da se za trenutek umirijo.</p>
                      </sp>
-                     <sp who="#sp.AksentijevićMilan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.AksentijevićMilan">
                         <speaker>MILAN AKSENTIJEVIĆ:</speaker>
                         <p>Jaz bi protestiral proti temu načinu govorjenja o drugih delegatih in
                            prosim, da prihranite razpravo za zbor, ker žal se nekatere stvari tukaj
@@ -639,21 +647,21 @@
                            delegatom te skupščine. Zato bi predlagal oziroma delegata prosim, da
                            prekine svojo diskusijo.</p>
                      </sp>
-                     <sp who="#sp.AksentijevićMilan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.AksentijevićMilan">
                         <speaker>MILAN AKSETIJEVIĆ:</speaker>
                         <p>To se pravi, da mi oduzimate reč.</p>
                      </sp>
-                     <sp who="#sp.Bizjak.Ivan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Bizjak.Ivan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Tako je. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.AksentijevićMilan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.AksentijevićMilan">
                         <speaker>MILAN AKSENTIJEVIĆ:</speaker>
                         <p>Hvala lepa, tovariš predsednik. Res ste pomagali, da se slovenska javnost
                            obvesti še o drugem vidiku tega problema. Hvala vam.</p>
                      </sp>
-                     <sp who="#sp.Bizjak.Ivan">
+                     <sp who="#DZ-1990-Zasedanje-1.sp.Bizjak.Ivan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Dobro. Na to pripombo kratek komentar. Menim, da že to, kar je bilo prej
                            povedano, bo lahko povsem zadoščalo za informiranje slovenske javnosti.
@@ -667,7 +675,7 @@
                            nadaljuje z delom ob 14.30 uri, v Zboru občin in v Družbenopolitičnem
                            zboru pa čez 15 minut.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1990-07-14T13:40:00" xml:id="stage.t.4">končana 14. junija 1990 ob 13.40 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1990-07-14T13:40:00" xml:id="DZ-1990-Zasedanje-1.stage.t.4">končana 14. junija 1990 ob 13.40 uri</time>.)</stage>
                   </div>
                </div>
             </div>

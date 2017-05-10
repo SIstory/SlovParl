@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,8 +132,8 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                       STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti poslancev ....................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda .................................. 1<list rend="simple">
+                     <item n="1" xml:id="DZ-1992-VsiZbor-31.toc.1.1">Ugotavljanje prisotnosti poslancev ....................... 1</item>
+                     <item n="2" xml:id="DZ-1992-VsiZbor-31.toc.1.2">Določitev dnevnega reda .................................. 1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Gradišar Franc ........................................... 1</item>
                         </list>
@@ -144,7 +142,7 @@
                </item>
                <item>
                   <list rend="ordered">
-                     <item n="3" xml:id="toc.2.3">Volitve predsednika Vlade Republike Slovenije ............ 2<list rend="simple">
+                     <item n="3" xml:id="DZ-1992-VsiZbor-31.toc.2.3">Volitve predsednika Vlade Republike Slovenije ............ 2<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>mag. Marko Voljč ......................................... 2</item>
                            <item>Vitomir Gros ............................................. 9</item>
@@ -205,8 +203,8 @@
                            <item>mag. Marko Voljč ........................................ 85</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.2.4">Seznam govornikov ....................................... II</item>
-                     <item n="5" xml:id="toc.2.5">Priloga: Zapisnik 31. skupne seje vseh zborov Skupščine Republike
+                     <item n="4" xml:id="DZ-1992-VsiZbor-31.toc.2.4">Seznam govornikov ....................................... II</item>
+                     <item n="5" xml:id="DZ-1992-VsiZbor-31.toc.2.5">Priloga: Zapisnik 31. skupne seje vseh zborov Skupščine Republike
                         Slovenije .................................... III </item>
                   </list>
                </item>
@@ -219,185 +217,194 @@
             <castList>
                <head>GOVORNIKI:                                                STRAN</head>
                <castItem>
-                  <actor xml:id="sp.BalažičMilan">Balažič Milan</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.BalažičMilan">Balažič Milan</actor>
                   .............................................. 21</castItem>
                <castItem>
-                  <actor xml:id="sp.BizjakIvan">Bizjak Ivan</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.BizjakIvan">Bizjak Ivan</actor>
                   ............................................ 23, 90</castItem>
                <castItem>
-                  <actor xml:id="sp.BuserStanko">Buser dr. Stanko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.BuserStanko">Buser dr. Stanko</actor>
                   ........................................... 66</castItem>
                <castItem>
-                  <actor xml:id="sp.DeželakJanko">Deželak Janko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.DeželakJanko">Deželak Janko</actor>
                   .............................................. 68</castItem>
                <castItem>
-                  <actor xml:id="sp.DretnikIvan">Dretnik Ivan</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.DretnikIvan">Dretnik Ivan</actor>
                   ............................................... 43</castItem>
                <castItem>
-                  <actor xml:id="sp.FeltrinFranci">Feltrin Franci</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.FeltrinFranci">Feltrin Franci</actor>
                   ............................................. 84</castItem>
                <castItem>
-                  <actor xml:id="sp.FrankoKarel">Franko Karel</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.FrankoKarel">Franko Karel</actor>
                   ............................................... 42</castItem>
                <castItem>
-                  <actor xml:id="sp.GlavičPeter">Glavič dr. Peter</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.GlavičPeter">Glavič dr. Peter</actor>
                   ........................................... 78</castItem>
                <castItem>
-                  <actor xml:id="sp.GolijaFranc">Golija Franc</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.GolijaFranc">Golija Franc</actor>
                   ............................................... 16</castItem>
                <castItem>
-                  <actor xml:id="sp.GradišarCvetko">Gradišar dr. Cvetko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.GradišarCvetko">Gradišar dr. Cvetko</actor>
                   ........................................ 60</castItem>
                <castItem>
-                  <actor xml:id="sp.GradišarFranc">Gradišar Franc</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.GradišarFranc">Gradišar Franc</actor>
                   .............................................  1</castItem>
                <castItem>
-                  <actor xml:id="sp.GrosVitomir">Gros Vitomir</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.GrosVitomir">Gros Vitomir</actor>
                   ........................................ 9, 13, 40</castItem>
                <castItem>
-                  <actor xml:id="sp.HalbJanko">Halb Janko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.HalbJanko">Halb Janko</actor>
                   ................................................. 58</castItem>
                <castItem>
-                  <actor xml:id="sp.JuriFranco">Juri Franco</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.JuriFranco">Juri Franco</actor>
                   ................................................ 18</castItem>
                <castItem>
-                  <actor xml:id="sp.KolešnikCiril">Kolešnik Ciril</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.KolešnikCiril">Kolešnik Ciril</actor>
                   ............................................. 49</castItem>
                <castItem>
-                  <actor xml:id="sp.KreflIvan">Krefl Ivan</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.KreflIvan">Krefl Ivan</actor>
                   ................................................. 12</castItem>
                <castItem>
-                  <actor xml:id="sp.MagdičJože">Magdič dr. Jože</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.MagdičJože">Magdič dr. Jože</actor>
                   ............................................ 48</castItem>
                <castItem>
-                  <actor xml:id="sp.PahorBorut">Pahor Borut</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PahorBorut">Pahor Borut</actor>
                   ................................................ 37</castItem>
                <castItem>
-                  <actor xml:id="sp.PartljičAnton">Partljič Anton</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PartljičAnton">Partljič Anton</actor>
                   ............................................. 55</castItem>
                <castItem>
-                  <actor xml:id="sp.PerkoFranc">Perko mag. Franc</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PerkoFranc">Perko mag. Franc</actor>
                   ........................................... 75</castItem>
                <castItem>
-                  <actor xml:id="sp.PeršakAnton">Peršak Anton</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PeršakAnton">Peršak Anton</actor>
                   ........................................... 11, 29</castItem>
                <castItem>
-                  <actor xml:id="sp.PeterleAlojz">Peterle Alojz</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PeterleAlojz">Peterle Alojz</actor>
                   .......................................... 69, 90</castItem>
                <castItem>
-                  <actor xml:id="sp.PintarEmilMilan">Pintar Emil Milan</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PintarEmilMilan">Pintar Emil Milan</actor>
                   .......................................... 52</castItem>
                <castItem>
-                  <actor xml:id="sp.PirnatRajko">Pirnat dr. Rajko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PirnatRajko">Pirnat dr. Rajko</actor>
                   ........................................... 33</castItem>
                <castItem>
-                  <actor xml:id="sp.PlaninšekFranc">Planinšek Franc</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PlaninšekFranc">Planinšek Franc</actor>
                   ............................................ 82</castItem>
                <castItem>
-                  <actor xml:id="sp.PolajnarIgnac">Polajnar Ignac</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PolajnarIgnac">Polajnar Ignac</actor>
                   ............................................. 63</castItem>
                <castItem>
-                  <actor xml:id="sp.PotočnikFranc">Potočnik Franc</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PotočnikFranc">Potočnik Franc</actor>
                   ............................................. 11</castItem>
                <castItem>
-                  <actor xml:id="sp.PožarnikHubert">Požarnik dr. Hubert</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PožarnikHubert">Požarnik dr. Hubert</actor>
                   ........................................ 30</castItem>
                <castItem>
-                  <actor xml:id="sp.PregeljŽarko">Pregelj Žarko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PregeljŽarko">Pregelj Žarko</actor>
                   ...................................... 11, 12, 75</castItem>
                <castItem>
-                  <actor xml:id="sp.PrelovecValentin">Prelovec Valentin</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.PrelovecValentin">Prelovec Valentin</actor>
                   .......................................... 32</castItem>
                <castItem>
-                  <actor xml:id="sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
                   .............................. 26</castItem>
                <castItem>
-                  <actor xml:id="sp.StadlerMarko">Stadler Marko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.StadlerMarko">Stadler Marko</actor>
                   .......................................... 10, 16</castItem>
                <castItem>
-                  <actor xml:id="sp.StarcMarjan">Starc Marjan</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.StarcMarjan">Starc Marjan</actor>
                   ........................................... 13, 62</castItem>
                <castItem>
-                  <actor xml:id="sp.StarmanDanijel">Starman Danijel</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.StarmanDanijel">Starman Danijel</actor>
                   ............................................ 35</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠeligoRudi">Šeligo mag. Rudi</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ŠeligoRudi">Šeligo mag. Rudi</actor>
                   ........................................... 77</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠinkovecMatjaž">Šinkovec Matjaž</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ŠinkovecMatjaž">Šinkovec Matjaž</actor>
                   ............................................ 65</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠkolčJožef">Školč Jožef</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ŠkolčJožef">Školč Jožef</actor>
                   ................................................ 15</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠtefančičMarcel">Štefančič Marcel</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ŠtefančičMarcel">Štefančič Marcel</actor>
                   ........................................... 47</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.TomažičAnton">Tomažič Anton</actor>
                   .............................................. 10</castItem>
                <castItem>
-                  <actor xml:id="sp.TomšičFrance">Tomšič France</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.TomšičFrance">Tomšič France</actor>
                   .............................................. 43</castItem>
                <castItem>
-                  <actor xml:id="sp.unknown"></actor></castItem>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.unknown"/>
+               </castItem>
                <castItem>
-                  <actor xml:id="sp.UrbančičMiloš">Urbančič Miloš</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.UrbančičMiloš">Urbančič Miloš</actor>
                   ............................................. 38</castItem>
                <castItem>
-                  <actor xml:id="sp.VoljčMarko">Voljč mag. Marko</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.VoljčMarko">Voljč mag. Marko</actor>
                   ........................................ 2, 85</castItem>
                <castItem>
-                  <actor xml:id="sp.ZagoženFranc">Zagožen dr. Franc</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ZagoženFranc">Zagožen dr. Franc</actor>
                   .............................. 11, 38, 39, 83</castItem>
                <castItem>
-                  <actor xml:id="sp.ZlobecJašaL">Zlobec Jaša L.</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ZlobecJašaL">Zlobec Jaša L.</actor>
                   ............................................. 45</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽagarZvone">Žagar Zvone</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ŽagarZvone">Žagar Zvone</actor>
                   ............................................ 12, 17</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽakeljViktor">Žakelj mag. Viktor</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ŽakeljViktor">Žakelj mag. Viktor</actor>
                   ......................................... 19</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽampaJanez">Žampa Janez</actor>
+                  <actor xml:id="DZ-1992-VsiZbor-31.sp.ŽampaJanez">Žampa Janez</actor>
                   ................................................ 66</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1992-VsiZbor-31.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="31">
+            <div xml:id="DZ-1992-VsiZbor-31.div.1.1" ana="#PAR.Seja" n="31">
                <head>31. seja</head>
                <docDate>(<date when="1992-02-19">19. februar 1992</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1992-02-19T10:08:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1992-VsiZbor-31.TL.1" unit="s">
+                  <when synch="#DZ-1992-VsiZbor-31.stage.t.1"
+                        xml:id="DZ-1992-VsiZbor-31.TL.1"
+                        absolute="1992-02-19T10:08:00"/>
+                  <when synch="#DZ-1992-VsiZbor-31.stage.t.2"
+                        since="#DZ-1992-VsiZbor-31.TL.1"
                         absolute="1992-02-19T13:15:00"
                         interval="11220"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1992-02-19T15:08:00"/>
-                  <when synch="#stage.t.4"
-                        since="#TL.2"
+                  <when synch="#DZ-1992-VsiZbor-31.stage.t.3"
+                        xml:id="DZ-1992-VsiZbor-31.TL.2"
+                        absolute="1992-02-19T15:08:00"/>
+                  <when synch="#DZ-1992-VsiZbor-31.stage.t.4"
+                        since="#DZ-1992-VsiZbor-31.TL.2"
                         absolute="1992-02-19T17:55:00"
                         interval="10020"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1992-02-19T18:45:00"/>
-                  <when synch="#stage.t.6"
-                        since="#TL.3"
+                  <when synch="#DZ-1992-VsiZbor-31.stage.t.5"
+                        xml:id="DZ-1992-VsiZbor-31.TL.3"
+                        absolute="1992-02-19T18:45:00"/>
+                  <when synch="#DZ-1992-VsiZbor-31.stage.t.6"
+                        since="#DZ-1992-VsiZbor-31.TL.3"
                         absolute="1992-02-19T18:48:00"
                         interval="180"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Predsedoval</roleDesc>
-                     <actor xml:id="sp.BučarFrance">dr. France Bučar</actor>, <role>predsednik
+                     <actor xml:id="DZ-1992-VsiZbor-31.sp.BučarFrance">dr. France Bučar</actor>, <role>predsednik
                         Skupščine Republike Slovenije</role>
                   </castItem>
                </castList>
-               <stage type="time"> Seja se je <time from="1992-02-19T10:08:00" xml:id="stage.t.1">pričela ob 10.08 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.BučarFrance">
+               <stage type="time"> Seja se je <time from="1992-02-19T10:08:00" xml:id="DZ-1992-VsiZbor-31.stage.t.1">pričela ob 10.08 uri</time>.</stage>
+               <div xml:id="DZ-1992-VsiZbor-31.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1992-VsiZbor-31.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1992-VsiZbor-31.toc.1.1">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Spoštovane poslanke in poslanci! Začenjam 31. skupno sejo vseh zborov
                            Skupščine Republike Slovenije, ki je sklicana na podlagi 116. člena
@@ -412,8 +419,10 @@
                            zadostuje.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.BučarFrance">
+                  <div xml:id="DZ-1992-VsiZbor-31.div.1.1.1.2"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1992-VsiZbor-31.toc.1.2">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <p>Dnevni red današnje seje je določen že z ustavnimi določili. Na podlagi
                            116. člena ustave in na podlagi predloga poslancev, ki vam je bil
                            sporočen na prejšnji seji, od katere je preteklo več kot zahtevanih 48
@@ -425,9 +434,11 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" corresp="#toc.2.3">
-                     <sp who="#sp.GradišarFranc">
+               <div xml:id="DZ-1992-VsiZbor-31.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1992-VsiZbor-31.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1992-VsiZbor-31.toc.2.3">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Spoštovane poslanke in poslanci, predsedstvo skupščine, novinarji in
                            slovenska javnost, lepo pozdravljeni.</p>
@@ -452,13 +463,13 @@
                            Sloveniji v naslednjih letih. Kajti iz gospodarstva nastaja politika, ne
                            pa obratno. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Želi kandidat za predsednika vlade, gospod mag. Marko Voljč
                            predložiti koncept, svoj pogled na, lahko tudi program. Prosim, gospod
                            Voljč.</p>
                      </sp>
-                     <sp who="#sp.VoljčMarko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.VoljčMarko">
                         <speaker>MAG. MARKO VOLJČ (kandidat za predsednika Vlade Republike
                            Slovenije):</speaker>
                         <p>Hvala lepa. Gospod predsednik! Jaz sem za to pripravil manjše pisno
@@ -785,13 +796,13 @@
                         <p>Hvala za vašo pozornost. Upam, da bodo predstavljena izhodišča programa
                            gospodarskega in socialnega razvoja Slovenije pridobila vašo podporo!</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Začenjam razpravo. Pred prehodom na razpravo samo se je
                            prijavil gospod Gros, ki ima nekaj v zvezi s proceduralnim
                            vprašanjem.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Že takoj ob začetku nastopa gospoda kandidata sem zahteval proceduralno
                            besedo. Vendar je gospod spoštovani predsednik Bučar iz meni neznanih
@@ -835,7 +846,7 @@
                            najprej pravilno proceduralno sprejmemo dnevni red, zato, da ne bo
                            kakšnih ustavnih sporov, kot sem že tudi zadnjič najavil. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Torej predlog, kot sem že povedal, je določen z ustavo. Ker
                            je predmet današnje seje izključno samo razprava, po 116. členu, o novem
@@ -851,17 +862,17 @@
                            se vas odstrani s seje.</p>
                         <p>Besedo ima Marko Stadler.</p>
                      </sp>
-                     <sp who="#sp.StadlerMarko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.StadlerMarko">
                         <speaker>MARKO STADLER:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani delegati. Jaz enostavno ne morem
                            trenutno razpravljati, ker trenutno menim, da je kršena procedura. Če mi
                            lahko kdo pove, da ni kršena bom pa razpravljal.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Gospod Tomažič ima besedo.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Gospod predsednik, predlagam, da dejansko daste dnevni red na glasovanje.
                            Mislim, da je gospod Gros imel popolnoma prav, kajti mi smo dobili
@@ -876,7 +887,7 @@
                            dnevnega reda na glasovanje. Zato podpiram predlog gospoda Grosa.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Jaz lahko dam ta predlog na glasovanje. Predstavlja tipično proceduralno
                            izigravanje.</p>
@@ -894,29 +905,29 @@
                         </p>
                         <p>Sprejet je predlog, da se postopa po 116. členu. Gospod Zagožen.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Oprostite! Mislim, da postopek ni bil pravilen. Najprej bi bilo treba
                            dati na glasovanje predlog razširitve dnevnega reda. In potem, če je ta
                            predlog sprejet ali zavrnjen, celoten dnevni red. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Dobro. Mislim, da je to norčevanje iz poslancev. Ampak vendarle dajem na
                            glasovanje dnevni red, kot je bil predlagan vključno s to razširitvijo.
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.PotočnikFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PotočnikFranc">
                         <speaker>FRANC POTOČNIK:</speaker>
 
                         <p>Vsekakor je bil do sedaj običaj, da se je predlog dnevnega reda najprej
                            dal v obravnavo in potem po obravnavi na glasovanje.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Želi še kdo razpravljati o predlogu? Prosim.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Jaz bi povedal naslednje: ne glede na to, kaj si boste o tem mislili.
                            Seja, ki je danes sklicana, je sklicana v skladu z ustavo in mora biti v
@@ -928,11 +939,11 @@
                            ugovorov, čeprav sam tudi mislim, da je stvar jasna sama po sebi in po
                            ustavi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Prosim, Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani zbor, pozdravljeni! Imam en pomislek. Opažam, da je sklic te
                            seje po 116. členu veljavne ustave v nasprotju z več členi veljavnega
@@ -952,7 +963,7 @@
                         <p>Predlagam, da se ta problematika pred glasovanjem razčisti. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Moram poslanca, gospoda Preglja obvestiti, da je o teh
                            stvareh včeraj razpravljala ustavna komisija in da je o njih že zavzela
@@ -962,7 +973,7 @@
                            skladu. Če zahtevate kljub temu glasovanje, lahko dam to stvar na
                            glasovanje. Prosim.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Gospod predsednik! Hvala za pojasnilo. Razumem to pojasnilo. Toda ne
                            razumem, kako rešiti problem, kako bo naš parlament danes delal. Kar se
@@ -972,25 +983,29 @@
                            strokovno mnenje oziroma mislim, da ustavna komisija lahko poda svoje
                            mnenje, ampak tu bi morala Komisija za poslovnik povedati svoje stališče.
                            Kajti v resnici smo v težkem položaju; 
-                           </p></sp><sp who="#sp.unknown">
+                           </p>
+                     </sp>
+                     <sp who="#DZ-1992-VsiZbor-31.sp.unknown">
                            <speaker>(glas iz klopi:</speaker>  
                               <ab>Težkem pa
                               res.)</ab>
-                              </sp><sp who="#sp.PregeljŽarko"><p>
+                              </sp>
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PregeljŽarko">
+                        <p>
                               in ta položaj je težek predvsem zaradi tega, ker ustava
                            je narejena za državni zbor, mi pa še nismo državni zbor.</p>
                         <p>V resnici lahko vsebinsko razpravo o zaupnici ali ne zaupnici vladi
                            opravimo najprej v zborih. Tako da predlagam, da dobimo odgovor na to
                            vprašanje.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Poslancu moram povedati, da poslovniška komisija v tem
                            pogledu nima nobenih pristojnosti. Za razlago ustave je pristojna ustavna
                            komisija. Ta je svoje stališče že povedala. Če zahtevate glasovanje,
                            lahko dam na glasovanje. Gospod Žagar, prosim.</p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Spoštovani poslanci, spoštovane poslanke, spoštovani gospod predsednik!
                            Dovolite, da zastavim proceduralno vprašanje v okviru razprave o dnevnem
@@ -1003,7 +1018,7 @@
                            dnevni red, ker mislimo, da je bil sklep povsem jasen. Ne razumemo, zakaj
                            ste to odločitev prezrl.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Moram vam povedati, da je ta seja posvečena izključno
                            vprašanju 116. člena oziroma proceduri, ki iz tega sledi. Hkrati vas
@@ -1012,7 +1027,7 @@
                            razpravljali o tej točki, češ, da ne more priskrbeti potrebnega gradiva.
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.KreflIvan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.KreflIvan">
                         <speaker>IVAN KREFL:</speaker>
                         <p>116. člen ustave pravi: "Državni zbor lahko izglasuje nezaupnico vladi le
                            tako, da na predlog najmanj desetih poslancev, z večino glasov na skupnem
@@ -1025,7 +1040,7 @@
                            glasovanjem. Iz tega sledi, da poslanci, ki so dali predlog konstruktivne
                            zaupnice, niso legitimni.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Poslanca moram obvestiti, da si naj prebere tudi zakon za
                            izvedbo ustave, kjer so te stvari urejene, tako da mislim, da tu ni
@@ -1035,7 +1050,7 @@
                         <p>Še enkrat poudarjam. Če želite lahko o tem glasujemo. Prosim, gospod,
                            kako se že piše?</p>
                      </sp>
-                     <sp who="#sp.StarcMarjan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.StarcMarjan">
                         <speaker>MARJAN STARC:</speaker>
                         <p>Spoštovane kolegice in kolegi! Nisem pravnik in se na te stvari ne
                            spoznam, vendar sem že eno leto in pol tukaj in sem se čisto laično nekaj
@@ -1053,7 +1068,7 @@
                            mnenje, merodajno stališče je pa stališče Ustavnega sodišča o razlagi
                            ustave in teh postopkov. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Vam moram povedati sledeče: Ustavno sodišče presoja spore, ki
                            nastanejo v zvezi z izvajanjem Ustave. In v kolikor mislite, ko boste
@@ -1063,7 +1078,7 @@
                            je včeraj zavzela Ustavna komisija.</p>
                         <p>Prosim, gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Z ozirom na pojasnilo gospoda predsednika, da je Ustavna komisija že
                            razpravljala o teh spornih vprašanjih, vendar moram reči, da mi nismo
@@ -1117,7 +1132,7 @@
                            seja slovenske skupščine, danes, dne 19. februarja 1992. Predlagam, da
                            ravnamo po teh zahtevah, ki so tukaj napisane. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Glede prvega vprašanja vam moram povedati, da je odgovor na
                            vaše vprašanje vsebovan že v zakonu za izvedbo ustave.</p>
@@ -1168,11 +1183,11 @@
                            stranke, kateri so volivci zaupali določene glasove, pa ni še nihče
                            postavil pod vprašaj nastopov njihovih dedičev. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Prosim, če imate še kaj glede procedure.</p>
                      </sp>
-                     <sp who="#sp.GolijaFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.GolijaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>K tem proceduralnim zapletom bi dodal samo še neko stvar, pa jo bom kar
                            prebral. V vrstah poslancev SPD, vidim gospoda Štefana Korošca,
@@ -1195,13 +1210,13 @@
                            prostor novega mandatarja in pa eno novo kompetentno vlado. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Intervencija je brezpredmetna. Prehajamo na dnevni red.
                            Prosim, drugi se je javil Zvone Žagar; se ne javlja? Stadler Marko želi
                            še enkrat. Dobro. Prosim.</p>
                      </sp>
-                     <sp who="#sp.StadlerMarko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.StadlerMarko">
                         <speaker>MARKO STADLER:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane delegatke in delegati. Res mi je žal,
                            da se ta stvar tako proceduralno zapletla. Meni kot kmetu vsaka
@@ -1256,14 +1271,14 @@
                            lahko povedal, lahko povem, da je prišel iz menadžerskih krogov. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Poslance bi samo opozoril, da ne ponavljajo, da gre tukaj za
                            kakršnekoli proceduralne zaplete. Stvari so bile popolnoma jasne in
                            čiste. Če so pa nekateri hoteli izzvati razne zaplete, je to njihova
                            stvar. Besedo ima Zvone Žagar.</p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Spoštovani poslanci, spoštovane poslanke, spoštovani predsednik.
                            Liberalna stranka izjemno ceni vsak korak, storjen z namenom, umiriti
@@ -1299,12 +1314,12 @@
                            prizadevali k oz. prispevali k rešitvi za vse nas pomembnih razmerij v
                            obstoječih političnih in gospodarskih tokovih. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Besedo ima Franco Juri. Če se boste še oglasili, vam bom ...;
                            to je drugi opomin.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Žal smo danes sprejeli gospoda Voljča s toplino in folkloro nekdanjih
                            latinsko-ameriških parlamentov. Upam, da bo vse skupaj razumel kot
@@ -1366,11 +1381,11 @@
                            javnosti na začetku tega zasedanja. Svoj glas bom seveda prepričano dal
                            za magistra Voljča.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Gospod Viktor Žakelj.</p>
                      </sp>
-                     <sp who="#sp.ŽakeljViktor">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ŽakeljViktor">
                         <speaker>MAG. VIKTOR ŽAKELJ:</speaker>
                         <p>Spoštovani predsednik, kolegice in kolegi poslanci. Ta visoki zbor bom za
                            trenutek zaposlil z mislijo, ki me je spremljala zadnja dva dni ob
@@ -1426,11 +1441,11 @@
                            Socialistične stranke, da bomo gospoda mag. Voljča podprli pri
                            kandidaturi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Besedo ima Milan Balažic.</p>
                      </sp>
-                     <sp who="#sp.BalažičMilan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BalažičMilan">
                         <speaker>MILAN BALAŽIČ:</speaker>
                         <p>Hvala lepa za besedo. Spoštovani! Socialdemokratska unija Slovenije je
                            izven običajnih političnih in politikantskih prekucij že dalj časa
@@ -1546,11 +1561,11 @@
                            politično uspešna vlada. Zdaj pa potrebujemo vlado, ki se bo dokazala in
                            podpisala s svojo gospodarsko in socialno uspešnostjo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Ivan Bizjak.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BizjakIvan">
                         <speaker>IVAN BIZJAK:</speaker>
                         <p>Gospod predsednik, spoštovane gospe in gospodje! Nekoč pred kratkim sem
                            rekel, da mnogi poslanci pridejo v našo skupščino samo ob največjih
@@ -1671,11 +1686,11 @@
                            način učinkoviteje prebili čas do naslednjih volitev, pa me ne bo nihče
                            prepričal. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Gospod Schwarzbartl ima besedo.</p>
                      </sp>
-                     <sp who="#sp.SchwarzbartlErvinAnton">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane gospe in gospodje poslanci. Moj govor
                            bo strankarski, ker menim, da je to porok za demokracijo, osebna stališča
@@ -1825,11 +1840,11 @@
                               <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Peršak.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Spoštovani poslanci in poslanke! Na seji poslanskega kluba članov
                            Demokratske stranke, ki je bila skupna z glavnim odborom, sem bil
@@ -1903,11 +1918,11 @@
                            ali pa, da se vladi da mandat, da izvajanje te odločitve lahko odloži.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Gospod Hubert Požarnik.</p>
                      </sp>
-                     <sp who="#sp.PožarnikHubert">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PožarnikHubert">
                         <speaker>DR. HUBERT POŽARNIK:</speaker>
                         <p>Spoštovani predsednik, spoštovane poslanke in poslanci! Osebno ne sodim
                            med tiste, ki mislijo, da je vlada gospoda Peterleta najboljša. Z vami
@@ -1992,12 +2007,12 @@
                            sem jih omenil, ne bomo podprli izvolitev mag. Marka Voljča za novega
                            mandatarja. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Valentin</p>
                         <p>Prelovec ima besedo.</p>
                      </sp>
-                     <sp who="#sp.PrelovecValentin">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PrelovecValentin">
                         <speaker>VALENTIN PRELOVEC:</speaker>
                         <p>Spoštovani zbor, spoštovano predsedstvo! Do tega zasedanja je nedvomno
                            prišlo po precej planiranem teku, da je to zasedanje nastalo kot
@@ -2044,11 +2059,11 @@
                         <p>Prva skrajnost, velik uspeh, druga skrajnost, padec za dolgo časa.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Rajko Pirnat.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Spoštovani gospe in gospodje. Ko so avtorji in režiserji tretjerazrednih
                            in odrskih del v času klasicizma stvari tako zapletli, da se še sami niso
@@ -2138,11 +2153,11 @@
                            Voljču dano mandatarstvo, pa niti stranka niti jaz osebno v tej vladi ne
                            bomo sodelovali. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Danijel Starman.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovani gospod predsednik, drage kolegice in kolegi. Ne bom govoril o
                            lepi Vidi ali drugih bitjih kot je govoril socialist, bom izjemno
@@ -2236,11 +2251,11 @@
                            niso odstopili. Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Borut Pahor prosim.</p>
                      </sp>
-                     <sp who="#sp.PahorBorut">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PahorBorut">
                         <speaker>BORUT PAHOR:</speaker>
                         <p>Hvala g. predsednik. V poslanskem klubu SDP smo menili, da velja danes ob
                            tej priložnosti povedati tudi naslednje; gospe in gospodje naj vam
@@ -2278,11 +2293,11 @@
                            demokratične prenove, Socialno-demokratski prenovi Slovenije izrekamo
                            podporo, ker mislimo, da si zaslužimo boljšo vlado. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Miloš Urbančič ima besedo.</p>
                      </sp>
-                     <sp who="#sp.UrbančičMiloš">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Mislim, da se mi danes vsi skupaj tukaj nekaj gremo. Zakaj ne bi rekli
                            bobu bob in bi priznali, da mi nimamo vladne krize, pač pa da imamo
@@ -2293,11 +2308,11 @@
                         <p>Moram dodati še, da je ravno tako, da delamo ravno tako, kot bi družinski
                            zdravnik, ko bi zbolel oče, predpisal zdravila materi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Dr. Franc Zagožen ima besedo.  </p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Spoštovani predsednik, spoštovane poslanke in poslanci. Govoril bom kot
                            strankarski poslanec v imenu Slovenske ljudske stranke. Mislim, da je
@@ -2325,12 +2340,12 @@
                            leti. Ni več last nobenega centralnega komiteja in nobene stranke, ki
                            bi....</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Zagožen, jaz vas moram opozoriti na člena 112. in 113. poslovnika:
                            "Žaljivost ni dovoljena." Lahko nadaljujete.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Mislim, da nisem žalil, samo nekaj stvari bi rad gospodu Voljču pojasnil.
                            Slovenija je demokratična, samostojna, svobodna država svobodnih
@@ -2382,11 +2397,11 @@
                            podobnega, kdor ni sejal, posadil dreves, zidal zidakov v hiše, je na
                            najboljši poti, da uniči državo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Najprej moram ugotoviti, da delujemo na formalno neobstoječi seji
                            Skupščine Republike Slovenije, kajti nismo sprejeli dnevnega reda. O
@@ -2491,11 +2506,11 @@
                            zaradi tega, ker mi naše države ne smemo na tako lahkomiseln način
                            pahniti v ne prilike in v negotovo gospodarjenje. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Gospod Franko Karel.</p>
                      </sp>
-                     <sp who="#sp.FrankoKarel">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.FrankoKarel">
                         <speaker>KAREL FRANKO:</speaker>
                         <p>Spoštovani! Glasoval bom proti nezaupnici vlade in njenega predsednika,
                            prav tako pa proti izvolitvi novega mandatarja.</p>
@@ -2519,11 +2534,11 @@
                            kategorij prebivalstva. Apeliram na vlado, da do volitev zastavi vse moči
                            v tej smeri. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Tomšič ima besedo.</p>
                      </sp>
-                     <sp who="#sp.TomšičFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Spoštovani predsednik, spoštovane gospe in gospodje! Na parlamentu mlade
                            slovenske države visi danes posebna odgovornost. Vsi se zavedamo, v kako
@@ -2565,11 +2580,11 @@
                            da s tem nisem nobenega prepričal kako bo glasoval, prepričani ste bili
                            verjetno že prej, vendar to so dejstva.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Gospod Dretnik.</p>
                      </sp>
-                     <sp who="#sp.DretnikIvan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.DretnikIvan">
                         <speaker>IVAN DRETNIK:</speaker>
                         <p>Spoštovano predsedstvo, hvala za besedo. Spoštovane poslanke, spoštovani
                            poslanci. Kot kmet z delom vlade ne morem biti povsem zadovoljen. Kajti
@@ -2622,11 +2637,11 @@
                         <p>Drage poslanke in poslanci, če se iz te zgodbice da izluščiti kakršna
                            koli primerjava, o tem presodite sami. Hvala za pozornost.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Gospod Jaša Zlobec.</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Spoštovane prijateljice in prijatelji, prijazen pozdrav. Poskušal bom
                            biti namesto vseh vas vsaj malo olikan in bom v vašem imenu pozdravil
@@ -2733,13 +2748,13 @@
                            tem, da je dobro novo, boljše kot slabo staro. Zato bom seveda glasoval
                            za konstruktivno nezaupnico. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p/>
                         <p>Hvala. Gospod Marcel. Ne. Že v redu, ne bo replike. "Ne boš tu afne
                            guncal." Prosim.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Spoštovani predsednik, spoštovane gospe in gospodje poslanci in nadvse
                            spoštovani gospod kandidat! Doletela me je ta čast, da govorim, nastopam
@@ -2796,11 +2811,11 @@
                         <p>Post scriptum, malce podvomiti bo kar treba, morda še najbolj ta
                            trenutek.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Dr. Jože Magdič.</p>
                      </sp>
-                     <sp who="#sp.MagdičJože">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.MagdičJože">
                         <speaker>DR. JOŽE MAGDIČ:</speaker>
                         <p>Spoštovane gospe in gospodje! Spoštovani gospod Marko Voljč! Pisatelj
                            Herman Hesse je rekel, vsaka emigracija se maščuje. Pregovor tudi pravi,
@@ -2864,11 +2879,11 @@
                            Glasoval bom, da ostane predsednik vlade gospod Lojze Peterle. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Gospod Ciril Kolešnik.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovane poslanke, spoštovani poslanci in
                            zelo spoštovani  gospod Voljč. Ne bom vas in vas ne pozdravljam zato, ker
@@ -2980,19 +2995,19 @@
                            Danes plačujemo to kvaliteto življenja izbrancev elite iz preteklih
                            časov. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Izčrpali smo približno, nekoliko več kot polovico
                            prijavljenih diskutantov, ura je dve, torej jaz bi predlagal eno uro
                            odmora, če ste za to? Ura odmora.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-02-19T13:15:00" xml:id="stage.t.2">prekinjena ob 13.55 uri</time> in se je <time from="1992-02-19T15:08:00" xml:id="stage.t.3">nadaljevala ob 15.08
+                     <stage type="time">(Seja je bila <time to="1992-02-19T13:15:00" xml:id="DZ-1992-VsiZbor-31.stage.t.2">prekinjena ob 13.55 uri</time> in se je <time from="1992-02-19T15:08:00" xml:id="DZ-1992-VsiZbor-31.stage.t.3">nadaljevala ob 15.08
                            uri</time>.)</stage>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Nadaljujemo z razpravo. Besedo ima gospod Milan Pintar.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Hvala lepa, gospod predsednik, spoštovane kolegice in kolegi, poslanci in
                            poslanke! Videli ste, da je danes kar nekaj poslancev nam tu napovedovalo
@@ -3150,11 +3165,11 @@
                            je njegov oče naredil 13. septembra 1920, ne pa, da bi se vprašali kakšno
                            ekonomsko politiko rabimo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Franc Planinšek. Ga ni. Potem pa Tone Partljič.</p>
                      </sp>
-                     <sp who="#sp.PartljičAnton">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PartljičAnton">
                         <speaker>ANTON PARTLJIČ:</speaker>
                         <p>Hvala lepa. Ko sem se priglasil k besedi, sem pravzaprav mislil, da bom
                            še rekel kaj ob tem, ko smo govorili o proceduralnih vprašanjih.</p>
@@ -3274,12 +3289,12 @@
                            treba naučiti in dobro pripraviti. No, pa bomo videli, kako bo to danes
                            izgledalo. Hvala za potrpežljivost.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Naslednji je gospod Janko Halb. Gospod Kreft se je odrekel?
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.HalbJanko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.HalbJanko">
                         <speaker>JANKO HALB:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Smatram, da ne
                            bom tako slikovit, kot je bil predgovornik, gospod Partljič, pa kljub
@@ -3380,12 +3395,12 @@
                         <p>Bi pa še eno proceduralno vprašanje postavil gospodu predsedniku; torej
                            ali je možno uporabiti inštrument poizkusnega glasovanja. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Kakšno? Moram reči, da to slednje ni predvideno v tem primeru. Besedo ima
                            Cveto Gradišar. Gospod Glavič je umaknil.</p>
                      </sp>
-                     <sp who="#sp.GradišarCvetko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Spoštovani predsednik, spoštovane kolegice in kolegi! Tako velikokrat
                            imamo to besedo "ad hominem ad rem" na jeziku in akustično posilstvo,
@@ -3455,11 +3470,11 @@
                            lovopustu drugače mislečih, ko v dogorevajoči hiši išče ptiča feniksa v
                            obliki leteče pečenke. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Marjan Starc.</p>
                      </sp>
-                     <sp who="#sp.StarcMarjan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.StarcMarjan">
                         <speaker>MARJAN STARC:</speaker>
                         <p>Spoštovane  kolegice in kolegi! Mene ta poizkus ekonomističnega prikaza
                            naših problemov ne prepriča. Ker ekonomska situacija, ki jo želimo
@@ -3533,11 +3548,11 @@
                            imenujem prevrat, bil hud udarec nastajajoči slovenski demokraciji. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Nace Polajnar.</p>
                      </sp>
-                     <sp who="#sp.PolajnarIgnac">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani kolegi, poslanke in poslanci! Jaz sem
                            predvsem z zanimanjem, pa tudi simpatijami poslušal poslanskega kolega
@@ -3619,7 +3634,7 @@
                            čas tudi sodelovala z vsemi, ne samo s tistimi, ki so pomagali blokirati.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Ker je bila  tukaj aluzija na teater in podobne stvari, bi
                            vas samo opozoril, da tisti poslanci, ki si želijo ogledati nekaj
@@ -3633,7 +3648,7 @@
                               <stage type="vocal">(Smeh.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ŠinkovecMatjaž">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ŠinkovecMatjaž">
                         <speaker>MATJAŽ ŠINKOVEC:</speaker>
                         <p>Spoštovani! Danes je bilo pravzaprav</p>
                         <p>že vse povedano in deloma je vse res, kar je bilo rečeno z ene ali z
@@ -3660,11 +3675,11 @@
                            stranka bo storila vse, da pride do teh volitev čimprej, mogoče še v prvi
                            polovici tega leta. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Besedo ima Janez Žampa.</p>
                      </sp>
-                     <sp who="#sp.ŽampaJanez">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ŽampaJanez">
                         <speaker>JANEZ ŽAMPA:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci, tudi spoštovani novi mandatar
                            med nami! Kot poslanec prihajam iz vrst kmečke zveze in tudi sam sem
@@ -3710,11 +3725,11 @@
                               <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Stanko Buser.</p>
                      </sp>
-                     <sp who="#sp.BuserStanko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovani predsednik, spoštovane poslanke, spoštovani poslanci in seveda
                            tudi gospod magister Voljč, ki danes sedi tukaj skoraj kot na zatožni
@@ -3780,11 +3795,11 @@
                            verjetno ne, v bližnji prihodnosti pa vsekakor, odgovore na moja
                            vprašanja. Prisrčna hvala in lep vam pozdrav.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK FRANCE BUČAR:</speaker>
                         <p>Besedo ima Janko Deželak.</p>
                      </sp>
-                     <sp who="#sp.DeželakJanko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.DeželakJanko">
                         <speaker>JANKO DEŽELAK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani! Dovolite mi po vseh teh besedah, da
                            spregovorim sam o določenih točkah programa, ki ga je gospod mag. Marko
@@ -3858,7 +3873,7 @@
                            edina, ob podpori parlamenta, kot je koncipiran po novi ustavi, potegne
                            to državo iz njene ekonomske, pa še kakšne druge krize. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Besedo ima Andrej Šter. <stage type="comment">(Oglasi se iz dvorane, da se
                               razpravi odpoveduje.)</stage> Hvala.</p>
@@ -3866,7 +3881,7 @@
                            <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovani predsedujoči, spoštovane poslanke in poslanci, spoštovani
                            gospod konkurent!</p>
@@ -4123,11 +4138,11 @@
                            pozivam na zdravo pamet. Hvala za pozornost. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Franc Perko.</p>
                      </sp>
-                     <sp who="#sp.PerkoFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PerkoFranc">
                         <speaker>MAG. FRANC PERKO:</speaker>
                         <p>Spoštovani predsednik, poslanke in poslanci! Razmišljal sem že, da bi
                            predlagal temu zboru, da črtamo 116. člen Ustave Slovenije, ki omogoča
@@ -4164,11 +4179,11 @@
                            kriv v tem primeru? Ali je zopet to Zbor združenega dela ali je to mogoče
                            kdo drug?</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala, besedo ima Žare Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani poslanci, spoštovano predsedstvo! Dovolite mi, da nadaljujem
                            svojo misel, ki sem jo poskušal razviti danes v začetku današnjega
@@ -4240,11 +4255,11 @@
                            soposlanca Franka Jurija: In verjetno je to razlog, da se je tudi ta
                            vsebina pojavila tudi na našem zasedanju. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Rudi Šeligo.</p>
                      </sp>
-                     <sp who="#sp.ŠeligoRudi">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ŠeligoRudi">
                         <speaker>MAG. RUDI ŠELIGO:</speaker>
                         <p>Spoštovani predsednik, spoštovane gospe in gospodje, gostje! Rad bi
                            povedal pravzaprav samo dve misli. Živimo v svetu o katerem, če si Še jaz
@@ -4308,11 +4323,11 @@
                            odstavili in najbrž tudi iz te odstavitve lahko potegnemo kakšen
                            zgodovinski poduk. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Peter Glavič se je premislil in bi kljub temu diskutiral. Prosim.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane delegatke, poslanke, spoštovani
                            poslanci! Spoštovani mag. Voljč! Tale inventura vlade pravzaprav kaže dve
@@ -4502,11 +4517,11 @@
                            mislim, da bi našli nekaj ljudi, ki bi bili sposobni delovati bolj
                            konstruktivno kot pa je to v tem primeru. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Franc Planinšek.</p>
                      </sp>
-                     <sp who="#sp.PlaninšekFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PlaninšekFranc">
                         <speaker>FRANC PLANINŠEK:</speaker>
                         <p>Spoštovani predsednik, spoštovane poslanke in poslanci! Novega odrešenika
                            za Slovence še ne poznam. Malo pa že poznam soposlance, ki bi radi
@@ -4545,11 +4560,11 @@
                            pa stroške, ki so po nepotrebnem nastali s sklicem te skupščine, bi raje
                            namenili za nova delovna mesta. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Franc Zagožen.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Spoštovane poslanke in poslanci, najprej replika g. Perku. Dobro, ne bo
                            replika, ampak vseeno izrekel je neko netočnost, namreč v zvezi z zakonom
@@ -4577,11 +4592,11 @@
                            nosilci postmoderne paradigme še včerajšnji pristaši planskega
                            gospodarstva. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Franci Feltrin.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Spoštovane gospe, spoštovani gospodje, spoštovano predsedstvo. Izgleda,
                            da sem zadnji, saj, ko sem listek sem prinesel, sem bil takoj na vrsti.
@@ -4631,7 +4646,7 @@
                            pa hitro letel. In to me res zanima, če boste uredili, in potem bom zelo
                            vesel. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. S tem je zadnji razpravljalec končal. Ker prijavljenih ni
                            več, s tem ugotavljam, da je razprava zaključena. Mogoče želi kdaj še
@@ -4639,7 +4654,7 @@
                            vprašanja. Popolnoma razumem, da ne more odgovoriti na vsa podrobna
                            vprašanja, ampak vendarle en temeljni koncept.</p>
                      </sp>
-                     <sp who="#sp.VoljčMarko">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.VoljčMarko">
                         <speaker>MAG. MARKO VOLJČ:</speaker>
                         <p>Hvala lepa. Zadnjih 6, 7 ur je bilo prav gotovo zame zelo koristno. Če je
                            na začetku tega dne, ko se je začela razprava - je nekdo rekel, da slabo
@@ -4818,7 +4833,7 @@
                         <p>Jaz bi se vam zahvalil za pozornost, za vprašanja, za komentarje in
                            odločitev je pa v vaših rokah. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Ker je ta del točke izčrpan, prehajamo pravzaprav v zadnjo
                            fazo, to je na glasovanje.</p>
@@ -4850,9 +4865,9 @@
                            občrta.</p>
                         <p>Torej komisijo pa prosim, ki smo jo izvoli, da gre v sobo 103.      </p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-02-19T17:55:00" xml:id="stage.t.4">prekinjena ob 17.55 uri</time> in se je <time from="1992-02-19T18:45:00" xml:id="stage.t.5">nadaljevala ob 18.45
+                     <stage type="time">(Seja je bila <time to="1992-02-19T17:55:00" xml:id="DZ-1992-VsiZbor-31.stage.t.4">prekinjena ob 17.55 uri</time> in se je <time from="1992-02-19T18:45:00" xml:id="DZ-1992-VsiZbor-31.stage.t.5">nadaljevala ob 18.45
                            uri</time>.)</stage>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Dovolite, da preberem poročilo o izidu glasovanja za izvolitev
                            predsednika Vlade Republike Slovenije.</p>
@@ -4865,13 +4880,13 @@
                            člena Ustave Republike Slovenije.</p>
                         <p>S tem zaključujem sejo.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-02-19T18:48:00" xml:id="stage.t.6">zaključena ob 18.48 uri</time>.)</stage>
-                     <sp who="#sp.BučarFrance">
+                     <stage type="time">(Seja je bila <time to="1992-02-19T18:48:00" xml:id="DZ-1992-VsiZbor-31.stage.t.6">zaključena ob 18.48 uri</time>.)</stage>
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BučarFrance">
                         <speaker>DR. FRANCE BUČAR:</speaker>
                         <p>Jaz sem sejo zaključil, zdaj pa, če so poslanci še voljni poslušati,
                            prosim.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovani zbrani, brez posebnih prazničnih občutij, se vam lepo zahvalim
                            za izkazano zaupanje in za pozornost.</p>
@@ -4882,7 +4897,7 @@
                               <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-VsiZbor-31.sp.BizjakIvan">
                         <speaker>IVAN BIZJAK:</speaker>
                         <p>Torej razumem, da je pripravljenost za to, da imamo 11. skupno delovno
                            sejo. Jaz bi prosil, da toliko časa, da se vse pripravi, potrpimo, da bi

@@ -31,8 +31,7 @@
             <pubPlace>https://github.com/SIstory/Seje_DZ/tree/master/</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
             <date when="2016-07-20+02:00"/>
@@ -53,9 +52,7 @@
                      <date>(19. in 24. junij 1991)</date>
                   </imprint>
                </monogr>
-               <ref
-                  target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=4659D36AA5DC86CAC1257CA00039978E"
-                     >(<date>2016-04-12</date>)</ref>
+               <ref target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=4659D36AA5DC86CAC1257CA00039978E">(<date>2016-04-12</date>)</ref>
             </biblStruct>
             <biblFull>
                <titleStmt>
@@ -67,10 +64,10 @@
                   <publisher>Državni zbor Republike Slovenije</publisher>
                   <availability status="free">
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                              xml:lang="slv">Avtorske pravice so potekle, delo je v javni
                         domeni.</licence>
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                              xml:lang="eng">Public Domain Mark 1.0</licence>
                   </availability>
                </publicationStmt>
             </biblFull>
@@ -79,14 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -153,16 +144,16 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov
+                     <item n="1" xml:id="DZ-1991-Delovna-8.toc.1.1">Ugotavljanje prisotnosti delegatov
                         .................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda
+                     <item n="2" xml:id="DZ-1991-Delovna-8.toc.1.2">Določitev dnevnega reda
                         ............................... 1</item>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Predlog ustavnega amandmaja C k Ustavi Republike
+                     <item n="1" xml:id="DZ-1991-Delovna-8.toc.2.1">Predlog ustavnega amandmaja C k Ustavi Republike
                         Slovenije ................................... 1<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Jože Smole ............................................ 1</item>
@@ -189,11 +180,11 @@
                         </list>
                      </item>
                      <note>NADALJEVANJE 8. DELOVNE SKUPNE SEJE 24. JUNIJA 1991</note>
-                     <item n="2" xml:id="toc.2.2">Ugotavljanje prisotnosti delegatov
+                     <item n="2" xml:id="DZ-1991-Delovna-8.toc.2.2">Ugotavljanje prisotnosti delegatov
                         ................... 12</item>
-                     <item n="3" xml:id="toc.2.3">Glasovanje o predlogu Ustavnega amandmaja C k
+                     <item n="3" xml:id="DZ-1991-Delovna-8.toc.2.3">Glasovanje o predlogu Ustavnega amandmaja C k
                         Ustavi Republike Slovenije ....................... 12</item>
-                     <item n="4" xml:id="toc.2.4">Seznam govornikov
+                     <item n="4" xml:id="DZ-1991-Delovna-8.toc.2.4">Seznam govornikov
                         .................................. II/1</item>
                   </list>
                </item>
@@ -206,101 +197,116 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.AksentijevićMilan">Aksentijević Milan</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.AksentijevićMilan">Aksentijević Milan</actor>
                   ........................................ 2</castItem>
                <castItem>
-                  <actor xml:id="sp.BizjakIvan">Bizjak Ivan</actor></castItem>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.BizjakIvan">Bizjak Ivan</actor>
+               </castItem>
                <castItem>
-                  <actor xml:id="sp.BučarFrance">Bučar France</actor></castItem>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.BučarFrance">Bučar France</actor>
+               </castItem>
                <castItem>
-                  <actor xml:id="sp.ČrnejJanez">Črnej Janez</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.ČrnejJanez">Črnej Janez</actor>
                   ............................................... 4</castItem>
                <castItem>
-                  <actor xml:id="sp.DragovanSlavko">Dragovan Slavko</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.DragovanSlavko">Dragovan Slavko</actor>
                   ........................................... 7</castItem>
                <castItem>
-                  <actor xml:id="sp.HribarSpomenka">Hribar mag. Spomenka</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.HribarSpomenka">Hribar mag. Spomenka</actor>
                   ...................................... 5</castItem>
                <castItem>
-                  <actor xml:id="sp.KreftLev">Kreft dr. Lev</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.KreftLev">Kreft dr. Lev</actor>
                   ............................................ 11</castItem>
                <castItem>
-                  <actor xml:id="sp.LokarSonja">Lokar Sonja</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.LokarSonja">Lokar Sonja</actor>
                   .............................................. 10</castItem>
                <castItem>
-                  <actor xml:id="sp.MesičekIvan">Mesiček Ivan</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.MesičekIvan">Mesiček Ivan</actor>
                   .............................................. 4</castItem>
                <castItem>
-                  <actor xml:id="sp.PeršakAnton">Peršak Anton</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.PeršakAnton">Peršak Anton</actor>
                   .............................................. 9</castItem>
                <castItem>
-                  <actor xml:id="sp.PeterleAlojz">Peterle Alojz</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.PeterleAlojz">Peterle Alojz</actor>
                   ............................................. 4</castItem>
                <castItem>
-                  <actor xml:id="sp.PlešivčnikDrago">Plešivčnik dr. Drago</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.PlešivčnikDrago">Plešivčnik dr. Drago</actor>
                   ...................................... 5</castItem>
                <castItem>
-                  <actor xml:id="sp.PotrčMiran">Potrč Miran</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.PotrčMiran">Potrč Miran</actor>
                   ............................................... 5</castItem>
                <castItem>
-                  <actor xml:id="sp.PučnikIvan">Pučnik Ivan</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.PučnikIvan">Pučnik Ivan</actor>
                   ............................................... 2</castItem>
                <castItem>
-                  <actor xml:id="sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
                   ............................. 5</castItem>
                <castItem>
-                  <actor xml:id="sp.SmoleJože">Smole Jože</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.SmoleJože">Smole Jože</actor>
                   ............................................. 1, 8</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠkolčJožef">Školč Jožef</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.ŠkolčJožef">Školč Jožef</actor>
                   ............................................... 9</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠtefančičMarcel">Štefančič Marcel</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.ŠtefančičMarcel">Štefančič Marcel</actor>
                   .......................................... 7</castItem>
                <castItem>
-                  <actor xml:id="sp.UrbančičMiloš">Urbančič Miloš</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.UrbančičMiloš">Urbančič Miloš</actor>
                   ............................................ 8</castItem>
                <castItem>
-                  <actor xml:id="sp.VoljčBožidar">Voljč dr. Božidar</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.VoljčBožidar">Voljč dr. Božidar</actor>
                   ......................................... 2</castItem>
                <castItem>
-                  <actor xml:id="sp.ZagoženFranc">Zagožen dr. Franc</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.ZagoženFranc">Zagožen dr. Franc</actor>
                   ......................................... 3</castItem>
                <castItem>
-                  <actor xml:id="sp.ZlobecLJaša">Zlobec Jaša L.</actor>
+                  <actor xml:id="DZ-1991-Delovna-8.sp.ZlobecLJaša">Zlobec Jaša L.</actor>
                   ............................................ 2</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-Delovna-8.div.1" ana="#PAR.VsiZbor">
             <head>DELOVNA SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Delovna" n="8">
+            <div xml:id="DZ-1991-Delovna-8.div.1.1" ana="#PAR.Delovna" n="8">
                <head>8. seja</head>
                <docDate>(<date when="1991-06-19">19.</date> in <date when="1991-06-24">24. junij
                      1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-06-19T18:20:00"/>
-                  <when synch="#stage.t.2" since="#TL.1" absolute="1991-06-19T18:35:00"
-                     interval="900"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1991-06-19T19:20:00"/>
-                  <when synch="#stage.t.4" since="#TL.2" absolute="1991-06-19T20:00:00"
-                     interval="2400"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1991-06-24T20:00:00"/>
-                  <when synch="#stage.t.6" since="#TL.3" absolute="1991-06-24T20:10:00"
-                     interval="600"/>
+               <timeline origin="#DZ-1991-Delovna-8.TL.1" unit="s">
+                  <when synch="#DZ-1991-Delovna-8.stage.t.1"
+                        xml:id="DZ-1991-Delovna-8.TL.1"
+                        absolute="1991-06-19T18:20:00"/>
+                  <when synch="#DZ-1991-Delovna-8.stage.t.2"
+                        since="#DZ-1991-Delovna-8.TL.1"
+                        absolute="1991-06-19T18:35:00"
+                        interval="900"/>
+                  <when synch="#DZ-1991-Delovna-8.stage.t.3"
+                        xml:id="DZ-1991-Delovna-8.TL.2"
+                        absolute="1991-06-19T19:20:00"/>
+                  <when synch="#DZ-1991-Delovna-8.stage.t.4"
+                        since="#DZ-1991-Delovna-8.TL.2"
+                        absolute="1991-06-19T20:00:00"
+                        interval="2400"/>
+                  <when synch="#DZ-1991-Delovna-8.stage.t.5"
+                        xml:id="DZ-1991-Delovna-8.TL.3"
+                        absolute="1991-06-24T20:00:00"/>
+                  <when synch="#DZ-1991-Delovna-8.stage.t.6"
+                        since="#DZ-1991-Delovna-8.TL.3"
+                        absolute="1991-06-24T20:10:00"
+                        interval="600"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Sejo je vodil</roleDesc>: <actor xml:id="sp.ZupančičJože">Jože
+                     <roleDesc>Sejo je vodil</roleDesc>: <actor xml:id="DZ-1991-Delovna-8.sp.ZupančičJože">Jože
                         Zupančič</actor>, <role>predsednik Zbora združenega dela</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-06-19T18:20:00" xml:id="stage.t.1"
-                     >pričela ob 18.20 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.ZupančičJože">
+               <stage type="time">Seja se je <time from="1991-06-19T18:20:00" xml:id="DZ-1991-Delovna-8.stage.t.1">pričela ob 18.20 uri</time>.</stage>
+               <div xml:id="DZ-1991-Delovna-8.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-Delovna-8.div.1.1.1.1"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-Delovna-8.toc.1.2">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Drage poslanke in poslanci, cenjeni gostje in novinarji. Pričenjam z 8.,
                            zelo pomembno delovno skupno sejo vseh treh zborov Skupščine Republike
@@ -319,8 +325,10 @@
                            vsakega zbora. </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-Delovna-8.div.1.1.1.2"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-Delovna-8.toc.1.1">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <p>Zato najprej ugotovimo skupaj, koliko je <title>prisotnih</title> poslank
                            in poslancev Družbenopolitičnega zbora. <stage type="quorum">(60
                               prisotnih.)</stage> Sedaj pa Zbor občin. <stage type="quorum">(56
@@ -332,16 +340,18 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" corresp="#toc.2.1">
-                     <sp who="#sp.ZupančičJože">
+               <div xml:id="DZ-1991-Delovna-8.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-Delovna-8.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Delovna-8.toc.2.1">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <p>
                            <title>Prehajamo na</title> odločanje o sporazumnem predlogu skupne
                            komisije. Razprava je bila na zborih opravljena. Na podlagi 125. člena
                            Poslovnika Skupščine Republike Slovenije ima delegat pravico obrazložiti
                            svoj glas pred glasovanjem. Želi kdo posredovati? Gospod Smole.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Spoštovane delegatke in delegati! Glasoval bom proti. Sem proti spremembi
                            zastave Republike Slovenije, sem proti spremembi grba Republike
@@ -353,13 +363,13 @@
                            z menjanjem simbolov, kar bi vse lahko počakalo do sprejema nove Ustave
                            Slovenije. Torej še enkrat ponavljam, odločno bom glasoval proti.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala gospod Smole. Želi še kdo povedati svoje mnenje? Če ne želi nihče
                            več, zaključujem razpravo. Oprostite, nisem videl. Gospod
                            Aksentijević.</p>
                      </sp>
-                     <sp who="#sp.AksentijevićMilan">
+                     <sp who="#DZ-1991-Delovna-8.sp.AksentijevićMilan">
                         <speaker>MILAN AKSENTIJEVIĆ:</speaker>
                         <p>Oprostite, gospod predsednik, ker sem bio skrajno desno, pa me niste
                            zagledao.</p>
@@ -370,11 +380,11 @@
                            i zdi se mi, da bi svako spreminjanje simbolov te zajedničke i ene
                            domovine bilo štetno, zato bom glasoval proti.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Voljč, prosim.</p>
                      </sp>
-                     <sp who="#sp.VoljčBožidar">
+                     <sp who="#DZ-1991-Delovna-8.sp.VoljčBožidar">
                         <speaker>DR. BOŽIDAR VOLJČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! Glasoval bom za, ker se kot Slovenec
                            zavedam, da stojimo v izjemno redkem trenutku kakršen se nam ponudi na
@@ -382,11 +392,11 @@
                            glasovanje ne bi propadlo, predlagam v skladu s poslovnikom poskusno
                            glasovanje. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še želi kdo razpravljati? Gospod Zlobec.</p>
                      </sp>
-                     <sp who="#sp.ZlobecLJaša">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZlobecLJaša">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Glasovanja se bom vzdržal Takoj bom povedal, zakaj. Eno leto traja ta
                            zgodba z novo zastavo. že na samem začetku je bila zastavljena na, po
@@ -404,21 +414,20 @@
                            drugih stvareh, ki so pa res usodne za slovenski narod. Vzdržal se bom
                            glasovanja. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala, gospod Zlobec. Prosim, gospod Pučnik.</p>
                      </sp>
-                     <sp who="#sp.PučnikIvan">
+                     <sp who="#DZ-1991-Delovna-8.sp.PučnikIvan">
                         <speaker>IVAN PUČNIK:</speaker>
                         <p>Spoštovani! Pod to zastavo, ki jo želimo zamenjati, smo desetletje za
                            desetletjem zgubljali pridobljeno slovensko samostojnost, za katero smo
                            upali, da smo jo pridobili po končani II. svetovni vojni. Če hočemo
                            uresničiti sto in stoletni sen Slovencev, za katerega so živeli in tudi
                            mi živimo, da postanemo samostojni, samostojna država Slovenija, potem je
-                           tudi prav, da se poleg ostalega odločimo za novo zastavo. Hvala. <stage
-                              type="vocal">(Ploskanje)</stage>.</p>
+                           tudi prav, da se poleg ostalega odločimo za novo zastavo. Hvala. <stage type="vocal">(Ploskanje)</stage>.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še želi kdo razpravljati? Ne želi. Gospod Voljč je predlagal poskusno
                            glasovanje, predhodno preverjanje in predlagal bi, da poizkusimo tudi
@@ -440,7 +449,7 @@
                            osnutka.</p>
                         <p>Želi še kdo povedati svoje mnenje? Gospod Zagožen.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Spoštovani! Predlagam sejo vodij poslanskih klubov, ki bi naj dali
                            predlog, kako naprej. Mislim, da je tako najbolj primerna rešitev, če se
@@ -448,35 +457,33 @@
                            pač prišli morda z enim predlogom, kako bi naprej sklepali o tem
                            predlogu. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Slišali ste predlog gospoda Zagožna, da se sestanejo vodje
                            poslanskih klubov in to takoj. O tem predlogu moramo glasovati.</p>
                         <p>Koliko poslancev in poslank je za ta predlog, ki ga je predlagal gospod
-                           Zagožen, da se takoj sedaj dobijo predsedniki poslanskih klubov? <stage
-                              type="vote">(163 delegatov.)</stage> Je kdo proti? <stage type="vote"
-                              >(3 delegati.)</stage> Se je kdo vzdržal? <stage type="vote">(12
+                           Zagožen, da se takoj sedaj dobijo predsedniki poslanskih klubov? <stage type="vote">(163 delegatov.)</stage> Je kdo proti? <stage type="vote">(3 delegati.)</stage> Se je kdo vzdržal? <stage type="vote">(12
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog sprejet in zato menim, da se vodje poslanskih
                            klubov takoj sestanete v salonu. Mi bi pa lahko nadaljevali s skupno
                            sejo. Kaj menite predsednik, gospod dr. Bučar? </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1991-Delovna-8.sp.BučarFrance">
                         <ab>(Ja.)</ab>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <p>Predlagam, da takoj nadaljujemo.</p>
                         <p>Delovna skupna seja je prekinjena, s skupno sejo pa lahko
                            nadaljujemo.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-06-19T18:35:00"
-                           xml:id="stage.t.2">prekinjena ob 18.35 uri</time> in se je <time
-                           from="1991-06-19T19:20:00" xml:id="stage.t.3">nadaljevala ob 19.20
+                     <stage type="time">(Seja je bila <time to="1991-06-19T18:35:00" xml:id="DZ-1991-Delovna-8.stage.t.2">prekinjena ob 18.35 uri</time> in se je <time from="1991-06-19T19:20:00" xml:id="DZ-1991-Delovna-8.stage.t.3">nadaljevala ob 19.20
                            uri</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.Prisot" corresp="#toc.2.2">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-Delovna-8.div.1.1.2.2"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-Delovna-8.toc.2.2">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Poslanke in poslanci, po prekinitvi naše seje bi najprej morali
                            ugotoviti, kako je s <title>prisotnostjo</title> poslancev in zato
@@ -496,7 +503,7 @@
                         <p>Želi še pred glasovanjem kdo povedati kaj o svojem glasu? Gospod
                            Peterle.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1991-Delovna-8.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci! Ne bom povedal nobenih globokih, niti
                            političnih besed v zvezi s simboli te države, čeprav me zelo mika, da bi
@@ -511,11 +518,11 @@
                            praktičnih, konkretnih zadev in v interesu vlade je, da bi do te
                            odločitve prišlo čim prej. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospod Ivan Mesiček.</p>
                      </sp>
-                     <sp who="#sp.MesičekIvan">
+                     <sp who="#DZ-1991-Delovna-8.sp.MesičekIvan">
                         <speaker>IVAN MESIČEK:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani delegati in delegatke! Utemeljiti
                            želim svoj glas, zakaj bom glasoval za novo pridobljeno slovensko
@@ -530,20 +537,20 @@
                            dol. Za mene kljukasti križ vzbuja grozo, rdeča zastava pa vzbuja grozo
                            in gnus. Sem proti njej! Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Janez Črnej.</p>
                      </sp>
-                     <sp who="#sp.ČrnejJanez">
+                     <sp who="#DZ-1991-Delovna-8.sp.ČrnejJanez">
                         <speaker>JANEZ ČRNEJ:</speaker>
                         <p>Spoštovani poslanci! Z ozirom na to, da je število poslancev večje kot
                            prej, predlagam še enkrat poskusno glasovanje.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospa Spomenka Hribar.</p>
                      </sp>
-                     <sp who="#sp.HribarSpomenka">
+                     <sp who="#DZ-1991-Delovna-8.sp.HribarSpomenka">
                         <speaker>MAG. SPOMENKA HRIBAR:</speaker>
                         <p>Utemeljila bi rada svoj glas. Glasovala bom za. Ne bi utemeljevala tega s
                            preteklostjo, niti ne s tem, v imenu katerega znaka je bilo več hudega
@@ -555,11 +562,11 @@
                               <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Trije so se še prijavili. Gospod Vodopivec. Odstopa. Plešivčnik.</p>
                      </sp>
-                     <sp who="#sp.PlešivčnikDrago">
+                     <sp who="#DZ-1991-Delovna-8.sp.PlešivčnikDrago">
                         <speaker>DR. DRAGO PLEŠIVČNIK:</speaker>
                         <p>Spoštovani! Že v predhodni razpravi o zastavi sem bil mnenja, da stopamo
                            v novo obdobje, tako kot je dejala gospa Spomenka Hribar in v takem
@@ -571,15 +578,14 @@
                            po boljšem življenju, takrat smo se borili pod to zastavo.</p>
                         <p>Zaradi tega menim, naj gre z vsem spoštovanjem v arhiv, mi pa vstopamo v
                            novo  obdobje in nova zastava naj bo naša skupna, tako levih, desnih,
-                           sredinskih in katerihkoli hočete. To je moj predlog. <stage type="vocal"
-                              >(Močan aplavz.)</stage>
+                           sredinskih in katerihkoli hočete. To je moj predlog. <stage type="vocal">(Močan aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Schwarzbartl.</p>
                      </sp>
-                     <sp who="#sp.SchwarzbartlErvinAnton">
+                     <sp who="#DZ-1991-Delovna-8.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane gospe in gospodje poslanci! Jaz se ne
                            bom izjasnjeval, kako bom glasoval, ker verjetno vsi veste, kako bom
@@ -589,11 +595,11 @@
                            glasovanjem. Jaz bi predlagal, da se razčistijo te zadeve in, da se
                            poimensko izjasnimo tudi o tem vprašanju. To je moj predlog.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Potrč.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1991-Delovna-8.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Jaz sem na sestanku vodij poslanskih klubov dal predlog, za katerega sem
                            mislil, da je bil vsaj smiselno sprejet. Predlagal sem, da se na podlagi
@@ -652,21 +658,21 @@
                            kolegi. Dajmo se skupaj za način razlage dogovoriti, potem je seveda
                            možno o tem tudi glasovati. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Dragovan.</p>
                      </sp>
-                     <sp who="#sp.DragovanSlavko">
+                     <sp who="#DZ-1991-Delovna-8.sp.DragovanSlavko">
                         <speaker>SLAVKO DRAGOVAN:</speaker>
                         <p>Ne stopam pogosto za to govornico, ampak ta trenutek apeliram na vse.
                            Bodimo Slovenci, pokažimo našo veličino za bodočnost na slovenskih tleh.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Želi še kdo? Prosim, gospod Štefančič.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1991-Delovna-8.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani kolegi poslanci! Jaz se zelo zelo
                            nagibam oziroma bi rekel, sem zelo enakega mnenja, kot je bil gospod
@@ -694,7 +700,7 @@
                            vsem spoštovanjem do preteklosti, vendarle seveda s tisto zagledanostjo v
                            prihodnost, za katero se zavzemamo vsaj od 23. decembra lani.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Menim, da smo slišali mnenja za in proti. Tu imamo naprej
                            predlog gospoda Potrča in prosim, ne se takoj razjeziti. Zdi se mi, da je
@@ -708,15 +714,13 @@
                         <p>Sprašujem vas, kdo je za ta predlog, ki ga je predložil gospod Potrč? Kdo
                            je za? Nas je še vedno 184.</p>
                         <p>Kdo je za? <stage type="vote">(62 delegatov.)</stage> Je kdo proti?
-                              <stage type="vote">(65 delegatov.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(55 delegatov.)</stage>
+                              <stage type="vote">(65 delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(55 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da ta predlog ni bil sprejet.</p>
-                        <p>To je prvo. Želi gospod Smole sedaj besedo? <stage type="debate"
-                              >(Da.)</stage>
+                        <p>To je prvo. Želi gospod Smole sedaj besedo? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Spoštovane kolegice in kolegi! Ne sprejemam trditev, da za osamosvojitev
                            potrebujemo novo zastavo in nov grb. To je pač moje mnenje in imam
@@ -731,7 +735,7 @@
                            zastava, onemogočam osamosvojitev Slovenije. Prosim, da umirimo žogo in
                            da se resno pogovarjamo.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. V zvezi s predlogi še, ki so bili. Gospod Schwarzbartl je
                            predlagal tudi poimensko izjasnjevanje. V 127. členu, kjer je tudi to
@@ -748,14 +752,14 @@
                            da bomo potem pač glasovali. To so bili trije predlogi. Želi še kdo
                            povedati svoje stališče? Prosim, gospod Urbančič.</p>
                      </sp>
-                     <sp who="#sp.UrbančičMiloš">
+                     <sp who="#DZ-1991-Delovna-8.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Ploskanje gospodu Plešivčniku, mislim, da je izrazilo mnenje celotne
                            Skupščine. Da se večina naše skupščine strinja s tem, da recimo, naj gre
                            častno bivša zastava v muzej. In s tem se lahko vsi strinjamo, da pa
                            rabimo za naprej novo zastavo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>In da glasujemo za nov C. amandma. Prosim, želi še kdo? Ker ne želi nihče
                            več, bi prekinil z razpravo. Ugotovili smo, kako je s predlogi. Glasovali
@@ -774,44 +778,42 @@
                         <p>Sklepčni smo. S strahom, a tudi z velikim zadovoljstvom in s
                            prepričanjem, da bo amandma sprejet, dajem na glasovanje.</p>
                         <p>Kdo je za C amandma, kot je bil predlagan: Kdo je za? Kdo je za? Še
-                           zmeraj! <stage type="vote">(157 delegatov.)</stage> Je kdo proti? <stage
-                              type="vote">(4 delegati.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(21 delegatov.)</stage>
+                           zmeraj! <stage type="vote">(157 delegatov.)</stage> Je kdo proti? <stage type="vote">(4 delegati.)</stage> Se je kdo vzdržal? <stage type="vote">(21 delegatov.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-Delovna-8.sp.BizjakIvan">
                         <speaker>(Ivan Bizjak:</speaker>
                         <ab>Ali se to izide? Kako je rezultat?)</ab>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <p> Ja, kakorkoli se vzame. </p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-Delovna-8.sp.BizjakIvan">
                         <speaker>(Ivan Bizjak:</speaker>
                         <ab>Šest glasov ni bilo oddanih in to so bistveni glasovi.)</ab>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <p> Šest glasov, vam moram povedati, ni bilo oddanih. Dobro! To ste sami
                            lahko ugotovili. Kaj to pomeni pri tem glasovanju, pa itak dobro veste.
                            Tu vas je več dvignilo roko, jaz ne vem, ali je še umestno. Gospod Peršak
                            najprej. </p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-Delovna-8.sp.BizjakIvan">
                         <speaker>(Ivan Bizjak:</speaker>
                         <ab>Izid glasovanja nejasen.)</ab>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-Delovna-8.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Zaradi tega, ker se izid glasovanje ne sklada z ugotovljeno sklepčnostjo,
                            predlagam sedaj v skladu s četrtim odstavkom 127. člena poimensko
                            glasovanje. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Želi še kdo? Ker ne želi, predlagam. Gospod Školč.</p>
                      </sp>
-                     <sp who="#sp.ŠkolčJožef">
+                     <sp who="#DZ-1991-Delovna-8.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Hvala lepa. Jaz vnaprej povem, da sem se parkrat vzdrževal pri tem
                            glasovanju in povem vam, da se pač glasovanja, kjer se bomo izjavljali z
@@ -857,8 +859,7 @@
                            delanju državnosti puščamo tudi druge in da znamo priznati, da zna mogoče
                            kdo drug zastavo narediti bolje kot mi. Samo to. Hvala lepa.</p>
                         <p>Sem pa striktno proti temu poimenskemu izglasovanju, ker to se bo
-                           sprevrglo v to, da se bo s prstom kazalo na tiste, ki bodo ... <stage
-                              type="vocal">(Aplavz.)</stage> S prstom je treba kazati, imate prav,
+                           sprevrglo v to, da se bo s prstom kazalo na tiste, ki bodo ... <stage type="vocal">(Aplavz.)</stage> S prstom je treba kazati, imate prav,
                            in to je tista popotnica,ki pač pelje v stigmatiziranje sovražnika in to
                            je tista popotnica, ki nas bo seveda pripeljala, da naslednje runde ne bo
                            več s prstom. Potem boste tisti, ki imate slabe zobe, si boste morali
@@ -866,7 +867,7 @@
                            naprej se pač grizemo. Mislim, da to ne pelje nikamor in da je treba
                            druge stvari delati. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! Menim, da bo vedno bolj težko voditi to
                            sejo in zato vas prosim, v skladu s 127. členom, kjer piše: posamično se
@@ -882,7 +883,7 @@
                            najprej glasujemo o tem predlogu. In sicer, ali je proceduralno?
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.LokarSonja">
+                     <sp who="#DZ-1991-Delovna-8.sp.LokarSonja">
                         <speaker>SONJA LOKAR:</speaker>
                         <p>Žal mi je, ampak ves potek razprave o tej točki je pokazal, da pravzaprav
                            ni prave dobre volje, da se ustvari čimbolj demokratično in z velikim
@@ -895,14 +896,14 @@
                            bil podan, kot pritisk in kot poskus stigmatizacije tistega, ki misli
                            drugače in osebno bom proti takemu predlogu. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Spoštovane poslanke in poslanci! Kakorkoli ugotavljamo, izid
                            tega glasovanja ni bil jasen. Jaz mislim, da je vsem nam, ki tu sedijo
                            danes v Skupščini, to jasno. To je ugotovitev. In zaradi tega, ker to ni
                            bilo jasno, je tudi gospod Peršak tako predlagal. Še gospod Kreft.</p>
                      </sp>
-                     <sp who="#sp.KreftLev">
+                     <sp who="#DZ-1991-Delovna-8.sp.KreftLev">
                         <speaker>DR. LEV KREFT:</speaker>
                         <p>Hvala lepa za besedo. Dovolite mi, da spregovorim samo nekaj besed iz
                            morda pretanke izkušnje nekoga, ki je bil že v mnogih konfliktih, ne samo
@@ -922,7 +923,7 @@
                            parlamentu, ne glede na vse delitve in različne stranke, ne moremo doseči
                            tega, kar bi radi dosegli. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Predlagam naslednje. Prosim, da prisluhnete. In sicer, se
                            moramo v naši skupščini najprej izjasniti in ugotoviti, da je izid
@@ -933,8 +934,7 @@
                            ugotavljanje, da je izid glasovanja zaradi tehnične ali druge napake
                            nejasen.</p>
                         <p>Kdo je za? <stage type="vote">(130 delegatov.)</stage> Je kdo proti?
-                              <stage type="vote">(27 delegatov.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(23 delegatov.)</stage>
+                              <stage type="vote">(27 delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(23 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da smo skupaj ugotovili, da je izid glasovanja nejasen.</p>
                         <p>In sedaj bi predlagal, da preložimo našo sejo in jo bo sklicalo zopet
@@ -947,21 +947,21 @@
                            predloga sta, eden je, ki ga je podal gospod Kreft ob 17. uri jutri, in
                            moj, da mi trije, ki vodimo to sejo, odločimo o primernosti časa.</p>
                         <p>Kdo je za? <stage type="vote">(137 delegatov.)</stage> Je kdo proti?
-                              <stage type="vote">(6 delegatov.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(29 delegatov.)</stage>
+                              <stage type="vote">(6 delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(29 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, (brez sklepa) da je to matematika v skupščini, ki je nekaj
                            specifičnega, jaz upam, da bomo to obravnavali v osnovni šoli. S tem tudi
                            prekinjam to našo skupno delovno sejo. In sedaj  še vi, gospod Bučar,
                            nadaljujete vi s sejo? Ja ali ne? Ja. Dobro.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1991-06-19T20:00:00"
-                           xml:id="stage.t.4">PREKINJENA 19. JUNIJA 1991 OB 20.00 URI</time> IN SE
-                        JE <time from="1991-06-24T20:00:00" xml:id="stage.t.5">NADALJEVALA 24.
+                     <stage type="time">(SEJA JE BILA <time to="1991-06-19T20:00:00" xml:id="DZ-1991-Delovna-8.stage.t.4">PREKINJENA 19. JUNIJA 1991 OB 20.00 URI</time> IN SE
+                        JE <time from="1991-06-24T20:00:00" xml:id="DZ-1991-Delovna-8.stage.t.5">NADALJEVALA 24.
                            JUNIJA 1991 OB 20.00 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" corresp="#toc.2.3">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-Delovna-8.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Delovna-8.toc.2.3">
+                     <sp who="#DZ-1991-Delovna-8.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci, dragi gostje in novinarji. Nadaljujemo z
                            osmo delovno skupno sejo, ki smo jo prekinili 19.6.1991, in sicer v zvezi
@@ -982,8 +982,7 @@
                               <title>sklepčnost</title> skupne seje, 13. člen poslovnika, na kateri
                            mora biti navzoča večina vseh delegatov vsakega zbora. Cenjene poslanke
                            in poslanci! Najprej Družbenopolitični zbor, da ugotovimo, koliko vas je
-                           prisotnih? (Družbenopolitični zbor prisotnost, ste? <stage type="quorum"
-                              >(70 prisotnih.)</stage> Prosim poslanke in poslance Zbora občin, da
+                           prisotnih? (Družbenopolitični zbor prisotnost, ste? <stage type="quorum">(70 prisotnih.)</stage> Prosim poslanke in poslance Zbora občin, da
                            vidimo, če vas je več? Zbor občin še enkrat. <stage type="quorum">(70
                               prisotnih.)</stage> In še prisotnost poslancev in poslank Zbora
                            združenega dela? <stage type="quorum">(71 prisotnih.)</stage>
@@ -996,8 +995,7 @@
                            glasovanjem. Zato predlagam, da glasujemo.</p>
                         <p>Na glasovanje dajem sporazumni predlog skupne komisije.</p>
                         <p>Kdo je za? <stage type="vote">(176 delegatov.)</stage> Je kdo proti?
-                              <stage type="vote">(7 delegatov.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(26 delegatov.)</stage>
+                              <stage type="vote">(7 delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(26 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je sporazumni predlog sprejet z 2/3 večino vseh delegatov
                            vseh zborov na seji. S tem ugotavljam, da je predlog amandmaja 100 k
@@ -1006,8 +1004,7 @@
                         <p>Zaključujem 8. delovno skupno sejo vseh treh zborov Skupščine Republike
                            Slovenije. Hvala.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-06-24T20:10:00"
-                           xml:id="stage.t.6">končana 24. junija 1991 ob 20.10 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-06-24T20:10:00" xml:id="DZ-1991-Delovna-8.stage.t.6">končana 24. junija 1991 ob 20.10 uri</time>.)</stage>
                   </div>
                </div>
             </div>

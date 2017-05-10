@@ -89,5 +89,16 @@
         </xsl:element>
     </xsl:template>
     
+    <!-- odstranim še vse taxonomy (xi:include) iz posameznih TEI datotek, katerih ne rabim več,
+         ker so dokumenti vključenih v teiCorpus, ki vsebuje to taksonomijo -->
+    <xsl:template match="tei:encodingDesc">
+        <encodingDesc>
+            <projectDesc>
+                <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+            </projectDesc>
+        </encodingDesc>
+    </xsl:template>
+    
     
 </xsl:stylesheet>

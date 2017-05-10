@@ -27,8 +27,7 @@
             <pubPlace>https://github.com/SIstory/Seje_DZ/tree/master/</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
             <date when="2016-02-03+01:00"/>
@@ -49,9 +48,7 @@
                      <date>(24. aprila 1991)</date>
                   </imprint>
                </monogr>
-               <ref
-                  target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=2E27602541C6E9E2C1257C54004E1EC0"
-                     >(<date>2015-12-07</date>)</ref>
+               <ref target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=2E27602541C6E9E2C1257C54004E1EC0">(<date>2015-12-07</date>)</ref>
             </biblStruct>
             <biblFull>
                <titleStmt>
@@ -63,10 +60,10 @@
                   <publisher>Državni zbor Republike Slovenije</publisher>
                   <availability status="free">
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                              xml:lang="slv">Avtorske pravice so potekle, delo je v javni
                         domeni.</licence>
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                              xml:lang="eng">Public Domain Mark 1.0</licence>
                   </availability>
                </publicationStmt>
             </biblFull>
@@ -75,13 +72,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -131,9 +123,9 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov
+                     <item n="1" xml:id="DZ-1991-ZbZdruDel-20.toc.1.1">Ugotavljanje prisotnosti delegatov
                         .....................  </item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda
+                     <item n="2" xml:id="DZ-1991-ZbZdruDel-20.toc.1.2">Določitev dnevnega reda
                         ................................  <list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Rudi Moge ..............................................   2</item>
@@ -164,21 +156,20 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Predlog zakona o spremembah in dopolnitvah zakona
+                     <item n="1" xml:id="DZ-1991-ZbZdruDel-20.toc.2.1">Predlog zakona o spremembah in dopolnitvah zakona
                         o notranjih zadevah .............................  24<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>dr. Miha Brejc .........................................  25</item>
                            <item>Franc Gradišar .........................................  28</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Predlog za izdajo zakona o dopolnitvi zakona o
-                        varstvu osebnih podatkov z osnutkom zakona ...........  29<list
-                           rend="simple">
+                     <item n="2" xml:id="DZ-1991-ZbZdruDel-20.toc.2.2">Predlog za izdajo zakona o dopolnitvi zakona o
+                        varstvu osebnih podatkov z osnutkom zakona ...........  29<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Bogo Rogina ............................................  29</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3">Temelji strategije zunanje politike Republike
+                     <item n="3" xml:id="DZ-1991-ZbZdruDel-20.toc.2.3">Temelji strategije zunanje politike Republike
                         Slovenije ....................................  29<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Barbara Zupanc ........................................   30</item>
@@ -190,7 +181,7 @@
                            <item>Franc Erce ............................................   36</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.2.4">Predlog za izdajo zakona o zunanjih zadevah
+                     <item n="4" xml:id="DZ-1991-ZbZdruDel-20.toc.2.4">Predlog za izdajo zakona o zunanjih zadevah
                         ...........  <list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>dr. Dimitrij Rupel ....................................   37</item>
@@ -200,26 +191,25 @@
                            <item>dr. Dimitrij Rupel .....................................  45</item>
                         </list>
                      </item>
-                     <item n="5" xml:id="toc.2.5">Nadaljevanje obravnave temeljev strategije zunanje
+                     <item n="5" xml:id="DZ-1991-ZbZdruDel-20.toc.2.5">Nadaljevanje obravnave temeljev strategije zunanje
                         politike Republike Slovenije ..................   45<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Anka Osterman .........................................   46</item>
                            <item>Andrej Šter ...........................................   46</item>
                         </list>
                      </item>
-                     <item n="6" xml:id="toc.2.6">Poročilo o uskladitvi dnevnih redov
+                     <item n="6" xml:id="DZ-1991-ZbZdruDel-20.toc.2.6">Poročilo o uskladitvi dnevnih redov
                         ...................  <list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Jurij Pirš ............................................   47</item>
                            <item>Igor Umek .............................................   48</item>
                         </list>
                      </item>
-                     <item n="7" xml:id="toc.2.7">Nadaljevanje obravnave predloga za izdajo zakona o
+                     <item n="7" xml:id="DZ-1991-ZbZdruDel-20.toc.2.7">Nadaljevanje obravnave predloga za izdajo zakona o
                         dopolnitvi zakona o varstvu osebnih podatkov z osnutkom zakona
                         ......................................  48</item>
-                     <item n="8" xml:id="toc.2.8">Nadaljevanje obravnave predloga zakona o
-                        spremembah in dopolnitvah zakona o notranjih zadevah ..............  49<list
-                           rend="simple">
+                     <item n="8" xml:id="DZ-1991-ZbZdruDel-20.toc.2.8">Nadaljevanje obravnave predloga zakona o
+                        spremembah in dopolnitvah zakona o notranjih zadevah ..............  49<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Jaša L. Zlobec .........................................  49</item>
                            <item>dr. Miha Brejc ........................................   50</item>
@@ -237,27 +227,26 @@
                            <item>Jaša L. Zlobec .........................................  58</item>
                         </list>
                      </item>
-                     <item n="9" xml:id="toc.2.9">Usklajevanje dnevnega reda - sklep o prestavitvi
+                     <item n="9" xml:id="DZ-1991-ZbZdruDel-20.toc.2.9">Usklajevanje dnevnega reda - sklep o prestavitvi
                         problematike zaključnih izpitov ............  59<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Ivo Daneu ..............................................  59</item>
                         </list>
                      </item>
-                     <item n="10" xml:id="toc.2.10">Predlog za izdajo zakona o spremembi zakona o
+                     <item n="10" xml:id="DZ-1991-ZbZdruDel-20.toc.2.10">Predlog za izdajo zakona o spremembi zakona o
                         ratifikaciji konvencije Mednarodne organizacije dela št. 158 o prenehanju
                         delovnega razmerja na pobudo delodajalca s predlogom zakona ................
                         60</item>
-                     <item n="11" xml:id="toc.2.11">Usklajevanje glede predloga zakona o spremembah
-                        in dopolnitvah zakona o notranjih zadevah .................  60<list
-                           rend="simple">
+                     <item n="11" xml:id="DZ-1991-ZbZdruDel-20.toc.2.11">Usklajevanje glede predloga zakona o spremembah
+                        in dopolnitvah zakona o notranjih zadevah .................  60<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Franc Gradišar ........................................   60</item>
                            <item>Roman Jakič ...........................................   61</item>
                         </list>
                      </item>
-                     <item n="12" xml:id="toc.2.12">Seznam govornikov
+                     <item n="12" xml:id="DZ-1991-ZbZdruDel-20.toc.2.12">Seznam govornikov
                         ......................................</item>
-                     <item n="13" xml:id="toc.2.13">Priloga: zapisnik seje
+                     <item n="13" xml:id="DZ-1991-ZbZdruDel-20.toc.2.13">Priloga: zapisnik seje
                         ................................  III</item>
                   </list>
                </item>
@@ -270,123 +259,136 @@
                <head>                                                           STRAN</head>
                <castItem>GOVORNIKI:</castItem>
                <castItem>
-                  <actor xml:id="sp.ArzenšekJože">Arzenšek dr. Jože</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ArzenšekJože">Arzenšek dr. Jože</actor>
                   .......................................... 17</castItem>
                <castItem>
-                  <actor xml:id="sp.BanFranc">Ban Franc</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.BanFranc">Ban Franc</actor>
                   .................................................. 14</castItem>
                <castItem>
-                  <actor xml:id="sp.BizjakDavorin">Bizjak Davorin</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.BizjakDavorin">Bizjak Davorin</actor>
                   ............................................. 11</castItem>
                <castItem>
-                  <actor xml:id="sp.BrejcMiha">Brejc dr. Miha</actor>    ...................... 25,
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.BrejcMiha">Brejc dr. Miha</actor>    ...................... 25,
                   50, 52, 53, 54, 58</castItem>
                <castItem>
-                  <actor xml:id="sp.ČehovinStane">Čehovin Stane</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ČehovinStane">Čehovin Stane</actor>
                   ............................................... 9</castItem>
                <castItem>
-                  <actor xml:id="sp.DaneuIvo">Daneu Ivo</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.DaneuIvo">Daneu Ivo</actor>
                   .................................................. 59</castItem>
                <castItem>
-                  <actor xml:id="sp.DretnikIvan">Dretnik Ivan</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.DretnikIvan">Dretnik Ivan</actor>
                   ............................................... 51</castItem>
                <castItem>
-                  <actor xml:id="sp.ErceFranc">Erce Franc</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ErceFranc">Erce Franc</actor>
                   ............................................. 18, 36</castItem>
                <castItem>
-                  <actor xml:id="sp.GradišarFranc">Gradišar Franc</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.GradišarFranc">Gradišar Franc</actor>
                   ......................................... 28, 60</castItem>
                <castItem>
-                  <actor xml:id="sp.JakičRoman">Jakič Roman</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.JakičRoman">Jakič Roman</actor>
                   ...................................... 5, 7, 13, 61</castItem>
                <castItem>
-                  <actor xml:id="sp.MogeRudi">Moge Rudi</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.MogeRudi">Moge Rudi</actor>
                   ......................................... 2, 19, 20</castItem>
                <castItem>
-                  <actor xml:id="sp.MurenAndrej">Muren Andrej</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.MurenAndrej">Muren Andrej</actor>
                   ............................................... 32</castItem>
                <castItem>
-                  <actor xml:id="sp.MurkoDejan">Murko Dejan</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.MurkoDejan">Murko Dejan</actor>
                   .................................... 52, 54, 55, 56</castItem>
                <castItem>
-                  <actor xml:id="sp.OstermanAnka">Osterman Anka</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.OstermanAnka">Osterman Anka</actor>
                   ...................................... 32, 45, 46</castItem>
                <castItem>
-                  <actor xml:id="sp.PiršJurij">Pirš Jurij</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.PiršJurij">Pirš Jurij</actor>
                   ................................................. 47</castItem>
                <castItem>
-                  <actor xml:id="sp.RemškarJanez">Remškar dr. Janez</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.RemškarJanez">Remškar dr. Janez</actor>
                   .......................................... 18</castItem>
                <castItem>
-                  <actor xml:id="sp.RoginaBogo">Rogina Bogo</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.RoginaBogo">Rogina Bogo</actor>
                   ................................................ 29</castItem>
                <castItem>
-                  <actor xml:id="sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.RupelDimitrij">Rupel dr. Dimitrij</actor>
                   ................................. 37, 43, 45</castItem>
                <castItem>
-                  <actor xml:id="sp.SagadinVlasta">Sagadin Vlasta</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.SagadinVlasta">Sagadin Vlasta</actor>
                   .............................................. 7</castItem>
                <castItem>
-                  <actor xml:id="sp.SekerešViljem">Sekereš Viljem</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.SekerešViljem">Sekereš Viljem</actor>
                   ......................................... 31, 33</castItem>
                <castItem>
-                  <actor xml:id="sp.StarcMarjan">Starc Marjan</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.StarcMarjan">Starc Marjan</actor>
                   ............................................... 20</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠterAndrej">Šter Andrej</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ŠterAndrej">Šter Andrej</actor>
                   ............................................. 2, 46</castItem>
                <castItem>
-                  <actor xml:id="sp.UmekIgor">Umek Igor</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.UmekIgor">Umek Igor</actor>
                   .................................................. 48</castItem>
                <castItem>
-                  <actor xml:id="sp.VenceljPeter">Vencelj dr. Peter</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.VenceljPeter">Vencelj dr. Peter</actor>
                   .......................................... 21</castItem>
                <castItem>
-                  <actor xml:id="sp.ZlobecJašaL">Zlobec Jaša L.</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ZlobecJašaL">Zlobec Jaša L.</actor>
                   ............................. 12, 49, 53, 57, 58</castItem>
                <castItem>
-                  <actor xml:id="sp.ZupancBarbara">Zupanc Barbara</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ZupancBarbara">Zupanc Barbara</actor>
                   ......................................... 30, 41</castItem>
                <castItem>
-                  <actor sameAs="#sp.ZupančičJože">Zupančič Jože</actor>
+                  <actor sameAs="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">Zupančič Jože</actor>
                   ............................................... 2</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽerovnikAngelca">Žerovnik mag. Angelca</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ŽerovnikAngelca">Žerovnik mag. Angelca</actor>
                   ....................................... 6</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽidanikAnton">Židanik dr. Anton</actor>
+                  <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ŽidanikAnton">Židanik dr. Anton</actor>
                   ................................... 6, 20, 30</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.ZbZdruDel">
+         <div xml:id="DZ-1991-ZbZdruDel-20.div.1" ana="#PAR.ZbZdruDel">
             <head>ZBOR ZDRUŽENEGA DELA</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="20">
+            <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1" ana="#PAR.Seja" n="20">
                <head>20. seja</head>
                <docDate>(<date when="1991-04-24">24. aprila 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-04-24T10:20:00"/>
-                  <when synch="#stage.t.2" since="#TL.1" absolute="1991-04-24T11:08:00"
-                     interval="2880"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1991-04-24T12:48:00"/>
-                  <when synch="#stage.t.4" since="#TL.2" absolute="1991-04-24T16:15:00"
-                     interval="12420"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1991-04-24T20:00:00"/>
-                  <when synch="#stage.t.6" since="#TL.3" absolute="1991-04-24T20:13:00"
-                     interval="780"/>
+               <timeline origin="#DZ-1991-ZbZdruDel-20.TL.1" unit="s">
+                  <when synch="#DZ-1991-ZbZdruDel-20.stage.t.1"
+                        xml:id="DZ-1991-ZbZdruDel-20.TL.1"
+                        absolute="1991-04-24T10:20:00"/>
+                  <when synch="#DZ-1991-ZbZdruDel-20.stage.t.2"
+                        since="#DZ-1991-ZbZdruDel-20.TL.1"
+                        absolute="1991-04-24T11:08:00"
+                        interval="2880"/>
+                  <when synch="#DZ-1991-ZbZdruDel-20.stage.t.3"
+                        xml:id="DZ-1991-ZbZdruDel-20.TL.2"
+                        absolute="1991-04-24T12:48:00"/>
+                  <when synch="#DZ-1991-ZbZdruDel-20.stage.t.4"
+                        since="#DZ-1991-ZbZdruDel-20.TL.2"
+                        absolute="1991-04-24T16:15:00"
+                        interval="12420"/>
+                  <when synch="#DZ-1991-ZbZdruDel-20.stage.t.5"
+                        xml:id="DZ-1991-ZbZdruDel-20.TL.3"
+                        absolute="1991-04-24T20:00:00"/>
+                  <when synch="#DZ-1991-ZbZdruDel-20.stage.t.6"
+                        since="#DZ-1991-ZbZdruDel-20.TL.3"
+                        absolute="1991-04-24T20:13:00"
+                        interval="780"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Predsedoval je</roleDesc>: <actor xml:id="sp.ZupančičJože">Jože
+                     <roleDesc>Predsedoval je</roleDesc>: <actor xml:id="DZ-1991-ZbZdruDel-20.sp.ZupančičJože">Jože
                         Zupančič</actor>, <role>predsednik Zbora združenega dela</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-04-24T10:20:00" xml:id="stage.t.1"
-                     >pričela ob 10.20 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.ZupančičJože">
+               <stage type="time">Seja se je <time from="1991-04-24T10:20:00" xml:id="DZ-1991-ZbZdruDel-20.stage.t.1">pričela ob 10.20 uri</time>.</stage>
+               <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.1.1">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Delegatke in delegati, dragi gostje, pričeli bi z našo 20. sejo. Najprej
                            bi iskreno pozdravil vse vabljene in tudi novinarje. Za današnjo 20. sejo
@@ -396,8 +398,10 @@
                            kar nekaj delegatov, tako da bo vse v redu. Najprej nekaj obvestil.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.1.2"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.1.2">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Na današnjo sejo smo vabili predstavnike Izvršnega sveta in Gospodarske
                            zbornice na ta način, da danes ni veliko vabljenih.</p>
                         <p>S predsednikom Zbora občin in Družbenopolitičnim zborom smo se
@@ -430,7 +434,7 @@
                         </p>
                         <p>Prosim, gospod Moge želi besedo o tem.</p>
                      </sp>
-                     <sp who="#sp.MogeRudi">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MogeRudi">
                         <speaker>RUDI MOGE:</speaker>
                         <p>Spoštovane kolegice in kolegi! Predlagal bi, da tega zakona o dopolnitvah
                            zakona o varstvu osebnih podatkov, s predlogom, danes ne bi obravnavali.
@@ -457,7 +461,7 @@
                            strani navedeno, da je to možno in nima smisla sedaj parcialno ta zakon
                            sprejemati. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Še želi kdo razpravljati? Iz Izvršnega sveta - je kdo tu? Če ne,
                            dovolite, da še preberem naslednje:</p>
@@ -478,7 +482,7 @@
                            predlogom zakona.</p>
                         <p>Slišali ste sedaj. Prosim, gospod Šter ima besedo.</p>
                      </sp>
-                     <sp who="#sp.ŠterAndrej">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ŠterAndrej">
                         <speaker>ANDREJ ŠTER:</speaker>
                         <p>Če dovolite, bi svoje pomisleke proti predlogom, ki jih je povedal kolega
                            Moge, posredoval tudi vam. Namreč, smisel zakona, kot spremembe
@@ -521,7 +525,7 @@
                            za vsak konkreten primer sprejemali odgovornosti, za katere je predpisana
                            kar precej visoka kazen. Hvala. </p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Slišali ste dve različni mnenji. Menim, da smo slišali utemeljitve
                            z ene in druge plati, tako da bi se lahko opredelili. Ali želi še kdo
@@ -604,7 +608,7 @@
                            saj za odpravo ni nobenih strokovnih pedagoških argumentov.</p>
                         <p>Prosim, gospod Jakič!</p>
                      </sp>
-                     <sp who="#sp.JakičRoman">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
                         <p>Spoštovani, jaz bi rekel takole, da bi se lahko sedajle na hitro, ko sem
                            slišal ta sklep, če sem prav videl, je napisan na dveh straneh A-4
@@ -636,7 +640,7 @@
                            ki bo celovito raziskala problem zaključnega izpita - po možnosti do 6.
                            maja 1991 - in da skupščini o tem poroča. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Slišali ste, naj še povem ta stavek, saj sta dve možnosti.</p>
                         <p>1. da zbor sprejme mojo pobudo, da obravnavamo to točko samo s sklepom,
@@ -659,7 +663,7 @@
                            to, da bom zdaj rekel, v tistih težkih, železnih časih.</p>
                         <p>Gospod Židanik je rekel prej. </p>
                      </sp>
-                     <sp who="#sp.ŽidanikAnton">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ŽidanikAnton">
                         <speaker>DR. ANTON ŽIDANIK:</speaker>
                         <p>41. volilna enota: Moram reči, da osebno sicer podpiram vse te točke in
                            te sklepe, ki jih je naš predsednik predložil, vendar jaz sem osebno
@@ -672,11 +676,11 @@
                            tako da mislim, da bi bilo treba vsaj na teh točkah voditi širšo
                            razpravo, drugače pa osebno to podpiram. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospa prosim, Angelca Žerovnik.</p>
                      </sp>
-                     <sp who="#sp.ŽerovnikAngelca">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ŽerovnikAngelca">
                         <speaker>MAG. ANGELCA ŽEROVNIK:</speaker>
                         <p>Spoštovani! Podpiram predlog predsednika Zbora združenega dela gospoda
                            Zupančiča, ker njegovi sklepi v okviru te šolske problematike so povsem
@@ -690,11 +694,11 @@
                            mladina napačno zavajena, v povsem drug problem, kakršen v resnici je.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospa Sagadin.</p>
                      </sp>
-                     <sp who="#sp.SagadinVlasta">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.SagadinVlasta">
                         <speaker>VLASTA SAGADIN:</speaker>
                         <p>34. volilna enota, področje vzgoje in izobraževanja: Rada bi povedala,
                            zakaj podpiram predlog predsednika Zbora združenega dela v zvezi s to
@@ -726,11 +730,11 @@
                         <p>Tako da bi resnično podprla predlog predsednika Zupančiča in to zadevo
                            spravila spet v strokovne vode, ne pa v politične. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospod Jakič, replika.</p>
                      </sp>
-                     <sp who="#sp.JakičRoman">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
                         <p>Moja replika in moj odgovor je sledeč; da stvar, ki je zdaj začela
                            prihajati ven, je točka, na kateri se je začela stvar politizirati. Točka
@@ -769,7 +773,7 @@
                            bom glasoval proti, ker se z določenimi ne strinjam in bi rad o teh
                            sklepih razpravljal.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Lahko zdaj vseeno odgovorim. Mislim, da zdaj smo dejansko tudi v našem
                            zboru prišli v politiziranje. Ampak vprašanje je, kdo je to načel.
@@ -800,7 +804,7 @@
                            namestnik republiškega sekretarja za vzgojo in izobraževanje ter telesno
                            kulturo.</p>
                      </sp>
-                     <sp who="#sp.ČehovinStane">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ČehovinStane">
                         <speaker>STANE ČEHOVIN:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani delegati in delegatke! Hvala
                            Bogu, tako bom začel, da smo vendarle prišli do točke, ko priznavamo, da
@@ -882,7 +886,7 @@
                            gospod Zupančič navedel, to so seveda ocene iz posameznih predmetov, pa
                            tudi splošna ocena iz zaključnega izpita. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. jaz bi predlagal naslednje: mi bi se o tem opredelili potem, po
                            skupnem zasedanju. Če ste zato, bi v tem času razdelili ta osnutek
@@ -910,7 +914,7 @@
                            smo se prej pogovarjali, pa še vedno obstaja.</p>
                         <p>Gospod Bizjak, mudi se nam.</p>
                      </sp>
-                     <sp who="#sp.BizjakDavorin">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BizjakDavorin">
                         <speaker>DAVORIN BIZJAK:</speaker>
                         <p>Jaz v imenu še 7 delegatov predlagam, da se dnevni red našega zbora ali
                            danes ali jutri razširi še s točko: "Stališče Izvršnega sveta Republike
@@ -928,7 +932,7 @@
                         <p>Mislim, da ni treba posebej utemeljevati tega predloga, če bo pa
                            potrebno, sem pa pripravljen tudi dodatno o tem razpravljati.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Dobro. Ima kdo kakšno drugačno mnenje? V tem primeru bi seveda bil tak
                            predlog, da bi to bila 6. točka dnevnega reda, in sicer: "stališče
@@ -953,11 +957,9 @@
                         <p>Prosim, po uvodnem ekspozeju gospoda Rupla je prosto točno tričetrt ure;
                            pa pridite nazaj, saj vidite, da imamo veliko dela.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-04-24T11:08:00"
-                           xml:id="stage.t.2">prekinjena ob 11.08 uri</time> in se je <time
-                           from="1991-04-24T12:48:00" xml:id="stage.t.3">nadaljevala ob 12.48
+                     <stage type="time">(Seja je bila <time to="1991-04-24T11:08:00" xml:id="DZ-1991-ZbZdruDel-20.stage.t.2">prekinjena ob 11.08 uri</time> in se je <time from="1991-04-24T12:48:00" xml:id="DZ-1991-ZbZdruDel-20.stage.t.3">nadaljevala ob 12.48
                            uri</time>.)</stage>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Glede na to, da še vedno nimamo do kraja sprejet dnevni red in da bi tudi
                            to točko čimprej zaključili, bi predlagal, zdaj ste prejeli tudi ta
@@ -980,7 +982,7 @@
                            osnutki in bi vas prosil, da tudi o teh osnutkih še poveste kaj. Prosim,
                            Jaša Zlobec.</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Lep pozdrav. Tokrat imam samo eno tehnično pripombo. Glede na to točko,
                            ki jo je predsednik Zupančič predlagal, če ste natančno poslušali, je
@@ -995,7 +997,7 @@
                            točko, ki jo nam je zdaj prebral, da mora v tem primeru črtati zadnji dve
                            vrstici in eno besedo tega dokumenta.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>V redu. Jaz mislim, da je oboje možno.</p>
                         <p>1. Če dodamo to zadnjo točko, potem je seveda jasno, da tu gre tudi za
@@ -1010,7 +1012,7 @@
                            ker mi potem seveda takoj tudi že sprejemamo odločitve.</p>
                         <p>Prosim, gospod Jakič.</p>
                      </sp>
-                     <sp who="#sp.JakičRoman">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
                         <p>Hvala za besedo. Jaz sem tudi izoblikoval ta drugi odstavek in bi se
                            glasil, pač moj predlog je, da se črta zadnji stavek zaradi navedenega
@@ -1075,14 +1077,14 @@
                            vseeno ali je to že točka dnevnega reda, ker bi si jaz potem dovolil
                            vseeno podati svoja opažanja glede tega zaključnega izpita.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Jaz mislim, da se moramo dogovoriti in jaz bom dal na glasovanje; tudi
                            ali bomo ustavili ali imeli točko dnevnega reda; če to ne bo sprejeto,
                            bom predlagal to pobudo, da osnutek sprejmemo in bomo pač glasovali.
                            Gospod Ban.</p>
                      </sp>
-                     <sp who="#sp.BanFranc">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BanFranc">
                         <speaker>FRANC BAN:</speaker>
                         <p>Najprej moram povedati, da protestiram zoper način, da danes Zbor
                            združenega dela ob toliko pomembnejših stvareh, prvi dan potem, ko so
@@ -1138,7 +1140,7 @@
                            dohodki, ki jih ne morejo dobiti in ni denarja za njih. Jaz na to ne znam
                            dati nikomur, ki me vpraša, konkretnega odgovora.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Verjetno je prav, da preden dam gospodu Arzenšku besedo, odgovorim.</p>
                         <p>Prvič, glede 4. točke, na drugi strani, mi imamo tak sklep že sprejet v
@@ -1189,7 +1191,7 @@
                            bomo potem pač razpravljali 3 ure ali pa 4 ure, pa bo seveda gospod Ban
                            zopet povedal svoje. Gospod Arzenšek je še prej.</p>
                      </sp>
-                     <sp who="#sp.ArzenšekJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ArzenšekJože">
                         <speaker>DR. JOŽE ARZENŠEK:</speaker>
                         <p>Spoštovani zbor! Jaz bi rekel tole, da bi čisto javno podprl pobudo
                            kolege Židanika, da ko govorimo o krizi v dejavnostih, tako gospodarske
@@ -1238,11 +1240,11 @@
                            to, da bomo razpravljali o celjski bolnišnici, ne o poplavi.</p>
                         <p>Pa mislim, da to ni stvar parlamenta. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Remškar.</p>
                      </sp>
-                     <sp who="#sp.RemškarJanez">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.RemškarJanez">
                         <speaker>DR. JANEZ REMŠKAR:</speaker>
                         <p>39. volilna enota. Jaz vendarle ocenjujem, da je problem dejansko
                            prenapihnjen in predlagam, da sprejmemo popravljen predlog našega
@@ -1275,11 +1277,11 @@
                            mogoče spremenimo ta tekst, ga sprejmemo in detajlno razpravljamo na
                            prihodnjem zasedanju. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospod Erce.</p>
                      </sp>
-                     <sp who="#sp.ErceFranc">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ErceFranc">
                         <speaker>FRANC ERCE:</speaker>
                         <p>Gospod predsednik, spoštovani zbor. Ker vas</p>
                         <p>menim za nekako tvorca tegale osnutka, teh ugotovitev in sklepov, bi vam
@@ -1306,11 +1308,11 @@
                            dnevi smo imeli pred kranjsko občino delavce Tekstilindusa. Mislim, če
                            bomo šli takole, ne bomo prišli nikamor. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Moge.</p>
                      </sp>
-                     <sp who="#sp.MogeRudi">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MogeRudi">
                         <speaker>RUDI MOGE:</speaker>
                         <p>Spoštovane kolegice in kolegi. Vidite, kako sem imel prav takrat, ko smo
                            sprejemali proračun, pa sem iz vrča nalival vodo. Namreč vsak pameten
@@ -1360,7 +1362,7 @@
                            sprejemali, bomo verjetno imeli dosti amandmajev. Ampak ko bosta
                            sprejeta, bosta pa potem to področje nekoliko uredila.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Jaz se v bistvu čudim, zdaj k razpravi gospoda Mogeta. Jaz se strinjam z
                            njim, da ima prav v tem delu, da verjetno to ni čisto strokovno napisano,
@@ -1370,7 +1372,7 @@
                            drugi strani pa nič, potem se pa dajmo pogovoriti, pa bomo 20. maja
                            razpravljali o tem.</p>
                      </sp>
-                     <sp who="#sp.MogeRudi">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MogeRudi">
                         <speaker>RUDI MOGE:</speaker>
                         <p>Spoštovani delegati. Zdi se mi, še enkrat poudarjam, da kdor ni nikoli
                            delal v vzgoji in izobraževanju in da naj zdaj presoja, ali zaključni
@@ -1382,11 +1384,11 @@
                            kvalificirano mnenje republiškega sekretarja tu reagiramo, pa damo potem
                            na njegovo mnenje svoje mnenje. To je bil moj predlog.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Starc.</p>
                      </sp>
-                     <sp who="#sp.StarcMarjan">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.StarcMarjan">
                         <speaker>MARJAN STARC:</speaker>
                         <p>Glede na to, da smo sprejeli dnevni red, imamo tudi kaj narediti. Danes
                            bi predlagal ali pa kar zahteval, da začnemo delati po dnevnem redu, ki
@@ -1394,11 +1396,11 @@
                            pogovarjali, če bo potrebno in če bo sprejeto vaše stališče. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Židanik je rekel že prej.</p>
                      </sp>
-                     <sp who="#sp.ŽidanikAnton">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ŽidanikAnton">
                         <speaker>DR. ANTON ŽIDANIK:</speaker>
                         <p>Glede na to, ker je gospod Vencelj prisoten, mislim, da bo lahko dal tudi
                            odgovor na moje vprašanje. Namreč pred sabo imam Poročevalec, vsi smo ga
@@ -1413,12 +1415,12 @@
                            sredstva, ki smo jih v proračunu namenili tem dejavnostim, moramo tem
                            dejavnostim tudi dati.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Jaz bi prosil še gospoda Venclja, republiškega sekretarja za
                            vzgojo in izobraževanje, naj nekaj stavkov pove.</p>
                      </sp>
-                     <sp who="#sp.VenceljPeter">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.VenceljPeter">
                         <speaker>DR. PETER VENCELJ:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani delegati. Jaz mislim, da je
                            škoda v tem trenutku časa, zbor se je sestal zaradi napovedanega dnevnega
@@ -1554,7 +1556,7 @@
                            dnevni red, da se pa tole sprejme kot izhodišče za delo komisije, ki naj
                            pripravi poročilo, tako kot sem predlagal. Lepa hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Predlagam, da bi zaključili razpravo, in sicer samo z enim
                            sklepom, ki ga vam bom predlagal,in sicer:</p>
@@ -1581,9 +1583,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.ZupančičJože">
+               <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.1">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>
                            <title>1. TOČKA DNEVNEGA REDA je PREDLOG ZAKONA O SPREMEMBAH IN
                               DOPOLNITVAH ZAKONA O NOTRANJIH ZADEVAH</title>.</p>
@@ -1621,7 +1626,7 @@
                            takoj z razpravo in vprašam, prosim dr. Brejc, namestnik Republiškega
                            sekretarja za notranje zadeve ima besedo.</p>
                      </sp>
-                     <sp who="#sp.BrejcMiha">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BrejcMiha">
                         <speaker>DR. MIHA BREJC:</speaker>
                         <p>Spoštovane delegatke, spoštovani delegati, cenjeni zbor. Osnutek zakona
                            je bil v Skupščini obravnavan meseca marca. Glede na to, da je vaš zbor
@@ -1763,12 +1768,12 @@
                            med posameznimi družbenopolitičnimi skupnosti oz. ko bo jasen položaj
                            občine v družbenopolitičnem sistemu Republike Slovenije. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala, dr. Brejc. Želi kdo iz stani delovnih teles še kaj povedati? Ima
                            še kdo kakšen amandma? Prosim, gospod Gradišar.</p>
                      </sp>
-                     <sp who="#sp.GradišarFranc">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Spoštovane kolegice in kolegi! Glede na to, da ste poročilo dobili, vam
                            bom prebral samo tiste bistvene spremembe, ki jih je pač Komisija za
@@ -1794,7 +1799,7 @@
                            napredek, da to, kar bi moral ta zakon biti oz. kakršen bi moral biti,
                            bomo pa uredili pri novem zakonu, ko bo nova ustava. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Želi kdo razpravljati?</p>
                         <p>Ni več razprave? Glede na to, da so itak vloženi amandmaji, bo še vedno
@@ -1809,8 +1814,11 @@
                            Zakonodajno-pravna komisija opredelila do posameznih amandmajev.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.2">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Potem bi pa še pri <title>2. TOČKI DNEVNEGA REDA</title>. Tu gre sedaj za
                            predlog <title>ZA IZDAJO ZAKONA O DOPOLNITVAH ZAKONA O VARSTVU OSEBNIH
                               PODATKOV S PREDLOGOM ZAKONA</title>.</p>
@@ -1839,14 +1847,14 @@
                            pripravi osnutek zakona in upam, da bo Izvršni svet do naslednje seje ta
                            zakon tudi pripravil.</p>
                      </sp>
-                     <sp who="#sp.RoginaBogo">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.RoginaBogo">
                         <speaker>BOGO ROGINA:</speaker>
                         <p>Gospod predsednik jaz predlagam, da če že nismo sprejeli hitrega postopka
                            po 312. členu, da pa vseeno še razpravljamo o tem, da sprejmemo predlog
                            za izdajo zakona, z osnutkom, da gremo samo za eno fazo nazaj, ne pa za
                            dve.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Ja malce se je sedaj zakompliciralo, mogoče tudi zaradi moje
                            nespretnosti. Ampak sedaj ste vi predlagali to, kar je bilo tudi že
@@ -1860,8 +1868,11 @@
                         <p>Ugotavljam, da smo sklep v zvezi z 2. točko sprejeli.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" n="3" corresp="#toc.2.3">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.3">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>In bi pričeli s <title>3. TOČKO DNEVNEGA REDA: TEMELJI STRATEGIJE ZUNANJE
                               POLITIKE REPUBLIKE SLOVENIJE</title>.</p>
                         <p>Gradivo je v obravnavo predložil Izvršni svet Skupščine Republike
@@ -1876,7 +1887,7 @@
                            želi, najprej mogoče iz delovnih teles, razpravljati? Prosim. Barbara
                            Zupanc.</p>
                      </sp>
-                     <sp who="#sp.ZupancBarbara">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupancBarbara">
                         <speaker>BARBARA ZUPANC:</speaker>
                         <p>No jaz se sedaj sicer malce v nerodnem položaju, ker bi morala govoriti v
                            imenu Komisije za mednarodne odnose, s katerimi stališči se sicer nisem
@@ -1915,13 +1926,13 @@
                            predlaganega zakona.</p>
                         <p>Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospod Židanik je v imenu Kluba delegatov Socialistične
                            stranke Slovenije podal tudi pisno razpravo in bi tudi še nekaj
                            povedal.</p>
                      </sp>
-                     <sp who="#sp.ŽidanikAnton">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ŽidanikAnton">
                         <speaker>DR. ANTON ŽIDANIK:</speaker>
                         <p>To predlagam v imenu Kluba delegatov Socialistične stranke. Dajem
                            naslednjo pobudo:</p>
@@ -1943,11 +1954,11 @@
                         <p>3.) da se opredelitev za nevtralnost upošteva v zakonu o zunanjih zadevah
                            Republike Slovenije.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Besedo gospod Sekereš.</p>
                      </sp>
-                     <sp who="#sp.SekerešViljem">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.SekerešViljem">
                         <speaker>VILJEM SEKEREŠ:</speaker>
                         <p>Spoštovani predsednik, spoštovani kolegi! Poročilo k temeljni strategiji
                            zunanje politike Republike Slovenije Komisije za strategijo nacionalnega
@@ -1989,11 +2000,11 @@
                            temelje strategije zunanje politike Republike Slovenije in predlog za
                            izdajo zakona s tezami. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še želi kdo? Prosim, g. Muren.</p>
                      </sp>
-                     <sp who="#sp.MurenAndrej">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MurenAndrej">
                         <speaker>ANDREJ MUREN:</speaker>
                         <p>Načelno podpiram ta predloženi dokument, s tem da bi dal sledečo
                            pripombo. Zdi se mi, da nekoliko premalo poudarja, eksplicitno poudarja
@@ -2020,11 +2031,11 @@
                            smislu. Se pravi, da to je pravilno, da ostaja tukaj samo na načelni
                            ravni, detajle bo pa moral urediti drug zakon. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Še želi kdo? Gospod Sekereš? Ne?</p>
                      </sp>
-                     <sp who="#sp.SekerešViljem">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.SekerešViljem">
                         <speaker>VILJEM SEKEREŠ:</speaker>
                         <p>Ne vem koliko ste imeli priliko prebrati poročilo komisije, ampak tu
                            decidirano piše, da je v gradivu dan velik poudarek povezovanju z Zahodno
@@ -2036,11 +2047,11 @@
                            deloma se, manifestira že v ceneni delovni sili iz Romunije. Toliko bi
                            imel jaz, to sem želel odgovoriti.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še želi kdo? Anka Osterman.</p>
                      </sp>
-                     <sp who="#sp.OstermanAnka">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.OstermanAnka">
                         <speaker>ANKA OSTERMAN:</speaker>
                         <p>Hvala za besedo. V klubu delegatov Stranke demokratične prenove smo
                            gradivo pozorno pregledali. In bi v imenu stranke podala nekatere naše
@@ -2178,11 +2189,11 @@
                            aktivnostmi na beli knjigi o secesiji glede pravic in obveznosti, kar je
                            prav tako nerazrešeno vprašanje.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Franci Erce.</p>
                      </sp>
-                     <sp who="#sp.ErceFranc">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ErceFranc">
                         <speaker>FRANC ERCE:</speaker>
                         <p>Gospod predsednik, spoštovani zbor! Prebral bi stališča Kluba delegatov
                            Slovenskih krščanskih demokratov k temeljni strategiji zunanje politike
@@ -2220,7 +2231,7 @@
                            Skupščine Republike Slovenije o predlogu za sporazumno razdružitev
                            Socialistične federativne republike Jugoslavije. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Ali želi še kdo razpravljati? <stage>(Ni več
                               razprave.)</stage> Potem bi z razpravo lahko zaključili. Samo malo
@@ -2230,8 +2241,11 @@
                            počakati, ker nas je trenutno tu 38.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.TDR" n="4" corresp="#toc.2.4">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.4"
+                       ana="#PAR.TDR"
+                       n="4"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.4">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Da ne bi izgubljali časa - <title>4. TOČKA</title> je tudi povezana s
                            tem:</p>
                         <p>
@@ -2275,7 +2289,7 @@
                            veliko. No, gospod Rupel, Republiški sekretar za mednarodno sodelovanje
                            je prvič v našem zboru.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Spoštovani gospod predsednik, delegatke, delegati. Pazljivo sem poslušal
                            tale zadnji del pripomb. Se opravičujem, preje nisem bil tu, pač pa mi je
@@ -2440,7 +2454,7 @@
                            sredstvi, ki jih imamo na razpolago. Toliko sem mislil odgovoriti na
                            vprašanja, ki so bila postavljena. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Najlepša hvala. Nadaljevali bi kar s to 4. točko. Želi kdo razpravljati?
                            Prosim, Barbara. Jaz bi vse poslance samo na to opozoril, mi pri tej
@@ -2448,7 +2462,7 @@
                            to, da se strinjamo s tem in da naj potem pač Izvršni svet nadaljuje to
                            akcijo, tako kot vedno. Prosim, Barbara.</p>
                      </sp>
-                     <sp who="#sp.ZupancBarbara">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupancBarbara">
                         <speaker>BARBARA ZUPANC:</speaker>
                         <p>Hvala lepa. Zahvaljujem se gospodu predsedniku, ker je že namesto mene v
                            imenu Komisije za mednarodne odnose povedal naše osnovne pripombe, zato
@@ -2568,11 +2582,11 @@
                            mirno lahko urejal notranji pravilnik o zunanjem ministrstvu, zakon pa
                            naj bi določal zgolj splošne določbe. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Rupel ima repliko.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Samo tole bi rad rekel. Veliko tega, kar je gospa poslanka povedala, je v
                            resnici polemika z osamosvajanjem Slovenije. To ni polemika s tem
@@ -2615,7 +2629,7 @@
                            teh prehodnih določbah, ki ste jih navedli, vendarle navedeno. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Predlagal bi, da če ima kdo še kakšen pisni predlog, da bi ga mogoče tudi
                            oddal in bi ga upoštevali, tako da je tudi to ena izmed variant. Drugače
@@ -2641,7 +2655,7 @@
                         <p>Mi moramo potem iti na glasovanje. Imamo kar precej zadev, če hočemo do
                            16. ure kaj opraviti.</p>
                      </sp>
-                     <sp who="#sp.OstermanAnka">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.OstermanAnka">
                         <speaker>ANKA OSTERMAN:</speaker>
                         <p>Bom čisto kratka. Pravzaprav je vprašanje in pomislek. Morda bom celo že
                            danes lahko dobila odgovor. Glede pravne podlage za ta zakon o zunanjih
@@ -2652,11 +2666,11 @@
                            in pripomba, kako je s to pravno podlago, ker vemo, da je zgodaj. Sicer
                            pa izgleda, da ima zakon možnosti, da bo tekel po normalnem postopku.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Gospod Rupel.</p>
                      </sp>
-                     <sp who="#sp.RupelDimitrij">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.RupelDimitrij">
                         <speaker>DR. DIMITRIJ RUPEL:</speaker>
                         <p>Kolikor sem poučen, ima ta zakon pravno podlago v že imenovanem 99.
                            amandmaju in kar zadeva njegovo uporabo, bo mogoča od trenutka, ko se
@@ -2666,7 +2680,7 @@
                            je bil predpisan z zakonom o plebiscitu, tako da ne bi poslušali očitkov,
                            da nismo storili tega, kar nam je parlament naložil. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Odgovor je. Ali še kdo želi? Če ne, bi lahko tu zaključili
                            razpravo. V dvorani nas je 48 delegatov in poslank.</p>
@@ -2678,8 +2692,11 @@
                         <p>Se pravi, celo 50 nas je prisotnih. Kje ste pa skriti?</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.5" ana="#PAR.TDR" n="3" corresp="#toc.2.5">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.5"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.5">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Hvala. Se pravi, z enim vzdržanim glasom smo sprejeli ta sklep in sedaj
                            bi se morali vrniti samo še k tem sklepom iz <title>3. TOČKE</title>
                            našega dnevnega reda <title>TEMELJI STRATEGIJE ZUNANJE POLITIKE REPUBLIKE
@@ -2700,11 +2717,11 @@
                            upošteva stališča delovnih teles Skupščine in razpravo delegatov na
                            seji.</p>
                      </sp>
-                     <sp who="#sp.OstermanAnka">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.OstermanAnka">
                         <speaker>ANKA OSTERMAN:</speaker>
                         <p>Mi smo že gradivo kritizirali.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Nič hudega. To je zajeto. Jaz ne morem kakšen drugačen sklep; ali imate
                            vi kakšnega? Ali predlagate kakšen sklep, da naj sne sprejmemo nič?</p>
@@ -2731,7 +2748,7 @@
                            amandmaju na stališča.</p>
                         <p>Kdo je za ta amandma? Prosim, gospod Šter se je še oglasil.</p>
                      </sp>
-                     <sp who="#sp.ŠterAndrej">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ŠterAndrej">
                         <speaker>ANDREJ ŠTER:</speaker>
                         <p>V zvezi s prej oblikovanim mislim, da tretjim sklepom, da se Komisija za
                            notranjo politiko zavzema za mirno - ne znam - pot, bi predlagal, ker tam
@@ -2743,7 +2760,7 @@
                            podpira. Če je to mišljeno, potem jaz tega ne morem podpreti. Zato bi
                            predlagal preoblikovanje.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Mogoče, da bo še malo bolj čisto. Tu v stališčih piše v tretjem odstavku,
                            zadnji stavek: "Zato Skupščina Republike Slovenije podpira stališča
@@ -2767,14 +2784,16 @@
                         <p>Tako smo mi zaključili 3. in 4. točko.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.6" ana="#PAR.DolDnevRed" corresp="#toc.2.6">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.6"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.6">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Prosim, ne bodite presenečeni, prišli in pričeli bi s 1. točko dnevnega
                            reda. No, tu je intervencija, da bi najprej poslušali <title>POROČILO
                               GLEDE USKLADITVE DNEVNEGA REDA</title>. Malo počakajte, da se
                            dogovorimo. Prosim, gospod Pirš.</p>
                      </sp>
-                     <sp who="#sp.PiršJurij">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.PiršJurij">
                         <speaker>JURIJ PIRŠ:</speaker>
                         <p>Spoštovane delegatke in delegati. Usklajevalna komisija je ugotovila, da
                            so zbori neusklajeni pri treh točkah dnevnega reda. Drugo točko dnevnega
@@ -2803,11 +2822,11 @@
                            sveta, ki bi glede tega našega stališča do obravnave Markovičevega
                            programa morda tudi še dal par dodatnih pojasnil. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod Umek, čisto na kratko, kajne.</p>
                      </sp>
-                     <sp who="#sp.UmekIgor">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.UmekIgor">
                         <speaker>IGOR UMEK (republiški sekretar za družbeno planiranje):</speaker>
                         <p>Dal bom samo osnovne informacije. V petek popoldne smo dobili gradivo iz
                            Beograda, delali smo na njem čez vikend in cel čas. Obravnavala so ga že
@@ -2823,7 +2842,7 @@
                            prehitevata, mislim, ali sta usklajeni ali nista usklajeni. To je
                            trenutno stanje stvari.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa, gospod Umek. Ali je to sprejemljivo, da mi, naš zbor,
                            predlagamo gospodu Bučarju, da jutri razširi skupno sejo s to točko
@@ -2842,8 +2861,11 @@
                            predsednik prouči predlog Izvršnega sveta.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.7" ana="#PAR.TDR" n="2" corresp="#toc.2.7">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.7"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.7">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Zdaj pa še v zvezi z <title>2. TOČKO DNEVNEGA REDA</title>, to je
                               <title>PREDLOG ZA IZDAJO ZAKONA O DOPOLNITVI ZAKONA O VARSTVU OSEBNIH
                               PODATKOV Z OSNUTKOM ZAKONA</title>.</p>
@@ -2880,8 +2902,11 @@
                            Dobro!</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.8" ana="#PAR.TDR" n="1" corresp="#toc.2.8">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.8"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.8">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Gremo k <title>1. TOČKI DNEVNEGA REDA</title>, to je pregled amandmajev k
                               <title>PREDLOGU ZAKONA O NOTRANJIH ZADEVAH</title>.</p>
                         <p>Tu imamo najprej, če vzamete prosim tudi zakon o notranjih zadevah,
@@ -2913,7 +2938,7 @@
                            seveda tudi Izvršni svet. 3. člen k 11. členu; je treba kaj, gospod
                            Zlobec?</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Rad bi obrazložil svoj glas in ker gre za pomembno zadevo, sem prepričan,
                            da se boste z veliko večino z mano strinjali. 3. člen je popolnoma
@@ -2958,11 +2983,11 @@
                            in si pišejo sproščena pisma, če črtamo ta člen in potem še onega
                            analognega. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Slišali ste. Gospod Brejc ima besedo.</p>
                      </sp>
-                     <sp who="#sp.BrejcMiha">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BrejcMiha">
                         <speaker>DR. MIHA BREJC (namestnik republiškega sekretarja za notranje
                            zadeve):</speaker>
                         <p>Spoštovani! Torej največ pisem, pravi spoštovani Jaša Zlobec, to je,
@@ -2995,12 +3020,12 @@
                            še vedno pokazal, da skušamo in da dosledno ravnamo tako, kot je treba.
                            Toliko zaenkrat. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Želi še kdo povedati, kako bo glasoval pri tem amandmaju?
                            Prosim, gospod Dretnik.</p>
                      </sp>
-                     <sp who="#sp.DretnikIvan">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.DretnikIvan">
                         <speaker>IVAN DRETNIK:</speaker>
                         <p>19.d člen, drugi odstavek! Osebni podatki iz prejšnjega odstavka se lahko
                            shranjujejo v evidencah in uporabljajo, dokler ni dosežen namen, za
@@ -3010,7 +3035,7 @@
                            "arhivirajo" nadomesti z besedo "uničijo". Tako, da bi se ta stavek
                            glasil: "Ko je dosežen namen, se podatki uničijo."</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Prosil bi gospoda Dretnika, da bi to potem obravnavali, ko pridemo; zdaj
                            smo še pri 3. členu in o amandmaju Jaše Zlobca še nismo glasovali. To je:
@@ -3031,7 +3056,7 @@
                            skladu z amandmajem pod številko 3 se dopolni tudi drugi odstavek 3.
                            člena in nadaljnji členi. Gospod Dejan, ti boš glasoval za amandma.</p>
                      </sp>
-                     <sp who="#sp.MurkoDejan">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MurkoDejan">
                         <speaker>DEJAN MURKO:</speaker>
                         <p>Jaz sem še vedno prepričan, da mora biti v zakonu natančno opredeljeno,
                            kdo in katero sodišče je pristojno sprejemati odločitev odstopa od načela
@@ -3054,11 +3079,11 @@
                            pomembne odločitve, kot so prekršljivost tajnosti pisem in komunikacije.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Prosim, gospod Brejc.</p>
                      </sp>
-                     <sp who="#sp.BrejcMiha">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BrejcMiha">
                         <speaker>DR. MIHA BREJC (namestnik republiškega sekretarja za notranje
                            zadeve):</speaker>
                         <p>V stališču Izvršnega sveta je jasno zapisano, da določitev sodišča, ki bo
@@ -3077,7 +3102,7 @@
                            vplivov. Lokalna sodišča bi bila lahko mnogo bolj občutljiva na določene
                            interese, kot je pa neka centralna institucija. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala lepa. Slišali ste eno in drugo. Lahko glasujemo o obeh amandmajih;
                            ker sta povezana?</p>
@@ -3105,7 +3130,7 @@
                            nadomestijo z besedami "na podlagi zakona". Izvršni svet in zakonodajno
                            pravna komisija ne podpirata tega. Gospod Jaša Zlobec.</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Najprej se vam zahvalim, da ste glasovali soglasno za drugi del našega
                            amandmaja, sedaj bi vas pa še prosil, da bi še za prvi del, ker sta
@@ -3121,7 +3146,7 @@
                            Zato bi predlagal, da se strinjate s tem, da se ta "in drugi subjekti"
                            brišejo.</p>
                      </sp>
-                     <sp who="#sp.BrejcMiha">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BrejcMiha">
                         <speaker>DR. MIHA BREJC (namestnik republiškega sekretarja za notranje
                            zadeve):</speaker>
                         <p>Kdo so to "in drugi subjekti" je pravzaprav bistveno vprašanje. Moje
@@ -3140,7 +3165,7 @@
                            subjekti". Parlamentarni nadzor je tu, ki lahko poseže po teh stvareh,
                            kadar želi.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Sedaj v bistvu glasujemo tu samo za to "in drugi subjekti", da se črtajo
                            besede, samo za to gre. Ni več razprave?</p>
@@ -3155,7 +3180,7 @@
                            svet ne podpira, Zakonodajno-pravna komisija se ni opredelila, ker je
                            vsebinske narave, gre za vprašanje primernosti. Prosim, gospod Murko.</p>
                      </sp>
-                     <sp who="#sp.MurkoDejan">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MurkoDejan">
                         <speaker>DEJAN MURKO:</speaker>
                         <p>Torej ta amandma je eden od tistih, za katerega sodim, da je bistvenega
                            pomena in to zato, ker ne vidim razloga, da bi uvajali dobo treh let, v
@@ -3170,11 +3195,11 @@
                            to ni mogoče ali to zahteva interes preiskave, se pa določi nek razumen
                            rok in jaz mislim, da je 18 mesecev več kot dovolj rok. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Brejc prosim.</p>
                      </sp>
-                     <sp who="#sp.BrejcMiha">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BrejcMiha">
                         <speaker>DR. MIHA BREJC (namestnik republiškega sekretarja za notranje
                            zadeve):</speaker>
                         <p>Da smo določili v zakonu rok do treh let, torej</p>
@@ -3190,11 +3215,11 @@
                            zato mislim, da je postavljati rok, ki je krajši od treh let,
                            profesionalno gledano skrajno neodgovorno. Samo to bi rekel.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Murko še, sedaj pa povej kako boš glasoval!</p>
                      </sp>
-                     <sp who="#sp.MurkoDejan">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MurkoDejan">
                         <speaker>DEJAN MURKO:</speaker>
                         <p>Glasoval bom seveda za svoj amandma.Da je to stvar profesionalizma, potem
                            tudi tri leta verjetno ni dovolj dolg rok, ker bi potem pa se težko o tem
@@ -3203,7 +3228,7 @@
                            teče, se pa to logično ne šteje od tega dne. Mislim, potem je jasno, da
                            mu nihče ne bo mogel dati vpogleda v to dokumentacijo.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Še želi kdo o tem razpravljati? Nihče. Potem bi glasovali o
                            amandmaju, ki ga je predlagal Dejan Murko. In sicer: na koncu 2. odstavka
@@ -3274,7 +3299,7 @@
                         <p>Tu je 19.c - Dejan Murko. Črta se druga alinea 19.c člena: "evidenc
                            iskanih ljudi, ki ogrožajo varnost države!. Prosim, gospod Murko.</p>
                      </sp>
-                     <sp who="#sp.MurkoDejan">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.MurkoDejan">
                         <speaker>DEJAN MURKO:</speaker>
                         <p>Tale varnost države, to vsi vemo, to je zloglasna dikcija iz prava, ki ga
                            pač opuščamo in od katerega se poslavljamo; vsaj nameni so takšni. To je
@@ -3292,7 +3317,7 @@
                            marsikomu ogromno škode, začeti neomejeno zbirati podatke, ga celo
                            obsoditi. Tega pa mislim, da se moramo dosledno izogibati. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Obrazložitev je; Izvršni svet tega ne podpira in zakaj pa, je tudi
                            napisano.</p>
@@ -3330,7 +3355,7 @@
                            Izvršni svet ne podpira, ker bi določitev roka v zakonu v večini primerov
                            ogrozila izvršitev posamezne naloge. Prosim, gospod Zlobec.</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Jaz mislim umakniti ta amandma, ker sem bil sto procentno prepričan, da
                            boste sprejeli amandma kolegice Sagadinove, samo očitno, ker ga ni
@@ -3351,11 +3376,11 @@
                            sekretariata in mu pušča popolnoma odprte roke, pač ni mogoče postaviti.
                            Jaz bom glasoval za amandma. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Ne, ne. Vztraja. Gospod Brejc.</p>
                      </sp>
-                     <sp who="#sp.BrejcMiha">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.BrejcMiha">
                         <speaker>DR. MIHA BREJC (namestnik republiškega sekretarja za notranje
                            zadeve):</speaker>
                         <p>Torej, mi smo imeli v tem času tudi s strani članov komisije nekaj
@@ -3376,7 +3401,7 @@
                            zrušil.</p>
                         <p>Mislim, da to ne gre iz čisto praktičnih razlogov. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Slišali ste. Sprašujem!</p>
                         <p>Kdo je za amandma Jaše Zlobca, da se v drugem odstavku 19.g člena besedi
@@ -3409,12 +3434,12 @@
                         <p>Ugotavljam, da amandma ni sprejet.</p>
                         <p>Smo pri 15. členu.</p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Umikam amandma. Samo opozarjam zbor, da bom javnost opozoril, za kaj je
                            zbor glasoval.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Nič hudega, saj je javno delo, saj si novinar, saj novinarji zdaj
                            slišijo. Se pravi, k 15. členu umika.</p>
@@ -3441,8 +3466,10 @@
                            zadevah.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.9" ana="#PAR.DolDnevRed" corresp="#toc.2.9">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.9"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.9">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Sedaj preden gremo, bi predlaga, še ta-le</p>
                         <p>
                            <title>SKLEP</title>:</p>
@@ -3457,23 +3484,23 @@
                            delegatov, ki sestavljajo tudi Odbor za šolstvo in šport. Kdo je za ta
                            predlog? Ja, prosim, gospod Daneu želi besedo.</p>
                      </sp>
-                     <sp who="#sp.DaneuIvo">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.DaneuIvo">
                         <speaker>IVO DANEU:</speaker>
                         <p>Jaz bi, prosim, predlagal, če je kakšen šolnik, ki je v tem, ker jaz sem
                            za šport.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Saj si nevtralen.</p>
                      </sp>
-                     <sp who="#sp.DaneuIvo">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.DaneuIvo">
                         <speaker>IVO DANEU:</speaker>
                         <p>Ne, jaz ne bi bil zraven. Predlagal bi nekoga, recimo, če bi bil morda
                            gospod Jakič namesto mene, ker jaz sem za šport v tem odboru, to pa je
                            stvar šolnikov, ki se spoznajo na zaključne izpite. Namesto mene
                            predlagam gospoda Jakič, ker je z Univerze.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Se strinjate? Ti tudi, Roman? Hvala.</p>
                         <p>Kdo je za teh naših pet predstavnikov? Hvala lepa.</p>
@@ -3487,18 +3514,19 @@
                         <p>Vi pustite stvari tu, je najbolje tako. Po seji se tudi dobimo tukaj -
                            takoj po seji tukaj.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-04-24T16:15:00"
-                           xml:id="stage.t.4">prekinjena bo 16.15 uri</time> in se je <time
-                           from="1991-04-24T20:00:00" xml:id="stage.t.5">nadaljevala ob 20.00
+                     <stage type="time">(Seja je bila <time to="1991-04-24T16:15:00" xml:id="DZ-1991-ZbZdruDel-20.stage.t.4">prekinjena bo 16.15 uri</time> in se je <time from="1991-04-24T20:00:00" xml:id="DZ-1991-ZbZdruDel-20.stage.t.5">nadaljevala ob 20.00
                            uri</time>.)</stage>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Mi se moramo pogoviriti, saj tudi ne vem, če to dela zdaj. Za postoriti
                            imamo še dvoje.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.10" ana="#PAR.TDR" n="5" corresp="#toc.2.10">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.10"
+                       ana="#PAR.TDR"
+                       n="5"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.10">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>In sicer najprej imamo še to našo <title>5. TOČKO DNEVNEGA REDA</title>,
                            če se spomnite, in sicer <title>PREDLOG ZA IZDAJO ZAKONA O SPREMEMBI
                               ZAKONA O RATIFIKACIJI KONVENCIJE MEDNARODNE ORGANIZACIJE DELA ŠTEVILKA
@@ -3524,8 +3552,8 @@
                         <p>Ugotavljam, da smo soglasno sprejeli odlok.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.11" ana="#PAR.TDR">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.11" ana="#PAR.TDR">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Potem so pa tu še <title>POBUDE, PREDLOGI IN VPRAŠANJA</title>, ki bi jih
                            lahko še tudi naknadno obravnavali. Bi pa zdaj najprej, tu sta že dve
                            pisni pobudi, ki jih bomo seveda takoj sporočili naprej. Če ima kdo še
@@ -3534,14 +3562,17 @@
                            zaključiti.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.12" ana="#PAR.TDR" n="1" corresp="#toc.2.11">
-                     <sp who="#sp.ZupančičJože">
+                  <div xml:id="DZ-1991-ZbZdruDel-20.div.1.1.2.12"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-ZbZdruDel-20.toc.2.11">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <p>Zdaj je pa še samo usklajevanje glede <title>PREDLOGA ZAKONA O SPREMEMBAH
                               IN DOPOLNITVAH ZAKONA O NOTRANJIH ZADEVAH</title> in tu bi prosil
                            Francija Gradišarja, da bi v imenu delovne skupine delegatov vseh treh
                            zborov posredoval stališča.</p>
                      </sp>
-                     <sp who="#sp.GradišarFranc">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Bom kratek. Predlagamo, da se umakne že sprejeti amandma k 7. členu, in
                            sicer 19.b člen. To pa zato, ker se to nanaša na tisto obveščanje
@@ -3558,19 +3589,19 @@
                            spet v zakonu v sedmih do petnajstih dneh, ko so podatki arhivirani. In
                            bi predlagal, da enega umaknemo, drugega pa sprejmemo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Slišali ste. Bi bilo potrebno tam pri predlagatelju, Jaša Zlobec, vidva
                            sta še tu, je treba kdaj povedati?</p>
                      </sp>
-                     <sp who="#sp.JakičRoman">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
                         <p>Jaz bi rekel samo to, da če bi za to obrazložitev vedeli prej, bi
                            odstopili od amandmaja. Zdaj moramo pa glasovati, ker je zbor sprejel ta
                            amandma in se strinjamo, da se ga umakne. Jaz bom glasoval proti temu
                            amandmaju, torej za sklep usklajevalne.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-ZbZdruDel-20.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Mi bomo zdaj najprej potem glasovali o predlogu naše delovne skupine
                            delegatov vseh treh zborov. In sicer predlagajo, da umaknemo že sprejeti
@@ -3616,8 +3647,7 @@
                            tako da bi takrat tudi sprejeli stališča.</p>
                         <p>Hvala lepa.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-04-24T20:13:00"
-                           xml:id="stage.t.6">končana dne 24.4.1992 ob 20.13 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-04-24T20:13:00" xml:id="DZ-1991-ZbZdruDel-20.stage.t.6">končana dne 24.4.1992 ob 20.13 uri</time>.)</stage>
                   </div>
                </div>
             </div>

@@ -31,8 +31,7 @@
             <pubPlace>https://github.com/SIstory/Seje_DZ/tree/master/</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
             <date when="2016-03-16+01:00"/>
@@ -53,9 +52,7 @@
                      <date>(9. maj 1990)</date>
                   </imprint>
                </monogr>
-               <ref
-                  target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=D7AFD04D5A259E62C1257C99004581EA"
-                     >(<date>2016-03-14</date>)</ref>
+               <ref target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=D7AFD04D5A259E62C1257C99004581EA">(<date>2016-03-14</date>)</ref>
             </biblStruct>
             <biblFull>
                <titleStmt>
@@ -67,10 +64,10 @@
                   <publisher>Državni zbor Republike Slovenije</publisher>
                   <availability status="free">
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                              xml:lang="slv">Avtorske pravice so potekle, delo je v javni
                         domeni.</licence>
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                              xml:lang="eng">Public Domain Mark 1.0</licence>
                   </availability>
                </publicationStmt>
             </biblFull>
@@ -79,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -132,9 +127,9 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                       STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Pozdravni nagovor predsedujočega
+                     <item n="1" xml:id="DZ-1990-VsiZbor-1.toc.1.1">Pozdravni nagovor predsedujočega
                         ...................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Proceduralne zadeve
+                     <item n="2" xml:id="DZ-1990-VsiZbor-1.toc.1.2">Proceduralne zadeve
                         ................................... 2<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Janko Halb ............................................ 2</item>
@@ -146,19 +141,19 @@
                            <item>Ivo Daneu ............................................. 5</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.1.3">Glasovanje o predlogu za novega predsedujočega 1.
+                     <item n="3" xml:id="DZ-1990-VsiZbor-1.toc.1.3">Glasovanje o predlogu za novega predsedujočega 1.
                         skupne seje ......................... 5<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. Ludvik Toplak ..................................... 5</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.1.4">Ugotavljanje prisotnosti delegatov
+                     <item n="4" xml:id="DZ-1990-VsiZbor-1.toc.1.4">Ugotavljanje prisotnosti delegatov
                         .................... 6<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. Rajko Pirnat ...................................... 6</item>
                         </list>
                      </item>
-                     <item n="5" xml:id="toc.1.5">Določitev dnevnega reda
+                     <item n="5" xml:id="DZ-1990-VsiZbor-1.toc.1.5">Določitev dnevnega reda
                         ............................... 7<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Anton Peršak .......................................... 7</item>
@@ -193,7 +188,7 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Izvolitev predsednika in podpredsednikov Skupščine
+                     <item n="1" xml:id="DZ-1990-VsiZbor-1.toc.2.1">Izvolitev predsednika in podpredsednikov Skupščine
                         Republike Slovenije (1. točka dnevnega reda) .............................
                            16<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -221,16 +216,16 @@
                            <item>Vitodrag Pukl ........................................ 31</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Slovesna izjava predsednika in članov Predsedstva
+                     <item n="2" xml:id="DZ-1990-VsiZbor-1.toc.2.2">Slovesna izjava predsednika in članov Predsedstva
                         Republike Slovenije (2. točka dnevnega reda) .............................
                            32<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Milan Kučan .......................................... 32</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3">Sklep skupne seje o imenovanju generalnega
+                     <item n="3" xml:id="DZ-1990-VsiZbor-1.toc.2.3">Sklep skupne seje o imenovanju generalnega
                         sekretarja in njegovega namestnika ................... 39</item>
-                     <item n="4" xml:id="toc.2.4">Izvolitev Komisije Skupščine Republike Slovenije
+                     <item n="4" xml:id="DZ-1990-VsiZbor-1.toc.2.4">Izvolitev Komisije Skupščine Republike Slovenije
                         za volitve, imenovanja in administrativne zadeve (3. točka dnevnega reda)
                         ............................. 40<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -243,7 +238,7 @@
                            <item>dr. Rajko Pirnat ..................................... 43</item>
                         </list>
                      </item>
-                     <item n="5" xml:id="toc.2.5">Predlog resolucije o Litvi, Estoniji in Letonski s
+                     <item n="5" xml:id="DZ-1990-VsiZbor-1.toc.2.5">Predlog resolucije o Litvi, Estoniji in Letonski s
                         pozdravnimi brzojavkami (4. točka dnevnega reda)
                         ............................. 44<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -263,14 +258,14 @@
                            <item>Jožef Školč .......................................... 51</item>
                         </list>
                      </item>
-                     <item n="6" xml:id="toc.2.6">Proceduralen predlog
+                     <item n="6" xml:id="DZ-1990-VsiZbor-1.toc.2.6">Proceduralen predlog
                         ................................. 52<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Ivan Tomše ........................................... 52</item>
                            <item>Alojz Peterle ........................................ 52</item>
                         </list>
                      </item>
-                     <item n="7" xml:id="toc.2.7">Seznam govornikov
+                     <item n="7" xml:id="DZ-1990-VsiZbor-1.toc.2.7">Seznam govornikov
                         .................................. II/1</item>
                   </list>
                </item>
@@ -283,175 +278,191 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.AksentijevićMilan">Aksentijević Milan</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.AksentijevićMilan">Aksentijević Milan</actor>
                   ....................................... 25</castItem>
                <castItem>
-                  <actor xml:id="sp.BekešPeter">Bekeš Peter</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.BekešPeter">Bekeš Peter</actor>
                   ............................................... 8</castItem>
                <castItem>
-                  <actor xml:id="sp.BučarFrance">Bučar dr. France</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.BučarFrance">Bučar dr. France</actor>
                   ......................................... 27</castItem>
                <castItem>
-                  <actor xml:id="sp.CapuderAndrej">Capuder dr. Andrej</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.CapuderAndrej">Capuder dr. Andrej</actor>
                   ....................................... 12</castItem>
                <castItem>
-                  <actor xml:id="sp.ČrnejJanez">Črnej Janez</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.ČrnejJanez">Črnej Janez</actor>
                   ............................................... 8</castItem>
                <castItem>
-                  <actor xml:id="sp.DaneuIvo">Daneu Ivo</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.DaneuIvo">Daneu Ivo</actor>
                   ................................................. 5</castItem>
                <castItem>
-                  <actor xml:id="sp.DretnikIvan">Dretnik Ivan</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.DretnikIvan">Dretnik Ivan</actor>
                   .............................................. 4</castItem>
                <castItem>
-                  <actor xml:id="sp.GolobičGregor">Golobič Gregor</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.GolobičGregor">Golobič Gregor</actor>
                   ............................................ 9</castItem>
                <castItem>
-                  <actor xml:id="sp.GošnikVano">Gošnik Vano</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.GošnikVano">Gošnik Vano</actor>
                   .............................................. 31</castItem>
                <castItem>
-                  <actor xml:id="sp.GrosVitomir">Gros Vitomir</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.GrosVitomir">Gros Vitomir</actor>
                   ............................................. 12</castItem>
                <castItem>
-                  <actor xml:id="sp.HalbJanko">Halb Janko</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.HalbJanko">Halb Janko</actor>
                   ................................................ 2</castItem>
                <castItem>
-                  <actor xml:id="sp.HermanMarko">Herman Marko</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.HermanMarko">Herman Marko</actor>
                   ............................................. 26</castItem>
                <castItem>
-                  <actor xml:id="sp.HribarSpomenka">Hribar mag. Spomenka</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.HribarSpomenka">Hribar mag. Spomenka</actor>
                   ..................................... 49</castItem>
                <castItem>
-                  <actor xml:id="sp.JakičRoman">Jakič Roman</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.JakičRoman">Jakič Roman</actor>
                   .............................................. 13</castItem>
                <castItem>
-                  <actor xml:id="sp.JanšaJanez">Janša Janez</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.JanšaJanez">Janša Janez</actor>
                   .................................. 10, 12, 41, 51</castItem>
                <castItem>
-                  <actor xml:id="sp.JuriFranco">Juri Franco</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.JuriFranco">Juri Franco</actor>
                   .......................................... 18, 44</castItem>
                <castItem>
-                  <actor xml:id="sp.KocijančičJanez">Kocijančič mag. Janez</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.KocijančičJanez">Kocijančič mag. Janez</actor>
                   .................................... 19</castItem>
                <castItem>
-                  <actor xml:id="sp.KrajecMirko">Krajec Mirko</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.KrajecMirko">Krajec Mirko</actor>
                   ............................................. 13</castItem>
                <castItem>
-                  <actor xml:id="sp.KučanMilan">Kučan Milan</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.KučanMilan">Kučan Milan</actor>
                   .............................................. 32</castItem>
                <castItem>
-                  <actor xml:id="sp.Lavtižar-BeblerDarja">Lavtižar-Bebler Darja</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.Lavtižar-BeblerDarja">Lavtižar-Bebler Darja</actor>
                   .................................... 25</castItem>
                <castItem>
-                  <actor xml:id="sp.LovšinFranc">Lovšin Franc</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.LovšinFranc">Lovšin Franc</actor>
                   ............................................. 14</castItem>
                <castItem>
-                  <actor xml:id="sp.LukačJanez">Lukač Janez</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.LukačJanez">Lukač Janez</actor>
                   .............................................. 21</castItem>
                <castItem>
-                  <actor xml:id="sp.OvenEdvard">Oven Edvard</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.OvenEdvard">Oven Edvard</actor>
                   ........................................... 8, 25</castItem>
                <castItem>
-                  <actor xml:id="sp.PartljičTone">Partljič Tone</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PartljičTone">Partljič Tone</actor>
                   .................................... 10, 17, 20</castItem>
                <castItem>
-                  <actor xml:id="sp.PeršakAnton">Peršak Anton</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PeršakAnton">Peršak Anton</actor>
                   .................................. 7, 13, 44, 46</castItem>
                <castItem>
-                  <actor xml:id="sp.PeterleAlojz">Peterle Alojz</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PeterleAlojz">Peterle Alojz</actor>
                   ........................................ 20, 25</castItem>
                <castItem>
-                  <actor xml:id="sp.PintarEmilMilan">Pintar Emil Milan</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PintarEmilMilan">Pintar Emil Milan</actor>
                   ........................................ 48</castItem>
                <castItem>
-                  <actor xml:id="sp.PirnatRajko">Pirnat dr. Rajko</actor> ................ 6, 8, 9,
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PirnatRajko">Pirnat dr. Rajko</actor> ................ 6, 8, 9,
                   16, 24, 41, 43, 49</castItem>
                <castItem>
-                  <actor xml:id="sp.PodobnikMarjan">Podobnik Marjan</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PodobnikMarjan">Podobnik Marjan</actor>
                   .......................................... 42</castItem>
                <castItem>
-                  <actor xml:id="sp.PotrčMiran">Potrč Miran</actor> ...............................
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PotrčMiran">Potrč Miran</actor> ...............................
                   3, 41, 44, 50, 51</castItem>
                <castItem>
-                  <actor xml:id="sp.PožarnikHubert">Požarnik dr. Hubert</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PožarnikHubert">Požarnik dr. Hubert</actor>
                   ....................................... 9</castItem>
                <castItem>
-                  <actor xml:id="sp.PuklVitodrag">Pukl Vitodrag</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.PuklVitodrag">Pukl Vitodrag</actor>
                   ............................................ 31</castItem>
                <castItem>
-                  <actor xml:id="sp.RibičičCiril">Ribičič dr. Ciril</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.RibičičCiril">Ribičič dr. Ciril</actor>
                   ............................ 14, 18, 23, 24</castItem>
                <castItem>
-                  <actor xml:id="sp.SemoličDušan">Semolič Dušan</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.SemoličDušan">Semolič Dušan</actor>
                   .................................. 7, 9, 23, 41</castItem>
                <castItem>
-                  <actor xml:id="sp.SmoleJože">Smole Jože</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.SmoleJože">Smole Jože</actor>
                   ........................................ 4, 15, 45</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠetincMile">Šetinc Mile</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.ŠetincMile">Šetinc Mile</actor>
                   .......................................... 11, 15</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠkolčJožef">Školč Jožef</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.ŠkolčJožef">Školč Jožef</actor>
                   .......................................... 47, 51</castItem>
                <castItem>
-                  <actor xml:id="sp.ThalerZoran">Thaler Zoran</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.ThalerZoran">Thaler Zoran</actor>
                   ............................................. 40</castItem>
                <castItem>
-                  <actor xml:id="sp.TomšeIvan">Tomše Ivan</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.TomšeIvan">Tomše Ivan</actor>
                   ........................................... 24, 52</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.TomažičAnton">Tomažič Anton</actor>
                   ............................................ 24</castItem>
                <castItem>
-                  <actor xml:id="sp.TomšičFrance">Tomšič France</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.TomšičFrance">Tomšič France</actor>
                   ............................................ 46</castItem>
                <castItem>
-                  <actor sameAs="#sp.ToplakLudvik">Toplak dr. Ludvik</actor>
+                  <actor sameAs="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">Toplak dr. Ludvik</actor>
                   ......................................... 5</castItem>
                <castItem>
-                  <actor xml:id="sp.ZakonjšekJože">Zakonjšek Jože</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.ZakonjšekJože">Zakonjšek Jože</actor>
                   ........................................... 13</castItem>
                <castItem>
-                  <actor xml:id="sp.ZlobecJašaL">Zlobec Jaša L.</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.ZlobecJašaL">Zlobec Jaša L.</actor>
                   ........................................... 10</castItem>
                <castItem>
-                  <actor xml:id="sp.ZupančičJože">Zupančič Jože</actor>
+                  <actor xml:id="DZ-1990-VsiZbor-1.sp.ZupančičJože">Zupančič Jože</actor>
                   ......................................... 5, 11</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1990-VsiZbor-1.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="1">
+            <div xml:id="DZ-1990-VsiZbor-1.div.1.1" ana="#PAR.Seja" n="1">
                <head>1. seja</head>
                <docDate>(<date when="1990-05-09">9. maj 1990</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1990-05-09T16:00:00"/>
-                  <when synch="#stage.t.2" since="#TL.1" absolute="1990-05-09T18:30:00"
-                     interval="9000"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1990-05-09T19:20:00"/>
-                  <when synch="#stage.t.4" since="#TL.2" absolute="1990-05-09T19:30:00"
-                     interval="600"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1990-05-09T20:20:00"/>
-                  <when synch="#stage.t.6" since="#TL.3" absolute="1990-05-09T20:50:00"
-                     interval="1800"/>
-                  <when synch="#stage.t.7" xml:id="TL.4" absolute="1990-05-09T23:15:00"/>
-                  <when synch="#stage.t.8" since="#TL.4" absolute="1990-05-10T01:35:00"
-                     interval="8400"/>
+               <timeline origin="#DZ-1990-VsiZbor-1.TL.1" unit="s">
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.1"
+                        xml:id="DZ-1990-VsiZbor-1.TL.1"
+                        absolute="1990-05-09T16:00:00"/>
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.2"
+                        since="#DZ-1990-VsiZbor-1.TL.1"
+                        absolute="1990-05-09T18:30:00"
+                        interval="9000"/>
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.3"
+                        xml:id="DZ-1990-VsiZbor-1.TL.2"
+                        absolute="1990-05-09T19:20:00"/>
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.4"
+                        since="#DZ-1990-VsiZbor-1.TL.2"
+                        absolute="1990-05-09T19:30:00"
+                        interval="600"/>
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.5"
+                        xml:id="DZ-1990-VsiZbor-1.TL.3"
+                        absolute="1990-05-09T20:20:00"/>
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.6"
+                        since="#DZ-1990-VsiZbor-1.TL.3"
+                        absolute="1990-05-09T20:50:00"
+                        interval="1800"/>
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.7"
+                        xml:id="DZ-1990-VsiZbor-1.TL.4"
+                        absolute="1990-05-09T23:15:00"/>
+                  <when synch="#DZ-1990-VsiZbor-1.stage.t.8"
+                        since="#DZ-1990-VsiZbor-1.TL.4"
+                        absolute="1990-05-10T01:35:00"
+                        interval="8400"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <role>predsedujoči</role>
-                     <actor xml:id="sp.FrankoKarel">Karel Franko</actor> in <actor
-                        xml:id="sp.ToplakLudvik">dr. Ludvik Toplak</actor>
+                     <actor xml:id="DZ-1990-VsiZbor-1.sp.FrankoKarel">Karel Franko</actor> in <actor xml:id="DZ-1990-VsiZbor-1.sp.ToplakLudvik">dr. Ludvik Toplak</actor>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1990-05-09T16:00:00" xml:id="stage.t.1"
-                     >pričela ob 16.00 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.TDR" corresp="#toc.1.1">
-                     <sp who="#sp.FrankoKarel">
+               <stage type="time">Seja se je <time from="1990-05-09T16:00:00" xml:id="DZ-1990-VsiZbor-1.stage.t.1">pričela ob 16.00 uri</time>.</stage>
+               <div xml:id="DZ-1990-VsiZbor-1.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.1.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-VsiZbor-1.toc.1.1">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.FrankoKarel">
                         <speaker>PREDSEDUJOČI KAREL FRANKO:</speaker>
                         <p>Pričenjam skupno sejo na svobodnih večstrankarskih volitvah izvoljenih
                            poslancev vseh zborov Skupščine Republike Slovenije. Vas izvoljene
@@ -529,8 +540,10 @@
                            proti domovom.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.Procedural" corresp="#toc.1.2">
-                     <sp who="#sp.FrankoKarel">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.1.2"
+                       ana="#PAR.Procedural"
+                       corresp="#DZ-1990-VsiZbor-1.toc.1.2">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.FrankoKarel">
                         <p>Pričakujem, da bo današnja skupna seja tudi dolga in polemična. Ker se ne
                            čutim sposobnega voditi jo, vi izvolite predsednika in da ne bi bil
                            postavljen v mučen položaj posebno jaz, osebno, kakor tudi gledalci in
@@ -540,7 +553,7 @@
                            predlagati dr. Ludvika Toplaka. Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                            Prosim!</p>
                      </sp>
-                     <sp who="#sp.HalbJanko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.HalbJanko">
                         <speaker>JANKO HALB:</speaker>
                         <p>Gospod predsedujoči, hvala lepa za besedo. Sem Janko Halb iz Murske
                            Sobote oziroma Prekmurja, poslanec Slovenske kmečke zveze - Demos.</p>
@@ -560,7 +573,7 @@
                            Sobota, 9.5.1990 ob 11.30 uri." Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Spoštovani tovariši predsedujoči, spoštovane delegatke in delegati! Sem
                            Miran Potrč, ZKS - Stranka demokratične prenove. Ne pričakujem aplavza,
@@ -613,7 +626,7 @@
                            se, da bi današnja potekala najbolje in ne začenjajmo je na ta način.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ČrnejJanez">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ČrnejJanez">
                         <speaker>JANEZ ČRNEJ:</speaker>
                         <p>Spoštovani predsednik, spoštovani poslanci in poslanke! Moji volivci so
                            me zaprosili, da zavzemate poslanci stališče do nekorektnega
@@ -621,11 +634,11 @@
                            prenos res ni bil korekten. Zato prosim, da zavzamete tisto stališče, ki
                            ste ga morda tudi vi dobili. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.FrankoKarel">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.FrankoKarel">
                         <speaker>PREDSEDUJOČI KAREL FRANKO:</speaker>
                         <p>K besedi se je javil gospod Jože Smole.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Predsedujoči, najstarejši delegat naše skupščine je presegal vsa
                            pooblastila s kvalifikacijami o bivši skupščini. Vi ste, predsedujoči,
@@ -644,7 +657,7 @@
                            Republike Slovenije. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.DretnikIvan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.DretnikIvan">
                         <speaker>IVAN DRETNIK (Predsedujoči Zbora združenega dela):</speaker>
                         <p>Ker sem s tem tudi jaz obtožen, po vesteh naših sredstev javnega
                            obveščanja, vam v zagovor povem samo to. Naša slovenska javnost bo še
@@ -654,7 +667,7 @@
                            pripravljeni. Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.FrankoKarel">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.FrankoKarel">
                         <speaker>PREDSEDUJOČI KAREL FRANKO:</speaker>
                         <p>Prosim, naj bo to zadnji razpravljalec o tej temi, zato jo prekinjam.
                            Svoje uvodne pripombe sem povedal z namenom, da bi ponovno začeli
@@ -663,7 +676,7 @@
                            preidimo na dnevni red, saj ne bi rad, da se zavleče seja in da bi spet
                            ponoči hodili domov. Prosim, povejte kar mislite.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Verjetno vam je znano, da smo predvčerajšnjim ustanovili tudi Klub
                            neodvisnih poslancev in zato vas prosim naslednje.</p>
@@ -673,7 +686,7 @@
                            Gradimo most med bregovoma iste reke." In trdno sem prepričan, da noben
                            poslanec v Zboru združenega dela do gospoda Dretnika ni bil žaljiv.</p>
                      </sp>
-                     <sp who="#sp.FrankoKarel">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.FrankoKarel">
                         <speaker>PREDSEDUJOČI KAREL FRANKO:</speaker>
                         <p>Ponavljam predlog, ki sem ga dal, naj dr. Toplak namesto mene vodi
                            nadaljevanje seje. Predvidevam, da bodo speti zapleti in ne bi rad
@@ -689,7 +702,7 @@
                            prisotnost. <stage type="quorum">(155 prisotnih.)</stage> Zaradi varnosti ponovimo
                            preverjanje prisotnosti.</p>
                      </sp>
-                     <sp who="#sp.DaneuIvo">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.DaneuIvo">
                         <speaker>IVO DANEU:</speaker>
                         <p>Glede na razpravo, ki smo jo imeli v Združenem zboru, bi predlagala kot
                            protikandidata zadnjega govornika, ker je nastopal zelo umirjeno in
@@ -698,13 +711,15 @@
                            in bom moral ob 18.30 oditi. Hvala lepa.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.TDR" corresp="#toc.1.3">
-                     <sp who="#sp.FrankoKarel">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.1.3"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-VsiZbor-1.toc.1.3">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.FrankoKarel">
                         <speaker>PREDSEDUJOČI KAREL FRANKO:</speaker>
                         <p>Prosim, da najprej glasujete o mojem predlogu, mislim, da to pravico
                            imam.</p>
                      </sp>
-                     <sp who="#sp.FrankoKarel">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.FrankoKarel">
                         <p>Kdo je za to, da dr. Toplak vodi sejo naprej?</p>
                         <p>Še enkrat ugotovimo prisotnost. <stage type="quorum">(185 prisotnih.)</stage> Kdo je
                            za? <stage type="vote">(133 delegatov.)</stage> Je kdo proti? <stage type="vote">(68
@@ -713,7 +728,7 @@
                         <p>Ugotavljam, da je predlog sprejet in prosim dr. Toplaka, da prevzame
                            vodstvo seje.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Najprej, da se predstavim. Sem Ludvik Toplak, delegat
                            Slovenske kmečke zveze iz volilne enote št. 11. Na željo predsedujočega
@@ -723,8 +738,10 @@
                            ostali prisotni zapustijo sejo oziroma se umaknejo na galerijo.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.4" ana="#PAR.Prisot" corresp="#toc.1.4">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.1.4"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1990-VsiZbor-1.toc.1.4">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <p>Ugotavljamo prisotnost po zborih. Najprej Družbenopolitični zbor.</p>
                         <p>Prosim samo člane Družbenopolitičnega zbora, pritisnite na sivo tipko.
                               <stage type="quorum">(77 prisotnih)</stage>. Prosim delegate Zbora občin, pritisnite
@@ -734,7 +751,7 @@
                            Ponovno ponavljamo preverjanje prisotnosti za Zbor združenega dela.
                            <stage type="vocal">(Smeh.)</stage> Prosim lepo, prosim.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Rajko Pirnat, Slovenska demokratična zveza - Demos. Glede na to, da zelo
                            dvomim v to predpotopno glasovalno napravo, saj pri enem poslancu
@@ -752,7 +769,7 @@
                            možnost. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Prosim za preverjanje delovanja glasovalnih naprav. Pride 6 delavcev, ki
                            bodo po vrstah preverjali delovanje naprav. <stage type="vocal">(Aplavz.)</stage>
@@ -810,15 +827,17 @@
                            Republike Slovenije sklepčna.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.5" ana="#PAR.TDR" corresp="#toc.1.5">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.1.5"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-VsiZbor-1.toc.1.5">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <p>Predlagam dnevni red, kakor ste ga prejeli k povabilu že za 7. maj.</p>
                         <p>Predlaga se, da se 3. točka umakne z dnevnega reda, to je imenovanje
                            vršilca dolžnosti generalnega sekretarja Skupščine RS in vršilca
                            dolžnosti njegovega namestnika. Tako ostanejo tri točke dnevnega reda.
                            Dnevni red dajem v razpravo. Prosim, poslanec Peršak.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>V zvezi z dnevnim redom predlagam uvrstitev dodatne 5., če pa bo 3. točka
                            ukinjena, bo to 4. točka dnevnega reda skupne seje. V okviru te točke bi
@@ -844,7 +863,7 @@
                            kakšnih podobnih očitkov. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.SemoličDušan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.SemoličDušan">
                         <speaker>DUŠAN SEMOLIČ:</speaker>
                         <p>Zveza socialistov: Spoštovane delegatke, spoštovani delegati, predlagal
                            bi, da bi 1. točko, tako kot je zdaj predlagana, razdelili v dve
@@ -852,7 +871,7 @@
                         <p>Prva točka: izvolitev predsednika, druga točka izvolitev podpredsednikov
                            Skupščine Republike Slovenije. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BekešPeter">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BekešPeter">
                         <speaker>PETER BEKEŠ:</speaker>
                         <p>Spoštovani predsedujoči, spoštovane delegatke in delegati, dovolite, da
                            pred začetkom dnevnega reda opozorim na pomembno zadevo. Danes je 9. maj,
@@ -864,7 +883,7 @@
                            proti fašizmu in nacizmu. Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.OvenEdvard">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.OvenEdvard">
                         <speaker>EDVARD OVEN:</speaker>
                         <p>Glede na to, da ni točke dnevnega reda vprašanja in predlogi poslancev in
                            točke razno, zdi se mi pa pomembno vprašanje, prosim, da mi dovolite
@@ -878,7 +897,7 @@
                            pomembnosti uvrsti na dnevni red. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Prosim lepo, še kakšen predlog za spremembo dnevnega reda ali razprava k
                            dnevnemu redu? Če nimate predlogov dajemo dnevni red na glasovanje.</p>
@@ -887,7 +906,7 @@
                            točka izvolitve podpredsednikov Skupščine Republike Slovenije.</p>
                         <p>Prosim prisotne, povsod, kjer gori lučka, zapišite ime delegata.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Kandidati za predsednika skupščine in za oba podpredsednika se volijo s
                            tajnim glasovanje. Torej z glasovnicami in gotovo bodo glasovnice za
@@ -904,11 +923,11 @@
                            sejo, sam pa ne vidim nikakršnega razloga za takšno podaljševanje.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Prosim lepo.</p>
                      </sp>
-                     <sp who="#sp.GolobičGregor">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.GolobičGregor">
                         <speaker>GREGOR GOLOBIČ:</speaker>
                         <p>Ne bom se vezal na ta predlog, pač pa bi si dovolil intervenirati, tako
                            kot ste si vi, glede petih kontrolorjev. Protestiram proti takšni
@@ -923,7 +942,7 @@
                            Torej naslavljam to vprašanje na predsedujočega, kakšne bi bile
                            posledice, če bi pri nekom kontrolna lučka svetila.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Praktično posledic ni. Gre za preverjanje tehnike. Očitno gre za napako v
                            tehniki. Po 112. členu poslovnika Skupščine Republike Slovenije za dnevni
@@ -934,7 +953,7 @@
                            poslužujemo tehnike. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.SemoličDušan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.SemoličDušan">
                         <speaker>DUŠAN SEMOLIČ:</speaker>
                         <p>Spoštujem argumentacijo gospoda Rajka Pirnata. Svoj  predlog sem
                            oblikoval samo zaradi tega, ker vemo, da je bila v diskusiji pred sejo
@@ -942,7 +961,7 @@
                            od izvolitve predsednika. Zgolj zaradi tega sem predlagal delitev 1.
                            točke dnevnega reda. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PožarnikHubert">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PožarnikHubert">
                         <speaker>DR. HUBERT POŽARNIK:</speaker>
                         <p>Sem Požarnik Hubert, Slovenska demokratična zveza - Demos. K predlogu
                            enominutnega moka ob 9. maju bi jaz dal spreminjevalni predlog. To naj bi
@@ -950,12 +969,12 @@
                            za svojo domovino Slovenijo. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Prosim, Rajko Pirnat ima
                            besedo.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Se moram, žal, ponovno oglasiti, kajti zdaj je kolega povedal vsebinski
                            razlog za predlog, čeprav priznam, da sem slutil, da obstoji ta vsebinski
@@ -968,7 +987,7 @@
                            vseh, se tudi ne moremo o nobeni. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Če ne, bomo formulirali dnevni red.
                            Najprej predlog delegata Peršaka, da se pod 4. točko sprejme resolucija o
@@ -985,7 +1004,7 @@
                         <p>Želi še kdo razpravljati? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ZlobecJašaL">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ZlobecJašaL">
                         <speaker>JAŠA L. ZLOBEC:</speaker>
                         <p>Zbor združenega dela je v ponedeljek sprejel amandma ZSMS - Liberalne
                            stranke o dnevnem redu in ne vidim nobenega razloga, zakaj bi Zbor
@@ -993,7 +1012,7 @@
                            bi mu delegati ostalih dveh zborov napovedovali spremenjen dnevni red.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PartljičTone">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PartljičTone">
                         <speaker>TONE PARTLJIČ:</speaker>
                         <p>Nimam pripombe v zvezi s predgovornikom, ker mislim, da ima Zbor
                            združenega dela to svojo avtonomno pravico. Drugo, kar sem hotel reči,
@@ -1019,14 +1038,14 @@
                            prenos pa nas bo kazal v slabi luči, takrat pa skupaj protestiramo. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Naj takoj pojasnim: dnevni red zborov je avtonomna zadeva zborov. Osebno
                            sem predlagal, tako kot je bilo predlagano, prekinitev zaradi odmora. če
                            pa je dodatno še kaj, kot mi je dodal generalni sekretar, zaradi vmesne
                            seje Zbora združenega dela, pa je to stvar Zbora združenega dela.</p>
                      </sp>
-                     <sp who="#sp.JanšaJanez">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.JanšaJanez">
                         <speaker>JANEZ JANŠA:</speaker>
                         <p>Vsi verjetno mislimo, da gre tukaj za proceduralno vprašanje, vendarle
                            najbrž temu ni tako. Če bi šlo samo za proceduralno vprašanje, o tem ne
@@ -1044,7 +1063,7 @@
                            predsedstvo. V nasprotnem primeru bomo imeli stanje, ko bo imelo
                            predsedstvo v skupščini tudi ingerenco. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Dva razloga imam, da se ponovno oglašam. Prvič, ker je dejansko
                            kompetenca našega zbora, to je Zbora združenega dela, da odločamo o našem
@@ -1057,7 +1076,7 @@
                            <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ŠetincMile">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ŠetincMile">
                         <speaker>MILE ŠETINC:</speaker>
                         <p>Spoštovane poslanke in poslanci, Mile Šetinc, ZSMS - Liberalna stranka.
                            Predlagam, da prekinemo to debato o tem zvitem odmoru posebnem, ki bi
@@ -1092,7 +1111,7 @@
                            aroganco in grožnjami. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.CapuderAndrej">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.CapuderAndrej">
                         <speaker>DR. ANDREJ CAPUDER:</speaker>
                         <p>Spoštovani predsedujoči, spoštovane poslanke in poslanci! K tej debati o
                            "zrcalce, zrcalce na steni povej", samo kratko besedo. Nekaterim se to
@@ -1107,12 +1126,12 @@
                            <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Prosim ponovno vse poslance, dokler se še ne poznamo, da vsak pove svoje
                            ime.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Slovenska obrtniška stranka - Demos. Kot sem že včeraj predlagal,
                            predlagam danes še enkrat, razpravljajmo samo o zadevah, ki se jih tičejo
@@ -1125,7 +1144,7 @@
                            na glasovanje razširitev dnevnega reda oziroma o odmoru. Zato, da ne bomo
                            še enkrat do 5.00 ure zjutraj v tej dvorani. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Ker vidim, da se še štirje delegati javljajo za razpravo o tej
                            točki - govorimo samo o vprašanju dnevnega reda in o odmoru. Bojim pa se,
@@ -1141,7 +1160,7 @@
                            razpravljajmo o odmoru. Predlagal bi, da o tem glasujemo. Če ne, si bom
                            vzel pravico in bom zelo zelo omejil razpravo. Prosim.</p>
                      </sp>
-                     <sp who="#sp.JanšaJanez">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.JanšaJanez">
                         <speaker>JANEZ JANŠA:</speaker>
                         <p>Ne bom odgovarjal na replike, govoril bom samo v zvezi s točko dnevnega
                            reda. Nisem predlagal, da se mi vmešavamo v dnevni red Zbora združenega
@@ -1153,13 +1172,13 @@
                            točke dnevnega reda, razen te. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.JakičRoman">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.JakičRoman">
                         <speaker>ROMAN JAKIČ:</speaker>
                         <p>Prosil bi strokovno pojasnilo. Sam menim, če nas je Mandatno-imunitetna
                            komisija potrdila kot delegate, je s tem Zbor združenega dela
                            konstituiran. Hvala.</p>
                      </sp>
-                     <sp who="#sp.KrajecMirko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.KrajecMirko">
                         <speaker>MIRKO KRAJEC:</speaker>
                         <p>Dragi tovariši, predstavniki Demosa smo v Zboru združenega dela v veliki
                            manjšini. Najprej se nam je očitalo, češ, sedaj pa greste na
@@ -1175,11 +1194,11 @@
                            trgu. Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Prosim.</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
                         <p>Zakonjšek, Liberalna stranka. V zvezi z razpravo glede slovesne izjave bi
                            rad vprašal, morda bi tovariš Herman znal odgovoriti, ali predsedstvo
@@ -1187,14 +1206,14 @@
                            potem je ena situacija. Potem ni problema. Če daje pred zbori, ki morajo
                            biti konstituirani, pa je to druga situacija. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. V 384. členu Ustave Republike Slovenije piše: člani
                            Predsedstva Republike dajo po izvolitvi na skupni seji vseh zborov
                            Skupščini Republike Slovenije slovesno izjavo. Predsedstvo Republike
                            prevzame dolžnost po slovesni izjavi. Prosim, Tone Peršak ima besedo.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Ker so na vrsti že replike in pojasnila, bi še enkrat povedal, kar sem
                            rekel v zvezi s to točko, za svojega prijatelja Jašo Zlobca.</p>
@@ -1214,11 +1233,11 @@
                            dnevnemu redu seje Zbora združenega dela. Se pravi, da je predlog Zbora
                            združenega dela tudi poseg v dnevni red sej ostalih dveh zborov.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p> Hvala lepa. Prosim. Dr. Ribičič.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Menim, da bi lahko veliko argumentov navedel za eno in za drugo stvar.
                            Predlagam, da skušamo iskati pameten izhod, da se ne bi zataknilo na tej
@@ -1251,17 +1270,17 @@
                            bistvu formalen akte, ki omogoči predsedstvu, da začne z delom. Upam, da
                            bomo uspeli.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Mislim, da smo glede tega zaključili razpravo.</p>
                      </sp>
-                     <sp who="#sp.LovšinFranc">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.LovšinFranc">
                         <speaker>FRANC LOVŠIN:</speaker>
                         <p>Predlagal bi dopolnitev dnevnega reda tudi s pismom tov. Gorbačovu in
                            gospodu Bushu potem, ko bi bila in če bi bila sprejeta resolucija o Litvi
                            in Letonski in Estonski.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Sprašujem, ali predlagate, da je to pod isto točko ali kot posebna točka?
                            4. točka, predlog resolucije o Litvi, Estonski in Latviji dodamo besedilo
@@ -1287,13 +1306,13 @@
                         <p>Predlog delegata Bekeša je, da se z dopolnitvijo, da se doda na dnevni
                            red enominutni molk v počastitev spomina žrtve fašizma in nacizma.</p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Predlog dr. Požarnika, da je enominutni molk za vse, ki so padli za
                            domovino, naj se dopolni: "Za vse, ki so padli za domovino v borbi proti
                            nacifašizmu in proti okupatorjem."</p>
                      </sp>
-                     <sp who="#sp.ŠetincMile">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ŠetincMile">
                         <speaker>MILE ŠETINC:</speaker>
                         <p>To se tiče vprašanja narodne sprave in o tem se bomo lahko ure in ure
                            kregali in definirali, kdo in kje je padel ter zakaj bomo eno minuto
@@ -1304,7 +1323,7 @@
                            Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Sprašujem oba delegata, če umikata svoja predloga? Bekeša?
                               <stage type="debate">(Da.)</stage>
@@ -1331,9 +1350,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1990-VsiZbor-1.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1990-VsiZbor-1.toc.2.1">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <p>Prehajamo k <title>1. TOČKI DNEVNEGA REDA - IZVOLITEV PREDSEDNIKA IN
                               PODPREDSEDNIKOV SKUPŠČINE REPUBLIKE SLOVENIJE.</title>
                         </p>
@@ -1348,7 +1370,7 @@
                            pripravila, naj ga takoj vloži pri meni, ima pa tudi pravico da ustno
                            obrazloži predlog.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>V imenu skupine najmanj 20 delegatov nameravam v skladu s 16. členom
                            začasnega poslovnika predlagati hkrati kandidate za predsednika in za oba
@@ -1393,11 +1415,11 @@
                            Ivan Mesiček, Ivan Bizjak, Izidor Rejc, Alojz Jamnik in Janez Žampa.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Imamo še en predlog.</p>
                      </sp>
-                     <sp who="#sp.PartljičTone">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PartljičTone">
                         <speaker>TONE PARTLJIČ:</speaker>
                         <p>V imenu skupine 35 poslancev iz različnih zborov, ki jih bom potem
                            prebral, dajem samo naslednji predlog. V veliko čast nam je, da ima
@@ -1443,7 +1465,7 @@
                         <p>Skratka, Liberalna stranka predlaga Jožeta Školča kot kandidata za
                            predsednika skupščine.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Prosim še za predloge za dva podpredsednika Skupščine Republike
                            Slovenije.</p>
@@ -1459,7 +1481,7 @@
                            so bile vložene kandidature. To je pod 1. dr. France Bučar, pod 2. Jožef
                            Školč.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>V poslanskem klubu naše stranke smo mislili, da bo sprejet predlog, ki ga
                            je pred vami podal v imenu socialistov Dušan Semolič in da bodo te
@@ -1469,12 +1491,12 @@
                            Žaklja. Ne potrebujemo odmora, te podpise bomo zbrali takoj. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Po poslovniku morajo volitve potekati ločeno, zato bi odredil krajši
                            odmor za pripravo glasovnic. Predloge dajem v razpravo.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Spoštovane delegatke, spoštovani delegati! Prejšnjo prvo sejo nove
                            slovenske skupščine smo verjetno vsi zapustili utrujeni in z grenkim
@@ -1517,11 +1539,11 @@
                            odločujoča tudi danes, in za trenutke neodvisna od izrazito strankarskih
                            interesov. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Prosim, Janez Kocijančič.</p>
                      </sp>
-                     <sp who="#sp.KocijančičJanez">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.KocijančičJanez">
                         <speaker>MAG. JANEZ KOCIJANČIČ:</speaker>
                         <p>Spoštovani predsednik, spoštovane delegatke in delegati! V pluralnem
                            slovenskem parlamentu se bomo morali navaditi in mislim, da se bo morala
@@ -1548,11 +1570,11 @@
                            Bučarja, vendar vam zagotavljam, da niti tega, če bo izvoljen, niti tega,
                            če ne bo izvoljen, ne bom štel za dokaz njegove trditve.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Gospod Peterle ima besedo.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovani predsedujoči, spoštovane poslanke in poslanci! Predstavljal
                            sem si, da bom z drugačnimi besedami začel svoj prvi nastop v svobodnem
@@ -1572,7 +1594,7 @@
                            <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Moram povedati nekaj besed. Kandidature so pisno predložene, obrazložitve
                            so podane. Drug od drugega bi se lahko pogovarjali dolgo, kar pa ni namen
@@ -1584,7 +1606,7 @@
                            predlagatelji poklicani, da podajo obrazložitev, v nasprotnem bom moral
                            prekiniti razpravo. Prosim.</p>
                      </sp>
-                     <sp who="#sp.PartljičTone">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PartljičTone">
                         <speaker>TONE PARTLJIČ:</speaker>
                         <p>Gre seveda samo za repliko. Trdno sem prepričan, da je bila velika
                            nesreča v predvolilnih kampanjah, ker je sploh bila v zraku nekakšna
@@ -1606,7 +1628,7 @@
                            svojega kandidata Jožeta Školča, vas pa iskreno in od srca zares
                            spoštujem. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>V tej zvezi bi si vzel samo pravico, da povem še eno anekdoto. Ko so
                            Cankarja vprašali, zakaj je v privatni družbi uporabil tako gorko besedo,
@@ -1615,7 +1637,7 @@
                         <p>Menim, da ni čas za razpravo, čas je bil za pisne predloge s pisnimi in
                            ustnimi obrazložitvami. Besedo ima Janez Lukač.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>V zadnjih dneh je bilo izrečenih precej neprimernih in tudi nedostojnih
                            trditev ter sumničenj, katerih namen je razvrednotiti osebnost dr.
@@ -1687,7 +1709,7 @@
                            državo in njen pravni red. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Še so predvidene in želene razprave, vendar bi si vzel pravico, da
                            razpravo zaključimo za nekaj časa. Želim, da potrdimo kandidate za
@@ -1707,7 +1729,7 @@
                            na drugi glasovnici pa ločeno, po vrstnem redu, kakor so prispeli:
                            Vitodrag Pukl in Viktor Žakelj.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Mi se nismo natančno pogovarjali, kako razporediti možne kandidate.
                            Vsekakor pa nismo mislili, da bi dva naša kandidata postavili proti dvema
@@ -1717,7 +1739,7 @@
                            drugače. Kar mene zadeva, mi je vseeno, prva dva za eno mesto, druga dva
                            za drugo mesto. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.SemoličDušan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.SemoličDušan">
                         <speaker>DUŠAN SEMOLIČ:</speaker>
                         <p>Spoštovani predsedujoči, zagotavljam, da ne bom prilil olja na  ogenj, bi
                            pa to vendarle rekel. V moji stranki je standard demokracije takšen, da
@@ -1739,7 +1761,7 @@
                            političnem slovenskem prostoru tovariš Jožef Školč nalogo predsednika
                            slovenskega parlamenta več kot uspešno opravljal. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. S tem smo zaključili razpravo o kandidatih za predsednika in
                            podpredsednike. Vprašanje se je nanašalo samo na glasovnice. Volimo dva
@@ -1756,7 +1778,7 @@
                            za drugo podpredsedniško mesto za drugo glasovnico. Prosim, Ciril
                            Ribičič.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Skupna seja naj pač odloči, kakor hoče. Edina zadeva, ki sem jo
                            izključil, je bil namen, da bi naša stranka postavljala svoja kandidata
@@ -1769,11 +1791,11 @@
                         <p>Meni je vseeno, prosil pa bi, da ne bi naredili, to kar ni bilo naš
                            namen, da bi razporejal naše kandidate nasproti Demosovim kandidatom.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Vprašanje je, kaj so predlagatelji mislili. Besedo ima Rajko Pirnat.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Mislim, da način glasovanja ne izvira iz namena, kako se postavljajo
                            kakšni kandidati. Način glasovanja je zadeva tehnike in zlasti
@@ -1784,21 +1806,21 @@
                            kandidatih, ki sem jih predlagal v imenu 20 poslancev, napiše, da je
                            predlagatelj Demos. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala, besedo ima Ivan Tomše.</p>
                      </sp>
-                     <sp who="#sp.TomšeIvan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.TomšeIvan">
                         <speaker>IVAN TOMŠE:</speaker>
                         <p>Rad bi opozoril, da naj ne padajo drevesa brez potrebe, zato uporabimo
                            samo en kos papirja, nanj napišimo  vse štiri kandidate in ker smo zreli
                            parlamentarci, bomo znali določiti, koga bomo volili. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Še nekdo se je javil za besedo - Tone Tomažič.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Torej kot eden od predlagateljev naj povem, da pri tem, da smo predlagali
                            dva kandidata zato, ker sta dve mesti, torej sta kandidat A in kandidat B
@@ -1806,7 +1828,7 @@
                            B. Zato predlagam: da glasujemo s temi glasovnicami, mi imamo za vsako
                            funkcijo po enega kandidata. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>To moramo drugače postaviti, v nasprotnem primeru moramo vrniti zadevo in
                            pozvati prisotne delegate, da dajo ločene predloge z eksplicitnimi
@@ -1814,7 +1836,7 @@
                            pozovemo ponovno predlagatelje, da v tem smislu dopolnijo svoje
                            predloge.</p>
                      </sp>
-                     <sp who="#sp.AksentijevićMilan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.AksentijevićMilan">
                         <speaker>MILAN AKSENTIJEVIĆ:</speaker>
                         <p>Gospod predsednik, spoštovani delegati in delegatke! Sem Milan
                            Aksentijević, delegat oboroženih sil. Eno vprašanje bi rad postavil. Ali
@@ -1825,7 +1847,7 @@
                            mnenju logična in  predlagam, da te štiri kandidate postavimo na listo po
                            vrstnem redu, kakor smo jih predlagali. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.OvenEdvard">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.OvenEdvard">
                         <speaker>EDVARD OVEN:</speaker>
                         <p>Ne vem, v čem je zaplet, saj v 15. členu začasnega poslovnika piše, da
                            volimo predsednika in enega ali več podpredsednikov. Torej, se tu govori
@@ -1835,7 +1857,7 @@
                            štiri številke, obkrožimo številko od 1 do 4. Tako si predstavljam
                            postopek. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Konkreten predlog, da se zapiše na eno glasovnico štiri kandidate, dajem
                            na glasovanje.</p>
@@ -1857,19 +1879,19 @@
                         <p>Ugotavljam, da je z veliko večino predlog sprejet. Odrejam strokovnim
                            službam, da pripravijo glasovnice. Besedo ima Lojze Peterle.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Prej je bilo predlagano s strani Demosa, da se poreklo kandidatov
                            pripiše. Ali je to avtomatično jasno, glede na poslovnik, ali je treba o
                            tem še glasovati?</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Predlog je, da se pripiše stranka. Ocenjuje se, da je za tiskanje
                            glasovnic potrebno 20 minut. Medtem pa generalnega sekretarja prosim še
                            za tehnična navodila. Prosim, želi še kdo razpravljati?</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeterleAlojz">
                         <p>DARJA LAVTIŽAR-BEBLER:</p>
                         <p>Samo eno opažanje bi rada povedala pred odmorom. Imela sem občutek, da
                            dajemo na glasovanje zadeve, o katerih smo se že odločili s tem, ko smo
@@ -1880,12 +1902,12 @@
                            sprejeli, in mislim, da o takih stvareh ni treba in ni umestno glasovati.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Pri vsakem kandidatu za funkcije v skupščino ali zbor se navede politična
                            organizacija, katere član je kandidat.</p>
                      </sp>
-                     <sp who="#sp.HermanMarko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.HermanMarko">
                         <speaker>MARKO HERMAN:</speaker>
                         <p>Če želite o tem pojasnilo, menim, da ta pripomba ni bila tako odveč. 9.
                            člen našteva dva pogoja: soglasje stranke in soglasje kandidata. Menim,
@@ -1893,15 +1915,13 @@
                            kandidati pa tudi niso nasprotovali.</p>
                         <p>Ne, za to ni treba glasovanje in nismo glasovali.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Odrejam odmor za dvajset minut.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1990-05-09T18:30:00"
-                           xml:id="stage.t.2">prekinjena ob 18.30 uri</time> in se je <time
-                           from="1990-05-09T19:20:00" xml:id="stage.t.3">nadaljevala ob 19.20
+                     <stage type="time">(Seja je bila <time to="1990-05-09T18:30:00" xml:id="DZ-1990-VsiZbor-1.stage.t.2">prekinjena ob 18.30 uri</time> in se je <time from="1990-05-09T19:20:00" xml:id="DZ-1990-VsiZbor-1.stage.t.3">nadaljevala ob 19.20
                            uri</time>.)</stage>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Nadaljujemo s 1. točko dnevnega reda, izvolitev predsednika in
                            podpredsednikov Skupščine Republike Slovenije.</p>
@@ -1915,11 +1935,9 @@
                            minut, mogoče do 15 minut. Ves odmor pa bi trajal 20 do 30 minut, da
                            volilna komisija ugotovi izide in da objavimo rezultate. Hvala lepa.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1990-05-09T19:30:00"
-                           xml:id="stage.t.4">prekinjena ob 19.30 uri</time> in se je <time
-                           from="1990-05-09T20:20:00" xml:id="stage.t.5">nadaljevala ob 20.20
+                     <stage type="time">(Seja je bila <time to="1990-05-09T19:30:00" xml:id="DZ-1990-VsiZbor-1.stage.t.4">prekinjena ob 19.30 uri</time> in se je <time from="1990-05-09T20:20:00" xml:id="DZ-1990-VsiZbor-1.stage.t.5">nadaljevala ob 20.20
                            uri</time>.)</stage>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Nadaljujemo z delom po dnevnem redu. Volilna komisija je končala svoje
                            delo in naredila zapisnik o izidu glasovanja za predsednika Skupščine
@@ -1961,7 +1979,7 @@
                            ODGOVORNO OPRAVLJAL SVOJO DOLŽNOST.</p>
                         <p>Pravkar izvoljenega predsednika prosim, da zavzame svoje mesto.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>DR. FRANCE BUČAR:</speaker>
                         <p>Bolj kot občutek dolžne zahvale za izkazano zaupanje, da ste me izbrali
                            za predsednika tega visokega zbora, me predvsem naravnost pretresa zavest
@@ -2165,7 +2183,7 @@
                            <stage type="vocal">(Delegati zapojejo himno.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.GošnikVano">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.GošnikVano">
                         <speaker>VANO GOŠNIK:</speaker>
                         <p>Rad bi se zelo lepo zahvalil, tistim, ki ste podprli mojo kandidaturo in
                            glasovali zame, tistim pa, ki ste glasovali proti, sporočam in
@@ -2177,7 +2195,7 @@
                            Slovenije. Hvala lepa. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PuklVitodrag">
                         <speaker>VITODRAG PUKL:</speaker>
                         <p>Spoštovane gospe poslanke in gospodje poslanci! Kolikor bo v moji moči,
                            bom poskušal, da bo ta parlament ravnal tako, da se bo vsaj približal
@@ -2188,13 +2206,14 @@
                            <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1990-05-09T20:50:00"
-                           xml:id="stage.t.6">prekinjena ob 20.50 uri</time> in se je <time
-                           from="1990-05-09T23:15:00" xml:id="stage.t.7">nadaljevala ob 23.15
+                     <stage type="time">(Seja je bila <time to="1990-05-09T20:50:00" xml:id="DZ-1990-VsiZbor-1.stage.t.6">prekinjena ob 20.50 uri</time> in se je <time from="1990-05-09T23:15:00" xml:id="DZ-1990-VsiZbor-1.stage.t.7">nadaljevala ob 23.15
                            uri</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.BučarFrance">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1990-VsiZbor-1.toc.2.2">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA - SLOVESNO IZJAVO
                            PREDSEDNIKA IN ČLANOV PREDSEDSTVA REPUBLIKE SLOVENIJE</title>.</p>
@@ -2234,7 +2253,7 @@
                         <p>Ali želi predsednik besedo? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.KučanMilan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.KučanMilan">
                         <speaker>MILAN KUČAN:</speaker>
                         <p>Velika čast, priznanje in odgovornost je govoriti pred poslanci, ki so
                            izvoljeni v Skupščino Republike Slovenije na prvih svobodnih,
@@ -2566,14 +2585,16 @@
                            prenovljeni slovenski domovini. Hvala. <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa predsedniku Predsedstva Republike Slovenije. S tem je 2. točka
                            našega dnevnega reda izčrpana.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" corresp="#toc.2.3">
-                     <sp who="#sp.BučarFrance">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1990-VsiZbor-1.toc.2.3">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <p>Preden preidemo na naslednjo točko dnevnega reda, se mi zdi potrebno, da
                            opravimo nekaj <title>IZ BIVŠE 3. TOČKE</title>.</p>
                         <p>Namesto imenovanja vršilca dolžnosti generalnega sekretarja skupščine in
@@ -2604,8 +2625,11 @@
                         <p>Ugotavljam, da je ta sklep soglasno sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.TDR" n="3" corresp="#toc.2.4">
-                     <sp who="#sp.BučarFrance">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.2.4"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1990-VsiZbor-1.toc.2.4">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <p>S tem prihajamo na <title>3. TOČKO DNEVNEGA REDA</title>, na
                               <title>IZVOLITEV KOMISIJE SKUPŠČINE REPUBLIKE SLOVENIJE ZA VOLITVE,
                               IMENOVANJA IN ADMINISTRATIVNE ZADEVE</title>.</p>
@@ -2624,7 +2648,7 @@
                            sprašujem delegate madžarske in italijanske narodne skupnosti, ali imajo
                            pripravljen predlog kandidature za dva člana te komisije.</p>
                      </sp>
-                     <sp who="#sp.ThalerZoran">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ThalerZoran">
                         <speaker>ZORAN THALER:</speaker>
                         <p>Gospod predsednik, spoštovane delegatke in delegati! Eden redkih
                            dogovorov, ki je v nedeljo na večer bil dosežen, po mojem spominu, je
@@ -2637,7 +2661,7 @@
                            predstavnikov Demosa, 7 iz treh strank, in dva predstavnika narodnosti.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Pred menoj je predlog delegatov za komisijo. Iz
                            Družbenopolitičnega zbora so: Janez Lampret kot predsednik, člani so: dr.
@@ -2650,7 +2674,7 @@
                            treba specificirati še imena skupine najmanj desetih predlagateljev
                            zaradi formalnosti.</p>
                      </sp>
-                     <sp who="#sp.SemoličDušan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.SemoličDušan">
                         <speaker>DUŠAN SEMOLIČ:</speaker>
                         <p>Skušam pomagati; namreč tov. Maria Pozsonec je edina predstavnica
                            madžarske narodnosti, zato sebe ne</p>
@@ -2658,7 +2682,7 @@
                            njo, da je predstavnica madžarske narodnosti tovarišica Maria
                            Pozsonec.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Torej imamo predlog kandidatov za  predsednika,
                            podpredsednika in člane komisije za volitve, imenovanja in
@@ -2668,7 +2692,7 @@
                            tudi tajne. Zato sprašujem delegate, ali predlaga kdo tajno glasovanje.
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.JanšaJanez">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.JanšaJanez">
                         <speaker>JANEZ JANŠA:</speaker>
                         <p>Gospod predsednik, spoštovani kolegi in poslanci! Predlagam, da kljub
                            temu da najbrž sestava te komisije ni sporna, da te volitve izpeljemo v
@@ -2687,25 +2711,25 @@
                            potrdimo in da potem ta skupina predlaga predloženi seznam imen za
                            Komisijo za volitve in imenovanja.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Torej dajem ta predlog najprej na glasovanje. Še prej želi
                            razpravljati gospod Potrč.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Podpiram predlog gospoda Janše, da pa bi delali res v skladu s
                            poslovnikom, predlagam, da se v odmoru sestanejo delegati in v skupnem
                            imenu predlagajo predstavnika italijanske in madžarske narodnosti v
                            komisijo za volitve in imenovanja. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Želi še kdo razpravljati o tej zadevi? Če ne, potem dovolite, da odredim
                            minuto ali dve odmora, da se ta skupina sestane. Prosim skupino
                            delegatov, da da svoj predlog.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Opravičujemo se za malo daljše čakanje, kot je bilo sprva predvideno.
                            Majhna težava je nastala zato, ker je bilo skupini prenešeno mnenje Kluba
@@ -2742,7 +2766,7 @@
                            Slovenije - SZDL) in Maria Pozsonec (predstavnica narodnosti in Kluba
                            neodvisnih delegatov). Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Sprašujem, ali glasujemo pri volitvah te komisije -
                            predsednika, podpredsednika in člane, javno ali tajno.</p>
@@ -2752,7 +2776,7 @@
                         <p>Družbenopolitični zbor prosim, da pritisnete na sivo tipko. Ne
                            funkcionira.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK (Kmečka zveza):</speaker>
                         <p>Opravičujem se zdaj, da zavlačujem odločanje, vendar je prišlo do
                            nesporazuma. V Kmečki zvezi smo se dogovorili, da bo naš predstavnik
@@ -2761,12 +2785,12 @@
                            še, ali bo to potrebno storiti na prihodnji seji.                        
                                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Predlagate da se v kandidatno listo na mesto Mihaele Logar vnese delegat
                            dr. Franc Zagožen.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Prosim člane skupine, če se z  dodatnim predlogom strinjajo, da dvignejo
                            roke. Sam bi tako predlagal, da ne bi še enkrat hodili iz dvorane.
@@ -2775,7 +2799,7 @@
                            Ta skupina tako ni delovala pri glasovanju in sem hotel samo pridobiti
                            mnenje komisije, najbrž ni noben proti. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Potem ugotavljam, da je predlog skupine spremenjen, tako da se namesto
                            Mihaele Logar predlaga v to komisijo Zagožen. Torej bodo morali vendarle
@@ -2818,8 +2842,11 @@
                            dela); ter Maria Pozsonec iz Družbenopolitičnega zbora.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.5" ana="#PAR.TDR" n="4" corresp="#toc.2.5">
-                     <sp who="#sp.BučarFrance">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.2.5"
+                       ana="#PAR.TDR"
+                       n="4"
+                       corresp="#DZ-1990-VsiZbor-1.toc.2.5">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <p>Torej, ugotavljam, da je komisija v predlaganem sestavu izvoljena. S tem
                            je ta točka dnevnega reda izčrpana, lahko preidemo na naslednjo točko
                            dnevnega reda. To je razprava in <title>SPREJETJE RESOLUCIJE O LITVI,
@@ -2827,7 +2854,7 @@
                         <p>Prosim poročevalca, da obrazloži predlog. Samo besedilo ste dobili na
                            klop.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Oba osnutka ste dobili na mizo. Dodal bi še samo to, da sta besedili
                            nastali že pred dnevi in da so se med tem okoliščine že spremenile. Med
@@ -2854,12 +2881,12 @@
                            Moskvo. Za besedilo brzojavke pa predlagam, da ostane tako, kot smo ga
                            dobili na klop. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Pričenjam razpravo. Želi kdo razpravljati o tej stvari?
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.JuriFranco">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.JuriFranco">
                         <speaker>FRANCO JURI:</speaker>
                         <p>Načelno se v glavnem strinjam z vsebino predlagane brzojavke, vendar z
                            edino rezervo glede odstavka, kjer se skuša položaj baltskih republik
@@ -2873,11 +2900,11 @@
                            dejansko okupirane države in nekakšna mehanska analogija s Slovenijo je
                            malo špekulativna. Mislim, da ne sodi k tej brzojavki. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Potem je vaš predlog amandma? Hvala lepa. Želi še kdo razpravljati?</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Gospod predsednik! Sam sem glasoval za razširitev dnevnega reda, ker
                            menim, daje odločitev, da sprejmemo resolucijo o Litvi, Estoniji in
@@ -2909,13 +2936,13 @@
                            je dal Franco Juri, še dve tri opozorila na besedilo in konkretne
                            predloge tudi sam. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Glede na to intervencijo moram najprej odpreti generalno razpravo o samem
                            predlogu. Želi kdo razpravljati? <stage type="debate">(Da.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.SmoleJože">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.SmoleJože">
                         <speaker>JOŽE SMOLE:</speaker>
                         <p>Predlagam, da sprejmemo resolucijo, o kateri generalno podpiramo težnje
                            baltskih republik za neodvisnost, da se pa izogibamo vsem mogočim drugim
@@ -2935,7 +2962,7 @@
                            jasna in čista. Skupščina Slovenije podpira zahteve o neodvisnosti
                            baltskih republik.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Ali je vaš predlog jemati kot odklonitev ali kot amandma? Če
                            je to amandma bi morali precizno formulirati predlog.
@@ -2943,7 +2970,7 @@
                            na to, da predložimo popolnoma novo resolucijo in pomeni odklonitev
                            predlagane. Hvala lepa. Želi še kdo razpravljati o stvari?</p>
                      </sp>
-                     <sp who="#sp.TomšičFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Spoštovani kolega, vsi vemo, da Slovenija ni suverena dežela, kot v
                            predlogu resolucije piše, da bi nekaj priznavali, ampak gre dejansko za
@@ -2960,17 +2987,17 @@
                            podpira samo Demos ampak tudi večina liberalcev in prenoviteljev. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>To ni drugi odstavek, to je prva alinea, jasno morate pricizirati.</p>
                      </sp>
-                     <sp who="#sp.TomšičFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Točno, predlagam torej, da se prva alinea črta: "glede na naše
                            razumevanje itn.", ostalo pa ostane. Morda je možna še kakšna manjša
                            sprememba, vendar v tem smislu. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Rad bi repliciral tov. Juriju. Ta stavek, ki pravi: "...in ker smo
                            neomajno odločeni, da tudi sami storimo  vse za celovito uresničitev iste
@@ -2995,7 +3022,7 @@
                            statusom, ki ga imamo, nismo zadovoljni in da ga želimo spremeniti.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ŠkolčJožef">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Spoštovani poslanci, poslanke! Nekaj misli bi povedal, ki se ne nanašajo
                            direktno na besedilo, v nekem smislu pa zastopstvo. Najprej bi rad rekel,
@@ -3053,7 +3080,7 @@
                            kakšnega epiteta svobodna oblast. In naslednjič pa seveda vse tisto, kar
                            ima lahko tudi mednarodno pravne učinke. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! Tudi sam bi rad izrazil
                            določene pomisleke ob tej resolucijo. Uvodoma bi rad povedal
@@ -3101,7 +3128,7 @@
                         <p>Mislim pa, da se obnašamo na nek način nekorektno do sebe, ne do Litve.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PirnatRajko">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Gospod predsednik, hvala. Samo na prvi pogled zgleda, kot da je
                            resolucijo o Litvi dajati na prvo zasedanje te skupščine nekoliko
@@ -3137,7 +3164,7 @@
                            še en dokument, ki ga lahko odložimo na naslednjo sejo. Ta resolucija je
                            bistvo za usmeritev nadaljnjega dela te skupščine. Hvala.</p>
                      </sp>
-                     <sp who="#sp.HribarSpomenka">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.HribarSpomenka">
                         <speaker>MAG. SPOMENKA HRIBAR:</speaker>
                         <p>Menim, da je že samo sprejetje resolucije, v kateri priznavamo tri
                            baltiške države, njihovo samostojnost in njihove odločitve, državniško
@@ -3156,7 +3183,7 @@
                            sprejmemo resolucijo in bi predlagala, da bi po današnji seji tudi
                            sprejeli. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Torej, glede na razprave, moram
                            ugotoviti, da je najprej potrebno čisto načelno glasovanje o tem, ali smo
@@ -3171,7 +3198,7 @@
                         <p>Ugotavljam, da smo soglasno odločili, da resolucijo sprejmemo.</p>
                         <p>Prosim, besedo ima Miran Potrč.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Gospod predsednik, brez zamere delegat Školč in jaz sva predlagala, da bi
                            bila oblikovana skupina, ki bi resolucijo pripravila. Sam sem predlagal,
@@ -3185,13 +3212,13 @@
                            amandmaje, ki sem jih že najavil, čeprav bi bilo to mogoče opraviti v
                            skupini. Ali želite, da jih sedaj povem?</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Najprej se moramo odločiti, če izvolimo posebno skupino, ki naj pripravi
                            besedilo. Prosil bi predloge za skupino, ker brez predloga ne moremo
                            glasovati.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Je mogoče glasovati brez predloga, ker to načelno opredelitev. Najbrž je
                            preveč, če sedaj zahtevam od vsakih predstavnikov strank, da se odločajo
@@ -3199,7 +3226,7 @@
                            vprašanje, če bo opredelitev sprejeta, da bomo skupino lahko
                            oblikovali.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Če prav razumem, to pomeni, da danes imenujemo skupino, ki naj pripravi
                            besedilo, samo resolucijo sprejemamo na naslednji seji. <stage type="debate">(Tudi
@@ -3212,7 +3239,7 @@
                         <p>Ugotavljam, da je predlog sprejet z večino glasov. Prosim, za
                            predloge.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Jaz bi, gospod predsednik, predlagal, da ima skupina 11 članov, da 6
                            članov predlagajo predstavniki Demosa, 2 predlagajo predstavniki ZSMS -
@@ -3222,14 +3249,14 @@
                            demokratične prenove, bi po našem dogovoru predlagal Emila Milana
                            Pintarja in sebe. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR</speaker>
                         <p>: Prosim, da predstavniki Demosa predlagajo 6 članov: Matjaž Šinkovec,
                            Tone Peršak, Spomenka Hribar, dr. Leo Šešerko, Vitomir Gros, dr. Rajko
                            Pirnat; ZSMS - Liberalna stranka, ZKS: Emil Milan Pintar, Miran Potrč in
                            SZDL-SZ Darja Lavtižar Bebler...</p>
                      </sp>
-                     <sp who="#sp.JanšaJanez">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.JanšaJanez">
                         <speaker>JANEZ JANŠA:</speaker>
                         <p>Gospod predsednik, kolegi poslanci. Čisto oseben predloge imam in ni
                            strankarsko usklajen. Predlagam, da se skupina sestane, vendar ne danes.
@@ -3239,12 +3266,12 @@
                            zelo kmalu nova seja in takrat lahko opravimo tudi glasovanje oziroma
                            sprejmemo resolucijo.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Bi želel glede tega vprašanja kdo razpravljati? <stage type="debate">(Da.)</stage>
                            Prosim.      </p>
                      </sp>
-                     <sp who="#sp.ŠkolčJožef">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Spoštovani poslanci in poslanke. Ne mislim za vsako ceno nasprotovati
                            predlogu Janeza Janše. Mislim pa, da je poslanka Hribarjeva dala odlično
@@ -3257,8 +3284,10 @@
                            smo še sklepčni.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.6" ana="#PAR.Procedural" corresp="#toc.2.6">
-                     <sp who="#sp.BučarFrance">
+                  <div xml:id="DZ-1990-VsiZbor-1.div.1.1.2.6"
+                       ana="#PAR.Procedural"
+                       corresp="#DZ-1990-VsiZbor-1.toc.2.6">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Predlog je, da ugotovimo sklepčnost. Najprej ugotavljamo za
                            Družbenopolitični zbor. <stage type="quorum">(44 prisotnih.)</stage> Družbenopolitični
@@ -3269,14 +3298,14 @@
                         <p>S tem ugotavljam, da nismo sposobni voditi razprave tudi o še naslednji
                            točki dnevnega reda, to je predlogi in vprašanja delegatov. Prosim.</p>
                      </sp>
-                     <sp who="#sp.TomšeIvan">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.TomšeIvan">
                         <speaker>IVAN TOMŠE:</speaker>
                         <p>Ker ima eno prošnjo, ki ni vezana na sklepčnost, sem si dovolil, da vam
                            vzamem eno minuto. Prošnja se nanaša na tehnično vodstvo TV Slovenije, da
                            prouči vse možnosti, da se reflektorji ne bi usmerjali v naše oči. Kajti
                            težko je delati, ko nas več čas zasedanja moti močna svetloba. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Moram še to ugotoviti, da ne glede na našo sedanjo sklepčnost, je
                            skupina, ki smo jo imenovali, lahko validna v tem smislu, da pripravi
@@ -3287,7 +3316,7 @@
                            prihodnjega tedna bila potrebna seja. Za imenovanje izvršnega sveta.
                            Hvala lepa. Prosim.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1990-VsiZbor-1.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>To je čez točko razno, ampak rad bi se zahvalil tisti skrbni roki oziroma
                            srcu, ki je poskrbelo za to čudovito okrasitev za današnjo svečanost.
@@ -3295,8 +3324,7 @@
                            <stage type="vocal">(Aplavz.)</stage>
                         </p>
                      </sp>
-                     <stage type="time">(Seja se je <time to="1990-05-10T01:35:00"
-                           xml:id="stage.t.8">končala 10. maja 1990 ob 01.35 uri</time>.)</stage>
+                     <stage type="time">(Seja se je <time to="1990-05-10T01:35:00" xml:id="DZ-1990-VsiZbor-1.stage.t.8">končala 10. maja 1990 ob 01.35 uri</time>.)</stage>
                   </div>
                </div>
             </div>

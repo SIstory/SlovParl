@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,20 +132,20 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Proceduralne zadeve glede nadaljevanja 47., 44. in 42. seje zbora
+                     <item n="1" xml:id="DZ-1992-DruzPolZb-48.toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1</item>
+                     <item n="2" xml:id="DZ-1992-DruzPolZb-48.toc.1.2">Proceduralne zadeve glede nadaljevanja 47., 44. in 42. seje zbora
                         ............................ 1</item>
-                     <item n="3" xml:id="toc.1.3">Določitev dnevnega reda ............................... 1</item>
+                     <item n="3" xml:id="DZ-1992-DruzPolZb-48.toc.1.3">Določitev dnevnega reda ............................... 1</item>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Osnutek zapisnika 37. seje (1. točka dnevnega reda)
+                     <item n="1" xml:id="DZ-1992-DruzPolZb-48.toc.2.1">Osnutek zapisnika 37. seje (1. točka dnevnega reda)
                         .............................. 2</item>
-                     <item n="2" xml:id="toc.2.2">Predlog zakona o izvajanju resolucije Varnostnega sveta Združenih
+                     <item n="2" xml:id="DZ-1992-DruzPolZb-48.toc.2.2">Predlog zakona o izvajanju resolucije Varnostnega sveta Združenih
                         narodov (2. točka dnevnega reda) .............................. 2</item>
-                     <item n="3" xml:id="toc.2.3">Predlog akta o potrditvi nasledstva glede konvencij, statutov in
+                     <item n="3" xml:id="DZ-1992-DruzPolZb-48.toc.2.3">Predlog akta o potrditvi nasledstva glede konvencij, statutov in
                         drugih mednarodnih sporazumov, ki predstavljajo akt o ustanovitvi
                         mednarodnih organizacij (3. točka dnevnega reda)
                         .............................. 2<list rend="simple">
@@ -155,19 +153,19 @@
                            <item>Mihaela Logar ......................................... 2</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.2.4">Predlog akta o notifikaciji nasledstva glede konvencij UNESCO,
+                     <item n="4" xml:id="DZ-1992-DruzPolZb-48.toc.2.4">Predlog akta o notifikaciji nasledstva glede konvencij UNESCO,
                         mednarodnih večstranskih pogodb o zračnem prometu, konvenciji Mednarodne
                         organizacije dela, konvencij Mednarodne pomorske organizacije, carinskih
                         konvencij in nekaterih drugih mednarodnih večstranskih pogodb (4. točka
                         dnevnega reda) .............................. 3</item>
-                     <item n="5" xml:id="toc.2.5">Predlog sprememb in dopolnitev poslovnika Skupščine Republike
+                     <item n="5" xml:id="DZ-1992-DruzPolZb-48.toc.2.5">Predlog sprememb in dopolnitev poslovnika Skupščine Republike
                         Slovenije (5. točka dnevnega reda) .............................. 4<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>Anton Tomažič ......................................... 5</item>
                            <item>Anton Peršak .......................................... 5</item>
                         </list>
                      </item>
-                     <item n="6" xml:id="toc.2.6">Seznam govornikov .................................. II/1</item>
+                     <item n="6" xml:id="DZ-1992-DruzPolZb-48.toc.2.6">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -179,41 +177,45 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.LogarMihaela">Logar Mihaela</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-48.sp.LogarMihaela">Logar Mihaela</actor>
                   ............................................. 2</castItem>
                <castItem>
-                  <actor xml:id="sp.PeršakAnton">Peršak Anton</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-48.sp.PeršakAnton">Peršak Anton</actor>
                   .............................................. 5</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1992-DruzPolZb-48.sp.TomažičAnton">Tomažič Anton</actor>
                   ............................................. 5</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.DruzPolZb">
+         <div xml:id="DZ-1992-DruzPolZb-48.div.1" ana="#PAR.DruzPolZb">
             <head>DRUŽBENOPOLITIČNI ZBOR SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="48">
+            <div xml:id="DZ-1992-DruzPolZb-48.div.1.1" ana="#PAR.Seja" n="48">
                <head>48. seja</head>
                <docDate>(<date when="1992-10-21">21. oktober 1992</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1992-10-21T10:20:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1992-DruzPolZb-48.TL.1" unit="s">
+                  <when synch="#DZ-1992-DruzPolZb-48.stage.t.1"
+                        xml:id="DZ-1992-DruzPolZb-48.TL.1"
+                        absolute="1992-10-21T10:20:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-48.stage.t.2"
+                        since="#DZ-1992-DruzPolZb-48.TL.1"
                         absolute="1992-10-21T11:02:00"
                         interval="2520"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
+                     <actor xml:id="DZ-1992-DruzPolZb-48.sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
                         Družbenopolitičnega zbora</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1992-10-21T10:20:00" xml:id="stage.t.1">pričela ob 10.20 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.ToplakLudvik">
+               <stage type="time">Seja se je <time from="1992-10-21T10:20:00" xml:id="DZ-1992-DruzPolZb-48.stage.t.1">pričela ob 10.20 uri</time>.</stage>
+               <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.1.1">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci, cenjeni gostje, spoštovani
                            predstavniki sredstev obveščanja! Začenjamo 48. sejo Družbenopolitičnega
@@ -237,8 +239,10 @@
                            nadaljujemo z delom.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.Procedural" corresp="#toc.1.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.1.2"
+                       ana="#PAR.Procedural"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.1.2">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <p>Še kratko <title>obvestilo</title>. Po končani 48. seji zbora bomo
                            nadaljevali z nedokončano 47. sejo zbora, potem z nedokončano 44. sejo
                            zbora in nato z nedokončano 42. sejo zbora - z nedokončanimi zadevami iz
@@ -254,8 +258,10 @@
                            tukaj. Družbenopolitični zbor ima odmor danes ob 13. uri.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.DolDnevRed" corresp="#toc.1.3">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.1.3"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.1.3">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <p>Zboru predlagam, da</p>
                         <p>
                            <title>IZGLASUJEMO DNEVNI RED</title>
@@ -281,9 +287,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.2.1">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <p>Prehajamo na
                            <title>1. TOČKO DNEVNEGA REDA - ODOBRITEV OSNUTKA ZAPISNIKA 37.
                               SEJE</title>.</p>
@@ -295,8 +304,11 @@
                         <p>Ugotavljam, da je z 42 glasovi zapisnik soglasno  potrjen.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.2.2">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <p>Prehajamo na
                            <title>2. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O IZVAJANJU RESOLUCIJE
                               VARNOSTNEGA SVETA ZDRUŽENIH NARODOV</title>.</p>
@@ -315,8 +327,11 @@
                            vzdržan.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" n="3" corresp="#toc.2.3">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.2.3">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <p>Prehajamo na
                            <title>3. TOČKO DNEVNEGA REDA - PREDLOG AKTA O POTRDITVI NASLEDSTVA GLEDE
                               KONVENCIJ, STATUTOV IN DRUGIH MEDNARODNIH SPORAZUMOV, KI PREDSTAVLJAJO
@@ -328,7 +343,7 @@
                            delovnih teles? Prosim. Gospa Mihaela Logar, predsednica Komisije za
                            mednarodne odnose.</p>
                      </sp>
-                     <sp who="#sp.LogarMihaela">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.LogarMihaela">
                         <speaker>MIHAELA LOGAR:</speaker>
                         <p> Komisija Skupščine Republike Slovenije za mednarodne odnose je na svoji
                            seji obravnavala predlog akta o potrditvi nasledstva glede konvencij,
@@ -343,7 +358,7 @@
                            soglaša s tako popravljenim predlogom akta in predlaga zborom Skupščine
                            Republike Slovenije, da ga sprejmejo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa gospe Mihaeli Logar. Želi še kdo besedo od poročevalcev
                            delovnih teles? Če ne, odpiram razpravo. Želi kdo razpravljati? Če ne,
@@ -383,8 +398,11 @@
                         <p>Ugotavljam, da je akt izglasovan.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.TDR" n="4" corresp="#toc.2.4">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.2.4"
+                       ana="#PAR.TDR"
+                       n="4"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.2.4">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <p>Prehajamo na
                            <title>4. TOČKO DNEVNEGA REDA - PREDLOG AKTA O NOTIFIKACIJI NASLEDSTVA
                               GLEDE KONVENCIJ UNESCO, MEDNARODNIH VEČSTRANSKIH POGODB O ZRAČNEM
@@ -414,8 +432,11 @@
                         <p>S tem zaključujemo 4. točko dnevnega reda.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.5" ana="#PAR.TDR" n="5" corresp="#toc.2.5">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-DruzPolZb-48.div.1.1.2.5"
+                       ana="#PAR.TDR"
+                       n="5"
+                       corresp="#DZ-1992-DruzPolZb-48.toc.2.5">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <p>Prehajamo na
                            <title>5. TOČKO DNEVNEGA REDA - PREDLOG SPREMEMB IN DOPOLNITEV POSLOVNIKA
                               SKUPŠČINE REPUBLIKE SLOVENIJE</title>.</p>
@@ -454,7 +475,7 @@
                         <p>Želijo besedo predlagatelji v imenu komisije? Prosim. Gospod Tomažič ima
                            besedo.                                        </p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Hvala. No, ker se lahko zgodi, da pride do paradoksalne situacije, da bi
                            parlament sprejemal spremembe poslovnika na svoji zadnji seji, se mi zdi
@@ -485,12 +506,12 @@
                            kvaliteten poslovnik za naslednji Državni zbor. Kot rečeno, to bodo samo
                            strokovne podlage, Državni zbor pa bo sam lahko to sprejel. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p> Hvala lepa gospodu Tomažiču. Želi še kdo od poročevalcev delovnih teles
                            besedo? Če ne, odpiram razpravo. Prosim, gospod Anton Peršak.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Jaz bom kratek. Govorim v svojem imenu. Mislim, da je prav, da se to
                            sprejme, čeprav je res že pozno. Bi pa povedal, da nisem dal nobenih
@@ -546,7 +567,7 @@
                            zdi, podobno kot Zakonodajno-pravna komisija, da bi to določbo veljalo za
                            novi poslovnik še premisliti. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-DruzPolZb-48.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p> Hvala lepa gospodu Tonetu Peršaku. Želi še kdo? Če ni več
                            razpravljavcev, zaključujem razpravo. Ugotavljamo, da so v zboru vloženi
@@ -591,7 +612,7 @@
                            in vprašanja poslancev in da nadaljujemo z delom, da bi na kraju to točko
                            združili z drugimi sejami, ki so pred nami.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-10-21T11:02:00" xml:id="stage.t.2">končana ob 21. oktobra 1992 11.02 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1992-10-21T11:02:00" xml:id="DZ-1992-DruzPolZb-48.stage.t.2">končana ob 21. oktobra 1992 11.02 uri</time>.)</stage>
                   </div>
                </div>
             </div>

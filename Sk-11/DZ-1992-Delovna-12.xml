@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,14 +132,14 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti poslancev .................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določanje dnevnega reda ............................... 1</item>
+                     <item n="1" xml:id="DZ-1992-Delovna-12.toc.1.1">Ugotavljanje prisotnosti poslancev .................... 1</item>
+                     <item n="2" xml:id="DZ-1992-Delovna-12.toc.1.2">Določanje dnevnega reda ............................... 1</item>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1"> Odločanje o spornih vprašanjih v zvezi s predlogom zakona o plačah
+                     <item n="1" xml:id="DZ-1992-Delovna-12.toc.2.1"> Odločanje o spornih vprašanjih v zvezi s predlogom zakona o plačah
                         delavcev v javnih vzgojno-izobraževalnih zavodih ........................ 2
                            <list rend="ordered">
                            <head>GOVORNIKI:</head>
@@ -166,9 +164,9 @@
                            <item>Matija Malešič ....................................... 10</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Predlog za izvolitev novega predsednika Vlade Republike
+                     <item n="2" xml:id="DZ-1992-Delovna-12.toc.2.2">Predlog za izvolitev novega predsednika Vlade Republike
                         Slovenije</item>
-                     <item n="3" xml:id="toc.2.3"> Seznam govornikov ................................... II/1</item>
+                     <item n="3" xml:id="DZ-1992-Delovna-12.toc.2.3"> Seznam govornikov ................................... II/1</item>
                   </list>
                </item>
             </list>
@@ -180,77 +178,83 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.BuserStanko">Buser dr. Stanko</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.BuserStanko">Buser dr. Stanko</actor>
                   ....................................... 2, 4</castItem>
                <castItem>
-                  <actor xml:id="sp.KolešnikCiril">Kolešnik Ciril</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.KolešnikCiril">Kolešnik Ciril</actor>
                   ............................................ 3</castItem>
                <castItem>
-                  <actor xml:id="sp.KreftLev">Kreft dr. Lev</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.KreftLev">Kreft dr. Lev</actor>
                   ............................................ 10</castItem>
                <castItem>
-                  <actor xml:id="sp.MalešičMitja">Malešič Mitja</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.MalešičMitja">Malešič Mitja</actor>
                   ......................................... 8, 10</castItem>
                <castItem>
-                  <actor xml:id="sp.MogeRudi">Moge Rudi</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.MogeRudi">Moge Rudi</actor>
                   ............................................. 3, 10</castItem>
                <castItem>
-                  <actor xml:id="sp.PeterleAlojz">Peterle Alojz</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.PeterleAlojz">Peterle Alojz</actor>
                   .......................................... 2, 5</castItem>
                <castItem>
-                  <actor xml:id="sp.PregeljŽarko">Pregelj Žarko</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.PregeljŽarko">Pregelj Žarko</actor>
                   ............................................. 9</castItem>
                <castItem>
-                  <actor xml:id="sp.SagadinVlasta">Sagadin Vlasta</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.SagadinVlasta">Sagadin Vlasta</actor>
                   ............................................ 4</castItem>
                <castItem>
-                  <actor xml:id="sp.SekerešVilijem">Sekereš Vilijem</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.SekerešVilijem">Sekereš Vilijem</actor>
                   .......................................... 10</castItem>
                <castItem>
-                  <actor xml:id="sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
                   ............................. 6</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠkolčJožef">Školč Jožef</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.ŠkolčJožef">Školč Jožef</actor>
                   ............................................... 8</castItem>
                <castItem>
-                  <actor xml:id="sp.VaupotičBogomir">Vaupotič Bogomir</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.VaupotičBogomir">Vaupotič Bogomir</actor>
                   .......................................... 3</castItem>
                <castItem>
-                  <actor xml:id="sp.VenceljPeter">Vencelj dr. Peter</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.VenceljPeter">Vencelj dr. Peter</actor>
                   ......................................... 5</castItem>
                <castItem>
-                  <actor xml:id="sp.ZakonjšekJože">Zakonjšek Jože</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.ZakonjšekJože">Zakonjšek Jože</actor>
                   ............................................ 8</castItem>
                <castItem>
-                  <actor xml:id="sp.ZupančičJože">Zupančič Jože</actor>
+                  <actor xml:id="DZ-1992-Delovna-12.sp.ZupančičJože">Zupančič Jože</actor>
                   ............................................. 7</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1992-Delovna-12.div.1" ana="#PAR.VsiZbor">
             <head>DELOVNA SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Delovna" n="12">
+            <div xml:id="DZ-1992-Delovna-12.div.1.1" ana="#PAR.Delovna" n="12">
                <head>12. seja</head>
                <docDate>(<date when="1992-03-27">27. marca 1992</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1992-03-27T16:12:00"/>
-                  <when synch="#stage.t.2" xml:id="TL.2" absolute="1992-03-27T16:24:00"/>
-                  <when synch="#stage.t.3"
-                        since="#TL.2"
+               <timeline origin="#DZ-1992-Delovna-12.TL.1" unit="s">
+                  <when synch="#DZ-1992-Delovna-12.stage.t.1"
+                        xml:id="DZ-1992-Delovna-12.TL.1"
+                        absolute="1992-03-27T16:12:00"/>
+                  <when synch="#DZ-1992-Delovna-12.stage.t.2"
+                        xml:id="DZ-1992-Delovna-12.TL.2"
+                        absolute="1992-03-27T16:24:00"/>
+                  <when synch="#DZ-1992-Delovna-12.stage.t.3"
+                        since="#DZ-1992-Delovna-12.TL.2"
                         absolute="1992-03-27T17:15:00"
                         interval="3060"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
+                     <actor xml:id="DZ-1992-Delovna-12.sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
                         Družbenpolitičnega zbora</role>.</castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1992-03-27T16:12:00" xml:id="stage.t.1">pričela ob 16.12 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.ToplakLudvik">
+               <stage type="time">Seja se je <time from="1992-03-27T16:12:00" xml:id="DZ-1992-Delovna-12.stage.t.1">pričela ob 16.12 uri</time>.</stage>
+               <div xml:id="DZ-1992-Delovna-12.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1992-Delovna-12.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1992-Delovna-12.toc.1.1">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci, gospe in gospodje, cenjeni
                            gostje! Pričenjam 12. delovno skupno sejo vseh treh zborov Skupščine
@@ -259,8 +263,8 @@
                            zavodih.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.Prisot">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-Delovna-12.div.1.1.1.2" ana="#PAR.Prisot">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <p>Preden nadaljujemo, prosim, ugotovimo <title>navzočnost</title>. Poslanci
                            Družbenopolitičnega zbora <stage type="quorum">(43 prisotnih.)</stage> Poslanci Zbora
                            občin <stage type="quorum">(46 prisotnih.)</stage> Poslanci Zbora združenega dela.
@@ -273,11 +277,11 @@
                            začetka. Hvala. Še sporočilo: usklajevalna komisija za proračun bo
                            zasedala v salonu takoj po skupni seji, predvidoma čez 15 minut.</p>
                      </sp>
-                     <stage type="time">(Seja je bila prekinjena in se je <time from="1992-03-27T16:24:00" xml:id="stage.t.2">nadaljevala ob 16.24
+                     <stage type="time">(Seja je bila prekinjena in se je <time from="1992-03-27T16:24:00" xml:id="DZ-1992-Delovna-12.stage.t.2">nadaljevala ob 16.24
                            uri</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.Prisot">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-Delovna-12.div.1.1.1.3" ana="#PAR.Prisot">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Poslanci in cenjeni gostje, nadaljujemo z delom. Ugotovimo navzočnost
                            Družbenopolitičnega zbora, še prihajajo. Poslanci Družbenopolitičnega
@@ -292,8 +296,10 @@
                         </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.4" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-Delovna-12.div.1.1.1.4"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1992-Delovna-12.toc.1.2">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <p>
                            <title>Spoštovane poslanke in poslanci!</title> Glede na to, da skupna
                            seja vseh treh zborov Skupščine Republike Slovenije ni oblikovala
@@ -304,9 +310,11 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" corresp="#toc.2.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1992-Delovna-12.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1992-Delovna-12.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1992-Delovna-12.toc.2.1">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <p> Predlog, da se na skupni seji vseh treh zborov Skupščine Republike
                            Slovenije odloča o spornih vprašanjih glede
                            <title>PREDLOGA ZAKONA O PLAČAH DELAVCEV V JAVNIH VZGOJNO-IZOBRAŽEVALNIH
@@ -333,7 +341,7 @@
                         <p>Prehajamo na glasovanje. Navzočnost se ni spremenila. Na glasovanje dajem
                            amandma k petemu členu. Gospod Lojze Peterle bo pojasnil glas.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1992-Delovna-12.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci! Glasoval bom za amandma vlade, zato da
                            ne pride do negativnih učinkov amandmajev oziroma rešitev, ki so bile
@@ -348,12 +356,12 @@
                            glasovati za rešitve, ki bi rušile že doseženo in bi postavljale pod
                            vprašaj tudi proračun.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Preidemo na glasovanje. Še dr. Buser bo pojasnil svoj
                            glas.</p>
                      </sp>
-                     <sp who="#sp.BuserStanko">
+                     <sp who="#DZ-1992-Delovna-12.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovani! Glasoval bom proti vladnem amandmaju, ker menim, da redni
                            univerzitetni profesor zasluži in vsi ostali delavci, ki delajo v vzgoji
@@ -367,17 +375,17 @@
                            če izglasujemo faktor 5,5. O ostalih lahko ugibajo drugi. In torej bom
                            glasoval proti vladnemu predlogu. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Prosim, gospod Vaupotič.</p>
                      </sp>
-                     <sp who="#sp.VaupotičBogomir">
+                     <sp who="#DZ-1992-Delovna-12.sp.VaupotičBogomir">
                         <speaker>BOGOMIR VAUPOTIČ:</speaker>
                         <p>Hvala lepa. Imam samo proceduralno pripombo. Menim, da bi morali najprej
                            glasovati o amandmaju, ki je naslednji, ker je bolj oddaljen od osnovnega
                            teksta.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Bomo proučili. Po posvetu se ugotovi, ne gre za bolj ali manj
                            oddaljeni, da gre za širši in ožji. Gre za različna amandmaja, medtem ko
@@ -398,7 +406,7 @@
                            Zbor občin ni sprejel. Glasujemo prvo o tem drugem amandmaju. Gospod Moge
                            bo povedal, kako in zakaj.</p>
                      </sp>
-                     <sp who="#sp.MogeRudi">
+                     <sp who="#DZ-1992-Delovna-12.sp.MogeRudi">
                         <speaker>RUDI MOGE:</speaker>
                         <p>Spoštovane poslanke in poslanci! Glasoval bom za ta amandma, in to iz
                            preprostega razloga, ker mora biti strategija Republike Slovenije, da ima
@@ -418,11 +426,11 @@
                            raziskovalna dejavnost 24.000, kultura 23.000, zdravstvo in izobraževanje
                            pa 22.000. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Gospod Kolešnik.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-Delovna-12.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Spoštovani! Jaz bom glasoval proti zato, ker prvič takšen glasovalni
                            amandma ruši vsa razmerja. Drugič, ker bo, pa vsaka čast rektorju, imel
@@ -430,11 +438,11 @@
                            države. Mislim, da verjetno takšna rušitev sistema ne bi bila dobra. Zato
                            bom glasoval proti in pozivam tudi ostale.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>vala lepa. Dr. Buser.</p>
                      </sp>
-                     <sp who="#sp.BuserStanko">
+                     <sp who="#DZ-1992-Delovna-12.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovani! Ugotavljam, ker poslanci nimate gradiv danes s seboj,
                            govorite majčkeno v navzkrižju. Amandma k 5. členu, ki ga predlaga naš
@@ -448,11 +456,11 @@
                            govorimo. To ni točno. Medtem bi naj bi imel redni profesor faktor 5,50.
                            To je naš predlog, prosim. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Prosim, gospa Sagadinova.</p>
                      </sp>
-                     <sp who="#sp.SagadinVlasta">
+                     <sp who="#DZ-1992-Delovna-12.sp.SagadinVlasta">
                         <speaker>VLASTA SAGADIN:</speaker>
                         <p>Spoštovani! Vlasta Sagadin, poslanka za šolstvo. Malo me je zabodla
                            pripomba, spet en prfoks. Zgleda, da imate eni še malo komplekse ali pa
@@ -477,13 +485,13 @@
                            glasuje. Hvala. Jaz bom glasovala za vse amandmaje, ki jih je predlagal
                            Odbor za visokošolstvo in Odbor za šolstvo in šport. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Zdaj ne glede na to, kako imajo poslanci ali nimajo poslanci
                            so bili obveščeni, da naj prinesejo gradivo za to točko s seboj. Besedo
                            ima gospod Lojze Peterle. Kot poslanec bo objasnil svoj glas.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1992-Delovna-12.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Ugotavljam, da gredo razprave daleč čez tisto, kar naj bi bilo pojasnitev
                            glasu, za ali proti in glede na ugotovitve, da številni poslanci res
@@ -491,7 +499,7 @@
                            proračunu. Bi prosil, da ima predlagatelj možnost, da se izjasni o
                            posameznih amandmajih.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Predlog smo slišali. V bistvu pomeni, da prekinemo sejo. To je
                            predlog, proceduralni predlog. Prosim predlagatelja zakona. Prosim, dr.
@@ -500,7 +508,7 @@
                         <p>Kdo je za to, da dr. Vencelj govori? <stage type="vote">(103, večina za.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.VenceljPeter">
+                     <sp who="#DZ-1992-Delovna-12.sp.VenceljPeter">
                         <speaker>DR. PETER VENCELJ:</speaker>
                         <p>Samo pojasnilo, za kaj gre. Predlagani amandmaji, tako na področju
                            visokega šolstva kot srednjega šolstva, v resnici rušijo medsebojne
@@ -542,11 +550,11 @@
                            mestu. Tudi to je v sistemu urejanja na nek način anahronizem. Hvala.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Prosim, gospod Schwarzbartl.</p>
                      </sp>
-                     <sp who="#sp.SchwarzbartlErvinAnton">
+                     <sp who="#DZ-1992-Delovna-12.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Spoštovane poslanke in poslanci, spoštovano predsedstvo! Mislim, da
                            ustvarjamo določeno zmedo. Namen mi sicer ni povsem jasen, ampak mešamo
@@ -584,12 +592,12 @@
                            za amandmaje, kakor jih je predlagal oziroma sprejel Zbor občin. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Prosim, kdorkoli želi objasniti glas, naj pove samo, zakaj in kako bo
                            glasoval in s tem pojasni svoj glas. Prosim, gospod Zupančič.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1992-Delovna-12.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! Glasoval bom "za" amandmaje Odbora za
                            visoko šolstvo in amandmaje Odbora za šolstvo in šport. In to zato, ker
@@ -645,7 +653,7 @@
                         <p>PREDSEDUJOČI DR. LUDVIK TOPLAK:</p>
                         <p>Hvala lepa. Gospod Školč.</p>
                      </sp>
-                     <sp who="#sp.ŠkolčJožef">
+                     <sp who="#DZ-1992-Delovna-12.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Hvala lepa. Jaz bom seveda glasoval za te amandmaje in tudi za druge,
                            oglasil sem se pa zaradi neke stvari, ki je bila rečena na dosti
@@ -658,22 +666,22 @@
                            takrat, kadar govori gospod Schwarzbartl, ampak tudi kadar govorijo drugi
                            te stvari. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Jože Zupančič: Se opravičujem. Hvala. Prosim, svoj glas želi
                            objasniti še gospod Zakonjšek.</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1992-Delovna-12.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
                         <p>Gospod predsednik hvala lepa. Spoštovani zbor, moram reči, da sem zelo
                            razmišljal ali naj se vključim v to razpravo, vendar...</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Samo malo prosim, gospod poslanec Zakonjšek samo poslanci pojasnjujejo
                            svoj glas.</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1992-Delovna-12.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
                         <p>...svoj glas, tako. Hočem samo to reči, glasoval bom za amandmaje Odbora
                            za visoko šolstvo z eno mogoče samo utemeljitvijo. Povprečno število
@@ -683,14 +691,14 @@
                            standarske itn. itn. Ne glede na vse probleme, ki bodo v zvezi s tem
                            nastali na strani financiranja tega sigmenta. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Za besedo prosi podpredsednik vlade, gospod Malešič. Prosim
                            celjeni zbor, da odloči, ali bo govoril gospod Malešič.</p>
                         <p>Kdo je za? <stage type="vote">(100 poslancev.)</stage> Hvala lepa.</p>
                         <p>Prosim, gospod Malešič.</p>
                      </sp>
-                     <sp who="#sp.MalešičMitja">
+                     <sp who="#DZ-1992-Delovna-12.sp.MalešičMitja">
                         <speaker>MATIJA MALEŠIČ:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani poslanke in poslanci. Glede na
                            to, da v vladi vodim vzklajevanje vseh družbenih dejavnosti in sem bil
@@ -731,12 +739,12 @@
                            momente tudi pred očmi, ko boste glasovali za ali proti predlogom
                            vlade.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Gospod Pregelj. In s tem zaključimo, samo še gospod Moge in
                            Sekereš.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1992-Delovna-12.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Spoštovani zbor, glasoval bom za ta amandma, ker menim, da res spreminja
                            razmerja med posameznimi poklici v družbenih dejavnostih. Poglejte, imam
@@ -756,7 +764,7 @@
                         <p>spremembo med osnovnimi nosilnimi poklici, ampak verjetno je sistem, po
                            katerem se plačujejo dejavnosti, v osnovi nekoliko nepravičen. Hvala.</p>
                      </sp>
-                     <sp who="#sp.SekerešVilijem">
+                     <sp who="#DZ-1992-Delovna-12.sp.SekerešVilijem">
                         <speaker>VILIJEM SEKEREŠ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane kolegice in kolegi! Sem prosvetni
                            delavec in verjetno zato ni potrebno posebej naglasiti, kako bom
@@ -772,7 +780,7 @@
                            kolege, da glasujejo za amandmaje Odbora za visokošolstvo in Odbora za
                            šolstvo in šport. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.KreftLev">
+                     <sp who="#DZ-1992-Delovna-12.sp.KreftLev">
                         <speaker>DR. LEV KREFT:</speaker>
                         <p>Gospod predsednik oziroma predsedujoči, drage kolegice, spoštovani
                            kolegi, glasoval bom za amandma obeh odborov. Mislim, da je bistveno pri
@@ -794,7 +802,7 @@
                            merijo rezultati dela, namesto da bi se upoštevala izobrazba in
                            odgovornost prevzetega dela. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.MogeRudi">
+                     <sp who="#DZ-1992-Delovna-12.sp.MogeRudi">
                         <speaker>RUDI MOGE:</speaker>
                         <p>Bom čisto kratek. Od leta l972 se borim, da bi status učitelja v tej
                            družbi bil takšen, kot je bil nekdaj. Bil sem pri tovarišu Hafnerju, bil
@@ -805,7 +813,7 @@
                            sem se primerjal s kolegi, s katerimi sem skupaj študiral, pa so šli
                            ostale reči delati. Prav žalili so me.</p>
                      </sp>
-                     <sp who="#sp.MalešičMitja">
+                     <sp who="#DZ-1992-Delovna-12.sp.MalešičMitja">
                         <speaker>MATIJA MALEŠIČ:</speaker>
                         <p>Moram se še enkrat oglasiti, namreč gre za oceno, ali ta zakon, takšen,
                            kakršnega predlaga Vlada, izboljšuje ali poslabšuje položaj šolstva.
@@ -818,7 +826,7 @@
                            okviru proračuna trenutno možno in ponovno trdim, gre za izboljšanje
                            stanja v šolstvu.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Zaključujemo to predtočko in preidemo na glasovanje. Ugotovimo sklepčnost
                            Družbenopolitičnega zbora. Poslanci Družbenopolitičnega zbora. <stage type="quorum">(45
@@ -878,8 +886,10 @@
                            izglasovan.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" corresp="#toc.2.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1992-Delovna-12.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1992-Delovna-12.toc.2.2">
+                     <sp who="#DZ-1992-Delovna-12.sp.ToplakLudvik">
                         <p>In sedaj še prosim dve točki. Po pooblastilu predsednikov Zbora občin in
                            Zbora združenega dela preberem pismo iz kabineta predsednika Skupščine
                            Republike Slovenije z dne 27.3.1992 predsednikom zborov Skupščine
@@ -902,7 +912,7 @@
                            uri o proračunu. V ponedeljek, ob 13.00 uri na ločenih sejah zborov.
                            Hvala.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-03-27T17:15:00" xml:id="stage.t.3">končana 12. marca 1992 ob 17.15 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1992-03-27T17:15:00" xml:id="DZ-1992-Delovna-12.stage.t.3">končana 12. marca 1992 ob 17.15 uri</time>.)</stage>
                   </div>
                </div>
             </div>

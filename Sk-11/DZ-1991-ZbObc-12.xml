@@ -31,8 +31,7 @@
             <pubPlace>https://github.com/SIstory/Seje_DZ/tree/master/</pubPlace>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
             <date when="2016-08-29+02:00"/>
@@ -53,8 +52,7 @@
                      <date>(20. februar 1991)</date>
                   </imprint>
                </monogr>
-               <ref
-                  target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=E9E4FBCCBB5F8C7AC1257C37004629BC">
+               <ref target="https://www.dz-rs.si/wps/portal/Home/deloDZ/seje/evidenca?mandat=0&amp;type=sz&amp;uid=E9E4FBCCBB5F8C7AC1257C37004629BC">
                   <stage type="date">(<date>2016-04-12</date>)</stage>
                </ref>
             </biblStruct>
@@ -68,10 +66,10 @@
                   <publisher>Državni zbor Republike Slovenije</publisher>
                   <availability status="free">
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                              xml:lang="slv">Avtorske pravice so potekle, delo je v javni
                         domeni.</licence>
                      <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                              xml:lang="eng">Public Domain Mark 1.0</licence>
                   </availability>
                </publicationStmt>
             </biblFull>
@@ -80,15 +78,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -143,9 +134,9 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM: STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Preverjanje  prisotnosti delegatov
+                     <item n="1" xml:id="DZ-1991-ZbObc-12.toc.1.1">Preverjanje  prisotnosti delegatov
                         ........................ 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda
+                     <item n="2" xml:id="DZ-1991-ZbObc-12.toc.1.2">Določitev dnevnega reda
                         ................................... 2<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>dr. Peter Glavič ..........................................
@@ -178,14 +169,14 @@
                               10</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.1.3">Pobude, predlogi in vprašanja delegatov
+                     <item n="3" xml:id="DZ-1991-ZbObc-12.toc.1.3">Pobude, predlogi in vprašanja delegatov
                         .................. 11<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Danijel Starman ..........................................
                               11</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.1.4">Nadaljevanje točke določitev dnevnega reda
+                     <item n="4" xml:id="DZ-1991-ZbObc-12.toc.1.4">Nadaljevanje točke določitev dnevnega reda
                         ............... 11<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Franc Ogris ..............................................
@@ -197,9 +188,9 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1"> Odobritev zapisnikov 9. in 10. seje zbora
+                     <item n="1" xml:id="DZ-1991-ZbObc-12.toc.2.1"> Odobritev zapisnikov 9. in 10. seje zbora
                         ............... 11</item>
-                     <item n="2" xml:id="toc.2.2">Predlog ustavnih amandmajev XCIX in C k Ustavi RS
+                     <item n="2" xml:id="DZ-1991-ZbObc-12.toc.2.2">Predlog ustavnih amandmajev XCIX in C k Ustavi RS
                         ........ 12<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Danijel Starman ..........................................
@@ -248,22 +239,22 @@
                               22</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3"> Usklajevanje zadev s prejšnjih sej:<list>
-                           <item n="-" xml:id="toc.2.-">obravnava predloga odloka o spremembi odloka
+                     <item n="3" xml:id="DZ-1991-ZbObc-12.toc.2.3"> Usklajevanje zadev s prejšnjih sej:<list>
+                           <item n="-" xml:id="DZ-1991-ZbObc-12.toc.2.-">obravnava predloga odloka o spremembi odloka
                               o sestavi in številu članov Zakonodajno-pravne komisije Skupščine RS
                               ................................... 22</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.2.4">Predlog za izdajo zakona o dopolnitvi zakona o
+                     <item n="4" xml:id="DZ-1991-ZbObc-12.toc.2.4">Predlog za izdajo zakona o dopolnitvi zakona o
                         skladu skupnih rezerv s predlogom zakona ........................ 23</item>
-                     <item n="5" xml:id="toc.2.5"> Predlog za izdajo zakona o spremembah in
+                     <item n="5" xml:id="DZ-1991-ZbObc-12.toc.2.5"> Predlog za izdajo zakona o spremembah in
                         dopolnitvah zakona o določitvi nalog, ki jih od 1.1.1990 začasno opravljajo
                         organi samoupravnih interesnih skupnosti in o ustanovitvi določenih
                         republiških upravnih organov s predlogom zakona
                         ......................................... 23</item>
-                     <item n="6" xml:id="toc.2.6"> Predlog zakona o spremembah in dopolnitvah zakona
+                     <item n="6" xml:id="DZ-1991-ZbObc-12.toc.2.6"> Predlog zakona o spremembah in dopolnitvah zakona
                         o varnosti na žičnicah in vlečnicah ........................ 24</item>
-                     <item n="7" xml:id="toc.2.7"> Predlog zakona o spremembah in dopolnitvah zakona
+                     <item n="7" xml:id="DZ-1991-ZbObc-12.toc.2.7"> Predlog zakona o spremembah in dopolnitvah zakona
                         o zagotavljanju sredstev za skupne družbene potrebe v letu 1990 in o
                         proračunu določenih obveznosti iz dohodka za skupne in splošne potrebe za
                         leto 1989 ........ 24<list rend="simple">
@@ -272,15 +263,15 @@
                               25</item>
                         </list>
                      </item>
-                     <item n="8" xml:id="toc.2.8">Stališča Skupščine Republike Slovenije do
+                     <item n="8" xml:id="DZ-1991-ZbObc-12.toc.2.8">Stališča Skupščine Republike Slovenije do
                         nekaterih zakonov iz pristojnosti Zveznega zbora Skupščine SFRJ:<list>
-                           <item n="-" xml:id="toc.2.8a">predlog za izdajo zakona o spremembah in
+                           <item n="-" xml:id="DZ-1991-ZbObc-12.toc.2.8a">predlog za izdajo zakona o spremembah in
                               dopolnitvah zakona o temeljnih pravicah iz pokojninskega in
                               invalidskega zavarovanja s predlogom zakona
                               ........................................ 25</item>
                         </list>
                      </item>
-                     <item n="9" xml:id="toc.2.9"> Predlog zakona o preoblikovanju pogodbenih
+                     <item n="9" xml:id="DZ-1991-ZbObc-12.toc.2.9"> Predlog zakona o preoblikovanju pogodbenih
                         organizacij združenega dela ..........................................
                            26<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -292,7 +283,7 @@
                               28</item>
                         </list>
                      </item>
-                     <item n="10" xml:id="toc.2.10">Pobuda za sklenitev  dogovora o spremembah in
+                     <item n="10" xml:id="DZ-1991-ZbObc-12.toc.2.10">Pobuda za sklenitev  dogovora o spremembah in
                         dopolnitvah dogovora o temeljnih kriterijih za obračun in valorizacijo
                         katastrskega dohodka z osnutkom dogovora
                         ........................................ 31<list rend="simple">
@@ -301,12 +292,11 @@
                               31</item>
                         </list>
                      </item>
-                     <item n="11" xml:id="toc.2.11">Izvolitev članov usklajevalnih komisij pri
+                     <item n="11" xml:id="DZ-1991-ZbObc-12.toc.2.11">Izvolitev članov usklajevalnih komisij pri
                         neusklajenih točkah dnevnega reda .....................................
                         31</item>
-                     <item n="12" xml:id="toc.2.12">Nadaljevanje obravnave pobud, predlogov in
-                        vprašanj delegatov ................................................ 32<list
-                           rend="simple">
+                     <item n="12" xml:id="DZ-1991-ZbObc-12.toc.2.12">Nadaljevanje obravnave pobud, predlogov in
+                        vprašanj delegatov ................................................ 32<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>mag. Janez Jug ...........................................
                               32</item>
@@ -392,14 +382,14 @@
                               56</item>
                         </list>
                      </item>
-                     <item n="13" xml:id="toc.2.13">Usklajevanje dnevnega reda z ostalima zboroma
+                     <item n="13" xml:id="DZ-1991-ZbObc-12.toc.2.13">Usklajevanje dnevnega reda z ostalima zboroma
                         ........... 57<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. Peter Glavič .........................................
                               58</item>
                         </list>
                      </item>
-                     <item n="14" xml:id="toc.2.14">Predlog odloka o spremembah in dopolnitvah
+                     <item n="14" xml:id="DZ-1991-ZbObc-12.toc.2.14">Predlog odloka o spremembah in dopolnitvah
                         odloka o soglasju k zakonu o začasnih ukrepih o davku od prometa proizvodov
                         in storitev ................................... 58<list rend="simple">
                            <head>GOVORNIK:</head>
@@ -407,7 +397,7 @@
                               58</item>
                         </list>
                      </item>
-                     <item n="15" xml:id="toc.2.15">Nadaljevanje obravnave predloga zakona o
+                     <item n="15" xml:id="DZ-1991-ZbObc-12.toc.2.15">Nadaljevanje obravnave predloga zakona o
                         spremembah in dopolnitvah zakona o zagotavljanju sredstev za skupne družbene
                         potrebe v letu 1990 in o poračunu določenih obveznosti iz dohodka za skupne
                         in splošne družbene potrebe za leto 1989
@@ -425,12 +415,12 @@
                               61</item>
                         </list>
                      </item>
-                     <item n="16" xml:id="toc.2.16">Nadaljevanje obravnave predloga zakona o
+                     <item n="16" xml:id="DZ-1991-ZbObc-12.toc.2.16">Nadaljevanje obravnave predloga zakona o
                         preoblikovanju pogodbenih organizacij združenega dela ...................
                         61</item>
-                     <item n="17" xml:id="toc.2.17">Seznam govornikov
+                     <item n="17" xml:id="DZ-1991-ZbObc-12.toc.2.17">Seznam govornikov
                         ....................................... II</item>
-                     <item n="18" xml:id="toc.2.18">Priloga: zapisnik seje
+                     <item n="18" xml:id="DZ-1991-ZbObc-12.toc.2.18">Priloga: zapisnik seje
                         ................................. III</item>
                   </list>
                </item>
@@ -442,155 +432,171 @@
             <castList>
                <head>GOVORNIKI: STRAN</head>
                <castItem>
-                  <actor xml:id="sp.AtelšekIvan">Atelšek Ivan</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.AtelšekIvan">Atelšek Ivan</actor>
                   ...................................... 8, 15, 21, 34</castItem>
                <castItem>
-                  <actor xml:id="sp.BožičDanijel">Božič Danijel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.BožičDanijel">Božič Danijel</actor>
                   ................................................ 46</castItem>
                <castItem>
-                  <actor xml:id="sp.BrezarViktor">Brezar Viktor</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.BrezarViktor">Brezar Viktor</actor>
                   ................................................ 26</castItem>
                <castItem>
-                  <actor xml:id="sp.ČrnejJanez">Črnej Janez</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ČrnejJanez">Črnej Janez</actor>
                   .................................................. 31</castItem>
                <castItem>
-                  <actor xml:id="sp.DebeljakStanko">Debeljak Stanko</actor> ........................
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.DebeljakStanko">Debeljak Stanko</actor> ........................
                   5, 9, 25, 48, 53, 56, 59</castItem>
                <castItem>
-                  <actor xml:id="sp.DeželakJanko">Deželak Janko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.DeželakJanko">Deželak Janko</actor>
                   ................................................. 4</castItem>
                <castItem>
-                  <actor xml:id="sp.DragovanSlavko">Dragovan Slavko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.DragovanSlavko">Dragovan Slavko</actor>
                   .............................................. 58</castItem>
                <castItem>
-                  <actor xml:id="sp.FeltrinFranci">Feltrin Franci</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.FeltrinFranci">Feltrin Franci</actor>
                   ............................................... 20</castItem>
                <castItem>
-                  <actor xml:id="sp.FrankoKarel">Franko Karel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.FrankoKarel">Franko Karel</actor>
                   ................................................. 42</castItem>
                <castItem>
-                  <actor xml:id="sp.GlavičPeter">Glavič dr. Peter</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.GlavičPeter">Glavič dr. Peter</actor>
                   ........................... 3, 9, 37, 51, 55, 58</castItem>
                <castItem>
-                  <actor xml:id="sp.GradišarCvetko">Gradišar dr. Cvetko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.GradišarCvetko">Gradišar dr. Cvetko</actor>
                   ...................................... 40, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.GrdadolnikJože">Grdadolnik Jože</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.GrdadolnikJože">Grdadolnik Jože</actor>
                   .............................................. 56</castItem>
                <castItem>
-                  <actor xml:id="sp.GrosVitomir">Gros Vitomir</actor> .................... 4, 6, 8,
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.GrosVitomir">Gros Vitomir</actor> .................... 4, 6, 8,
                   19, 28, 36, 39, 44, 56</castItem>
                <castItem>
-                  <actor xml:id="sp.IvanušičZvonko">Ivanušič Zvonko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.IvanušičZvonko">Ivanušič Zvonko</actor>
                   .............................................. 38</castItem>
                <castItem>
-                  <actor xml:id="sp.JežMatjaž">Jež Matjaž</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.JežMatjaž">Jež Matjaž</actor>
                   ................................................... 45</castItem>
                <castItem>
-                  <actor xml:id="sp.JugJanez">Jug mag. Janez</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.JugJanez">Jug mag. Janez</actor>
                   ............................................ 6, 32</castItem>
                <castItem>
-                  <actor xml:id="sp.JuriAurelio">Juri Aurelio</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.JuriAurelio">Juri Aurelio</actor>
                   ......................................... 14, 19, 42</castItem>
                <castItem>
-                  <actor xml:id="sp.KotnikLudvik">Kotnik Ludvik</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.KotnikLudvik">Kotnik Ludvik</actor>
                   ................................................ 33</castItem>
                <castItem>
-                  <actor xml:id="sp.KramaričTone">Kramarič Tone</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.KramaričTone">Kramarič Tone</actor>
                   ......................................... 6, 21, 43</castItem>
                <castItem>
-                  <actor xml:id="sp.OgrisFranc">Ogris Franc</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.OgrisFranc">Ogris Franc</actor>
                   .............................................. 10, 11</castItem>
                <castItem>
-                  <actor xml:id="sp.PavšičTomaž">Pavšič Tomaž</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.PavšičTomaž">Pavšič Tomaž</actor>
                   ......................................... 15, 20, 38</castItem>
                <castItem>
-                  <actor xml:id="sp.ProtnerJože">Protner mag. Jože</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ProtnerJože">Protner mag. Jože</actor>
                   .................................... 22, 44, 45</castItem>
                <castItem>
-                  <actor xml:id="sp.PuharJožica">Puhar Jožica</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.PuharJožica">Puhar Jožica</actor>
                   ................................................. 60</castItem>
                <castItem>
-                  <actor xml:id="sp.RazdevšekBorut">Razdevšek Borut</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.RazdevšekBorut">Razdevšek Borut</actor>
                   .......................................... 18, 54</castItem>
                <castItem>
-                  <actor xml:id="sp.RojecAnton">Rojec Anton</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.RojecAnton">Rojec Anton</actor>
                   .................................................. 34</castItem>
                <castItem>
-                  <actor xml:id="sp.SlejkoVladimir">Slejko Vladimir</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.SlejkoVladimir">Slejko Vladimir</actor>
                   ...................................... 28, 39, 60</castItem>
                <castItem>
-                  <actor xml:id="sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
                   ............................. 7, 17</castItem>
                <castItem>
-                  <actor xml:id="sp.StadlerMarko">Stadler Marko</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.StadlerMarko">Stadler Marko</actor>
                   ................................................ 14</castItem>
                <castItem>
-                  <actor xml:id="sp.StarmanDanijel">Starman Danijel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.StarmanDanijel">Starman Danijel</actor>
                   .............................. 11, 12, 16, 35, 47</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠoncMetod">Šonc Metod</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ŠoncMetod">Šonc Metod</actor>
                   ........................................... 43, 55, 61</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠtefančičMarcel">Štefančič Marcel</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ŠtefančičMarcel">Štefančič Marcel</actor>
                   ..................................... 17, 39, 40</castItem>
                <castItem>
-                  <actor xml:id="sp.UrbančičMiloš">Urbančič Miloš</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.UrbančičMiloš">Urbančič Miloš</actor>
                   ....................................... 19, 21, 38</castItem>
                <castItem>
-                  <actor xml:id="sp.VivodIvan">Vivod dr. Ivan</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.VivodIvan">Vivod dr. Ivan</actor>
                   ............................................... 38</castItem>
                <castItem>
-                  <actor xml:id="sp.VodopivecIvan">Vodopivec Ivan</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.VodopivecIvan">Vodopivec Ivan</actor>
                   ................................... 14, 45, 52, 59</castItem>
                <castItem>
-                  <actor xml:id="sp.ZakonjšekJože">Zakonjšek Jože</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ZakonjšekJože">Zakonjšek Jože</actor>
                   ........................................ 7, 13, 52</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽampaJanez">Žampa Janez</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ŽampaJanez">Žampa Janez</actor>
                   .............................................. 20, 45</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽižekVili">Žižek Vili</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ŽižekVili">Žižek Vili</actor>
                   ................................................... 34</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽunterAnton">Žunter dr. Anton</actor>
+                  <actor xml:id="DZ-1991-ZbObc-12.sp.ŽunterAnton">Žunter dr. Anton</actor>
                   ............................................. 16</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.ZbObc">
+         <div xml:id="DZ-1991-ZbObc-12.div.1" ana="#PAR.ZbObc">
             <head>ZBOR OBČIN</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="12">
+            <div xml:id="DZ-1991-ZbObc-12.div.1.1" ana="#PAR.Seja" n="12">
                <head>12. seja</head>
                <docDate>(<date when="1991-02-20">20. februar 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-02-20T09:05:00"/>
-                  <when synch="#stage.t.2" since="#TL.1" absolute="1991-02-20T11:45:00"
-                     interval="9600"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1991-02-20T12:50:00"/>
-                  <when synch="#stage.t.4" since="#TL.2" absolute="1991-02-20T15:45:00"
-                     interval="10500"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1991-02-20T19:00:00"/>
-                  <when synch="#stage.t.6" since="#TL.3" absolute="1991-02-20T19:20:00"
-                     interval="1200"/>
-                  <when synch="#stage.t.7" xml:id="TL.4" absolute="1991-02-20T19:40:00"/>
-                  <when synch="#stage.t.8" since="#TL.4" absolute="1991-02-20T19:50:00"
-                     interval="600"/>
+               <timeline origin="#DZ-1991-ZbObc-12.TL.1" unit="s">
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.1"
+                        xml:id="DZ-1991-ZbObc-12.TL.1"
+                        absolute="1991-02-20T09:05:00"/>
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.2"
+                        since="#DZ-1991-ZbObc-12.TL.1"
+                        absolute="1991-02-20T11:45:00"
+                        interval="9600"/>
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.3"
+                        xml:id="DZ-1991-ZbObc-12.TL.2"
+                        absolute="1991-02-20T12:50:00"/>
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.4"
+                        since="#DZ-1991-ZbObc-12.TL.2"
+                        absolute="1991-02-20T15:45:00"
+                        interval="10500"/>
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.5"
+                        xml:id="DZ-1991-ZbObc-12.TL.3"
+                        absolute="1991-02-20T19:00:00"/>
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.6"
+                        since="#DZ-1991-ZbObc-12.TL.3"
+                        absolute="1991-02-20T19:20:00"
+                        interval="1200"/>
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.7"
+                        xml:id="DZ-1991-ZbObc-12.TL.4"
+                        absolute="1991-02-20T19:40:00"/>
+                  <when synch="#DZ-1991-ZbObc-12.stage.t.8"
+                        since="#DZ-1991-ZbObc-12.TL.4"
+                        absolute="1991-02-20T19:50:00"
+                        interval="600"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.BizjakIvan">Ivan
-                        Bizjak</actor>, <role>predsednik Zbora občin</role>, <actor
-                        xml:id="sp.Rojec.Anton">Anton Rojec</actor>, <role>delegat Skupščine
+                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="DZ-1991-ZbObc-12.sp.BizjakIvan">Ivan
+                        Bizjak</actor>, <role>predsednik Zbora občin</role>, <actor xml:id="DZ-1991-ZbObc-12.sp.Rojec.Anton">Anton Rojec</actor>, <role>delegat Skupščine
                         Republike Slovenije</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-02-20T09:05:00" xml:id="stage.t.1"
-                     >začela ob 9.05 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.BizjakIvan">
+               <stage type="time">Seja se je <time from="1991-02-20T09:05:00" xml:id="DZ-1991-ZbObc-12.stage.t.1">začela ob 9.05 uri</time>.</stage>
+               <div xml:id="DZ-1991-ZbObc-12.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-ZbObc-12.toc.1.1">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane delegatke in delegati, gospe in gospodje! Začenjam 12. sejo
                            Zbora občin Skupščine Republike Slovenije.</p>
@@ -600,8 +606,8 @@
                            ugotavljam, da je zbor sklepčen in lahko pravno veljavno sklepa.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.Procedural">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.1.2" ana="#PAR.Procedural">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Ker je podpredsednik ponovno odsoten, bi <title>predlagal</title> - tako
                            kot je bila že navada -, da izvolimo delegata za pomoč pri vodenju seje,
                            da ne bi bil ves čas poteka seje povsem prilepljen na ta stol. Prosim,
@@ -674,16 +680,17 @@
                            postavljena vprašanja.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.1.3"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-ZbObc-12.toc.1.2">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na</p>
                         <p>
                            <title>DOLOČITEV DNEVNEGA REDA 12. SEJE ZBORA OBČIN</title>.</p>
                         <p>Ker ste z gradivom za sejo prejeli tudi osnutek zapisnika 10. seje in
                            osnutek zapisnika o obravnavi strogo zaupnega gradiva na 10. seji
                            predlagam, da danes v okviru prve točke odobrimo tudi ta dva zapisnika. -
-                           Ali zbor s tem soglaša? Kdo nasprotuje? <stage type="vote"
-                              >(Nihče.)</stage> Ugotavljam, da se strinjamo, da v okviru 1. točke
+                           Ali zbor s tem soglaša? Kdo nasprotuje? <stage type="vote">(Nihče.)</stage> Ugotavljam, da se strinjamo, da v okviru 1. točke
                            govorimo tudi o teh dveh zapisnikih.</p>
                         <p>Izvršni svet Skupščine Republike Slovenije oziroma delegacija Skupščine
                            Republike Slovenije v Zboru republik in pokrajin Skupščine SFRJ
@@ -725,7 +732,7 @@
                         <p>Želi o predlaganem dnevnem redu kot celoti kdo razpravljati? Prosim,
                            gospod Glavič.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Gospod predsednik, spoštovani zbor! Razumem, da je dogovarjanje o
                            gospodarski in monetarni politiki za leto 1991 še vedno v teku in da je
@@ -740,7 +747,7 @@
                            taka banka še nekaj časa obstoja, konkretno v letošnjem letu, ampak da ne
                            more delati na teh principih, ki so bila tu postavljena. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Če dovolite, bi v zvezi s tem prebral že prej omenjen predlog, ki ga je
                            posredoval vodja delegacije v Zboru republik in pokrajin, gospod Martin
@@ -765,7 +772,7 @@
                            razpravljali - po tem predlogu, ki smo ga dobili.</p>
                         <p>Želi še kdo razpravljati o dnevnem redu? Prosim, gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Na zadnji seji je naša stranka predlagala, da Izvršni svet preuči možnost
                            uvedbe paralelnih plačilnih sredstev. Na pogovoru, na usklajevalnem
@@ -777,11 +784,11 @@
                            zakaj ni na dnevnem redu. Torej prosim poslance, da o tem razmislite in
                            po možnosti glasujete. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Prosim, gospod Deželak.</p>
                      </sp>
-                     <sp who="#sp.DeželakJanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DeželakJanko">
                         <speaker>JANKO DEŽELAK:</speaker>
                         <p>Hvala lepa. Samo pojasnilo, spoštovane kolegice, kolegi! Odbor za
                            kreditno-monetarni sistem in politiko pri skupščini je imel danes ob 8.20
@@ -830,14 +837,14 @@
                            kompleks odnosov na način kot je poznan v normalnih tržnih gospodarstvih.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Predno bi dal besedo gospodu Grosu, bi vprašal, če želi še
                            kdo od predstavnikov Izvršnega sveta v zvezi s tem predlogom kaj reči?
                            Ja, prosim, gospod Debeljak, namestnik republiškega sekretarja za
                            finance.</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Predsednik odbora za kreditno-monetarni sistem je povedal, kako je
                            predvidena ta obravnava. Jaz bi samo zelo na kratko rekel: prvič, da še
@@ -850,11 +857,11 @@
                            skupščine na eni od naslednjih sej ta paket obravnavan in ga boste
                            sprejemali kot paket, kot celoto. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gros, ali želite še kaj dopolniti?</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Jaz bi predlaga, da vseeno damo to točko - po vašem premisleku - na
                            dnevni red; če pa ne bo pogojev, še vedno lahko točko umaknemo. Moram vam
@@ -866,7 +873,7 @@
                            niso tako nujno pomembni, tega zakona se pa striktno nočemo lotiti. Jaz
                            enostavno ne razumem več tega. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Dobro, o tem predlogu bomo odločali. Opozoril bi na to, da s
                            tem v zvezi ta trenutek tukaj nimamo pred seboj nobenih papirjev;
@@ -881,7 +888,7 @@
                            tega gradiva? Že sedaj? Dobro.</p>
                         <p>Gospod Kramarič, želite še razpravljati? Prosim.</p>
                      </sp>
-                     <sp who="#sp.KramaričTone">
+                     <sp who="#DZ-1991-ZbObc-12.sp.KramaričTone">
                         <speaker>TONE KRAMARIČ:</speaker>
                         <p>V januarju mesecu tega leta je izvršni odbor Slovenske demokratične zveze
                            obravnaval gospodarsko problematiko Republike Slovenije in ugotovil, da
@@ -892,7 +899,7 @@
                            smatram, da je prav, da mi danes to sprejmemo na dnevni red in podpiram
                            ob razpravljalca. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Oba razpravljalca hkrati je malo težje podpirati, ker sta
                            razpravljala v različno smer. Dobro. Če ni več razpravljalcev, potem ta
@@ -900,7 +907,7 @@
                            se pravi, da se dnevni red razširi s točko "Denarni sistem Republike
                            Slovenije" ... - Prosim, gospod Jug.</p>
                      </sp>
-                     <sp who="#sp.JugJanez">
+                     <sp who="#DZ-1991-ZbObc-12.sp.JugJanez">
                         <speaker>MAG. JANEZ JUG:</speaker>
                         <p>S predlogom, da se razširi dnevni red, se jaz v vsebini popolnoma
                            strinjam z gospodom Grosom, čutim pa pomanjkanje predstavnika Izvršnega
@@ -913,13 +920,13 @@
                            se strinjam in je treba res pametno narediti to zadevo. Ne vem, če sem po
                            kmečko povedal, ampak ne bi izsiljevali in delali neumnosti. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. No, jaz sem imel občutek, da je bil gospod Debeljak dovolj
                            jasen s svojimi opozorili, da naj ne bi tega uvrstili na dnevni red. -
                            Prosim, gospod Schwarzbartl.</p>
                      </sp>
-                     <sp who="#sp.SchwarzbartlErvinAnton">
+                     <sp who="#DZ-1991-ZbObc-12.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Jaz se ne bi več oglasil, ker je gospod Jug v bistvu vse povedal. Mislim,
                            da moramo mi tukaj upoštevati tudi politično modrost. Dejansko rabimo
@@ -942,11 +949,11 @@
                            če izdam sedaj ta dogovor - v petek, prvega, obravnavamo na eni
                            zaključeni, zaprti seji to problematiko. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Zakonjšek se je naslednji javil.</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
                         <p>Gospod predsednik, spoštovani zbor! Morda bo ponovno kje objavljeno, da
                            zavlačujemo dnevni red seje z razpravo, vendarle se mi zdi, da je točka
@@ -981,7 +988,7 @@
                            informacijo, ki bo pač podprta s tem, kar vemo in znamo in predvsem tudi
                            z oceno Izvršnega sveta. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Se pravi: predlog gospoda Grosa je, točka dnevnega reda z
                            nazivom "denarni sistem Republike Slovenije". Gospod Zakonjšek je s svoje
@@ -990,7 +997,7 @@
                            eventualno sprejemali, ker jih dejansko ta trenutek še nimamo.  Besedo
                            ima gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Glede na to, da ni jasen naziv točke predlagam, da naj bi bila točka:
                            Sprejem vzporednih valut in razprava o monetarnem sistemu Republike
@@ -1003,11 +1010,11 @@
                            gospod Zakonjšek povedal, nam grozi danes tistih 11 oz. 12 zakonov; in če
                            mi ne bomo danes nekaj dorekli glede tega, jutri ne bomo več mogli.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Besedo ima gospod Atelšek.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Gospod predsednik, spoštovani poslanci! Jaz podpiram predlog gospoda
                            Grosa. Mi ne priznavamo zvezne ustave, svoje pa ne moremo kršiti predno
@@ -1015,7 +1022,7 @@
                            uvrstimo to na dnevni red, tako kot je predlagal predstavnik Izvršnega
                            sveta.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. V vsakem primeru dajem na glasovanje predlog gospoda Grosa za
                            uvrstitev točke, kakor jo je on formuliral, na dnevni red.  Najprej
@@ -1023,8 +1030,7 @@
                         <p>
                            <stage type="quorum">(72 prisotnih delegatov.)</stage>
                         </p>
-                        <p>Kdo je za predlagano razširitev, naj, prosim, glasuje? <stage type="vote"
-                              >(22 delegatov.)</stage> Kdo je proti? <stage type="vote">(24
+                        <p>Kdo je za predlagano razširitev, naj, prosim, glasuje? <stage type="vote">(22 delegatov.)</stage> Kdo je proti? <stage type="vote">(24
                               delegatov.)</stage> Kdo se je vzdržal? <stage type="vote">(24
                               delegatov.)</stage>
                         </p>
@@ -1032,7 +1038,7 @@
                         <p>Želi še kdo razpravljati o dnevnem redu kot celoti?  Besedo ima
                            dr.Glavič.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Gospe in gospodje! Mislim, da je razprava kljub temu potrdila to, da
                            sicer pod 9. točko ne bi obravnavali dobesedno tega zakona, ampak da bi
@@ -1049,19 +1055,19 @@
                            na naše sklepe in dodamo tiste, ki jih smatramo v tem trenutku kot
                            pomembne za funkcioniranje sistema, ki pa vendarle mora živeti.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospod Glavič, jaz bi prosil samo: ali imate vi spremenjeno formulacijo
                            točke dnevnega reda, ker o taki točki smo že odločali in smo se odločili,
                            dane sprejmemo take, kot je bila preje predlagana.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Predlagam, da glasujemo o točki 9 tako, kot je bila v dnevnem redu, ki
                            smo ga dobili za sejo. Potem bomo med obravnavo točke sklenili, kar bomo
                            pač sklenili.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>To je osnutek zakona o spremembah in dopolnitvah zakona o Narodni banki
                            Jugoslavije in enotnem monetarnem poslovanju narodnih bank republik in
@@ -1071,7 +1077,7 @@
                         <p>Predlagal bi, da glasujemo o tej 8. točki.  Besedo ima gospod
                            Debeljak.</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Jaz bi le moral nekaj pojasniti v zvezi s točko "Spremembe in dopolnitve
                            zakona o Narodni banki Jugoslavije", zakaj je delegacija predlagala umik
@@ -1100,7 +1106,7 @@
                            informacije o tem, kako to teče. Res pa je, da banke nimajo dostopa na
                            devizni trg - in to nobena banka, ne slovenska, ne srbska.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Spričo tega pojasnila bi jaz, če dovolite, predlagal, da bi
                            torej nekoliko spremenjeno točko, recimo, tako kot jo je predlagal gospod
@@ -1126,7 +1132,7 @@
                            svet, da bo takrat, ko bo ta točka na vrsti, primerna zastopanost
                            njegovih predstavnikov v zboru.</p>
                      </sp>
-                     <sp who="#sp.OgrisFranc">
+                     <sp who="#DZ-1991-ZbObc-12.sp.OgrisFranc">
                         <speaker>FRANC OGRIS:</speaker>
                         <p>Večkrat smo se že pogovarjali o posebni točki dnevnega reda, in sicer
                            "informacije o trenutni gospodarski situaciji v Sloveniji". Tega ni na
@@ -1139,15 +1145,17 @@
                            Hvala.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.4" ana="#PAR.TDR" corresp="#toc.1.3">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.1.4"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-12.toc.1.3">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Jaz bi predlagal, da tudi to zadevo, ker gre predlog v smer, da bi bilo
                            potrebno dati informacijo, zdi se mi, da tudi taka zadeva za to sejo
                            nekje spada v tisto točko <title>"pobude, predlogi, vprašanja"</title>.
                            Mislim, da bi v tem okviru lahko dobili neko tako informacijo.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Ker zbiramo informacije, bi tudi jaz prosil, če bi lahko dobil od Službe
                            za informiranje Skupščine, kot član ustavne komisije, pojasnilo, na
@@ -1160,8 +1168,10 @@
                            takoj to objavil. Hvala lepa.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.5" ana="#PAR.DolDnevRed" corresp="#toc.1.4">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.1.5"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-ZbObc-12.toc.1.4">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Jaz bi opozoril. Tukaj gre pravzaprav za delegatsko vprašanje. Kot smo se
                            dogovorili, tista vprašanja, na katera želijo delegati odgovor, naj bi
@@ -1171,7 +1181,7 @@
                            položaju poskušamo dobiti v okviru točke "pobude, predlogi,
                            vprašanja"?</p>
                      </sp>
-                     <sp who="#sp.OgrisFranc">
+                     <sp who="#DZ-1991-ZbObc-12.sp.OgrisFranc">
                         <speaker>FRANC OGRIS:</speaker>
                         <p>Mislim, da je to tako pomembna zadeva, da se bo pač zbor moral odločiti,
                            da bi jo morali obravnavati kot redno točko dnevnega reda. Če samo za
@@ -1179,7 +1189,7 @@
                            točko "informacijo o poslovanju podjetja", potem naprej pa je delo in
                            življenje, ki ga je treba urejati.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Torej, vaš predlog gre v to smer, da bi kot 2. točko dnevnega reda na
                            vsako sejo uvrstili "informacijo o gospodarskem položaju" s tem, da za
@@ -1199,9 +1209,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.BizjakIvan">
+               <div xml:id="DZ-1991-ZbObc-12.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.1">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA - ODOBRITEV ZAPISNIKA 9. IN
                               10. SEJE</title>.</p>
                         <p n="-">Osnutka obeh zapisnikov ste prejeli. Prav tako ste prejeli tudi
@@ -1212,8 +1225,11 @@
                            zapisniki odobreni.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" corresp="#toc.2.2">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.2">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA - PREDLOG USTAVNIH AMANDMAJEV
                               99 IN 100 K USTAVI REPUBLIKE SLOVENIJE</title>.</p>
                         <p n="-">Komisija za ustavna vprašanja je določila predlog ustavnih
@@ -1228,7 +1244,7 @@
                         <p>Želi morda besedo poročevalec Komisije za ustavna vprašanja, gospod
                            Starman? Prosim.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovane kolegice in kolegi! V javni razpravi se je o ustavnem
                            amandmaju 99 zbralo precej pripomb. Gre za izjemno odgovorno delo, gre
@@ -1255,7 +1271,7 @@
                            nekako javnost predstavlja. Zato predlagam, da tudi ta amandma - torej
                            amandma 100 - sprejmete v predlaganem besedilu. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Torej kot že rečeno in kot izhaja iz predloga Ustavne
                            komisije: obravnavali in sklepali bomo ločeno o vsakem posameznem
@@ -1263,7 +1279,7 @@
                         <p>Zato najprej odpiram razpravo v zvezi z amandmajem 99. Kdo želi besedo? -
                            Prosim, gospod Zakonjšek.</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK</speaker>
                         <p>Gospod predsednik, spoštovani zbor! Podpiram amandma z dopolnili, kot je
                            predložen s strani predstavnika ustavne komisije. Rad pa bi, da bi se ob
@@ -1294,7 +1310,7 @@
                            verodostojnost, kadar se bo potrebno pri nekaterih vprašanjih obrniti na
                            mednarodne institucije. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Mnenja sem, da pod to točko dnevnega reda ne bi bilo smiselno
                            sprejemati takega sklepa, čeprav razumem razloge, zaradi katerih bi bil
@@ -1316,7 +1332,7 @@
                         <p>Prehajamo na razpravo o amandmaju 100. K razpravi se je pisno prijavil
                            gospod Marko Stadler. Prosim!</p>
                      </sp>
-                     <sp who="#sp.StadlerMarko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.StadlerMarko">
                         <speaker>MARKO STADLER:</speaker>
                         <p>Mislim, da smo se Slovenci kot celota odločili za demokracijo, zato je
                            moje mnenje, da ta amandma lahko praktično sprejmemo brez razprave. Ker
@@ -1324,11 +1340,11 @@
                            številka 100 k Ustavi Republike Slovenije sprejmemo praktično brez
                            razprave, saj rdeča zvezda ni ravno simbol demokracije. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Prosim, gospod Aurelio Juri!</p>
                      </sp>
-                     <sp who="#sp.JuriAurelio">
+                     <sp who="#DZ-1991-ZbObc-12.sp.JuriAurelio">
                         <speaker>AURELIO JURI:</speaker>
                         <p>Podal bi stališče naše stranke do amandmaja 100. Uvodoma bi rekel, da
                            zagovarjanje potrebe za spremembo zastave, ki jo je dal kolega Starman, s
@@ -1364,11 +1380,11 @@
                         <p>Zato še enkrat predlagam to, da se sprememba zastave poveže s sprejemom
                            ustave. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Naslednji ima besedo gospod Vodopivec.</p>
                      </sp>
-                     <sp who="#sp.VodopivecIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.VodopivecIvan">
                         <speaker>IVAN VODOPIVEC:</speaker>
                         <p>Spoštovani predsednik, spoštovani kolegi! Mislim, da živimo v času, ko
                            Slovenci to plebiscitarno enotnost moramo ohraniti. Mislim, da bi
@@ -1386,7 +1402,7 @@
                            razdvojili slovenski narod v tem trenutku, ko rabimo eno veliko enotnost,
                            če hočemo dejansko to slovensko državo do kraja formirati. Hvala.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>No, jaz se s predhodnikom ne bi strinjal, da bomo razdvojili slovenski
                            narod zaradi tega, ker bi zvezdo sneli, ampak zaradi primitivnega
@@ -1406,7 +1422,7 @@
                            Izvršni svet, kjer bomo kompleksno obravnavali celotno problematiko.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PavšičTomaž">
+                     <sp who="#DZ-1991-ZbObc-12.sp.PavšičTomaž">
                         <speaker>TOMAŽ PAVŠIČ:</speaker>
                         <p>Simboli naroda ali države - to ni majhna stvar. Odločno sem proti tistim,
                            ki vsako razpravljanje o simbolu začnejo zavračati, češ da imamo druge
@@ -1437,11 +1453,11 @@
                         <p>Torej resnično ne vem, komu je toliko do tega, da tega amandmaja ne bi
                            sprejeli. Jaz sem odločno zanj. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Besedo ima gospod Starman.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Štel sem, da v našem zboru ne bo polemike okrog tega problema oziroma
                            tega amandmaja. Ker pa so nekateri poslanci postavili vprašanje resnega
@@ -1470,11 +1486,11 @@
                            tistih, ki so proti, ali so neodločeni. Torej ne gre za neko razdvajanje
                            slovenskega naroda. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Žunter ima besedo.</p>
                      </sp>
-                     <sp who="#sp.ŽunterAnton">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŽunterAnton">
                         <speaker>DR. ANTON ŽUNTER:</speaker>
                         <p>Rad bi samo ponovil stališče, ki ga je v našem klubu že povedal
                            predsednik  skupščine dr. Bučar. Mislim, da je razprava spet šla čisto
@@ -1482,11 +1498,11 @@
                            izključno o tem, ali se iz te obstoječe zastave sname zvezda ali ne. In
                            jaz predlagam, da bi s tem zaključili in šli kar na glasovanje.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Štefančič se je prijavil.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Spoštovani predsednik, poslanke, poslanci! Pravzaprav bom še enkrat
                            ponovil, o čemer sem že dvakrat govoril, zdaj pa že tretjič.</p>
@@ -1508,11 +1524,11 @@
                            gremo v ta nas, ki je, in seveda zvezdo umaknemo iz javnega življenja in
                            jo dejansko zbrišemo.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Gospod Schwarzbartl.</p>
                      </sp>
-                     <sp who="#sp.SchwarzbartlErvinAnton">
+                     <sp who="#DZ-1991-ZbObc-12.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Ko sem tale amandma doma proučeval, se mi rekel: verjetno ne bo kakšnih
                            posebnih problemov okrog tega, saj smo se s plebiscitom o tej stvari
@@ -1574,11 +1590,11 @@
                            odločimo in tisti problem, ki je v tej naši slovenski zastavi, snamemo.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Razdevšek se je še prijavil.</p>
                      </sp>
-                     <sp who="#sp.RazdevšekBorut">
+                     <sp who="#DZ-1991-ZbObc-12.sp.RazdevšekBorut">
                         <speaker>BORUT RAZDEVŠEK:</speaker>
                         <p>Rad bi povedal sledeče. Mislim, da se lahko štejem med tiste, ki niso
                            obremenjeni s preteklostjo, tako kot se tukaj v tej razpravi govori.
@@ -1595,7 +1611,7 @@
                            tablici. To se mi zdi dvolično. Ali se odločimo, da zbrišemo iz vseh teh
                            raznih znakov in tablic, ali pa imejmo to povsod gor. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Omenil bi samo nekaj, toliko da bi bilo bolj jasno. Gre za to, da
                            je v ustavi določena edino zastava od teh zadev. Notri ni registrskih
@@ -1606,7 +1622,7 @@
                            počnemo.</p>
                         <p>Naslednji ima besedo gospod Urbančič.</p>
                      </sp>
-                     <sp who="#sp.UrbančičMiloš">
+                     <sp who="#DZ-1991-ZbObc-12.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Jaz bi predgovorniku samo to odgovoril, zakaj zastava? Zastava zato, ker
                            je najbolj izpostavljen eksemplar ene države; to se pravi: zastava se
@@ -1622,7 +1638,7 @@
                            simbol komunizma. In če je komunizem propadel, pa priznajmo si že enkrat,
                            da če je propadel, pa dajmo še simbole z zastave. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.JuriAurelio">
+                     <sp who="#DZ-1991-ZbObc-12.sp.JuriAurelio">
                         <speaker>AURELIO JURI:</speaker>
                         <p>Jaz bi vas še enkrat spomnil na predlog, ki ga je dal kolega Atelšek, ki
                            se mi zdi zelo umesten in tudi realen, da se naroči, da se nekako zadolži
@@ -1637,7 +1653,7 @@
                         <p>Še nekaj bi rekel. Kako nas bo gledala Evropa? Evropa ima 12 zvezd, ne
                            vem, zakaj bi se bala ene. ZDA jih imajo celo 51 ali 52.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Pri tej točki se nisem mislil oglasiti, pa se bom vseeno. Očitno
                            komunizem še ni propadel, gospod Urbančič. Mi se borimo, da ga bomo z
@@ -1646,7 +1662,7 @@
                            je opozicija ostro nasprotovala temu in gospod Razdevšek verjetno tudi
                            ve. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PavšičTomaž">
+                     <sp who="#DZ-1991-ZbObc-12.sp.PavšičTomaž">
                         <speaker>TOMAŽ PAVŠIČ:</speaker>
                         <p>
                            <stage type="comment">(replika na gospoda Jurija)</stage> Vsa čast kolegu Aureliu Juriu,
@@ -1664,7 +1680,7 @@
                            Tistim, ki je tako žel za zvezdo, je morda žal za čem drugim. V to sem
                            popolnoma prepričan.</p>
                      </sp>
-                     <sp who="#sp.ŽampaJanez">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŽampaJanez">
                         <speaker>JANEZ ŽAMPA:</speaker>
                         <p>Tovariš predsednik, spoštovane poslanke in poslanci! Ne bi se skoraj
                            oglasil, pa čutim, da se moram oglasiti kot poslanec, kot Slovenec. Pod
@@ -1686,22 +1702,22 @@
                            toliko srčni in toliko kulturni in jo lepo snemimo na osnovi kulture,
                            spoštovanja in miru. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Feltrin.</p>
                      </sp>
-                     <sp who="#sp.FeltrinFranci">
+                     <sp who="#DZ-1991-ZbObc-12.sp.FeltrinFranci">
                         <speaker>FRANCI FELTRIN:</speaker>
                         <p>Spoštovani! Jaz bi imel samo repliko na to, koliko nas to stane. Res je,
                            vsaka stvar stane. Ravno opozicija očita, koliko davkov pobere država;
                            potem naj država vrne nazaj, da bodo tekstilni stroji spet delali in bodo
                            zastave delali. Tudi to je denar, veste.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gospod Atelšek se je še javil.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Nisem se hotel oglašati, pa vendar te etikete, ki padajo na komuniste in
                            ne vem, na koga vse, bi jaz želel, da jih nekateri zadržijo za sebe, da
@@ -1729,12 +1745,12 @@
                            tej problematiki, ker imamo mnogo globljih in teŽjih problemov, katerih
                            bi se morali lotiti.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Urbančič je naslednji. Jaz bi samo prosil, da te
                            razprave ne zaostrujemo, da ne bi prišlo do težav.</p>
                      </sp>
-                     <sp who="#sp.UrbančičMiloš">
+                     <sp who="#DZ-1991-ZbObc-12.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>V resnici bi mi to zvezdo lahko z levo roko ali z desno roko mimogrede
                            dali dali. In tudi vsi emblemi, kot se pravi, da bi morali iti vsi
@@ -1742,11 +1758,11 @@
                            tudi sukcesivno in tako bodo tudi sukcesivno odhajali - po mojem mnenju.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Gospod Kramarič.</p>
                      </sp>
-                     <sp who="#sp.KramaričTone">
+                     <sp who="#DZ-1991-ZbObc-12.sp.KramaričTone">
                         <speaker>TONE KRAMARIČ:</speaker>
                         <p>Vesel sem, da gre debata počasi v pravo smer, to se pravi, da smo vsi ZA.
                            Samo nekaj bi rad opozoril: slišali se je, da nekako moramo pohiteti,
@@ -1756,11 +1772,11 @@
                            komisije slabo delale - ne vem. To sedaj ni vprašanje, ampak mislim pa,
                            da je amandma tukaj in da ga lahko sprejmemo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Gospod Protner.</p>
                      </sp>
-                     <sp who="#sp.ProtnerJože">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ProtnerJože">
                         <speaker>MAG. JOŽE PROTNER:</speaker>
                         <p>Jaz bi s svojim kratkim prispevkom želel samo, da nekako pridemo do
                            nekega logičnega zaključka. To, o čemer smo sedaj govorili, sem zase
@@ -1774,7 +1790,7 @@
                            ne bo več rdeče zvezde na kapah naše teritorialne obrambe in naših
                            miličnikov. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? - Ugotavljam, da ne. Nekateri
                            poslanci so sedaj na Komisiji za volitve in imenovanja; ne vem, koliko je
@@ -1791,13 +1807,13 @@
                            sprejet.</p>
                         <p>Glede na čas, odrejam 45-minutni odmor za kosilo.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-02-20T11:45:00"
-                           xml:id="stage.t.2">prekinjena ob 11.45 uri</time> in se je <time
-                           from="1991-02-20T12:50:00" xml:id="stage.t.3">nadaljevala ob 12.50
+                     <stage type="time">(Seja je bila <time to="1991-02-20T11:45:00" xml:id="DZ-1991-ZbObc-12.stage.t.2">prekinjena ob 11.45 uri</time> in se je <time from="1991-02-20T12:50:00" xml:id="DZ-1991-ZbObc-12.stage.t.3">nadaljevala ob 12.50
                            uri</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" corresp="#toc.2.3">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.3">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Dovolite, da nadaljujemo z našo sejo. Od prej imamo še eno
                               <title>neusklajeno zadevo</title> iz prejšnjih sej, v zvezi s katero
@@ -1824,18 +1840,19 @@
                            zastopanost strank. Kot rečeno, ta predlog ni bil sprejet in zaradi tega
                            se predlaga, da se to obravnava na skupni seji, da se potem sprejme ali
                            zavrne, kakorkoli že. V glavnem, da ne leži v predalu tako rekoč.</p>
-                        <p>To dajem na glasovanje. Poglejmo najprej prisotnost! <stage type="quorum"
-                              >(54 prisotnih.)</stage>
+                        <p>To dajem na glasovanje. Poglejmo najprej prisotnost! <stage type="quorum">(54 prisotnih.)</stage>
                         </p>
                         <p>Kdo je za ta sklep? <stage type="vote">(42 delegatov za.)</stage> Je kdo
-                           proti? <stage type="vote">(1 delegat.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(8 delegatov.)</stage>
+                           proti? <stage type="vote">(1 delegat.)</stage> Se je kdo vzdržal? <stage type="vote">(8 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.TDR" n="3" corresp="#toc.2.4">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.4"
+                       ana="#PAR.TDR"
+                       n="3"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.4">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na <title>3. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               DOPOLNITVI ZAKONA O SKLADU SKUPNIH REZERV, S PREDLOGOM
                            ZAKONA</title>.</p>
@@ -1853,15 +1870,11 @@
                            pripravi zakon o prenehanju veljavnosti zakona o Skladu skupnih rezerv, s
                            katerim se uredi pravno nasledstvo tega sklada, finančna razmerja,
                            obveznosti in pravice po prenehanju veljavnosti tega zakona."</p>
-                        <p>Pričenjam razpravo. Želi kdo razpravljati? <stage type="debate"
-                              >(Ne.)</stage>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? <stage type="debate">(Ne.)</stage>
                         </p>
-                        <p>Torej prehajamo na glasovanje. Najprej pa ugotovimo prisotnost! <stage
-                              type="quorum">(53 prisotnih.)</stage>
+                        <p>Torej prehajamo na glasovanje. Najprej pa ugotovimo prisotnost! <stage type="quorum">(53 prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za predlog za izdajo zakona, s predlogom zakona? <stage
-                              type="vote">(54 delegatov za.)</stage> Je kdo proti? <stage
-                              type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(1
+                        <p>Kdo je za predlog za izdajo zakona, s predlogom zakona? <stage type="vote">(54 delegatov za.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(1
                               delegat.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog za izdajo zakona, s predlogom zakona, z večino
@@ -1877,8 +1890,11 @@
                         <p>Ugotavljam, da je dodatni sklep z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.5" ana="#PAR.TDR" n="4" corresp="#toc.2.5">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.5"
+                       ana="#PAR.TDR"
+                       n="4"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.5">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na <title>4. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               SPREMEMBAH IN DOPOLNITVAH ZAKONA O DOLOČITVI NALOG, KI JIH OD 1.1.1990
                               ZAČASNO OPRAVLJAJO ORGANI SAMOUPRAVNIH INTERESNIH SKUPNOSTI IN O
@@ -1893,8 +1909,7 @@
                         <p>Iz poročila Zakonodajno-pravne komisije je razvidno, da ta predlaga
                            amandma k 3. členu predloga zakona. S tem amandmajem se strinja oz. ga
                            podpira tudi Izvršni svet.</p>
-                        <p>Pričenjam razpravo. Želi kdo razpravljati o tem? <stage type="debate"
-                              >(Ne.)</stage>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati o tem? <stage type="debate">(Ne.)</stage>
                         </p>
                         <p>Potem prehajamo na glasovanje. Najprej bomo glasovali o amandmaju
                            Zakonodajno-pravne komisije k 3. členu predloga zakona, se pravi, naj se
@@ -1919,8 +1934,11 @@
                         <p>Ugotavljam, da je predlog zakona z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.6" ana="#PAR.TDR" n="5" corresp="#toc.2.6">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.6"
+                       ana="#PAR.TDR"
+                       n="5"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.6">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O SPREMEMBAH
                               IN DOPOLNITVAH ZAKONA O VARNOSTI NA ŽIČNICAH IN VLEČNICAH</title>.</p>
                         <p>Predlagatelj akta je Izvršni svet. Ali želi morda njegov predstavnik
@@ -1930,8 +1948,7 @@
                            komisija v svojem poročilu predlaga nekatere redakcijske popravke in
                            predlaga, da jo zbor pooblasti in da le-te upošteva pri pripravi besedila
                            zakona za objavo v Uradnem listu Republike Slovenije.</p>
-                        <p>Pričenjam razpravo. Želi kdo razpravljati? <stage type="debate"
-                              >(Ne.)</stage> Potem lahko preidemo na glasovanje. Najprej vprašam,
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? <stage type="debate">(Ne.)</stage> Potem lahko preidemo na glasovanje. Najprej vprašam,
                            ali kdo nasprotuje temu, da Zakonodajno-pravna komisija redakcijske
                            popravke vnese pred objavo? <stage type="debate">(Ne.)</stage> Torej
                            razumem, da jo zbor pooblašča za to.</p>
@@ -1943,8 +1960,11 @@
                         <p>Ugotavljam, da je predlog zakona z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.7" ana="#PAR.TDR" n="6" corresp="#toc.2.7">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.7"
+                       ana="#PAR.TDR"
+                       n="6"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.7">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na <title>6. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O SPREMEMBAH
                               IN DOPOLNITVAH ZAKONA O ZAGOTAVLJANJU SREDSTEV ZA SKUPNE DRUŽBENE
                               POTREBE V LETU 1990 IN O PORAČUNU DOLOČENIH OBVEZNOSTI IZ DOHODKA ZA
@@ -1959,7 +1979,7 @@
                            Izvršnega sveta? Prosim, gospod Debeljak, namestnik sekretarja za
                            finance.</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Izvršni svet Skupščine Republike Slovenije je ob obravnavi predloga za
                            izdajo zakona z osnutkom zakona sprejel stališče, da ne podpira
@@ -1985,7 +2005,7 @@
                            predlaga, da se zakon ne sprejme; to pomeni, da Izvršni svet Skupščine
                            Republike Slovenije predloga zakona ne podpira. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Na klop ste danes prejeli tudi poročilo Odbora za proračun in
                            javne finance, ki iz podobnih razlogov kot Izvršni svet tudi ne podpira
@@ -2001,8 +2021,11 @@
                         </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.8" ana="#PAR.TDR" n="9" corresp="#toc.2.8">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.8"
+                       ana="#PAR.TDR"
+                       n="9"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.8">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Ugotavljam, da smo bili obveščeni, da so predstavniki Izvršnega sveta za
                            naslednji dve točki dnevnega reda trenutno na drugih dveh zborih, zato
                            predlagam, da preidemo na <title>9. TOČKO DNEVNEGA REDA - STALIŠČE
@@ -2046,8 +2069,11 @@
                         <p>Ugotavljam, da je predlog stališča z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.9" ana="#PAR.TDR" n="7" corresp="#toc.2.9">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.9"
+                       ana="#PAR.TDR"
+                       n="7"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.9">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Ker ustreznih predstavnikov Izvršnega sveta še ni tukaj, bi se še ne
                            vrnili na tisti dve točki dnevnega reda, ki smo ju preskočili. Sedaj pa
                            je prišel sekretar za drobno gospodarstvo in se lahko povrnemo na
@@ -2056,7 +2082,7 @@
                         <p>Predlagatelj tega akta je Izvršni svet. Želi njegov predstavnik besedo?
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.BrezarViktor">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BrezarViktor">
                         <speaker>VIKTOR BREZAR:</speaker>
                         <p>Spoštovani poslanci, predsednik in ostali! Najprej bi se opravičil -
                            imeli smo isto razpravo na Zboru združenega dela. Torej: mi imamo v
@@ -2116,13 +2142,13 @@
                            pogoji. Sprememba te pogodbe v bistvu pa pomeni postavljanje novih norm
                            kar se tiče kapitalskih odnosov. Hvala.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-12.sp.RojecAnton">
                         <speaker>PREDSEDUJOČI ANTON ROJEC:</speaker>
                         <p>Predlog zakona ste prejeli. Danes ste prejeli amandmaje Izvršnega sveta.
                            Predlog zakona so obravnavala pristojna delovna telesa in zboru pisno
                            poročala. Želijo poročevalci besedo? Prosim.</p>
                      </sp>
-                     <sp who="#sp.SlejkoVladimir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.SlejkoVladimir">
                         <speaker>VLADIMIR SLEJKO:</speaker>
                         <p>V glavnem vidim, da nismo v nasprotju z Izvršnim svetom nikjer drugje,
                            razen v 7. členu. To je pa tisto, ko Izvršni svet predlaga 50:50 delitev,
@@ -2149,16 +2175,15 @@
                            dogovora in kakor se bodo zmenili zainteresirani, tako bo najboljše.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-12.sp.RojecAnton">
                         <speaker>PREDSEDUJOČI ANTON ROJEC:</speaker>
-                        <p>Hvala. Želi še kdo od poročevalcev besedo? <stage type="vote"
-                              >(Nihče.)</stage> Zakonodajno-pravna komisija v svojem poročilu
+                        <p>Hvala. Želi še kdo od poročevalcev besedo? <stage type="vote">(Nihče.)</stage> Zakonodajno-pravna komisija v svojem poročilu
                            predlaga amandmaje, in sicer k naslovu, k 2., 3., 4., 7., 9. in 11.
                            členu; Odbor za podjetništvo in obrt pa predlaga amandmaje k 7., 10. in
                            11. členu ter novi 12. člen.</p>
                         <p>Pričenjam razpravo. Kdo želi besedo?</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Res je, da sem jaz predlagal, da bi se delilo 80:20. Vendar je tudi res,
                            da me je Sekretariat za drobno gospodarstvo prepričal, da je bolj
@@ -2180,7 +2205,7 @@
                            najbolj pravično, da vsak dobi tisto, kar ni vzel iz POZD-a. Jaz mislim,
                            da bi zbor lahko tako sprejel ta zakon. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Še kdo? - Če ne želi nihče več razpravljati, razpravo
                            zaključujem in prehajamo na glasovanje. Kot je bilo že povedano, je na ta
@@ -2194,8 +2219,7 @@
                         <p>Poglejmo prisotnost! <stage type="quorum">(55 prisotnih.)</stage>
                         </p>
                         <p>Kdo je za ta amandma Zakonodajno-pravne komisije? <stage type="vote">(41
-                              delegatov za.)</stage> Je kdo proti? <stage type="vote"
-                              >(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(7
+                              delegatov za.)</stage> Je kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(7
                               delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je amandma izglasovan.</p>
@@ -2203,8 +2227,7 @@
                            besedama "pravni nasledniki" se doda besedilo "(v nadaljnjem
                               besedilu ustanovitelj)". Izvršni svet ta amandma podpira.</p>
                         <p>Kdo je za ta amandma? <stage type="vote">(53 delegatov za.)</stage> Je
-                           kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(2 delegata.)</stage>
+                           kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(2 delegata.)</stage>
                         </p>
                         <p>Ugotavljam, da je amandma z večino glasov sprejet.</p>
                         <p>K 3. členu imamo amandma Zakonodajno-pravne komisije, ki pravi: v prvem
@@ -2317,28 +2340,32 @@
                         <p>Ugotavljam, da je predlog zakona z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.10" ana="#PAR.TDR" n="8" corresp="#toc.2.10">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.10"
+                       ana="#PAR.TDR"
+                       n="8"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.10">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajamo na <title>8. TOČKO DNEVNEGA REDA - POBUDA ZA SKLENITEV DOGOVORA
                               O SPREMEMBAH IN DOPOLNITVAH DOGOVORA O TEMELJNIH KRITERIJIH ZA OBRAČUN
                               IN VALORIZACIJO KATASTRSKEGA DOHODKA, Z OSNUTKOM DOGOVORA</title>.</p>
                         <p>Pobudo z osnutkom dogovora je Skupščini predložil v soglasje Zbor
                            republik in pokrajin Skupščine SFRJ. Želita morda predstavnika delegacije
-                           ali Izvršnega sveta besedo? <stage type="debate">(Ne.)</stage></p>
+                           ali Izvršnega sveta besedo? <stage type="debate">(Ne.)</stage>
+                        </p>
                         <p>Pobudo z osnutkom dogovora ste prejeli. Na klop ste prejeli mnenje
                            Izvršnega sveta in predlog sklepa, ki je bil pripravljen na podlagi tega
                            mnenja. Predlog sklepa naj bi po razpravi sprejel naš zbor. Pobudo z
                            osnutkom dogovora so obravnavala pristojna delovna telesa in zboru pisno
                            poročala. Želi besedo kdo od poročevalcev? Prosim.</p>
                      </sp>
-                     <sp who="#sp.ČrnejJanez">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ČrnejJanez">
                         <speaker>JANEZ ČRNEJ:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani poslanci! Odbor za kmetijstvo in
                            gozdarstvo podpira mnenje Izvršnega sveta, ker smatra, da ta predpis ne
                            odgovarja razmeram v Sloveniji in Slovenija pripravlja svoje predpise in
                            svoje pogoje.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi kdo razpravljati? <stage type="debate">(Ne.)</stage> -
                            Prehajamo na glasovanje o predlogu sklepa, ki glasi:  </p>
@@ -2355,8 +2382,10 @@
                         <p>POBUDE, PREDLOGI IN VPRAŠANJA DELEGATOV.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.11" ana="#PAR.TDR" corresp="#toc.2.11">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.11"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.11">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Predno preidemo na to točko, bi bilo potrebno, da <title>izvolimo še
                               komisijo</title>, ki bo usklajevala obračunski zakon komisija za
                            ustavni amandma, da na kratko rečem. Tega naš zbor ni sprejel. Zbor
@@ -2376,8 +2405,7 @@
                         </p>
                         <p>V tem primeru dajem tako sestavo komisije na glasovanje.</p>
                         <p>Kdo je za to sestavo? <stage type="vote">(50 delegatov za.)</stage> Je
-                           kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(1 delegat.)</stage>
+                           kdo proti? <stage type="vote">(Nihče.)</stage> Se je kdo vzdržal? <stage type="vote">(1 delegat.)</stage>
                         </p>
                         <p>Ugotavljam, da je taka sestava komisije potrjena.</p>
                         <p>Ustanoviti velja še drugo komisijo, se pravi za obračunski zakon in vse
@@ -2387,14 +2415,16 @@
                         </p>
                         <p>Torej dajem komisijo v taki sestavi na glasovanje.</p>
                         <p>Kdo je za? <stage type="vote">(51 delegatov za.)</stage> Je kdo proti?
-                              <stage type="vote">(2 delegata.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(1 delegat.)</stage>
+                              <stage type="vote">(2 delegata.)</stage> Se je kdo vzdržal? <stage type="vote">(1 delegat.)</stage>
                         </p>
                         <p>Ugotavljam, da je tudi ta komisija izvoljena.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.12" ana="#PAR.TDR" n="10" corresp="#toc.2.12">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.12"
+                       ana="#PAR.TDR"
+                       n="10"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.12">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Prehajam na <title>10. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGI IN
                               VPRAŠANJA DELEGATOV</title>.</p>
                         <p>Obveščamo vas, da smo vam v okviru te točke posredovali delegatsko
@@ -2409,7 +2439,7 @@
                            postavljanje delegatskih vprašanj je že nekaj prijavljenih. - Prvi se je
                            prijavil gospod Jug.</p>
                      </sp>
-                     <sp who="#sp.JugJanez">
+                     <sp who="#DZ-1991-ZbObc-12.sp.JugJanez">
                         <speaker>MAG. JANEZ JUG:</speaker>
                         <p>Dajem pobudo republiškemu izvršnemu svetu oziroma preko njega, če bo
                            takrat že samostojen, če ne pa beograjskemu, da prične postopek za
@@ -2459,7 +2489,7 @@
                            pomembna. Prosim, da s svojo podporo omogočite vsaj začetek odpravljanja
                            življenjskih krivic naših ljudi.</p>
                      </sp>
-                     <sp who="#sp.KotnikLudvik">
+                     <sp who="#DZ-1991-ZbObc-12.sp.KotnikLudvik">
                         <speaker>LUDVIK KOTNIK:</speaker>
                         <p>Poslanci Skupščine občine Ravne so me zadolžili, da preberem to pismo;
                            ker pa je bilo to pismo danes objavljeno v Delu, mi dovolite, da preberem
@@ -2488,7 +2518,7 @@
                            slovensko zgodovino. Apeliramo: strnite svoje vrste, zdaj gre za
                            slovenski narod.</p>
                      </sp>
-                     <sp who="#sp.AtelšekIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.AtelšekIvan">
                         <speaker>IVAN ATELŠEK:</speaker>
                         <p>Spoštovani predsednik, spoštovani gospodje in gospe delegati! Izvršnemu
                            svetu Skupščine Republike Slovenije postavljam naslednje vprašanje
@@ -2497,7 +2527,7 @@
                            izdajo cenika prekršil 20. člen Zakona o socialnem zavarovanju?
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.RojecAnton">
+                     <sp who="#DZ-1991-ZbObc-12.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Imam dve vprašanji. Vprašanje Izvršnemu svetu je številka ena. Kaj je s
                            slovensko solidarnostjo ob poplavi? Ob novembrskih poplavah je nastala
@@ -2524,7 +2554,7 @@
                            poslovna banka, ki si na ta način lasti del oblastnega odločanja.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.ŽižekVili">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŽižekVili">
                         <speaker>VILI ŽIŽEK:</speaker>
                         <p>Želel bi podati pobudo za uvedbo kavcije na embalažo za zaščitna
                            sredstva. Uporaba zaščitnih sredstev za varstvo rastlin v kmetijstvu
@@ -2555,7 +2585,7 @@
                            okolja, prispevali k ekološko smotrnejši in gospodarsko razumnejši porabi
                            cidov v kmetijstvu. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Spoštovani predsednik, drage kolegice in kolegi! Delegatsko vprašanje
                            dajem v imenu Izvršnega sveta Skupščine obalne skupnosti Koper, in sicer
@@ -2593,7 +2623,7 @@
                            programa. Menimo, da tako stališče Republiškega sekretariata ni načelno
                            in želimo, da dajo podrobno obrazložitev. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Najprej imam eno pripombo na predlog, da bi Izvršni svet, dokler je še
                            čas, pri proračunu upošteval ceste tako kot je potrebno. Meni so
@@ -2672,7 +2702,7 @@
                         <p>Glede vzporednih valut bom pa potem, ko bo gospod Debeljak povedal svoje
                            mnenje.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>
                            <stage type="comment">(replika)</stage> Če dovolite, bi k temu paketu ukrepov, ki ga je
@@ -2688,7 +2718,7 @@
                            Izvršnega sveta? Ali je napačen ali so napačne informacije, ki jih imamo?
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.IvanušičZvonko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.IvanušičZvonko">
                         <speaker>ZVONKO IVANUŠIČ:</speaker>
                         <p>Pred približno pol leta sem dal pobudo Izvršnemu svetu, naj se skupaj z
                            Izvršnim svetom Republike Hrvaške dogovorita o statusu reke Kolpe in
@@ -2702,7 +2732,7 @@
                            čistih evropskih rek, katere čistost zadnje čase rapidno upada. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.UrbančičMiloš">
+                     <sp who="#DZ-1991-ZbObc-12.sp.UrbančičMiloš">
                         <speaker>MILOŠ URBANČIČ:</speaker>
                         <p>Sedaj je občutno zvišan prometni davek na zbiranje odpadnih surovin -
                            mislim, da je prišel prometni davek na 33% - in že tako ali tako so
@@ -2710,7 +2740,7 @@
                            zberejo 300 kg papirja, dobijo 200 dinarjev in zdaj morajo od tega
                            plačati še 66 dinarjev davka. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PavšičTomaž">
+                     <sp who="#DZ-1991-ZbObc-12.sp.PavšičTomaž">
                         <speaker>TOMAŽ PAVŠIČ:</speaker>
                         <p>Spoštovani! Odbor za kulturo in varstvo kulturne dediščine na ravni
                            skupščine je sprejel sklep, da se prometnega davka oprostijo knjige,
@@ -2720,7 +2750,7 @@
                            na naš zbor, da podpre ta sklep, ki je v interesu slovenske knjige in
                            slovenske kulture. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.VivodIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.VivodIvan">
                         <speaker>DR. IVAN VIVOD:</speaker>
                         <p>Sprašujem Sekretariat za šolstvo Republike Slovenije o namenu ukinjanja
                            osnovnih šol in pa dislociranih oddelkov ter srednjih šol v demografsko
@@ -2734,7 +2764,7 @@
                            kvaliteten pouk. Namreč učenec tu postaja objekt vzgoje, ne pa subjekt
                            vzgojnoizobraževalnega procesa.</p>
                      </sp>
-                     <sp who="#sp.SlejkoVladimir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.SlejkoVladimir">
                         <speaker>VLADIMIR SLEJKO:</speaker>
                         <p>Jaz bi postavil delegatsko pobudo Izvršnemu svetu, in sicer: da se
                            ugotovi zakonitost načina zbiranja sredstev PTT organizacij glede na
@@ -2772,11 +2802,11 @@
                            Skupščini, in oceniti odgovornost tega početja. Jaz osebno mislim, da za
                            take postopke bi moral minister odstopiti. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Torej tu v bistvu ne gre za replike, ker so vprašanja in pobude.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Torej moram replicirati gospodu Slejku. Čeprav sem se z večino stvari
                            strinjal, vendar moram povedati, da jaz ne bom tega zvišanega davka
@@ -2792,7 +2822,7 @@
                            čisto vse. Tako prosim, da se ne sprenevedajmo - po riti udarite svoje
                            ministre, pa bo boljše.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ.</speaker>
                         <p>Spoštovani predsedujoči, spoštovani poslanci in poslanke! Jaz bi najprej
                            izrekel podporo temu, kar je že pred menoj pripovedoval gospod Pavšič v
@@ -2822,7 +2852,7 @@
                            bi bilo dobro slišati kakšno informacijo s pristojnega mesta v zvezi s
                            tem vprašanjem.</p>
                      </sp>
-                     <sp who="#sp.GradišarCvetko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Pobuda se nanaša tudi na davščine in bi potem nekaj konkretnega predlagal
                            tudi o delu Skupščine in odnosu do Izvršnega sveta.</p>
@@ -2916,14 +2946,14 @@
                            izračun, da bo samo v vulgarnem ekonomskem izračunu letni proračun za
                            cestno infrastrukturo izpadel v teh dvajsetih letih na tem področju.</p>
                      </sp>
-                     <sp who="#sp.FrankoKarel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.FrankoKarel">
                         <speaker>KAREL FRANKO:</speaker>
                         <p>V pripravi je zakon o denacionalizaciji. Vprašam: 1) Ali obstojajo vsaj
                            približno predvidevanja, koliko nas bo denacionalizacija stala? - 2) Iz
                            kakšnih virov bodo dotekala dinarska sredstva? - 3) Ali bodo črpana tudi
                            iz proračuna? Ta bojazen je prisotna. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.JuriAurelio">
+                     <sp who="#DZ-1991-ZbObc-12.sp.JuriAurelio">
                         <speaker>AURELIO JURI:</speaker>
                         <p>Po današnjih razpravah, pobudah, zahtevah pridemo do zaključka, da bo
                            treba revidirati, in to v velikem obsegu, našo novo davčno zakonodajo.
@@ -2943,7 +2973,7 @@
                            neumestna in v sedanjem trenutku se kaže tudi kot svojevrsten
                            anahronizem. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ŠoncMetod">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŠoncMetod">
                         <speaker>METOD ŠONC:</speaker>
                         <p>Pridružujem se vsem tistim, ki so kritizirali davčno zakonodajo in bi
                            dodal samo to, da smo bili poslanci najbrž tudi na terenu zelo
@@ -2972,7 +3002,7 @@
                            ponujamo sodelovanje. - Sindikat zdravnikov dolenjske regije. Predsednik
                            izvršnega odbora, dr. medicine Andrej Šinkovec."</p>
                      </sp>
-                     <sp who="#sp.KramaričTone">
+                     <sp who="#DZ-1991-ZbObc-12.sp.KramaričTone">
                         <speaker>TONE KRAMARIČ:</speaker>
                         <p>Hvala za besedo. Predlagam, da postane Skupnost pokojninsko-invalidskega
                            zavarovanja Slovenije samostojna skupnost v tem smislu, da svobodno
@@ -2990,7 +3020,7 @@
                            delodajalcem, saj se bo tako razbremenila celotne oskrbe socialno
                            ogroženega prebivalstva. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ProtnerJože">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ProtnerJože">
                         <speaker>MAG. JOŽE PROTNER:</speaker>
                         <p>Imam dva sklopa pobud. Prvi se nanaša na danes že toliko izrečenih pobud,
                            ki zadevajo spremembo zakonodaje s področja davkov od prometa proizvodov.
@@ -3024,7 +3054,7 @@
                            Šentilj-Maribor-Zagreb, pa seveda neargumentirano postavlja v drugi plan.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Protestiram proti takemu govorjenju! Jaz nisem imel tukaj lokalističnih
                            interesov. Nasprotno, izjavil sem celo, da je treba karavanški predor
@@ -3037,19 +3067,19 @@
                            Zagreb - Maribor, je pa dejstvo, ker Slovenija tega ne rabi tako nujno
                            kot cesto Maribor - Ljubljana in še naprej proti obali.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Jaz bi to proračunsko debato za danes prekinil, ker je petega na dnevnem
                            redu.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>In dodal bi še gospodu Štefančiču, ki je govoril o vprašljivosti varnosti
                            deviz. Jaz bi postavil vprašanje gospodu Kranjcu, ki je izjavil po radiu,
                            da Republika Slovenija ne bo garantirala za obveznice Republike
                            Slovenije. Prosim, če gospod Kranjc da pojasnilo na to svojo izjavo.</p>
                      </sp>
-                     <sp who="#sp.ProtnerJože">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ProtnerJože">
                         <speaker>MAG. JOŽE PROTNER:</speaker>
                         <p>To samo zaradi tega, ker sem poudaril, da želim razpravljati v tem
                            smislu, ker spoštujem to točko dnevnega reda - to je pobude, predloge in
@@ -3064,7 +3094,7 @@
                            mislim, da to ni, ampak da je samo obrazložitev enega stališča, ki je
                            bilo, spoštovanje točke dnevnega reda. Hvala.</p>
                      </sp>
-                     <sp who="#sp.JežMatjaž">
+                     <sp who="#DZ-1991-ZbObc-12.sp.JežMatjaž">
                         <speaker>MATJAŽ JEŽ:</speaker>
                         <p>Tokrat delegatsko vprašanje naslavljam na gospoda Capudra, sekretarja
                            Republiškega sekretariata za kulturo. Vprašanje je povezano z njegovo
@@ -3075,7 +3105,7 @@
                            Mariboru zavožena investicija? - 2) Kako bo rešil vprašanje nadaljevanje
                            gradnje tega mariborskega gledališča? - Prosim za pismen odgovor.</p>
                      </sp>
-                     <sp who="#sp.ŽampaJanez">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŽampaJanez">
                         <speaker>JANEZ ŽAMPA:</speaker>
                         <p>Delegatska pobuda. Poslanski klub Slovenske kmečke zveze-Ljudske stranke
                            ponovno daje pobudo Skupščini Republike Slovenije, da le-ta zaveže
@@ -3086,7 +3116,7 @@
                            sramotno nizke pokojnine, v določenih primerih celo manj kot 300 dinarjev
                            mesečno.</p>
                      </sp>
-                     <sp who="#sp.VodopivecIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.VodopivecIvan">
                         <speaker>IVAN VODOPIVEC:</speaker>
                         <p>V lanskem in predlanskem letu smo v tej skupščini dali garancijo za
                            izgradnjo avtocestnega kraka Razdrto - Čebulovica, izbran je bil
@@ -3102,7 +3132,7 @@
                            tej izgradnji avtocestnega kraka Razdrto - Čebulovica obnaša malo, kot da
                            je na domačem terenu.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Dovolite mi - predno gremo na druge stvari, ki nam pod to točko ostajajo
                            - da zdaj najprej opozorim na poslovnik. Kot ste videli, danes nisem
@@ -3125,7 +3155,7 @@
                            delo - da se ta točka ne prelevi v neki miš-maš, v neko mešanico ali
                            kakorkoli temu rečemo, kjer bi potem vsak ravno o vsem govoril.</p>
                      </sp>
-                     <sp who="#sp.BožičDanijel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BožičDanijel">
                         <speaker>DANIJEL BOŽIČ:</speaker>
                         <p>Jaz sem poslal delegatsko pobudo po telefaksu prejšnji teden v upanju, da
                            bo morda danes Izvršni svet nanjo že kaj odgovoril. Šlo pa je za pobudo v
@@ -3134,7 +3164,7 @@
                            še nekatere druge zadeve, da bi poenostavili in olajšali opravljanje
                            popisa prebivalstva.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>To pobudo smo isti dan posredovali Izvršnemu svetu. Jaz bi povprašal, če
                            je morda na katerokoli od vprašanj, ki so bila medtem postavljena,
@@ -3151,7 +3181,7 @@
                            opredeli, ali bo sledil temu predlogu drugega zbora ali ne. To je vse,
                            kar naš zbor drugim zborom lahko v danem trenutku naredi.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1991-ZbObc-12.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Strinjam se z gospodom Grosom, da je problematika izjemno aktualna in
                            pereča in o tej stvari je razpravljal Odbor za pravosodje in upravo pred
@@ -3193,11 +3223,11 @@
                            zadeve na svojevrsten način, damo na skupno sejo in da ga kot takega
                            sprejmemo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi še kdo kaj reči? Prosim, gospod Gradišar.</p>
                      </sp>
-                     <sp who="#sp.GradišarCvetko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GradišarCvetko">
                         <speaker>DR. CVETKO GRADIŠAR:</speaker>
                         <p>Če je tukaj predstavnik Izvršnega sveta, bi prosil, da odgovori na
                            vprašanje, če je točen podatek, da se sredstva, zbrana preko davčne
@@ -3222,7 +3252,7 @@
                            prejemke, gre za dostikrat tudi izjemno enormne vsote in o tem ni govora,
                            ne duha ne sluha. Pa bi želel odgovor na ta vprašanja.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Prosil bi, da po možnosti pisno tista vprašanja iskristalizirate. To
                            sicer ni šlo v okvir te razprave o pobudi gospoda Grosa.  Če ni več
@@ -3243,7 +3273,7 @@
                            lahko pove kaj v zvezi z vprašanji, ki so bila postavljena ob obravnavi
                            dnevnega reda v zvezi z denarnim sistemom Republike Slovenije.</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Spoštovani predsednik, spoštovane delegatke in delegati! Jaz upam, da sem
                            pravilno registriral vprašanja, ki so bila postavljena, oziroma pobude,
@@ -3384,7 +3414,7 @@
                         <p>Če pa nisem dal vseh pojasnil na vse to, kar je bilo mišljeno, potem bi
                            prosil, da postavite konkretna vprašanja, pa bi potem še dodal.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa zaenkrat; če bo še kakšno vprašanje, pa prosim. Zdaj imamo
                            nekaj časa še do skupne seje. V zvezi z davčnimi pripombami je bilo
@@ -3392,7 +3422,7 @@
                            pač na to potrebno pisno odgovoriti; mislim, da se to da akceptirati, ker
                            je dejansko; če ne pa pač konkretno vprašanje.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Zahvaljujem se za odgovor, ampak mislim, da naš zbor ne more sprejeti
                            sklepa, ki je bil na koncu obrazložen, torej da je nekdo z vdorom v naš
@@ -3409,14 +3439,14 @@
                            korist k tem 300 milijonom dolarjev, ki sem jo pravkar omenil, če sploh
                            bodo kdaj vrnile, kar so nakradle. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Sklepov pod to točko seveda ne bomo sprejemali, ker je to informacija o
                            teh stvareh. Gospod Debeljak je govoril o sklepu, ki so ga sprejeli na
                            Svetu guvernerjev, ali kje? A, na Odboru za kreditno-monetarni sistem.
                            Dobro.  Besedo ima gospod Vodopivec.</p>
                      </sp>
-                     <sp who="#sp.VodopivecIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.VodopivecIvan">
                         <speaker>IVAN VODOPIVEC:</speaker>
                         <p>Jaz bi gospodu Debeljaku postavil samo eno vprašanje. Devizni varčevalci
                            iz našega območja so mi postavili vprašanje: ne morejo s svojih hranilnih
@@ -3427,7 +3457,7 @@
                            ali bo konvertirano; skratka: kakšna je garancija, da te njihove devize
                            ne bodo propadle? Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZakonjšekJože">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
                         <p>Gospod Debeljak nam je lepo razložil, kakšno je pravno finančno in
                            sistemsko stanje v pogledu financiranja funkcij federacije in najbrž k
@@ -3459,11 +3489,11 @@
                            ima zelo težke posledice za gospodarstvo - pa ne samo za gospodarstvo,
                            tudi za prebivalstvo - samovolja guvernerja ali ne vem koga?</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK.</speaker>
                         <p>Gospod Debeljak, ali lahko kaj odgovorite?</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Glede komentarja oz. stališča v zvezi s 300 milijoni dolarji. Mislim, da
                            ste me slabo razumeli. Jaz sem povedal, da je bil med drugim tudi sprejet
@@ -3536,11 +3566,11 @@
                            in so v pravilniku o delu, poslovniku o delu in tudi v pristojnostih
                            Sveta guvernerjev je bilo to napisano, da imajo oni to pravico.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Borut Razdevšek se je še javil.</p>
                      </sp>
-                     <sp who="#sp.RazdevšekBorut">
+                     <sp who="#DZ-1991-ZbObc-12.sp.RazdevšekBorut">
                         <speaker>BORUT RAZDEVŠEK:</speaker>
                         <p>Spoštovano predsedstvo in spoštovani zbor! Jaz bi želel komentirati
                            delegatsko vprašanje gospe Isabelle Flego v zvezi z izplačilom deviznih
@@ -3575,7 +3605,7 @@
                            razmerjih tako, da toži banko, dokler ti pogoji o jamstvu federacije niso
                            izpolnjeni. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ŠoncMetod">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŠoncMetod">
                         <speaker>METOD ŠONC:</speaker>
                         <p>Dovolite mi, da bom malo polemiziral z vašim odgovorom oz. da si dovolim
                            po svoje razumeti. Rekli ste: ker je Srbija in ne vem kdo še vse vdrl v
@@ -3595,7 +3625,7 @@
                            pa bomo potem videli, kako bo, in tako naprej. Vedno manj bo teh deviz,
                            vedno manj!</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Rezerve so. V tem trenutku znašajo nekaj čez 6 milijard dolarjev, dočim
                            je ocena, da je minimum, s katerim bi lahko Jugoslavija poslovala, 4,6
@@ -3627,7 +3657,7 @@
                            pobudo, ki sem jo dal na prejšnji seji za slovenske banke, tudi na
                            Narodno banko Jugoslavije.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Ta razprava me je spodbudila, da postavim tri vprašanja, kajti z
                            odgovorom gospoda podministra nisem prav preveč zadovoljen. In sicer: Ali
@@ -3638,7 +3668,7 @@
                            stranka na skupnem zasedanju zadnjič?  Na ta tri vprašanja prosim
                            odgovore Izvršnega sveta Slovenije.</p>
                      </sp>
-                     <sp who="#sp.GrdadolnikJože">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GrdadolnikJože">
                         <speaker>JOŽE GRDADOLNIK:</speaker>
                         <p>Gospod Debeljak je povedal nekaj spodbudnega, namreč, da poslovne banke
                            lahko uporabljajo tekoče prilive za plačila. Postavljam pa vprašanje, ali
@@ -3647,7 +3677,7 @@
                            med katerimi so tudi takozvane devizne rezerve, ki se tudi verjetno iz
                            teh virov napajajo?</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Problematika je zelo široka in zahtevna, tako da je razumljivo, da se ob
                            takih pogojih poslovanja, kot so zdaj, postavlja vrsta vprašanj in žal
@@ -3670,7 +3700,7 @@
                            prilivov in zaradi neravnotežja med izvozom in uvozom oz. problemi v
                            devizni bilanci slovenskega gospodarstva.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>No, s tem bi pa za danes s to točko lahko zaključili. Zdaj takole: mi smo
                            po dnevnem redu obravnavali vse točke. Kolikor mi je znano, smo
@@ -3696,13 +3726,13 @@
                            bi, bi vas obvestili.</p>
                         <p>Hvala lepa. Ob 16. uri bo skupna seja.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-02-20T15:45:00"
-                           xml:id="stage.t.4">prekinjena ob 15.45 uri</time> in se je <time
-                           from="1991-02-20T19:00:00" xml:id="stage.t.5">nadaljevala ob 19.00
+                     <stage type="time">(Seja je bila <time to="1991-02-20T15:45:00" xml:id="DZ-1991-ZbObc-12.stage.t.4">prekinjena ob 15.45 uri</time> in se je <time from="1991-02-20T19:00:00" xml:id="DZ-1991-ZbObc-12.stage.t.5">nadaljevala ob 19.00
                            uri</time>)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.13" ana="#PAR.TDR" corresp="#toc.2.13">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.13"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.13">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Prosim, da ostanemo vsi <title>trije zbori</title> tukaj do takrat, ko
                            bomo videli, kako se je končala usklajevalna komisija, da se dogovorimo
@@ -3745,14 +3775,14 @@
                               <stage type="debate">(Ne.)</stage> Če ne želi, dajem predlog
                            usklajevalne komisije na ... - Prosim, dr. Glavič.</p>
                      </sp>
-                     <sp who="#sp.GlavičPeter">
+                     <sp who="#DZ-1991-ZbObc-12.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Gospod predsednik, spoštovani zbor! Žal nismo vedeli, da bo ta zadeva na
                            dnevnem redu. Jaz zakona nisem podrobno preštudiral, čeprav sem slišal za
                            njega, nimam materiala pri sebi in mislim, da s tem niso izpolnjeni
                            pogoji za to, da o tem zakonu danes razpravljamo.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. No, jaz bi samo spomnil, da predlog odloka o dopolnitvi odloka smo
                            prejeli kot pobudo na seji zbora. Dobro.  Še kdo želi razpravljati?
@@ -3763,15 +3793,16 @@
                         </p>
                         <p>Kdo je za razširitev dnevnega reda v skladu s predlogom usklajevalne
                            komisije? <stage type="vote">(44 delegatov za.)</stage> Je kdo proti?
-                              <stage type="vote">(2 delegata.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(5 delegatov.)</stage>
+                              <stage type="vote">(2 delegata.)</stage> Se je kdo vzdržal? <stage type="vote">(5 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlog usklajevalne komisije z večino glasov
                            sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.14" ana="#PAR.TDR" corresp="#toc.2.14">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.14"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.14">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Torej prehajamo na to dodatno sprejeto točko dnevnega reda -
                               <title>PREDLOG ODLOKA O SPREMEMBAH IN DOPOLNITVAH ODLOKA O SOGLASJU K
                               ZAKONU O ZAČASNIH UKREPIH O DAVKU OD PROMETA PROIZVODOV IN
@@ -3790,13 +3821,13 @@
                            utemeljil, mislim pa, da je problem dokaj poznan. Želi kdo razpravljati?
                            - Prosim, gospod Dragovan.</p>
                      </sp>
-                     <sp who="#sp.DragovanSlavko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DragovanSlavko">
                         <speaker>SLAVKO DRAGOVAN:</speaker>
                         <p>Načelno se strinjam z oprostitvijo tega prometnega davka, vendar sem pa
                            proti temu vse dotlej, dokler se prometni davek ne ukine tudi na otroško
                            hrano in otroško obleko. <stage type="vocal">(Aplavz.)</stage>  </p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Tukaj gre za odločanje o temeljnem prometnem davku, ker se odlok nanaša
                            na zvezni zakon o prometu blaga in storitev. S tem zakon za področje
@@ -3813,8 +3844,10 @@
                         <p>S tem smo to točko dnevnega reda zaključili.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.15" ana="#PAR.TDR" corresp="#toc.2.15">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.15"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.15">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Kolikor sem obveščen, je <title>USKLAJEVALNA KOMISIJA V ZVEZI Z
                               OBRAČUNSKIM ZAKONOM</title> zaključila z delom, zato sem pozval še
                            ostala dva zbora sem notri. V vmesnem času pa bi prosil, da se najprej
@@ -3825,7 +3858,7 @@
                            Zbor občin najprej o tem odloči, potem bosta pa še ostala dva zbora, ne
                            da bi se razhajali.</p>
                      </sp>
-                     <sp who="#sp.VodopivecIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.VodopivecIvan">
                         <speaker>IVAN VODOPIVEC:</speaker>
                         <p>Usklajevalna komisija se je uskladila. Torej: okrog zakona
                               ("Grašičevega") smo bili enotni, da ta olajšava s 50
@@ -3834,7 +3867,7 @@
                            Okrog prvega zakona, se pravi tega "Grašičevega" zakona, smo se poenotili
                            tako, da ta olajšava gre s 50 na 75.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Se pravi, da usklajevalna komisija torej predlaga tudi ostalima dvema
                            zboroma, da sprejmeta ta zakon - če sem prav razumel. Dobro. Želi o tem
@@ -3847,7 +3880,7 @@
                            poračunu določenih obveznosti iz dohodka za skupne in splošne družbene
                            potrebe.  Predstavnik Sekretariata za finance želi besedo.</p>
                      </sp>
-                     <sp who="#sp.DebeljakStanko">
+                     <sp who="#DZ-1991-ZbObc-12.sp.DebeljakStanko">
                         <speaker>STANKO DEBELJAK:</speaker>
                         <p>Bom zelo kratek, vendar bi želel še enkrat opozoriti na to, kar je
                            Izvršni svet na usklajevalni komisiji tudi opozoril, da s sprejemom tega
@@ -3865,7 +3898,7 @@
                            dodatno zmanjšanje sredstev za milijardo sto resno ogrozi redno
                            izplačevanje pokojnin.</p>
                      </sp>
-                     <sp who="#sp.SlejkoVladimir">
+                     <sp who="#DZ-1991-ZbObc-12.sp.SlejkoVladimir">
                         <speaker>VLADIMIR SLEJKO:</speaker>
                         <p>Mislim, da je usklajevalna komisija sprejela to, da v bistvu Izvršni svet
                            vrne podjetjem cca 120 do 150 milijonov mark, če preračunamo to v
@@ -3878,7 +3911,7 @@
                            ne bi šel. S tem da bo še zmeraj vlada lahko našla na določen način denar
                            tudi za upokojence.</p>
                      </sp>
-                     <sp who="#sp.PuharJožica">
+                     <sp who="#DZ-1991-ZbObc-12.sp.PuharJožica">
                         <speaker>JOŽICA PUHAR:</speaker>
                         <p>Hvala za besedo. Jaz ne bi rada zavlačevala te debate, ampak radi bi vsa
                            opozorila na izjemno resnost odločitve, v katero zdajle poskušate
@@ -3917,19 +3950,18 @@
                            bomo srečali z zelo, zelo resnimi problemi in se bojim, da bodo v
                            določenih trenutkih skoraj nepremostljivi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ŠoncMetod">
+                     <sp who="#DZ-1991-ZbObc-12.sp.ŠoncMetod">
                         <speaker>METOD ŠONC:</speaker>
                         <p>Res je, da bodo problemi tudi pri upokojencih, vendar pri tem izplačilu
                            osebnih dohodkov za letos po novem sistemu smo mi morali pri istem bruttu
                            dobiti 22% manj neto. Zato se pa nobeden ne "sekira". Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Prijavljenih za razpravo ni več, zato razpravo zaključujem.</p>
                         <p>Prehajamo na glasovanje o predlogu usklajevalne komisije, ki je v tem, da
                            se ta zakon sprejme - poudarjam za tiste, ki ste kasneje prišli - o tem
-                           zdaj odloča Zbor občin.  Prosim, da najprej ugotovimo prisotnost! <stage
-                              type="quorum">(59 prisotnih delegatov.)</stage>
+                           zdaj odloča Zbor občin.  Prosim, da najprej ugotovimo prisotnost! <stage type="quorum">(59 prisotnih delegatov.)</stage>
                         </p>
                         <p>Kdo je za predlog usklajevalne komisije? <stage type="vote">(32 delegatov
                               za.)</stage> Je kdo proti? <stage type="vote">(11 delegatov.)</stage>
@@ -3944,11 +3976,9 @@
                            teh stvareh. Lepo prosim, da ostali ostanemo tukaj in da je mir tu
                            notri.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-02-20T19:20:00"
-                           xml:id="stage.t.6">prekinjena ob 19.20 uri</time> in se je <time
-                           from="1991-02-20T19:40:00" xml:id="stage.t.7">nadaljevala ob 19.40
+                     <stage type="time">(Seja je bila <time to="1991-02-20T19:20:00" xml:id="DZ-1991-ZbObc-12.stage.t.6">prekinjena ob 19.20 uri</time> in se je <time from="1991-02-20T19:40:00" xml:id="DZ-1991-ZbObc-12.stage.t.7">nadaljevala ob 19.40
                            uri</time>)</stage>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Nadaljujemo z delom Zbora občin v zvezi s poročilom o predlogu zakona o
                            preoblikovanju POZD.</p>
@@ -3958,8 +3988,10 @@
                         <p>Ugotavljam, da je Zbor občin sklepčen, zato lahko nadaljujemo s sejo.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.16" ana="#PAR.TDR" corresp="#toc.2.16">
-                     <sp who="#sp.BizjakIvan">
+                  <div xml:id="DZ-1991-ZbObc-12.div.1.1.2.16"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-ZbObc-12.toc.2.16">
+                     <sp who="#DZ-1991-ZbObc-12.sp.BizjakIvan">
                         <p>Usklajevalna komisija v zvez S <title>PREDLOGOM ZAKONA O PREOBLIKOVANJU
                               POZD</title> za obrt in podjetništvo k 7.členu ter ga sprejme. In
                            drugo, da sprejme amandma, ki ga je pripravila usklajevalna komisija in
@@ -3986,8 +4018,7 @@
                         <p>To je torej nov amandma. Želi o tem kdo razpravljati? Ne. Torej dajem
                            amandma na glasovanje.</p>
                         <p>Kdo je za? <stage type="vote">(42 delegatov za.)</stage> Kdo je proti?
-                              <stage type="vote">(3 delegati.)</stage> Se je kdo vzdržal? <stage
-                              type="vote">(5 delegatov.)</stage>
+                              <stage type="vote">(3 delegati.)</stage> Se je kdo vzdržal? <stage type="vote">(5 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je tudi ta predlagani amandma s strani usklajevalne
                            komisije z večino glasov sprejet.</p>
@@ -4015,8 +4046,7 @@
                         <p>Hvala za udeležbo in hvala za potrpljenje v teh malce nerodnih
                            razmerah.</p>
                      </sp>
-                     <stage type="time">(Seja se je <time to="1991-02-20T19:50:00"
-                           xml:id="stage.t.8">končala ob 19.50 uri</time>.)</stage>
+                     <stage type="time">(Seja se je <time to="1991-02-20T19:50:00" xml:id="DZ-1991-ZbObc-12.stage.t.8">končala ob 19.50 uri</time>.)</stage>
                   </div>
                </div>
             </div>

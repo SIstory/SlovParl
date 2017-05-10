@@ -80,10 +80,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -140,14 +138,14 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda ............................... 2</item>
+                     <item n="1" xml:id="DZ-1992-Zasedanje-24.toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1</item>
+                     <item n="2" xml:id="DZ-1992-Zasedanje-24.toc.1.2">Določitev dnevnega reda ............................... 2</item>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Predlog zakona o Državnem svetu ....................... 3<list rend="simple">
+                     <item n="1" xml:id="DZ-1992-Zasedanje-24.toc.2.1">Predlog zakona o Državnem svetu ....................... 3<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Anton Peršak .......................................... 3</item>
                            <item>Franc Golija .......................................... 3</item>
@@ -165,7 +163,7 @@
                            <item>mag. Ervin Anton Schwarzbartl ........................ 10</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Seznam govornikov .................................. II/1</item>
+                     <item n="2" xml:id="DZ-1992-Zasedanje-24.toc.2.2">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -178,66 +176,70 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.GolijaFranc">Golija Franc</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.GolijaFranc">Golija Franc</actor>
                   ........................................... 3, 5</castItem>
                <castItem>
-                  <actor xml:id="sp.GradišarFranc">Gradišar Franc</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.GradišarFranc">Gradišar Franc</actor>
                   ......................................... 5, 6</castItem>
                <castItem>
-                  <actor xml:id="sp.GrašičFranc">Grašič Franc</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.GrašičFranc">Grašič Franc</actor>
                   .............................................. 4</castItem>
                <castItem>
-                  <actor xml:id="sp.KolešnikCiril">Kolešnik Ciril</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.KolešnikCiril">Kolešnik Ciril</actor>
                   ............................................ 8</castItem>
                <castItem>
-                  <actor xml:id="sp.LukačJanez">Lukač Janez</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.LukačJanez">Lukač Janez</actor>
                   ............................................... 5</castItem>
                <castItem>
-                  <actor xml:id="sp.OcvirkMojmir">Ocvirk Mojmir</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.OcvirkMojmir">Ocvirk Mojmir</actor>
                   ............................................. 7</castItem>
                <castItem>
-                  <actor xml:id="sp.PartljičTone">Partljič Tone</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.PartljičTone">Partljič Tone</actor>
                   ............................................. 7</castItem>
                <castItem>
-                  <actor xml:id="sp.PeršakAnton">Peršak Anton</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.PeršakAnton">Peršak Anton</actor>
                   .............................................. 3</castItem>
                <castItem>
-                  <actor xml:id="sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
                   ............................ 10</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠtefančičMarcel">Štefančič Marcel</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.ŠtefančičMarcel">Štefančič Marcel</actor>
                   ....................................... 4, 9</castItem>
                <castItem>
-                  <actor xml:id="sp.ŽagarZvone">Žagar Zvone</actor>
+                  <actor xml:id="DZ-1992-Zasedanje-24.sp.ŽagarZvone">Žagar Zvone</actor>
                   ............................................... 6</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1992-Zasedanje-24.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE KOT 45. SEJA
                DRUŽBENOPOLITIČNEGA ZBORA, 51. SEJA ZBORA ZDRUŽENEGA DELA IN 45. SEJA ZBORA
                OBČIN</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="24">
+            <div xml:id="DZ-1992-Zasedanje-24.div.1.1" ana="#PAR.Zasedanje" n="24">
                <head>24. zasedanje</head>
                <docDate>(<date when="1992-09-10">10. september 1992</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1992-09-10T11:10:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1992-Zasedanje-24.TL.1" unit="s">
+                  <when synch="#DZ-1992-Zasedanje-24.stage.t.1"
+                        xml:id="DZ-1992-Zasedanje-24.TL.1"
+                        absolute="1992-09-10T11:10:00"/>
+                  <when synch="#DZ-1992-Zasedanje-24.stage.t.2"
+                        since="#DZ-1992-Zasedanje-24.TL.1"
                         absolute="1992-09-10T12:25:00"
                         interval="4500"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.BizjakIvan">Ivan Bizjak</actor>, <role>predsednik Zbora
+                     <actor xml:id="DZ-1992-Zasedanje-24.sp.BizjakIvan">Ivan Bizjak</actor>, <role>predsednik Zbora
                         občin</role>.</castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1992-09-10T11:10:00" xml:id="stage.t.1">začela ob 11.10 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.DolDnevRed" corresp="#toc.1.2">
-                     <sp who="#sp.BizjakIvan">
+               <stage type="time">Seja se je <time from="1992-09-10T11:10:00" xml:id="DZ-1992-Zasedanje-24.stage.t.1">začela ob 11.10 uri</time>.</stage>
+               <div xml:id="DZ-1992-Zasedanje-24.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1992-Zasedanje-24.div.1.1.1.1"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1992-Zasedanje-24.toc.1.2">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Spoštovane poslanke in poslanci, gospe in gospodje, cenjeni gostje!
                            Pričenjam skupno zasedanje Zbora združenega dela, Zbora občin in
@@ -359,9 +361,12 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" corresp="#toc.2.1">
-                     <sp who="#sp.BizjakIvan">
+               <div xml:id="DZ-1992-Zasedanje-24.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1992-Zasedanje-24.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       corresp="#DZ-1992-Zasedanje-24.toc.2.1">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O DRŽAVNEM
                               SVETU</title>.</p>
                         <p>Predlog zakona so predložili v obravnavo poslanci vseh treh zborov, ki
@@ -376,7 +381,7 @@
                            predlagateljev? Gospod Peršak - Družbenopolitični zbor - želi besedo?
                            Prosim.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Mislim, da je v zvezi s tem zakonom več ali manj vse jasno. Sam sem se
                            nekako oklical za predstavnika predlagateljev, ker sem prvi podpisani na
@@ -398,7 +403,7 @@
                            kar je bilo sporazumno potrjeno na ustavni komisiji in klubih, sedaj
                            vključeno v zakon in kot tak je zakon predložen. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Svoje mnenje v zvezi s predlogom zakona o Državnem svetu je
                            posredovala tudi Vlada Republike Slovenije. To mnenje ste dobili. Vlada
@@ -406,7 +411,7 @@
                               <stage type="debate">(Ne želi.)</stage> Potem odpiram razpravo. K razpravi se je
                            prijavil gospod Golija - Družbenopolitični zbor.</p>
                      </sp>
-                     <sp who="#sp.GolijaFranc">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.GolijaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Spoštovane poslanke in poslanci! Zaradi pomembnosti volilne zakonodaje in
                            njenega sprejemanja in zaradi tega, da bi enkrat Slovenija postala pravna
@@ -420,12 +425,12 @@
                            udbovskem in domicilnem in nas tudi naša načelnost zavezuje, da bomo do
                            konca sprejemanja te volilne zakonodaje tako ravnali. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Štefančič iz Zbora občin je naslednji
                            razpravljavec.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Hvala lepa. Spoštovane poslanke in poslanci! Izrazil bi samo eno željo.
                            Rad bi vsaj potipal, če mi že ni dano, da preberem, da vidim na lastne
@@ -433,12 +438,12 @@
                            hotel nekaj potipati. Tudi sam bi rad. Naj mi bo dovoljeno, da pred
                            glasovanjem potipam ta novi zakon o volitvah v Državni svet.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Vsekakor bomo poskusili, da pridejo dokumenti tudi na klop.
                            Gospod Grašič iz Zbora združenega dela želi razpravljati.</p>
                      </sp>
-                     <sp who="#sp.GrašičFranc">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.GrašičFranc">
                         <speaker>FRANC GRAŠIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! Ob sprejemanju tega zakona o Državnem
                            svetu želim izpostaviti le določena dejstva, ki so danes prisotna in bodo
@@ -479,12 +484,12 @@
                            od teh pa je celo spečih. Na ta dejstva sem predvsem želel opozoriti pri
                            izvedbi 24. člena zakona, ki ga zdaj obravnavamo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Želi še kdo razpravljati? Prosim. Replika gospod Golija iz
                            Družbenopolitičnega zbora.</p>
                      </sp>
-                     <sp who="#sp.GolijaFranc">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.GolijaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Franc Golija, Liberalna stranka. Moram pač reagirati na mnenja in trditve
                            mojega predgovornika, ki stvari ne gleda tako kot se stvari razvijajo v
@@ -497,12 +502,12 @@
                            kapitala, je zmotna. Če bo to res tako, se mi nikoli ne bomo izmotali iz
                            tega realsocialističnega gospodarstva. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Gospod Gradišar Franc iz Zbora združenega dela se javlja k
                            besedi.</p>
                      </sp>
-                     <sp who="#sp.GradišarFranc">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Na svoje kolege apeliram oziroma jim predlagam, da sprejmejo po tem
                            sistemu, ki je pri nas v navadi, zakon o Državnem svetu v taki obliki in
@@ -511,11 +516,11 @@
                            to glasovanje izvedemo tako kot včeraj: z imenskim, javnim in tako
                            naprej. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p> Hvala lepa. Gospod Lukač iz Zbora občin je naslednji razpravljavec.</p>
                      </sp>
-                     <sp who="#sp.LukačJanez">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Spoštovane kolegice, kolegi! Predsednik naše stranke je
                            sopodpisnik tega predloga zakona. Včeraj je bil o teh dogodkih dosežen
@@ -534,12 +539,12 @@
                            se sporazumeli, da je v tem prehodnem obdobju edino mogoče. Zato se
                            zavzemam, da ta zakon danes sprejmemo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Prijavljenih razpravljavcev je več. Gospod Žagar iz
                            Družbenopolitičnega zbora se zdaj javlja.</p>
                      </sp>
-                     <sp who="#sp.ŽagarZvone">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.ŽagarZvone">
                         <speaker>ZVONE ŽAGAR:</speaker>
                         <p>Hvala lepa za besedo. Najprej želim izjaviti, da zavračam način voljenja
                            in dogajanje na včerajšnji seji, ko je skupščina postala neka mučilnica
@@ -569,12 +574,12 @@
                            mnenje o celotnem neposrednem volilnem sistemu za Državni svet. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa, gospod Žagar. Besedo ima gospod Gradišar iz Zbora združenega
                            dela.</p>
                      </sp>
-                     <sp who="#sp.GradišarFranc">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.GradišarFranc">
                         <speaker>FRANC GRADIŠAR:</speaker>
                         <p>Imel bi samo kratko repliko na izvajanje kolega Žagarja. To, kar je on
                            tukaj predstavil, da naj kar vodje poslanskih klubov sprejemajo ta in
@@ -584,7 +589,7 @@
                            pomeni, da je stvar popolnoma čista, da smo danes, glede na včerajšnji
                            dan, normalen parlament. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Tisti očitek gospoda Žagarja tako in tako zavračam v imenu nas treh, ki
                            smo sklicali ta sestanek. Na tem sestanku smo se hoteli zgolj pomeniti,
@@ -592,7 +597,7 @@
                         <p>Sedaj ima najprej besedo gospod Ocvirk iz Družbenopolitičnega zbora, nato
                            pa gospod Partljič.</p>
                      </sp>
-                     <sp who="#sp.OcvirkMojmir">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.OcvirkMojmir">
                         <speaker>MOJMIR OCVIRK:</speaker>
                         <p>Hvala lepa. Prav tako kot vsa naša stranka, se izrazito zavzemam za to,
                            da bi čimprej sprejeli zakon. Vendar pa bi želel povedati nekaj
@@ -607,23 +612,23 @@
                            zaman sedeli tu. Gospod Žagar in njegova stranka so pa izrazito pozitivno
                            delovali.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Prosim, da bi se držali dnevnega reda, se pravi predloga zakona in da ne
                            bi širili tematike.</p>
                      </sp>
-                     <sp who="#sp.OcvirkMojmir">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.OcvirkMojmir">
                         <speaker>MOJMIR OCVIRK:</speaker>
                         <p>Hvala lepa. Skratka. Podpiram ta zakon, kot sem ga podpiral tudi včeraj
                            in trdim, da če ta zakon danes ne bo šel skozi, bi bilo zelo žalostno, da
                            bi se ponovila igra, ki smo jo imeli tudi včeraj, da se je obtoževala za
                            to pozicija. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Naslednji ima besedo gospod Tone Partljič iz Zbora občin.</p>
                      </sp>
-                     <sp who="#sp.PartljičTone">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.PartljičTone">
                         <speaker>TONE PARTLJIČ:</speaker>
                         <p>Predlagam, da - če so ljudje že lahko potipali - gremo čimprej h
                            glasovanju.</p>
@@ -641,12 +646,12 @@
                               <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Še gospod Kolešnik iz Družbenopolitičnega zbora je prijavljen
                            za razpravo.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Ker je tudi gospod Partljič govoril o polni luni, imam tudi sam vprašanje
                            o polni luni. Namreč, 24. člen je tisti člen, za katerega menim, da je
@@ -664,7 +669,7 @@
                            Gospodarske zbornice. Dokler tu ni sprememb, mislim, da tudi bistvenih
                            sprememb o tistem, kar smo včeraj govorili, ne bo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Prijavljenih za razpravo ni več. Razpravo zaključujem!</p>
                         <p>Prehajamo na odločanje. Predložen imamo en amandma. Še enkrat opozarjam,
@@ -700,14 +705,14 @@
                            poimensko. Glasujemo po zborih. Gospod Štefančič iz Zbora občin želi
                            besedo iz proceduralnih razlogov.</p>
                      </sp>
-                     <sp who="#sp.ŠtefančičMarcel">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.ŠtefančičMarcel">
                         <speaker>MARCEL ŠTEFANČIČ:</speaker>
                         <p>Če sem dobro slišal je bilo rečeno, da se predlaga amandma za 69. členom
                            kot 69a. člen. Mislim, da je nekaj narobe, ker ta zakon ima samo 68.
                            členov, torej ni 69. člena, ki bi mu dajali 69a. člen, kvečjemu bi bil
                            dodatek za 68. členom 69. člen.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>To imate prav, gospod Štefančič. Prosim predlagatelja amandmaja, da ga
                            ustrezno popravi, da bo amandma imel smisel. Za 67. členom, če vam lahko
@@ -770,7 +775,7 @@
                            Schwarzbartl želi obrazložiti svoj glas. Ni nujno, videl sem roko.
                            Prosim, gospod Schwarzbartl iz Zbora občin.</p>
                      </sp>
-                     <sp who="#sp.SchwarzbartlErvinAnton">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
                         <p>Hvala lepa za besedo, čeprav sem malo dolgo čakal. Hotel sem že prej
                            sprožiti proceduralno vprašanje. Mi smo včasih sila pravoverni, včasih pa
@@ -788,7 +793,7 @@
                            je pa verjetno procedura pravilna in sem zaman prišel za to govornico.
                            Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BizjakIvan">
+                     <sp who="#DZ-1992-Zasedanje-24.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Na ta proceduralni ugovor bi rekel to. O tem amandmaju se je
                            vlada že izrekla, čeprav pri drugi proceduri. To je prvo.</p>
@@ -954,7 +959,7 @@
                            bo, glede na delo kakor bo teklo, morda po tej naslednji delovni skupni
                            seji. Odločili se bomo odvisno od časa.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-09-10T12:25:00" xml:id="stage.t.2">končana 10. septembra 1992 ob 12.25
+                     <stage type="time">(Seja je bila <time to="1992-09-10T12:25:00" xml:id="DZ-1992-Zasedanje-24.stage.t.2">končana 10. septembra 1992 ob 12.25
                         uri</time>.)</stage>
                   </div>
                </div>

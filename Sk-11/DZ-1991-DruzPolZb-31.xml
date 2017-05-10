@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,8 +132,8 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov ...................... 1</item>
-                     <item n="2" xml:id="toc.1.2">Določitev dnevnega reda ................................. 1<list rend="simple">
+                     <item n="1" xml:id="DZ-1991-DruzPolZb-31.toc.1.1">Ugotavljanje prisotnosti delegatov ...................... 1</item>
+                     <item n="2" xml:id="DZ-1991-DruzPolZb-31.toc.1.2">Določitev dnevnega reda ................................. 1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Ignac Polajnar .......................................... 1</item>
                         </list>
@@ -145,7 +143,7 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Predlog Ustave Republike Slovenije ...................... 2<list rend="simple">
+                     <item n="1" xml:id="DZ-1991-DruzPolZb-31.toc.2.1">Predlog Ustave Republike Slovenije ...................... 2<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Jožef Školč ............................................. 3</item>
                            <item>dr. Ciril Ribičič ....................................... 3</item>
@@ -169,8 +167,8 @@
                            <item>Peter Reberc ........................................... 25</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Predlog ustavnega zakona za izvedbo Ustave RS .......... 25</item>
-                     <item n="3" xml:id="toc.2.3">Nadaljevanje obravnave predloga Ustave RS .............. 26<list rend="simple">
+                     <item n="2" xml:id="DZ-1991-DruzPolZb-31.toc.2.2">Predlog ustavnega zakona za izvedbo Ustave RS .......... 25</item>
+                     <item n="3" xml:id="DZ-1991-DruzPolZb-31.toc.2.3">Nadaljevanje obravnave predloga Ustave RS .............. 26<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Ignac Polajnar ......................................... 26</item>
                            <item>dr. France Bučar ....................................... 26</item>
@@ -185,10 +183,10 @@
                            <item>dr. France Bučar ....................................... 31</item>
                         </list>
                      </item>
-                     <item n="4" xml:id="toc.2.4">Nadaljevanje obravnave predloga ustavnega zakona za izvedbo Ustave
+                     <item n="4" xml:id="DZ-1991-DruzPolZb-31.toc.2.4">Nadaljevanje obravnave predloga ustavnega zakona za izvedbo Ustave
                         RS ...................................... 31</item>
-                     <item n="5" xml:id="toc.2.5">Seznam govornikov ...................................... II</item>
-                     <item n="6" xml:id="toc.2.6">Priloga: zapisnik zbora ............................... III</item>
+                     <item n="5" xml:id="DZ-1991-DruzPolZb-31.toc.2.5">Seznam govornikov ...................................... II</item>
+                     <item n="6" xml:id="DZ-1991-DruzPolZb-31.toc.2.6">Priloga: zapisnik zbora ............................... III</item>
                   </list>
                </item>
             </list>
@@ -199,108 +197,118 @@
             <castList>
                <head>GOVORNIKI: STRAN</head>
                <castItem>
-                  <actor xml:id="sp.BalažicMilan">Balažic Milan</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.BalažicMilan">Balažic Milan</actor>
                   ............................................... 7</castItem>
                <castItem>
-                  <actor xml:id="sp.BattelliRoberto">Battelli Roberto</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.BattelliRoberto">Battelli Roberto</actor>
                   ........................................... 18</castItem>
                <castItem>
-                  <actor xml:id="sp.BučarFrance">Bučar dr. France</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.BučarFrance">Bučar dr. France</actor>
                   ....................................... 26, 31</castItem>
                <castItem>
-                  <actor xml:id="sp.GolijaFranc">Golija Franc</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.GolijaFranc">Golija Franc</actor>
                   ............................................... 12</castItem>
                <castItem>
-                  <actor xml:id="sp.HribarSpomenka">Hribar Spomenka</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.HribarSpomenka">Hribar Spomenka</actor>
                   ............................................ 13</castItem>
                <castItem>
-                  <actor xml:id="sp.KolešnikCiril">Kolešnik Ciril</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.KolešnikCiril">Kolešnik Ciril</actor>
                   ............................................. 30</castItem>
                <castItem>
-                  <actor xml:id="sp.LavtižarBeblerDarja">Lavtižar Bebler Darja</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.LavtižarBeblerDarja">Lavtižar Bebler Darja</actor>
                   ................................... 9, 27</castItem>
                <castItem>
-                  <actor xml:id="sp.MagajnaAndrej">Magajna Andrej</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.MagajnaAndrej">Magajna Andrej</actor>
                   ......................................... 15, 30</castItem>
                <castItem>
-                  <actor xml:id="sp.MagdičJože">Magdič dr. Jože</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.MagdičJože">Magdič dr. Jože</actor>
                   ............................................ 23</castItem>
                <castItem>
-                  <actor xml:id="sp.PeršakAnton">Peršak Anton</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.PeršakAnton">Peršak Anton</actor>
                   ........................................... 28, 30</castItem>
                <castItem>
-                  <actor xml:id="sp.PintarEmilMilan">Pintar Emil Milan</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.PintarEmilMilan">Pintar Emil Milan</actor>
                   ........................................... 6</castItem>
                <castItem>
-                  <actor xml:id="sp.PodobnikMarjan">Podobnik Marjan</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.PodobnikMarjan">Podobnik Marjan</actor>
                   ............................................ 12</castItem>
                <castItem>
-                  <actor xml:id="sp.PolajnarIgnac">Polajnar Ignac</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.PolajnarIgnac">Polajnar Ignac</actor>
                   ...................................... 1, 20, 26</castItem>
                <castItem>
-                  <actor xml:id="sp.PozsonecMaria">Pozsonec Maria</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.PozsonecMaria">Pozsonec Maria</actor>
                   ............................................. 23</castItem>
                <castItem>
-                  <actor xml:id="sp.PregeljŽarko">Pregelj Žarko</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.PregeljŽarko">Pregelj Žarko</actor>
                   .............................................. 24</castItem>
                <castItem>
-                  <actor xml:id="sp.PuklVitodrag">Pukl Vitodrag</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.PuklVitodrag">Pukl Vitodrag</actor>
                   .............................................. 16</castItem>
                <castItem>
-                  <actor xml:id="sp.RebercPeter">Reberc Peter</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.RebercPeter">Reberc Peter</actor>
                   ........................................... 25, 29</castItem>
                <castItem>
-                  <actor xml:id="sp.RibičičCiril">Ribičič dr. Ciril</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.RibičičCiril">Ribičič dr. Ciril</actor>
                   ........................................... 3</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.TomažičAnton">Tomažič Anton</actor>
                   .......................................... 19, 26</castItem>
                <castItem>
-                  <actor xml:id="sp.TomšičFrance">Tomšič France</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.TomšičFrance">Tomšič France</actor>
                   .............................................. 17</castItem>
                <castItem>
-                  <actor xml:id="sp.SemoličDušan">Semolič mag. Dušan</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.SemoličDušan">Semolič mag. Dušan</actor>
                   ......................................... 10</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠkolčJožef">Školč Jožef</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.ŠkolčJožef">Školč Jožef</actor>
                   ................................................. 3</castItem>
                <castItem>
-                  <actor xml:id="sp.VoljčBožidar">Voljč dr. Božidar</actor>
+                  <actor xml:id="DZ-1991-DruzPolZb-31.sp.VoljčBožidar">Voljč dr. Božidar</actor>
                   ...................................... 22, 27</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.DruzPolZb">
+         <div xml:id="DZ-1991-DruzPolZb-31.div.1" ana="#PAR.DruzPolZb">
             <head>DRUŽBENOPOLITIČNI ZBOR</head>
-            <div xml:id="div.1.1" ana="#PAR.Seja" n="31">
+            <div xml:id="DZ-1991-DruzPolZb-31.div.1.1" ana="#PAR.Seja" n="31">
                <head>31. seja</head>
                <docDate>(<date when="1991-12-23">23. december 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-12-23T10:10:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1991-DruzPolZb-31.TL.1" unit="s">
+                  <when synch="#DZ-1991-DruzPolZb-31.stage.t.1"
+                        xml:id="DZ-1991-DruzPolZb-31.TL.1"
+                        absolute="1991-12-23T10:10:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-31.stage.t.2"
+                        since="#DZ-1991-DruzPolZb-31.TL.1"
                         absolute="1991-12-23T10:17:00"
                         interval="420"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1991-12-23T11:20:00"/>
-                  <when synch="#stage.t.4"
-                        since="#TL.2"
+                  <when synch="#DZ-1991-DruzPolZb-31.stage.t.3"
+                        xml:id="DZ-1991-DruzPolZb-31.TL.2"
+                        absolute="1991-12-23T11:20:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-31.stage.t.4"
+                        since="#DZ-1991-DruzPolZb-31.TL.2"
                         absolute="1991-12-23T13:10:00"
                         interval="6600"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1991-12-23T16:52:00"/>
-                  <when synch="#stage.t.6" since="#TL.3" absolute="1991-12-23T16:15:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-31.stage.t.5"
+                        xml:id="DZ-1991-DruzPolZb-31.TL.3"
+                        absolute="1991-12-23T16:52:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-31.stage.t.6"
+                        since="#DZ-1991-DruzPolZb-31.TL.3"
+                        absolute="1991-12-23T16:15:00"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>PREDSEDOVAL</roleDesc>: <actor xml:id="sp.ToplakLudvik">dr. LUDVIK
+                     <roleDesc>PREDSEDOVAL</roleDesc>: <actor xml:id="DZ-1991-DruzPolZb-31.sp.ToplakLudvik">dr. LUDVIK
                         TOPLAK</actor>, <role>predsednik Družbenopolitičnega zbora</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-12-23T10:10:00" xml:id="stage.t.1">začela ob 10.10. uri</time>
+               <stage type="time">Seja se je <time from="1991-12-23T10:10:00" xml:id="DZ-1991-DruzPolZb-31.stage.t.1">začela ob 10.10. uri</time>
                </stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.Prisot" change="#toc.1.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.1.1"
+                       ana="#PAR.Prisot"
+                       change="#toc.1.1">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovani poslanci, cenjeni gostje, spoštovani predstavniki sredstev
                            javnega obveščanja, pričenjam 31. sejo Družbenopolitičnega zbora
@@ -322,8 +330,10 @@
                         <p>Glede na potek dela vseh zborov boste o pavzi obveščeni pozneje.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.DolDnevRed" change="#toc.1.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.1.2"
+                       ana="#PAR.DolDnevRed"
+                       change="#toc.1.2">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <p>Zboru predlagam naslednji <title>dnevni red</title>:</p>
                         <p>1. Predlog Ustave Republike Slovenije</p>
                         <p>2. Predlog ustavnega zakona za izvedbo ustave Republike</p>
@@ -344,14 +354,14 @@
                         <p>Ugotavljam: s 60 za in 2 vzdržanimi je dnevni red potrjen.</p>
                         <p>Gospod Polajnar želi besedo.</p>
                      </sp>
-                     <sp who="#sp.PolajnarIgnac">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Spoštovani, sedaj sedimo tako kot sedimo, ni pa za gotovo, da bomo ves
                            čas na teh mestih. Predlagam, da bi tehnična služba preverila te naprave,
                            da ne bo potem zopet očitkov, da je bilo kaj narobe, ker mislim, da je
                            stvar toliko pomembna. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>To bo ostalo sporno in če mislimo tako delati bo sporno vse <stage type="gap">(iz
                               klopi nekdo govori, se ne sliši ...)</stage> Izvolite, izvolite, za to
@@ -360,14 +370,17 @@
                            gumb. Sedaj prosim, samo gospod Kociper.</p>
                         <p>S tem prekinjam sejo do 10. ure in 30 minut.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-12-23T10:17:00" xml:id="stage.t.2">prekinjena ob 10. uri in 17 minut</time> in se      
-                         je <time from="1991-12-23T11:20:00" xml:id="stage.t.3">nadaljevala ob 11.
+                     <stage type="time">(Seja je bila <time to="1991-12-23T10:17:00" xml:id="DZ-1991-DruzPolZb-31.stage.t.2">prekinjena ob 10. uri in 17 minut</time> in se      
+                         je <time from="1991-12-23T11:20:00" xml:id="DZ-1991-DruzPolZb-31.stage.t.3">nadaljevala ob 11.
                            20 uri</time>.)</stage>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" n="1" change="#toc.2.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       n="1"
+                       change="#toc.2.1">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Poslance prosim, da ostanejo v dvorani, delo nadaljujemo takoj.</p>
                         <p>Spoštovane poslanke, spoštovani poslanci, po kratki prekinitvi naše
@@ -411,7 +424,7 @@
                            predstavniki poslanskih klubov opredelijo do predlogov. Odpiram razpravo.
                            Za razpravo so se že prijavili. Prvi Jožef Školč.</p>
                      </sp>
-                     <sp who="#sp.ŠkolčJožef">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ŠkolčJožef">
                         <speaker>JOŽEF ŠKOLČ:</speaker>
                         <p>Hvala lepa za besedo spoštovane poslanke in poslanci.
                            Liberalno-demokratska stranka in poslanci stranke podpirajo sprejem
@@ -438,11 +451,11 @@
                            to, da se glasuje za tako ustavo v celem tekstu z njenimi obrazložitvami
                            in s tem bi stališče poslanskega kluba zaključi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa gospodu Školču. Naslednje je Ciril Ribičič.</p>
                      </sp>
-                     <sp who="#sp.RibičičCiril">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.RibičičCiril">
                         <speaker>DR. CIRIL RIBIČIČ:</speaker>
                         <p>Spoštovani zbor! V imenu SDP in njenega poslanskega kluba želim izraziti
                            podporo predlogu ustave, kot ga je predložila Ustavna komisija. Za njen
@@ -556,11 +569,11 @@
                            da se uresničijo pesnikove besede: "Tja bomo našli pot, kjer nje sinovi
                            si prosto voljo, vero in postave". Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Emil Milan Pintar, prosim.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Hvala lepa. Spoštovane kolegice in kolegi. Prijavil sem se prej, ko sem
                            zvedel, da naj bi samo predstavniki poslanskih klubov govorili. Ker imam
@@ -605,11 +618,11 @@
                            tudi zaslužimo. V sodobnem svetu pripada suverenost samo tistim, ki so se
                            pripravljeni povezovati in sodelovati. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa g. Pintarju. Besedo ima Milan Balažic.</p>
                      </sp>
-                     <sp who="#sp.BalažicMilan">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.BalažicMilan">
                         <speaker>MILAN BALAŽIC:</speaker>
                         <p>Hvala za besedo. Govoril bom v imeni Social-demokratske unije. Profesorji
                            prava ponavadi govorijo, da je vse pravno, to se pravi, tudi ustava,
@@ -705,11 +718,11 @@
                            leti izrekel veliki filozof Ciceron v starem Rimu: "Svobodni smo le, če
                            smo hlapci zakona." Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Besedo ima Darja Lavtižar-Bebler.</p>
                      </sp>
-                     <sp who="#sp.LavtižarBeblerDarja">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.LavtižarBeblerDarja">
                         <speaker>DARJA LAVTIŽAR-BEBLER:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci! Gotovo velja, da predlog nove
                            ustave ne ustreza v celoti pričakovanjem in zahtevam posameznih strank,
@@ -763,11 +776,11 @@
                            stvareh. Pogoj za vse to pa je prav današnje sprejetje nove ustave. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Besedo ima g. Dušan Semolič.</p>
                      </sp>
-                     <sp who="#sp.SemoličDušan">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.SemoličDušan">
                         <speaker>MAG. DUŠAN SEMOLIČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! Zveza svobodnih sindikatov Slovenije je
                            s svojimi predlogi in stališči sodelovala v vseh fazah postopka,
@@ -865,11 +878,11 @@
                            državnega sveta, ko se ponovno pojavljajo predstavniki delavcev v
                            slovenskem parlamentu. - Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala gospodu Semoliču. Gospod Franc Golija.</p>
                      </sp>
-                     <sp who="#sp.GolijaFranc">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.GolijaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Spoštovane poslanke in poslanci! Liberalna stranka je v letu dni
                            oblikovanja teksta nove ustave tvorno sodelovala in si prizadevala ta
@@ -890,11 +903,11 @@
                            samozavestno odločali vsak po svojem prepričanju o sprejemanju in
                            glasovanju o tej ustavi. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala gospodu Golji. Gospod Marjan Podobnik.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Spoštovani! V imenu poslanskega kluba SKZ-Ljudske stranke izražam
                            zadovoljstvo, da se bližamo sprejemu nove ustave. Ustavo Republike
@@ -937,11 +950,11 @@
                            Slovenk in Slovencev ter državljanov Slovenije. Iskali smo soglasje, v
                            pretežni meri smo ga skupno vendarle našli. - Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Spomenka Hribar.</p>
                      </sp>
-                     <sp who="#sp.HribarSpomenka">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.HribarSpomenka">
                         <speaker>SPOMENKA HRIBAR:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani zbor! Poslanski klub Demokratske
                            stranke soglašamo s predlogom ustave Republike Slovenije. Ugotavlja, da
@@ -1030,11 +1043,11 @@
                            posameznikov, bom kljub pomanjkanju svetosti življenja glasovala "za"
                            predlog ustave Republike Slovenije. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Andrej Magajna.</p>
                      </sp>
-                     <sp who="#sp.MagajnaAndrej">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.MagajnaAndrej">
                         <speaker>ANDREJ MAGAJNA:</speaker>
                         <p>Spoštovani, oglašam se kot neodvisni poslanec. Moram povedati, da smo o
                            ustavi temeljito razpravljali na klubu neodvisnih in s svojima
@@ -1065,11 +1078,11 @@
                            zakonih in v konkretni praksi in da bomo šele potem lahko sodili dejansko
                            naravo naše države.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Vitodrag Pukl v imenu kluba Socialdemokratske stranke.</p>
                      </sp>
-                     <sp who="#sp.PuklVitodrag">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PuklVitodrag">
                         <speaker>VITODRAG PUKL:</speaker>
                         <p>Spoštovani, govorim v imenu Socialdemokratske stranke Slovenije. Ne bom
                            razpravljal o filozofskih, pravnih in socialoških vidikih ustave, omejil
@@ -1118,11 +1131,11 @@
                            social-demokrati Slovenije, to se pravi Social-demokratska stranka
                            Slovenije bo po svojih poslancih za to ustavo glasovala. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod France Tomšič.</p>
                      </sp>
-                     <sp who="#sp.TomšičFrance">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.TomšičFrance">
                         <speaker>FRANCE TOMŠIČ:</speaker>
                         <p>Hvala lepa. Spoštovane poslanke in poslanci! Današnji dan je za mene kot
                            predsednika Sindikata neodvisnosti in tudi kot poslanca
@@ -1173,7 +1186,7 @@
                            sem bil pred nekaj meseci tam), 124 poslancev. Skratka, edino to
                            spremembo predlagamo. Upam, da jo boste sprejeli. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Ponoviti moram opozorilo, da niti tega niti drugih predlogov ne
                            gre razumeti kot amandmaje v običajnem pomenu besede, ampak kot predloge,
@@ -1181,7 +1194,7 @@
                            drugače, bo potem Ustavna komisija predlagala amandmaje. Hvala. Naslednji
                            je prijavljen za razpravo gospod Roberto Battelli.</p>
                      </sp>
-                     <sp who="#sp.BattelliRoberto">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.BattelliRoberto">
                         <speaker>ROBERTO BATTELLI:</speaker>
                         <p>Senior vicepresidente, gentili college e collegi! <stage type="comment">(glas
                               prevajalke)</stage>: Gospod podpredsednik, spoštovane kolegice in
@@ -1214,12 +1227,12 @@
                            maksimalni prispevek. In predvsem v tem smislu, dajeta svoj glas za
                            sprejem ustave Republike Slovenije. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Anton Tomažič v imenu kluba Narodne demokratske
                            stranke.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>SDZ- Narodna demokratska stranka se zaveda velikega pomena današnjega dne
                            in sprejema nove ustave. Dosedanja stara ustava nas zelo ovira na poti v
@@ -1267,12 +1280,12 @@
                            korekcijo tega člena ali še boljšo izločitvijo, je stvar popolnoma
                            sprejemljiva. Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Gospod Ignac Polajnar v imenu kluba Slovenskih krščanskih
                            demokratov.</p>
                      </sp>
-                     <sp who="#sp.PolajnarIgnac">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Spoštovani! Govorim res v imenu Slovenskih krščanskih demokratov in naj
                            takoj na začetku povem: stališče naše stranke do spornega 55. člena je
@@ -1372,13 +1385,13 @@
                            slovenske družine z lahkim srcem in veseljem odločale za več otrok. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>O tem zadnjem vprašanju govori 439. člen ustave in je glede tega stvar
                            popolnoma jasna. Prosim gospoda Voljča, ki se je prijavil kot predstavnik
                            Kluba zelenih Slovenije.</p>
                      </sp>
-                     <sp who="#sp.VoljčBožidar">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.VoljčBožidar">
                         <speaker>DR. BOŽIDAR VOLJČ:</speaker>
                         <p>Spoštovane poslanke in poslanci, v imenu Kluba poslancev zelenih
                            Slovenije bi vam rad pojasnil nekaj naših stališč, pri čemer se bom
@@ -1418,11 +1431,11 @@
                            ustave, ker menimo, da bi to za slovensko družbo imelo v tem trenutku
                            zelo slabe posledice.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Besedo ima g. Maria Pozsonec.</p>
                      </sp>
-                     <sp who="#sp.PozsonecMaria">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PozsonecMaria">
                         <speaker>MARIA POZSONEC:</speaker>
                         <p>
                            <stage type="comment">(Govori v madžarskem jeziku.)</stage> Spoštovano predsedstvo,
@@ -1439,11 +1452,11 @@
                            enakovredni in enakopravni državljani. Ob teh pogojih tudi sedaj
                            podpiramo sprejem nove ustave in dajemo zanjo svoj glas.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Za razpravo je prijavljen še g. Jože Magdič.</p>
                      </sp>
-                     <sp who="#sp.MagdičJože">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.MagdičJože">
                         <speaker>DR. JOŽE MAGDIČ:</speaker>
                         <p>Spoštovane gospe in gospodje! Upam, da vam je jasno, da mi, slovenski
                            krščanski demokrati zmoremo zavzemati stališča tudi k drugim členom
@@ -1474,11 +1487,11 @@
                            treba biti zdravnik. Danes bomo opravili to sveto slovensko dolžnost,
                            rešitev Slovenije. Sprejemam novorojenko. Sem za slovensko ustavo.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Besedo ima g. Žare Pregelj.</p>
                      </sp>
-                     <sp who="#sp.PregeljŽarko">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PregeljŽarko">
                         <speaker>ŽARKO PREGELJ:</speaker>
                         <p>Predlog ustave sprejemam z zadovoljstvom. Mislim, da je ta izdelek, ki je
                            pred nami, vreden naše privolitve. Tudi sama oblika ustave je dokaj
@@ -1516,14 +1529,14 @@
                            verjetno vredno v tem času nekoliko več poudarka dati predvsem tistemu
                            delu, ki določa organizacijo oziroma delitev oblasti. Najlepša hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Prosim, če daste svoje predloge pisno. Moram pa povedati, da so bile vse
                            te reči deležne zelo podrobne in natančne obravnave že v Ustavni
                            komisiji.</p>
                         <p>Besedo ima še Peter Reberc.</p>
                      </sp>
-                     <sp who="#sp.RebercPeter">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.RebercPeter">
                         <speaker>PETER REBERC:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani zbor! Tudi jaz se strinjam s tem, da
                            je potrebno to ustavo čimprej sprejeti in ugotavljamo vsi skupaj, da je v
@@ -1544,18 +1557,18 @@
                         <p>Glede naziva Republika Slovenija pa ne vem, ali moram vložiti ta predlog
                            pismeno Ustavni komisiji.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Jaz bi prosil, čeprav mislim, da 1. člen v bistvu odgovarja na to
                            vprašanje.</p>
                      </sp>
-                     <sp who="#sp.RebercPeter">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.RebercPeter">
                         <speaker>PETER REBERC:</speaker>
                         <p>Slovenija je demokratična republika. Se pravi, da je Slovenija uradno ime
                            države, ne pa Republika Slovenija. Potemtakem naj bo to Ustava Slovenije,
                            in ne Ustava Republike Slovenije.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Prosim za pismeni predlog. S tem je lista tistih, ki ste se prijavili po
                            regularni poti, izčrpana. Želi še kdo razpravljati? <stage type="debate">(Ne.)</stage>
@@ -1565,8 +1578,11 @@
                            točko dnevnega reda. Odločali bomo po seji Ustavne komisije.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.TDR" n="2" change="#toc.2.2">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.2.2"
+                       ana="#PAR.TDR"
+                       n="2"
+                       change="#toc.2.2">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <p>Prehajamo na
                            <title>2. TOČKO DNEVNEGA REDA, to je PREDLOG USTAVNEGA ZAKONA ZA IZVEDBO
                               USTAVE REPUBLIKE SLOVENIJE</title>.</p>
@@ -1582,13 +1598,16 @@
                            po zaključku seje ustavne komisije.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.3" ana="#PAR.TDR" n="1" change="#toc.2.3">
-                     <sp who="#sp.PeršakAnton">
+                  <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.2.3"
+                       ana="#PAR.TDR"
+                       n="1"
+                       change="#toc.2.3">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <p>Prosim vse poslance, apeliram, da ne bi zapuščali skupščine, ker veste,
                            kakšna večina je potrebna za <title>sprejemanje ustave</title>. Prosim,
                            gospod Polajnar ima verjetno proceduralne pripombe.</p>
                      </sp>
-                     <sp who="#sp.PolajnarIgnac">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PolajnarIgnac">
                         <speaker>IGNAC POLAJNAR:</speaker>
                         <p>Spoštovani, v zadnjem času smo slišali oziroma brali, vendar dve
                            interpretaciji razlage, kaj se zgodi, če ustava ni sprejeta. Ena pravi:
@@ -1597,21 +1616,21 @@
                            čisto, bom rekel, pravno dobro razlago menda tudi Zakonodajno-pravna
                            komisija.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Gre za člen ustave gospod Polajnar in verjetno lahko samo ustavna
                            komisija tolmači to proceduro.</p>
                      </sp>
-                     <sp who="#sp.PolajnarIgnac">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PolajnarIgnac">
                         <speaker>IGNAC POLANAR:</speaker>
                         <p>No kakorkoli, prosil bi za to uradno tolmačenje.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Prvi je prosil za odgovor gospod predsednik Ustavne komisije gospod
                            Bučar.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.BučarFrance">
                         <speaker>DR. FRANCE BUČAR:</speaker>
                         <p>Najodločneje moram ugovarjati takemu prizadevanju, da bi relativizirali
                            katerokoli pravno določbo. Če smo včasih kritizirali sistem relativnosti
@@ -1624,12 +1643,12 @@
                            bo omogočila, da lahko ustavo spet preložimo za teden ali mesec. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala lepa. Še gospod Tomažič prosi za besedo in prosim, samo v zvezi s
                            tem vprašanjem.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Rad bi samo obvestil, da sem ravnokar dobil sklep Zbora združenega dela,
                            ki zahteva, da naj ta komisija, poslovniška, prav to vprašanje obravnava
@@ -1637,7 +1656,7 @@
                            zato imamo Komisijo za poslovnik, ki se ukvarja s proceduralnimi
                            zadevami, tako, da bo tako in tako sklicana.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Seveda ne nasprotujem temu, da se Komisija za poslovnik sestane, ampak
                            ponovno moram opozoriti, da postopek sprejemanja ustave ureja ustava,
@@ -1645,7 +1664,7 @@
                            pristojna za tolmačenje tega.</p>
                         <p>Prosim še gospa Darja Lavitžar-Bebler.</p>
                      </sp>
-                     <sp who="#sp.LavtižarBeblerDarja">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.LavtižarBeblerDarja">
                         <speaker>DARJA LAVTIŽAR-BEBLER:</speaker>
                         <p>Hvala lepa. Spoštovane kolegice, spoštovani kolegi, jaz tudi ne vidim
                            razloga oziroma utemeljitve kako to, da komu ni jasno, kako se sprejema
@@ -1657,7 +1676,7 @@
                            zaradi tega predlagam, da ne zapletamo tam, kjer za to res ni mesta.
                            Hvala.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
                         <p>Hvala. Mislim, da lahko razpravo o tem vprašanju zaključimo.</p>
                         <p>Tako kot sem že preje rekel, Ustavna komisija se bo sestala takoj, ko
@@ -1665,16 +1684,16 @@
                            ponovno sestane. Še ponavljam apel: Ne zapuščajte skupščine. Odrejam
                            pavzo za ta čas.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-12-23T13:10:00" xml:id="stage.t.4">prekinjena ob 13. uri  in 10 minut</time> in se je
-                           <time from="1991-12-23T16:52:00" xml:id="stage.t.5">nadaljevala ob 16.52
+                     <stage type="time">(Seja je bila <time to="1991-12-23T13:10:00" xml:id="DZ-1991-DruzPolZb-31.stage.t.4">prekinjena ob 13. uri  in 10 minut</time> in se je
+                           <time from="1991-12-23T16:52:00" xml:id="DZ-1991-DruzPolZb-31.stage.t.5">nadaljevala ob 16.52
                            uri</time>.)</stage>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Poslanke in poslance naj samo obvestim, da bo po dogovoru s predsedniki
                            drugih dveh zborov nadaljevanje nedokončanih sej v petek, 27. 12. ob 10.
                            uri.</p>
                      </sp>
-                     <sp who="#sp.VoljčBožidar">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.VoljčBožidar">
                         <speaker>DR. BOŽIDAR VOLJČ:</speaker>
                         <p>Spoštovane poslanke in poslanci! V zvezi s tem bi vam rad nekaj rekel.
                            Danes smo imeli Odbor za zdravstvo, kjer smo ugotovili, da letos ne
@@ -1687,7 +1706,7 @@
                            toliko uvidevni, da bi v petek na vse zgodaj "zagrabili" in da bi pač to
                            spravili pod streho - če se da. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa dr. Voljču. Formalno to lahko storimo. Ugotovimo najprej
                            navzočnost: 55 navzočih.</p>
@@ -1702,7 +1721,7 @@
                         <p>Sestala se je Ustavna komisija in prosim poročevalca Komisije za ustavna
                            vprašanja, da poda poročilo. Prosim, gospod Anton Peršak.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Kot je povedal predsednik, se je med tem sestala Ustavna komisija in
                            najprej, v začetku seje, zavzela nekatera načelna stališča.</p>
@@ -1787,12 +1806,12 @@
                            odslej ta skupščina delala v bistvu samo še na skupnih sejah. Razloge je
                            razložil že predsednik v uvodnem referatu.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa poročevalcu Antonu Peršaku. Odpiram razpravo o poročilu -
                            Gospod Reberc.</p>
                      </sp>
-                     <sp who="#sp.RebercPeter">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.RebercPeter">
                         <speaker>PETER REBERC:</speaker>
                         <p>Mogoče samo dve besedi k poročilu o delu Komisije za poslovnik, ki je
                            obravnavala vprašanja, ki so bila postavljena v Zboru združenega dela in
@@ -1812,21 +1831,21 @@
                            žogico o slaboumenosti predloga predsedniku komisije nazaj in bi prosil
                            za natančno obrazložitev. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Prosim, gospod Peršak.</p>
                      </sp>
-                     <sp who="#sp.PeršakAnton">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.PeršakAnton">
                         <speaker>ANTON PERŠAK:</speaker>
                         <p>Samo replika, kot poročevalec. Nihče ni govoril o slaboumnosti predloga,
                            ampak o neumestnosti oziroma nepotrebnosti. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Če ni več razprave, zaključujem razpravo in prehajamo na
                            glasovanje. Gospod Kolešnik želi obrazložiti glas? Prosim.</p>
                      </sp>
-                     <sp who="#sp.KolešnikCiril">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.KolešnikCiril">
                         <speaker>CIRIL KOLEŠNIK:</speaker>
                         <p>Meni je prav žal, toda moram to narediti navkljub nekaterim, ki si tega
                            gotovo ne želijo. Kot kristjan in kot kristjani smo vedno znali nositi
@@ -1848,18 +1867,18 @@
                            ustavo, ki na žalost nas večjega števila državljanov ni dobra, ni moderna
                            kot bi si jo zaslužili. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Gospod Magajna želi povedati, kako in za kaj bo glasoval.
                            Prosim. Samo malo, razprave ni. Samo glas, kako in za kaj glasuje.</p>
                      </sp>
-                     <sp who="#sp.MagajnaAndrej">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.MagajnaAndrej">
                         <speaker>ANDREJ MAGAJNA:</speaker>
                         <p>Preden me boste prekinili bom samo povedal, da protestiram, da Ciril
                            Kolešnik govori v imenu vseh kristjanov. Lahko govori v imenu svoje
                            stranke, klua, ne pa v imenu vseh kristjanov.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
 
                         <p>Hvala. Preidemo na glasovanje.</p>
@@ -1871,15 +1890,17 @@
                         <p>Glasujemo najprej o tem amandmaju. Samo malo. Prosim, predsednik Ustavne
                            komisije želi. A, pardon. Tu zdaj ni glasovanja. Glasujemo celovito.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.BučarFrance">
                         <speaker>DR. FRANCE BUČAR:</speaker>
                         <p>Moram ugovarjati glede na....da bo stvar jasna. 
-                           </p></sp><sp who="#sp.ToplakLudvik">
+                           </p>
+                     </sp>
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                            <speaker>(Vmes dr. Toplak:</speaker>
                            <ab>
                               Je že. Hvala, hvala.)</ab>                      
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala. Komisija je oblikovala novo določbo 174. člena k predlogu ustave,
                            ki je pomotoma izpadel in daje podlago za sprejemanje podlage ustavnega
@@ -1899,8 +1920,11 @@
                         </p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.2.4" ana="#PAR.TDR" n="2" change="#toc.2.4">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1991-DruzPolZb-31.div.1.1.2.4"
+                       ana="#PAR.TDR"
+                       n="2"
+                       change="#toc.2.4">
+                     <sp who="#DZ-1991-DruzPolZb-31.sp.ToplakLudvik">
                         <p>Prehajamo na
                            <title>2. TOČKO DNEVNEGA REDA: PREDLOG USTAVNEGA ZAKONA ZA IZVEDBO USTAVE
                               REPUBLIKE SLOVENIJE</title>.</p>
@@ -1908,9 +1932,11 @@
                            glasovanje glede druge točke z redakcijsko dopolnitvijo, kakor izhaja iz
                            poročila.</p>
                         <p>Ponovno  ugotovimo navzočnost. <stage type="vote">(Navzočih je 73
-                           delegatov.)</stage></p>
+                           delegatov.)</stage>
+                        </p>
                         <p>Kdo je za predlog ustavnega zakona? <stage type="vote">(69 za.)</stage> Kdo je proti?
-                              <stage type="vote">(2 proti.)</stage> Vzdržani? <stage type="vote">(2 vzdržana.)</stage></p>
+                              <stage type="vote">(2 proti.)</stage> Vzdržani? <stage type="vote">(2 vzdržana.)</stage>
+                        </p>
                         <p>Ugotavljam, da je z 69 glasovi za, z 2 proti in 2 vzdržanima ustavni
                            zakon izglasovan z več kot dvotretjinsko večino.</p>
                         <p>S tem zaključujem 31. sejo Družbenopolitičnega zbora Skupščine Republike
@@ -1921,7 +1947,7 @@
                            obveščam, da je zaprta tudi restavracija, zato prosim, da se poslužujete
                            restavracije v Tomšičevi.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-12-23T16:15:00" xml:id="stage.t.6">končana ob l6. 15 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-12-23T16:15:00" xml:id="DZ-1991-DruzPolZb-31.stage.t.6">končana ob l6. 15 uri</time>.)</stage>
                   </div>
                </div>
             </div>

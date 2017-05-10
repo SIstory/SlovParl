@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,7 +132,7 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Določanje dnevnega reda ............................... 1<list rend="simple">
+                     <item n="1" xml:id="DZ-1991-Zasedanje-18.toc.1.1">Določanje dnevnega reda ............................... 1<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>Miran Potrč ........................................... 1</item>
                            <item>Emil Milan Pintar ..................................... 2</item>
@@ -147,11 +145,11 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Uvodna beseda k:<list>
-                           <item n="-" xml:id="toc.2.1a">zakonu o lastninskem preoblikovanju podjetij,</item>
-                           <item n="-" xml:id="toc.2.1b">zakonu o Agenciji Republike Slovenije za
+                     <item n="1" xml:id="DZ-1991-Zasedanje-18.toc.2.1">Uvodna beseda k:<list>
+                           <item n="-" xml:id="DZ-1991-Zasedanje-18.toc.2.1a">zakonu o lastninskem preoblikovanju podjetij,</item>
+                           <item n="-" xml:id="DZ-1991-Zasedanje-18.toc.2.1b">zakonu o Agenciji Republike Slovenije za
                               privatizacijo,</item>
-                           <item n="-" xml:id="toc.2.1c">zakon o Skladu Republike Slovenije za razvoj.<list rend="simple">
+                           <item n="-" xml:id="DZ-1991-Zasedanje-18.toc.2.1c">zakon o Skladu Republike Slovenije za razvoj.<list rend="simple">
                                  <head>GOVORNIK:</head>
                                  <item>Alojz Peterle .........................................
                                     3</item>
@@ -159,7 +157,7 @@
                            </item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.2.2">Seznam govornikov .................................. II/1</item>
+                     <item n="2" xml:id="DZ-1991-Zasedanje-18.toc.2.2">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -171,48 +169,52 @@
             <castList>
                <head>GOVORNIKI: STRAN</head>
                <castItem>
-                  <actor xml:id="sp.GrosVitomir">Gros Vitomir</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-18.sp.GrosVitomir">Gros Vitomir</actor>
                   .............................................. 2</castItem>
                <castItem>
-                  <actor xml:id="sp.PeterleAlojz">Peterle Alojz</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-18.sp.PeterleAlojz">Peterle Alojz</actor>
                   ............................................. 3</castItem>
                <castItem>
-                  <actor xml:id="sp.PintarEmilMilan">Pintar Emil Milan</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-18.sp.PintarEmilMilan">Pintar Emil Milan</actor>
                   ......................................... 2</castItem>
                <castItem>
-                  <actor xml:id="sp.PotrčMiran">Potrč Miran</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-18.sp.PotrčMiran">Potrč Miran</actor>
                   ............................................... 1</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-18.sp.TomažičAnton">Tomažič Anton</actor>
                   ............................................. 2</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-Zasedanje-18.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="18">
+            <div xml:id="DZ-1991-Zasedanje-18.div.1.1" ana="#PAR.Zasedanje" n="18">
                <head>18. zasedanje</head>
                <docDate>(<date when="1991-09-11">11. september 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-09-11T10:18:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1991-Zasedanje-18.TL.1" unit="s">
+                  <when synch="#DZ-1991-Zasedanje-18.stage.t.1"
+                        xml:id="DZ-1991-Zasedanje-18.TL.1"
+                        absolute="1991-09-11T10:18:00"/>
+                  <when synch="#DZ-1991-Zasedanje-18.stage.t.2"
+                        since="#DZ-1991-Zasedanje-18.TL.1"
                         absolute="1991-09-11T10:40:00"
                         interval="1320"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
+                     <actor xml:id="DZ-1991-Zasedanje-18.sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
                         Družbenopolitičnega zbora</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-09-11T10:18:00" xml:id="stage.t.1">pričela ob 10.18 uri</time>
+               <stage type="time">Seja se je <time from="1991-09-11T10:18:00" xml:id="DZ-1991-Zasedanje-18.stage.t.1">pričela ob 10.18 uri</time>
                </stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.DolDnevRed" corresp="#toc.1.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1991-Zasedanje-18.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-Zasedanje-18.div.1.1.1.1"
+                       ana="#PAR.DolDnevRed"
+                       corresp="#DZ-1991-Zasedanje-18.toc.1.1">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Drage poslanke, spoštovani poslanci, gospe in gospodje, cenjeni gostje,
                            spoštovani predstavniki sredstev javnega obveščanja, pričenjam skupno
@@ -225,7 +227,7 @@
                         <p>ki jo bo podal predsednik IS Skupščine Republike Slovenije gospod Alojz
                            Peterle. Prosim, gospod Peterle. Ja, prosim gospod Potrč.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>Gospod predsednik, spoštovano predsedstvo, poslanke in poslanci. Ta zbor
                            bi želel opozoriti oziroma skupno zasedanje, da je v skladu s poslovnikom
@@ -254,11 +256,11 @@
                            zakonodaji, ki je na dnevnem redu tudi ta vidi poslovnika dosledno
                            spoštujemo. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Gospod Pintar.</p>
                      </sp>
-                     <sp who="#sp.PintarEmilMilan">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.PintarEmilMilan">
                         <speaker>EMIL MILAN PINTAR:</speaker>
                         <p>Spoštovane kolegice in kolegi, spoštovani predsednik! K temu, kar je
                            rekel moj kolega poslanec Potrč, samo še dodatni predlog oziroma
@@ -269,11 +271,11 @@
                            predložila Skupščini, da naj imajo tudi predlagatelji alternativni verzij
                            predloga zakona enako možnost. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Prosim, gospod Gros.</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Čudi me razpravljanje predstavnikov opozicije, konkretno komunistične
                            stranke oziroma SDP, češ da se stranke še niso odločile in da bi radi
@@ -295,7 +297,7 @@
                            predlagateljem, da predlagajo svoje predloge v amandmajski obliki in ne v
                            obliki konkurenčnega zakona. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Tudi jaz hočem povedati, da je gospod Pintar narobe interpretiral sklep
                            Zakonodajno-pravne komisije; sicer je gospod Gros delno to pojasnil. Naše
@@ -311,9 +313,11 @@
                      </sp>
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" corresp="#toc.2.1">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1991-Zasedanje-18.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-Zasedanje-18.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Zasedanje-18.toc.2.1">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Soglasno stališče predsednikov vseh treh zborov je tako, kot
                            je bilo. Po prvem odstavku 83. člena poslovnika zbore skličejo na skupno
@@ -322,7 +326,7 @@
                            sporazumeli in na tem soglasno ostajamo, nadaljujemo delo, besedo ima
                            gospod Peterle.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci! Tisztelt kepvišelok tisztelt holgyeim es
                            uraim. Spetabili delegate e delegati.</p>
@@ -466,13 +470,13 @@
                            <stage type="vocal">(Ploskanje)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-Zasedanje-18.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p> Hvala lepa gospodu Peterletu. S tem zaključujemo skupno zasedanje Zbora
                            združenega dela, Zbora občin in Družbenopolitičnega zbora. Razprava bo v
                            zborih.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-09-11T10:40:00" xml:id="stage.t.2">končana 11. septembra 1991 ob 10.40
+                     <stage type="time">(Seja je bila <time to="1991-09-11T10:40:00" xml:id="DZ-1991-Zasedanje-18.stage.t.2">končana 11. septembra 1991 ob 10.40
                         uri</time>.)</stage>
                   </div>
                </div>

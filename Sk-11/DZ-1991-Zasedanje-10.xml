@@ -78,10 +78,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -137,14 +135,14 @@
                <item>
                   <list rend="ordered">
                      <head>STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Uvodna obrazložitev k osnutku zakona o privatizaciji podjetij,
+                     <item n="1" xml:id="DZ-1991-Zasedanje-10.toc.1.1">Uvodna obrazložitev k osnutku zakona o privatizaciji podjetij,
                         osnutku zakona o agencij Republike Slovenije za razvoj
                         ................................. 1<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Dr. Jože Mencinger .................................. 1</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.1.2">Uvodna obrazložitev k predlogu za izdajo zakona o
+                     <item n="2" xml:id="DZ-1991-Zasedanje-10.toc.1.2">Uvodna obrazložitev k predlogu za izdajo zakona o
                         denacionalizaciji, z osnutkom zakona ...................................
                            4<list rend="simple">
                            <head>GOVORNIK:</head>
@@ -162,35 +160,39 @@
             <castList>
                <head>GOVORNIKI:                                              STRAN</head>
                <castItem>
-                  <actor xml:id="sp.MencingerJože">Dr. Jože Mencinger</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-10.sp.MencingerJože">Dr. Jože Mencinger</actor>
                   ......................................... 4</castItem>
                <castItem>
-                  <actor xml:id="sp.PirnatRajko">Dr. Rajko Pirnat</actor>
+                  <actor xml:id="DZ-1991-Zasedanje-10.sp.PirnatRajko">Dr. Rajko Pirnat</actor>
                   ........................................... 1</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-Zasedanje-10.div.1" ana="#PAR.VsiZbor">
             <head>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA
                ZBORA</head>
-            <div xml:id="div.1.1" ana="#PAR.Zasedanje" n="10">
+            <div xml:id="DZ-1991-Zasedanje-10.div.1.1" ana="#PAR.Zasedanje" n="10">
                <head>10. zasedanje</head>
                <docDate>(<date when="1991-03-19">19. marec 1991</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-03-19T11:15:00"/>
+               <timeline origin="#DZ-1991-Zasedanje-10.TL.1" unit="s">
+                  <when synch="#DZ-1991-Zasedanje-10.stage.t.1"
+                        xml:id="DZ-1991-Zasedanje-10.TL.1"
+                        absolute="1991-03-19T11:15:00"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.ZupančičJože">Jože
+                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="DZ-1991-Zasedanje-10.sp.ZupančičJože">Jože
                         Zupančič</actor>, <role>predsednik Zbora združenega dela</role>.</castItem>
                </castList>
                <stage type="time">
-                  <time from="1991-03-19T11:15:00" xml:id="stage.t.1">Začetek seje ob 11.15
+                  <time from="1991-03-19T11:15:00" xml:id="DZ-1991-Zasedanje-10.stage.t.1">Začetek seje ob 11.15
                      uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#TDR" corresp="#toc.1.1">
-                     <sp who="#sp.ZupančičJože">
+               <div xml:id="DZ-1991-Zasedanje-10.div.1.1.1" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-Zasedanje-10.div.1.1.1.1"
+                       ana="#TDR"
+                       corresp="#DZ-1991-Zasedanje-10.toc.1.1">
+                     <sp who="#DZ-1991-Zasedanje-10.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Spoštovane poslanke, poslanci, dragi gostje, cenjeni novinarji. Pričenjam
                            skupno zasedanje Zbora združenega dela, Zbora občin in
@@ -203,7 +205,7 @@
                            republiški sekretar za pravosodje in upravo. Prosim, gospoda dr.
                            Mencinger za uvodne besede.</p>
                      </sp>
-                     <sp who="#sp.MencingerJože">
+                     <sp who="#DZ-1991-Zasedanje-10.sp.MencingerJože">
                         <speaker>DR. JOŽE MENCINGER:</speaker>
                         <p> Spoštovane poslanke in poslanci. Pred sabo imate Osnutek zakona o
                            privatizaciji in še dveh zakonov, ki sta vezana nanj, to je Osnutek
@@ -343,14 +345,16 @@
                            Jaz se zahvaljujem za poslušanje, o drugih zakonih niti ne bi govoril.
                            Hvala. .... <stage type="vocal">(Aplavz.)</stage> ...</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Zasedanje-10.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Se zahvaljujem gospodu dr. Mencingerju za to obrazložitev. Sedaj pa
                            prosim še dr. Rajka Pirnata.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.TDR" corresp="#toc.1.2">
-                     <sp who="#sp.PirnatRajko">
+                  <div xml:id="DZ-1991-Zasedanje-10.div.1.1.1.3"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Zasedanje-10.toc.1.2">
+                     <sp who="#DZ-1991-Zasedanje-10.sp.PirnatRajko">
                         <speaker>DR. RAJKO PIRNAT:</speaker>
                         <p>Gospe poslanke in gospodje poslanci. Že od rimskih časov je eno temeljnih
                            načel prava "nikogar oškodovati, vsakomur prisoditi njegovo". Ko je to
@@ -476,7 +480,7 @@
                            predlagam, da Predlog za izdajo zakona o denacionalizaciji z osnutkom
                            zakona obravnavate in sprejmete. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Zasedanje-10.sp.ZupančičJože">
                         <speaker>PREDSEDNIK JOŽE ZUPANČIČ:</speaker>
                         <p>Gospodu dr. Rajku Pirnatu se zahvaljujem za to uvodno obrazložitev.
                            Preden zaključim skupno zasedanje, še dvoje obvestil. Zbor občin in
@@ -485,7 +489,7 @@
                            za usklajevanje vseh zadev, razen glede zavodov v sobi 311. Iskrena hvala
                            vsem.</p>
                      </sp>
-                     <stage type="time">(Skupno zasedanje je bilo <time to="1991-03-19T11:45:00" xml:id="stage.t.2">končano ob 11.45 uri</time>.)</stage>
+                     <stage type="time">(Skupno zasedanje je bilo <time to="1991-03-19T11:45:00" xml:id="DZ-1991-Zasedanje-10.stage.t.2">končano ob 11.45 uri</time>.)</stage>
                   </div>
                </div>
             </div>

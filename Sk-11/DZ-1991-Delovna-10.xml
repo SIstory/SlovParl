@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -146,21 +144,21 @@
                <item>
                   <list rend="ordered">
                      <head>PRED DNEVNIM REDOM:                                      STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1<list rend="simple">
+                     <item n="1" xml:id="DZ-1991-Delovna-10.toc.1.1">Ugotavljanje prisotnosti delegatov .................... 1<list rend="simple">
                            <head>GOVORNIKA:</head>
                            <item>dr. Stanko Buser ...................................... 1</item>
                            <item>Andrej Šter ........................................... 2</item>
                         </list>
                      </item>
                      <note>NADALJEVANJE 10. DELOVNE SKUPNE SEJE 27. DECEMBRA 1991</note>
-                     <item n="2" xml:id="toc.1.2">Ponovno ugotavljanje prisotnosti delegatov ............ 2</item>
+                     <item n="2" xml:id="DZ-1991-Delovna-10.toc.1.2">Ponovno ugotavljanje prisotnosti delegatov ............ 2</item>
                      <note>NADALJEVANJE 10. DELOVNE SKUPNE SEJE 15. JANUARJA 1992</note>
                   </list>
                </item>
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1" xml:id="toc.2.1">Predlog zakona o zadrugah ............................. 2<list rend="simple">
+                     <item n="1" xml:id="DZ-1991-Delovna-10.toc.2.1">Predlog zakona o zadrugah ............................. 2<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>mag. Franc Avberšek ................................... 3</item>
                            <item>dr. Franc Zagožen ..................................... 3</item>
@@ -175,12 +173,12 @@
                         </list>
                      </item>
                      <note>NADALJEVANJE 10. DELOVNE SKUPNE SEJE 22. JANUARJA 1992</note>
-                     <item n="2" xml:id="toc.2.2">Ugotavljanje prisotnosti poslancev .................... 9<list rend="simple">
+                     <item n="2" xml:id="DZ-1991-Delovna-10.toc.2.2">Ugotavljanje prisotnosti poslancev .................... 9<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>Viljem  Mak ........................................... 9</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.2.3">Seznam govornikov .................................. II/1</item>
+                     <item n="3" xml:id="DZ-1991-Delovna-10.toc.2.3">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -192,89 +190,101 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.AvberšekFranc">Avberšek mag. Franc</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.AvberšekFranc">Avberšek mag. Franc</actor>
                   ....................................... 3</castItem>
                <castItem>
-                  <actor xml:id="sp.BuserStanko">Buser dr. Stanko</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.BuserStanko">Buser dr. Stanko</actor>
                   .......................................... 1</castItem>
                <castItem>
-                  <actor xml:id="sp.FrelihLeopold">Frelih Leopold</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.FrelihLeopold">Frelih Leopold</actor>
                   ............................................ 4</castItem>
                <castItem>
-                  <actor xml:id="sp.GošnikVano">Gošnik Vano</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.GošnikVano">Gošnik Vano</actor>
                   ............................................... 5</castItem>
                <castItem>
-                  <actor xml:id="sp.GrosVitomir">Gros Vitomir</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.GrosVitomir">Gros Vitomir</actor>
                   .............................................. 7</castItem>
                <castItem>
-                  <actor xml:id="sp.MakViljem">Mak Viljem</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.MakViljem">Mak Viljem</actor>
                   ................................................ 9</castItem>
                <castItem>
-                  <actor xml:id="sp.PodobnikMarjan">Podobnik Marjan</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.PodobnikMarjan">Podobnik Marjan</actor>
                   ........................................ 6, 8</castItem>
                <castItem>
-                  <actor xml:id="sp.PotrčMiran">Potrč Miran</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.PotrčMiran">Potrč Miran</actor>
                   ............................................... 6</castItem>
                <castItem>
-                  <actor xml:id="sp.RoginaBogo">Rogina Bogo</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.RoginaBogo">Rogina Bogo</actor>
                   ............................................... 6</castItem>
                <castItem>
-                  <actor xml:id="sp.ŠterAndrej">Šter Andrej</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.ŠterAndrej">Šter Andrej</actor>
                   ............................................... 2</castItem>
                <castItem>
-                  <actor xml:id="sp.ZabukovecZdravko">Zabukovec Zdravko</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.ZabukovecZdravko">Zabukovec Zdravko</actor>
                   ......................................... 7</castItem>
                <castItem>
-                  <actor xml:id="sp.ZagoženFranc">Zagožen dr. Franc</actor>
+                  <actor xml:id="DZ-1991-Delovna-10.sp.ZagoženFranc">Zagožen dr. Franc</actor>
                   ......................................... 3</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1991-Delovna-10.div.1" ana="#PAR.VsiZbor">
             <head>DELOVNA SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Delovna" n="10">
+            <div xml:id="DZ-1991-Delovna-10.div.1.1" ana="#PAR.Delovna" n="10">
                <head>10. seja</head>
                <docDate>(<date when="1991-12-18">18.</date> in <date when="1991-12-27">27. december
                      1991</date>, <date when="1992-01-15">15.</date> in <date when="1992-01-22">22.
                      januar 1992</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1991-12-18T14:25:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1991-Delovna-10.TL.1" unit="s">
+                  <when synch="#DZ-1991-Delovna-10.stage.t.1"
+                        xml:id="DZ-1991-Delovna-10.TL.1"
+                        absolute="1991-12-18T14:25:00"/>
+                  <when synch="#DZ-1991-Delovna-10.stage.t.2"
+                        since="#DZ-1991-Delovna-10.TL.1"
                         absolute="1991-12-18T15:40:00"
                         interval="4500"/>
-                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1991-12-27T17:57:00"/>
-                  <when synch="#stage.t.4"
-                        since="#TL.2"
+                  <when synch="#DZ-1991-Delovna-10.stage.t.3"
+                        xml:id="DZ-1991-Delovna-10.TL.2"
+                        absolute="1991-12-27T17:57:00"/>
+                  <when synch="#DZ-1991-Delovna-10.stage.t.4"
+                        since="#DZ-1991-Delovna-10.TL.2"
                         absolute="1991-12-27T18:00:00"
                         interval="180"/>
-                  <when synch="#stage.t.5" xml:id="TL.3" absolute="1992-01-15T18:00:00"/>
-                  <when synch="#stage.t.6"
-                        since="#TL.3"
+                  <when synch="#DZ-1991-Delovna-10.stage.t.5"
+                        xml:id="DZ-1991-Delovna-10.TL.3"
+                        absolute="1992-01-15T18:00:00"/>
+                  <when synch="#DZ-1991-Delovna-10.stage.t.6"
+                        since="#DZ-1991-Delovna-10.TL.3"
                         absolute="1992-01-15T18:23:00"
                         interval="1380"/>
-                  <when synch="#stage.t.7" xml:id="TL.4" absolute="1992-01-15T18:30:00"/>
-                  <when synch="#stage.t.8" since="#TL.4" absolute="1992-01-15T18:30:00"/>
-                  <when synch="#stage.t.9" xml:id="TL.5" absolute="1992-01-22T17:15:00"/>
-                  <when synch="#stage.t.10"
-                        since="#TL.5"
+                  <when synch="#DZ-1991-Delovna-10.stage.t.7"
+                        xml:id="DZ-1991-Delovna-10.TL.4"
+                        absolute="1992-01-15T18:30:00"/>
+                  <when synch="#DZ-1991-Delovna-10.stage.t.8"
+                        since="#DZ-1991-Delovna-10.TL.4"
+                        absolute="1992-01-15T18:30:00"/>
+                  <when synch="#DZ-1991-Delovna-10.stage.t.9"
+                        xml:id="DZ-1991-Delovna-10.TL.5"
+                        absolute="1992-01-22T17:15:00"/>
+                  <when synch="#DZ-1991-Delovna-10.stage.t.10"
+                        since="#DZ-1991-Delovna-10.TL.5"
                         absolute="1992-01-22T17:25:00"
                         interval="600"/>
                </timeline>
                <castList>
                   <castItem>
-                     <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="sp.ToplakLudvik">dr.
+                     <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1991-Delovna-10.sp.ToplakLudvik">dr.
                         Ludvik Toplak</actor>, <role>predsednik Družbenopolitičnega zbora</role> in
-                        <actor xml:id="sp.ZupančičJože">Jože Zupančič</actor>, <role>predsednik
+                        <actor xml:id="DZ-1991-Delovna-10.sp.ZupančičJože">Jože Zupančič</actor>, <role>predsednik
                         Zbora združenega dela</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1991-12-18T14:25:00" xml:id="stage.t.1">začela ob 14.25 uri</time>
+               <stage type="time">Seja se je <time from="1991-12-18T14:25:00" xml:id="DZ-1991-Delovna-10.stage.t.1">začela ob 14.25 uri</time>
                </stage>
-               <div xml:id="div.1.1.1" ana="#PAR.PredDnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.DolDnevRed">
-                     <sp who="#sp.ToplakLudvik">
+               <div xml:id="DZ-1991-Delovna-10.div.1.1.1" ana="#PAR.PredDnevRed">
+                  <div xml:id="DZ-1991-Delovna-10.div.1.1.1.1" ana="#PAR.DolDnevRed">
+                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovani poslanci, gospe in gospodje, cenjeni gostje! <title>Pričenjam 10.
                            skupno delovno sejo vseh treh zborov Skupščine Republike Slovenije kjer
@@ -290,8 +300,10 @@
                            zbor za sebe sklepčen.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.Prisot" corresp="#toc.1.1">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1991-Delovna-10.div.1.1.1.2"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-Delovna-10.toc.1.1">
+                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <p>Najprej ugotavljamo <title>navzočnost</title> Družbenopolitičnega zbora.
                               <stage type="quorum">(40 prisotnih.)</stage> Torej ni sklepčen.</p>
                         <p>Navzočnost v Zboru občin <stage type="quorum">(50 prisotnih)</stage>. Je sklepčen.</p>
@@ -300,7 +312,7 @@
                         <p>Mi ugotavljamo prisotnost, vendar izkoristimo čas - prosim, gospod
                            Buser.</p>
                      </sp>
-                     <sp who="#sp.BuserStanko">
+                     <sp who="#DZ-1991-Delovna-10.sp.BuserStanko">
                         <speaker>DR. STANKO BUSER:</speaker>
                         <p>Spoštovane poslanke in poslanci ter predsedstvo! Ker vem, da v enem zboru
                            manjka precej delegatov, vem pa, da so med tistimi delegati ravno tako
@@ -308,7 +320,7 @@
                            dvorano, oziroma rečeno slovensko, da se jih po možnosti pokliče. Takšnih
                            korakov ne odobravam, jih nisem in jih nikoli ne bom. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Počakamo še minuto, dve, da ugotovimo navzočnost.</p>
                         <p>Ugotovimo navzočnost: Družbenopolitični zbor <stage type="quorum">(45
@@ -324,7 +336,7 @@
                         <p>Skupna delovna seja po poslovniku ni sklepčna.</p>
                         <p>Gospod Šter želi besedo, čeprav razprave ni.</p>
                      </sp>
-                     <sp who="#sp.ŠterAndrej">
+                     <sp who="#DZ-1991-Delovna-10.sp.ŠterAndrej">
                         <speaker>ANDREJ ŠTER:</speaker>
                         <p>Spoštovani! Ker nisem za socializacijo odgovornosti, predlagam, da
                            predsedniki vseh treh zborov poimensko pokličejo delegate. Kajti samo od
@@ -335,19 +347,21 @@
                            kdo ostal v dvorani. Želim pa, da se ugotovi, kdo od mojih kolegov je
                            tukaj.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Samo proceduralno ugotavljam: delovna seja ni sklepčna, zato prekinjam
                            sejo. Delovna seja bo predvidoma ponovno sklicana v petek. Hvala
                            lepa.</p>
                      </sp>
 
-                     <stage type="time">(SEJA JE BILA <time to="1991-12-18T15:40:00" xml:id="stage.t.2">PREKINJENA 18. DECEMBRA 1991 OB 15.40 URI</time> IN SE
-                        JE <time from="1991-12-27T17:57:00" xml:id="stage.t.3">NADALJEVALA 27.
+                     <stage type="time">(SEJA JE BILA <time to="1991-12-18T15:40:00" xml:id="DZ-1991-Delovna-10.stage.t.2">PREKINJENA 18. DECEMBRA 1991 OB 15.40 URI</time> IN SE
+                        JE <time from="1991-12-27T17:57:00" xml:id="DZ-1991-Delovna-10.stage.t.3">NADALJEVALA 27.
                            DECEMBRA 1991 OB 17.57 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.1.3" ana="#PAR.Prisot" corresp="#toc.1.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1991-Delovna-10.div.1.1.1.3"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-Delovna-10.toc.1.2">
+                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Nadaljujemo z nedokončano 10. skupno delovno sejo vseh treh zborov
                            Skupščine Republike Slovenije.</p>
@@ -369,15 +383,17 @@
                            predsedniku, delovnemu predsedniku 11. delovne seje, Jožetu
                            Zupančiču.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1991-12-27T18:00:00" xml:id="stage.t.4">PREKINJENA 27. DECEMBRA 1991 OB 18.00 URI</time> IN SE
-                        JE <time from="1992-01-15T18:00:00" xml:id="stage.t.5">NADALJEVALA 15.
+                     <stage type="time">(SEJA JE BILA <time to="1991-12-27T18:00:00" xml:id="DZ-1991-Delovna-10.stage.t.4">PREKINJENA 27. DECEMBRA 1991 OB 18.00 URI</time> IN SE
+                        JE <time from="1992-01-15T18:00:00" xml:id="DZ-1991-Delovna-10.stage.t.5">NADALJEVALA 15.
                            JANUARJA 1992 OB 18.00 URI</time>.)</stage>
 
                   </div>
                </div>
-               <div xml:id="div.1.1.2" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.2.1" ana="#PAR.TDR" corresp="#toc.2.1">
-                     <sp who="#sp.ZupančičJože">
+               <div xml:id="DZ-1991-Delovna-10.div.1.1.2" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1991-Delovna-10.div.1.1.2.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-Delovna-10.toc.2.1">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Pri 10. delovni seji vseh treh zborov nam je ostalo samo vprašanje
                            <title>ZAKONA O ZADRUGAH</title>.</p>
@@ -423,12 +439,12 @@
                            kar smo rekli, da bomo pripravili in da gremo tako kot smo rekli naprej.
                            Zato bom glasoval proti temu členu.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Jaz vem, da je bilo malo mimo, ampak čisto pa ne, ker ima vsak
                            možnost obrazložiti svoj glas. To moramo. Gospod Zagožen.</p>
                      </sp>
-                     <sp who="#sp.ZagoženFranc">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZagoženFranc">
                         <speaker>DR. FRANC ZAGOŽEN:</speaker>
                         <p>Jaz bom glasoval "za" predlog usklajevalne komisije, da se ta amandma
                            umakne. Če bi bil namreč sprejet in če bi črtali X. poglavje, potem ne bi
@@ -442,11 +458,11 @@
                         <p>Glasoval bom torej "za" predlog usklajevalne komisije, da se ta amandma
                            umakne. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Prosim, gospod Frelih.</p>
                      </sp>
-                     <sp who="#sp.FrelihLeopold">
+                     <sp who="#DZ-1991-Delovna-10.sp.FrelihLeopold">
                         <speaker>LEOPOLD FRELIH:</speaker>
                         <p>Spoštovani predsednik, spoštovane poslanke in poslanci! Jaz bom glasoval
                            "za" to, da X. poglavje ostane, bom pa v kratkem obrazložil zakaj.</p>
@@ -510,12 +526,12 @@
                            zakon sprejeti takoj, ne pa ga odlašati že leto dni.</p>
                         <p>Zato bom glasoval za to, da X. poglavje ostane v zakonu. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. No, sedaj smo si bot; tako da je eno in drugo pokrito. Gospod
                            Gošnik.</p>
                      </sp>
-                     <sp who="#sp.GošnikVano">
+                     <sp who="#DZ-1991-Delovna-10.sp.GošnikVano">
                         <speaker>VANO GOŠNIK:</speaker>
                         <p>Hvala lepa predsedujoči. 2. člen ustavnega zakona k sprejemu Ustave
                            Republike Slovenije pravi, da do konstituiranja Državnega zbora,
@@ -528,25 +544,25 @@
                            do sedaj uspešno. Prosim zato delovno predsedstvo, da pojasni, po kakšnih
                            določilih poslovnika oziroma ustave se sedaj ravnamo. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Poglavje VII. poslovnika, odločanje; 125. člen: "Delegati v zboru imajo
                            pravico obrazložiti svoj glas pred glasovanjem. Njegova obrazložitev ne
                            sme trajati več kot 5 minut."</p>
                      </sp>
-                     <sp who="#sp.GošnikVano">
+                     <sp who="#DZ-1991-Delovna-10.sp.GošnikVano">
                         <speaker>VANO GOŠNIK:</speaker>
                         <p>Oprostite, mislim, da delo skupne delovne seje je opredeljeno v ustavi,
                            kot sklepno dejanje, ko ni nobeno usklajevanje po zborih uspelo. Prosim,
                            da preverite, kako smo do sedaj delovali na skupni delovni seji.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Predlagate, da prekinemo sejo? O odločanju imamo samo tu to napisano in
                            bomo se tako pač morali držati. Mislim pa, da bi lahko skrajšali razprave
                            in bi tudi bilo vse dobro. Še kdo želi? Gospod Rogina ima besedo.</p>
                      </sp>
-                     <sp who="#sp.RoginaBogo">
+                     <sp who="#DZ-1991-Delovna-10.sp.RoginaBogo">
                         <speaker>BOGO ROGINA:</speaker>
                         <p>Glasoval bom proti predlogu usklajevalne skupine. Poleg vseh že znanih
                            razlogov ugotavljamo, da pravzaprav ta zakon o zadrugah obravnava samo
@@ -554,11 +570,11 @@
                            vlade pa vidimo, da rešuje tudi ostalo zadružništvo. In v Sloveniji imamo
                            še drugo zadružništvo. Ne samo kmetijsko. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Še kdo? Gospod Podobnik.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1991-Delovna-10.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Gospod predsednik, želel bi samo, ker so nekatere stvari nejasne, ker je
                            bil en amandma in potem še amandma usklajevalne komisije na ta amandma,
@@ -568,11 +584,11 @@
                            celotnega zadružništva, podpiram ugotovitev gospoda Freliha in dr.
                            Zagožna. Glasoval bom za amandma usklajevalne komisije. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Gospod Potrč.</p>
                      </sp>
-                     <sp who="#sp.PotrčMiran">
+                     <sp who="#DZ-1991-Delovna-10.sp.PotrčMiran">
                         <speaker>MIRAN POTRČ:</speaker>
                         <p>V stranki imamo na žalost, ampak samo o X. poglavju, ne pa o zadružnem
                            zakonu, različne poglede. Jaz moram ponoviti, da večina poslancev v
@@ -596,11 +612,11 @@
                            delavce in zadružnike, dočim sem prepričan, da jih takšen dekret ne bo
                            povezal in v tem bo škoda, ki jo bomo s tem zakonom naredili. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Zdravko Zabukovec.</p>
                      </sp>
-                     <sp who="#sp.ZabukovecZdravko">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZabukovecZdravko">
                         <speaker>ZDRAVKO ZABUKOVEC:</speaker>
                         <p>Najprej bi rad pojasnil očitek, ki ga je gospod Potrč dal, da ni
                            pripravljenosti za usklajevanje. Tisti del Zbora združenega dela, ki je
@@ -622,7 +638,7 @@
                            sklepčnost, ker mislim, da je v tem času veliko delegatov prišlo in odšlo
                            iz dvorane. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Hvala. Želi še kdo? Če nihče, lahko zaključim razpravo. In sicer bomo
                            glasovali, in seveda  tudi preverili prisotnost, o amandmaju. Sicer, ker
@@ -634,13 +650,13 @@
                            lahko do konca povem. Prosim. O amandmajih glasujemo, ne o umiki ali
                            za...</p>
                      </sp>
-                     <sp who="#sp.GrosVitomir">
+                     <sp who="#DZ-1991-Delovna-10.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
                         <p>Vedno v tej skupščini glasujemo o predlogu usklajevalne komisije in
                            prosim, da tak predlog date na glasovanje gospod predsedujoči, da ne bomo
                            izgubljali časa.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Mislim, da to ni čisto prav, ampak, če se s tem želite izogniti, je pa
                            seveda dobro. Potem bom pa tako rekel:</p>
@@ -658,7 +674,7 @@
                            odloča o amandmajih, moramo tako tudi odločati. Ne vem, če bomo kaj na
                            hitrosti pridobili. Gospod Podobnik.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1991-Delovna-10.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Oprostite gospod predsedujoči, mislim, da to, kar ste sedaj naredili, ni
                            bilo korektno. Kajti vi ste povedali prej, o čem naj bi glasovali, pet,
@@ -668,7 +684,7 @@
                            se izjasnjevali, da ga tako postavite tudi sedaj, zato da bodo poslanci
                            jasno vedeli, za kaj se bodo pri tem opredelili. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Lepo vas prosim, mi glasujemo o amandmajih in častna beseda nimam nič
                            nekorektnosti za seboj. Zakaj pa? Da se prav razumemo. In če je amandma
@@ -688,9 +704,9 @@
                         <p>Ali lahko počakamo 5 minut? Ali lahko medtem sprejmemo pokojninski zakon?
                            Takoj sem dobil opomin. Ob 18.30 točno.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-01-15T18:23:00" xml:id="stage.t.6">prekinjena ob 18.23 uri</time> in se je <time from="1992-01-15T18:30:00" xml:id="stage.t.7">nadaljevala ob 18.30
+                     <stage type="time">(Seja je bila <time to="1992-01-15T18:23:00" xml:id="DZ-1991-Delovna-10.stage.t.6">prekinjena ob 18.23 uri</time> in se je <time from="1992-01-15T18:30:00" xml:id="DZ-1991-Delovna-10.stage.t.7">nadaljevala ob 18.30
                            uri</time>.)</stage>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1991-Delovna-10.sp.ZupančičJože">
                         <speaker>PREDSEDUJOČI JOŽE ZUPANČIČ:</speaker>
                         <p>Ali ne bom preveč smešen, če bom pozval k glasovanju, da ugotovimo,
                            koliko nas je tu.</p>
@@ -703,12 +719,14 @@
                         <p>Jutri ob 10.00 uri nadaljujemo sejo vsi trije zbori, vsak v svojem
                            prostoru. Lahko noč in hvala.</p>
                      </sp>
-                     <stage type="time">(SEJA JE BILA <time to="1992-01-15T18:30:00" xml:id="stage.t.8">PREKINJENA 15. JANUARJA 1992 OB 18.31 URI</time> IN SE
-                        JE <time from="1992-01-22T17:15:00" xml:id="stage.t.9">NADALJEVALA 22.
+                     <stage type="time">(SEJA JE BILA <time to="1992-01-15T18:30:00" xml:id="DZ-1991-Delovna-10.stage.t.8">PREKINJENA 15. JANUARJA 1992 OB 18.31 URI</time> IN SE
+                        JE <time from="1992-01-22T17:15:00" xml:id="DZ-1991-Delovna-10.stage.t.9">NADALJEVALA 22.
                            JANUARJA 1922 OB 17.15 URI</time>.)</stage>
                   </div>
-                  <div xml:id="div.1.1.2.2" ana="#PAR.Prisot" corresp="#toc.2.2">
-                     <sp who="#sp.ToplakLudvik">
+                  <div xml:id="DZ-1991-Delovna-10.div.1.1.2.2"
+                       ana="#PAR.Prisot"
+                       corresp="#DZ-1991-Delovna-10.toc.2.2">
+                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Spoštovani poslanci, gospe in gospodje, cenjeni gostje, predstavniki
                            sredstev javnega obveščanja, ponovno pričenjamo 10. skupno delovno sejo
@@ -736,7 +754,7 @@
                            prosim, če je proceduralno vprašanje? Razprave ni. Nismo sklepčni.
                            Proceduralno vprašanje. Gospod Mak, prosim.</p>
                      </sp>
-                     <sp who="#sp.MakViljem">
+                     <sp who="#DZ-1991-Delovna-10.sp.MakViljem">
                         <speaker>VILJEM MAK:</speaker>
                         <p>Danes je četrta seja o isti temi. Trikrat sem prečital v časopisu, da je
                            seja odpadla zato, ker smo poslanci Zbora združenega dela nesklepčni.
@@ -746,7 +764,7 @@
                            ugotovimo, da je to preprosto blokada, da to ni nekaj, da se nam pač ne
                            ljubi. Hvala.</p>
                      </sp>
-                     <sp who="#sp.ToplakLudvik">
+                     <sp who="#DZ-1991-Delovna-10.sp.ToplakLudvik">
                         <speaker>PREDSEDUJOČI DR. LUDVIK TOPLAK:</speaker>
                         <p>Hvala lepa. Mi tukaj nismo sklepčni, zato prekinjam 10. skupno delovno
                            sejo.</p>
@@ -754,7 +772,7 @@
                            nadaljevanju sklic 11. seje. Hvala.</p>
                      </sp>
 
-                     <stage type="time">(10. SKUPNA DELOVNA SEJA JE BILA <time to="1992-01-22T17:25:00" xml:id="stage.t.10">PREKINJENA OB 17. URI IN 25
+                     <stage type="time">(10. SKUPNA DELOVNA SEJA JE BILA <time to="1992-01-22T17:25:00" xml:id="DZ-1991-Delovna-10.stage.t.10">PREKINJENA OB 17. URI IN 25
                         MINUT</time> TER JE GLEDE NA NADALJNJE USKLAJEVANJE PREDLOGA ZAKONA O
                         ZADRUGAH POSTALA BREZPREDMETNA IN S TEM KONČANA.)</stage>
                   </div>

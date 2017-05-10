@@ -76,10 +76,8 @@
       <encodingDesc>
          <projectDesc>
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
-               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
-         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur --><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -134,7 +132,7 @@
                <item>
                   <list rend="ordered">
                      <head>DNEVNI RED:                                              STRAN</head>
-                     <item n="1" xml:id="toc.1.1">Slavnostna skupna seja vseh zborov ob sprejemu Slovenije v Organizacijo
+                     <item n="1" xml:id="DZ-1992-Slavnostna-2.toc.1.1">Slavnostna skupna seja vseh zborov ob sprejemu Slovenije v Organizacijo
                         združenih narodov ..................................... 1<list rend="simple">
                            <head>GOVORNIKI:</head>
                            <item>dr. France Bučar ...................................... 1</item>
@@ -154,14 +152,14 @@
                            <item>Jože Zupančič ........................................ 18</item>
                         </list>
                      </item>
-                     <item n="2" xml:id="toc.1.2">Predlog poziva mednarodnim organizacijam, Združenim narodom in državam,
+                     <item n="2" xml:id="DZ-1992-Slavnostna-2.toc.1.2">Predlog poziva mednarodnim organizacijam, Združenim narodom in državam,
                         da pomagajo narodom Bosne in Hercegovine (sprejem predloga poziva z aklamacijo)
                         ............... 18<list rend="simple">
                            <head>GOVORNIK:</head>
                            <item>dr. Lev Kreft ........................................ 18</item>
                         </list>
                      </item>
-                     <item n="3" xml:id="toc.1.3">Seznam govornikov .................................. II/1</item>
+                     <item n="3" xml:id="DZ-1992-Slavnostna-2.toc.1.3">Seznam govornikov .................................. II/1</item>
                   </list>
                </item>
             </list>
@@ -173,80 +171,84 @@
             <castList>
                <head>GOVORNIKI:                                               STRAN</head>
                <castItem>
-                  <actor xml:id="sp.BattelliRoberto">Battelli Roberto</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.BattelliRoberto">Battelli Roberto</actor>
                   ......................................... 14</castItem>
                <castItem>
-                  <actor sameAs="#sp.BučarFrance">Bučar dr. France</actor>
+                  <actor sameAs="#DZ-1992-Slavnostna-2.sp.BučarFrance">Bučar dr. France</actor>
                   .......................................... 1</castItem>
                <castItem>
-                  <actor xml:id="sp.GolijaFranc">Golija Franc</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.GolijaFranc">Golija Franc</actor>
                   .............................................. 7</castItem>
                <castItem>
-                  <actor xml:id="sp.HribarSpomenka">Hribar mag. Spomenka</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.HribarSpomenka">Hribar mag. Spomenka</actor>
                   ..................................... 11</castItem>
                <castItem>
-                  <actor xml:id="sp.KreftLev">Kreft dr. Lev</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.KreftLev">Kreft dr. Lev</actor>
                   ............................................ 18</castItem>
                <castItem>
-                  <actor xml:id="sp.MurenAndrej">Muren Andrej</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.MurenAndrej">Muren Andrej</actor>
                   ............................................. 17</castItem>
                <castItem>
-                  <actor xml:id="sp.PahorBorut">Pahor Borut</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.PahorBorut">Pahor Borut</actor>
                   ............................................... 8</castItem>
                <castItem>
-                  <actor xml:id="sp.PeterleAlojz">Peterle Alojz</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.PeterleAlojz">Peterle Alojz</actor>
                   ............................................ 10</castItem>
                <castItem>
-                  <actor xml:id="sp.PodobnikMarjan">Podobnik Marjan</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.PodobnikMarjan">Podobnik Marjan</actor>
                   .......................................... 15</castItem>
                <castItem>
-                  <actor xml:id="sp.PozsonecMaria">Pozsonec Maria</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.PozsonecMaria">Pozsonec Maria</actor>
                   ........................................... 13</castItem>
                <castItem>
-                  <actor xml:id="sp.PožarnikHubert">Požarnik dr. Hubert</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.PožarnikHubert">Požarnik dr. Hubert</actor>
                   ....................................... 7</castItem>
                <castItem>
-                  <actor xml:id="sp.SemoličDušan">Semolič mag. Dušan</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.SemoličDušan">Semolič mag. Dušan</actor>
                   ....................................... 12</castItem>
                <castItem>
-                  <actor xml:id="sp.StarmanDanijel">Starman Danijel</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.StarmanDanijel">Starman Danijel</actor>
                   .......................................... 14</castItem>
                <castItem>
-                  <actor xml:id="sp.ThalerZoran">Thaler Zoran</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.ThalerZoran">Thaler Zoran</actor>
                   ............................................. 16</castItem>
                <castItem>
-                  <actor xml:id="sp.TomažičAnton">Tomažič Anton</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.TomažičAnton">Tomažič Anton</actor>
                   ............................................. 9</castItem>
                <castItem>
-                  <actor xml:id="sp.ZupančičJože">Zupančič Jože</actor>
+                  <actor xml:id="DZ-1992-Slavnostna-2.sp.ZupančičJože">Zupančič Jože</actor>
                   ............................................ 18</castItem>
             </castList>
          </div>
       </front>
       <body>
-         <div xml:id="div.1" ana="#PAR.VsiZbor">
+         <div xml:id="DZ-1992-Slavnostna-2.div.1" ana="#PAR.VsiZbor">
             <head>SLAVNOSTNA SKUPNA SEJA VSEH ZBOROV SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="div.1.1" ana="#PAR.Slavnostna" n="2">
+            <div xml:id="DZ-1992-Slavnostna-2.div.1.1" ana="#PAR.Slavnostna" n="2">
                <head>2. seja</head>
                <docDate>(<date when="1992-05-27">27. maj 1992</date>)</docDate>
-               <timeline origin="#TL.1" unit="s">
-                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1992-05-27T18:08:00"/>
-                  <when synch="#stage.t.2"
-                        since="#TL.1"
+               <timeline origin="#DZ-1992-Slavnostna-2.TL.1" unit="s">
+                  <when synch="#DZ-1992-Slavnostna-2.stage.t.1"
+                        xml:id="DZ-1992-Slavnostna-2.TL.1"
+                        absolute="1992-05-27T18:08:00"/>
+                  <when synch="#DZ-1992-Slavnostna-2.stage.t.2"
+                        since="#DZ-1992-Slavnostna-2.TL.1"
                         absolute="1992-05-27T19:30:00"
                         interval="4920"/>
                </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
-                     <actor xml:id="sp.BučarFrance">dr. France Bučar</actor>, <role>predsednik
+                     <actor xml:id="DZ-1992-Slavnostna-2.sp.BučarFrance">dr. France Bučar</actor>, <role>predsednik
                         Skupščine Republike Slovenije</role>
                   </castItem>
                </castList>
-               <stage type="time">Seja se je <time from="1992-05-27T18:08:00" xml:id="stage.t.1">pričela ob 18.08 uri</time>.</stage>
-               <div xml:id="div.1.1.1" ana="#PAR.DnevRed">
-                  <div xml:id="div.1.1.1.1" ana="#PAR.TDR" corresp="#toc.1.1">
-                     <sp who="#sp.BučarFrance">
+               <stage type="time">Seja se je <time from="1992-05-27T18:08:00" xml:id="DZ-1992-Slavnostna-2.stage.t.1">pričela ob 18.08 uri</time>.</stage>
+               <div xml:id="DZ-1992-Slavnostna-2.div.1.1.1" ana="#PAR.DnevRed">
+                  <div xml:id="DZ-1992-Slavnostna-2.div.1.1.1.1"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1992-Slavnostna-2.toc.1.1">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Poslanke in poslanci, spoštovani gostje! Začenjam
                            <title>SLAVNOSTNO SKUPNO SEJO</title>
@@ -531,7 +533,7 @@
                            slovesnosti. Prvi ima besedo dr. Hubert Požarnik, predstavnik poslanskega
                            kluba Zelenih Slovenije.</p>
                      </sp>
-                     <sp who="#sp.PožarnikHubert">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.PožarnikHubert">
                         <speaker>DR. HUBERT POŽARNIK:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani člani Predsedstva Republike
                            Slovenije, spoštovani predsednik Vlade Republike Slovenije, spoštovani
@@ -568,12 +570,12 @@
                            medsebojno strpnost in složnost. Če bomo vsi skupaj zavihali rokave, bomo
                            dosegli več in predvsem hitreje. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Besedo ima Franc Golija, vodja poslanskega kluba Liberalne
                            stranke.</p>
                      </sp>
-                     <sp who="#sp.GolijaFranc">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.GolijaFranc">
                         <speaker>FRANC GOLIJA:</speaker>
                         <p>Spoštovano Predsedstvo, spoštovane poslanke, spoštovani poslanci,
                            spoštovana slovenska javnost! Pred časom marčnega vetra pomladi narodov v
@@ -610,12 +612,12 @@
                            negovali in gradili, kot smo jo skupaj z drugimi oblikovali. Če bo treba,
                            pa tudi branili in ubranili. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Borut Pahor, predstavnik poslanskega kluba Stranke
                            demokratične prenove.</p>
                      </sp>
-                     <sp who="#sp.PahorBorut">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.PahorBorut">
                         <speaker>BORUT PAHOR:</speaker>
                         <p>Spoštovani gospodje predsedniki, spoštovani gostje, spoštovane gospe in
                            gospodje! S sprejetjem Slovenije v univerzalno mednarodno organizacijo
@@ -648,12 +650,12 @@
                            napori članov in simpatizerjev stranke Socialdemokratske prenove. Hvala
                            lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Anton Tomažič, vodja poslanskega kluba Slovenske demokratične
                            zveze - narodno demokratske stranke.</p>
                      </sp>
-                     <sp who="#sp.TomažičAnton">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.TomažičAnton">
                         <speaker>ANTON TOMAŽIČ:</speaker>
                         <p>Spoštovane poslanke, spoštovani poslanci, spoštovani gostje! Ko smo
                            aktivisti Demosovih strank leta 1989 pobirali podpise v podporo Majniške
@@ -707,12 +709,12 @@
                            njegove humoreske: "Naj živi na vse veke vekov svobodna Slovenija in
                            samostojna Slovenija"!</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Lojze Peterle kot predstavnik poslanskega kluba Slovenskih
                            krščanskih demokratov.</p>
                      </sp>
-                     <sp who="#sp.PeterleAlojz">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.PeterleAlojz">
                         <speaker>ALOJZ PETERLE:</speaker>
                         <p>Spoštovane poslanke in poslanci, cenjeni gostje in drugi prijatelji!
                               <stage type="comment">(Pozdrav tudi v madžarščini in italijanščini.)</stage>
@@ -750,12 +752,12 @@
                            lepa. <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Spomenka Hribar, vodja poslanskega kluba Demokratske stranke
                            Slovenije.</p>
                      </sp>
-                     <sp who="#sp.HribarSpomenka">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.HribarSpomenka">
                         <speaker>MAG. SPOMENKA HRIBAR:</speaker>
                         <p>Spoštovani gospod predsednik, spoštovani poslanci, gostje! Dovolite nekaj
                            besed ob tej priložnosti.</p>
@@ -823,12 +825,12 @@
                            dvorani.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Besedo ima Dušan Semolič, vodja poslanskega kluba
                            Socialistične stranke Slovenije.</p>
                      </sp>
-                     <sp who="#sp.SemoličDušan">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.SemoličDušan">
                         <speaker>MAG. DUŠAN SEMOLIČ:</speaker>
                         <p>Spoštovani gostje, spoštovane poslanke in poslanci! Zagotovo je sprejem
                            Slovenije v Organizacijo združenih narodov velik dogodek. Država
@@ -874,12 +876,12 @@
                            odprtosti in zrelosti slovenske države. To je pa lahko tudi naš največji
                            prispevek ob polnopravnem vstopu v mednarodno skupnost. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Besedo ima Maria Pozsonec, predstavnica poslancev madžarske
                            narodnosti. Govorila bo v madžarskem jeziku.</p>
                      </sp>
-                     <sp who="#sp.PozsonecMaria">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.PozsonecMaria">
                         <speaker>MARIA POZSONEC:</speaker>
                         <p>
                            <stage type="comment">(Prevajalka prevaja.)</stage> Spoštovani gospod predsednik,
@@ -917,12 +919,12 @@
                            rodila svojega otroka. Svoboda in mir naj vladata onkraj in znotraj meja
                            in v srcih ljudi. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Roberto Battelli, predstavnik poslancev italijanske
                            narodnosti. Govoril bo v italijanskem jeziku.</p>
                      </sp>
-                     <sp who="#sp.BattelliRoberto">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BattelliRoberto">
                         <speaker>ROBERTO BATTELLI:</speaker>
                         <p>
                            <stage type="comment">(Govori v italijanščini, prevajalka prevaja.)</stage> Gospodje
@@ -945,12 +947,12 @@
                            tega, da samostojnost služi prav boljšemu udejanjanju ciljev miru in
                            splošnega civilizacijskega napredka. Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Besedo ima gospod Danijel Starman, predstavnik poslanskega kluba
                            Demos.</p>
                      </sp>
-                     <sp who="#sp.StarmanDanijel">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
                         <p>Predsednik Skupščine je odločil kratek, največ tri minutni pozdravni
                            nagovor, zato me oprostite posebnih pozdravov, gospe in gospodje. V imenu
@@ -982,12 +984,12 @@
                            ki daje jamstvo za ohranitev in razvoj slovenske identitete in izgradnjo
                            družbe, v kateri bodo njeni člani živeli. Hvala lepa.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala. Besedo ima Marjan Podobnik, vodja poslanskega kluba Slovenske
                            ljudske stranke.</p>
                      </sp>
-                     <sp who="#sp.PodobnikMarjan">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.PodobnikMarjan">
                         <speaker>MARJAN PODOBNIK:</speaker>
                         <p>Spoštovane poslanke in poslanci, spoštovani gostje! Sprejem Slovenije v
                            Organizacijo združenih narodov tudi Slovenska ljudska stranka jemlje kot
@@ -1020,12 +1022,12 @@
                            smo jo spoštovati. Hvala. <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Zoran Thaler, predstavnik poslanskega kluba
                            Liberalno-demokratske stranke.</p>
                      </sp>
-                     <sp who="#sp.ThalerZoran">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.ThalerZoran">
                         <speaker>ZORAN THALER:</speaker>
                         <p>Spoštovani! Vodja poslanskega kluba Liberalno-demokratične stranke je
                            odsoten, pa sem zaprošen, da povem nekaj besed v imenu
@@ -1081,12 +1083,12 @@
                               <stage type="vocal">(Ploskanje.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Besedo ima Andrej Muren, vodja poslanskega kluba Socialdemokratske
                            stranke Slovenije.</p>
                      </sp>
-                     <sp who="#sp.MurenAndrej">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.MurenAndrej">
                         <speaker>ANDREJ MUREN:</speaker>
                         <p>Spoštovano Predsedstvo, spoštovane poslanke in poslanci, cenjeni gostje,
                            spoštovana slovenska javnost! V imenu Socialdemokratske stranke Slovenije
@@ -1127,12 +1129,12 @@
                         <p>6. Varovanje okolja, v katerem živimo.</p>
                         <p>Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Besedo ima še Jože Zupančič, vodja poslanskega kluba
                            Neodvisnih.</p>
                      </sp>
-                     <sp who="#sp.ZupančičJože">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.ZupančičJože">
                         <speaker>JOŽE ZUPANČIČ:</speaker>
                         <p>Gospod predsednik, drage poslanke in poslanci, cenjeni gostje! Po izjemno
                            poglobljenem uvodu, ki ga je podal gospod predsednik dr. Bučar, in po kar
@@ -1157,15 +1159,17 @@
                            letošnjem letu. Pred nami so velika dejanja in veliki dogodki. Ne gledati
                            samo nazaj, glejmo v prihodnost! Hvala.</p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Torej, lista zastopnikov poslanskih klubov je s tem izčrpana.
                            K besedi se je prijavil na podlagi naročila Družbenopolitičnega zbora še
                            gospod Kreft. Dajem mu besedo.</p>
                      </sp>
                   </div>
-                  <div xml:id="div.1.1.1.2" ana="#PAR.TDR" corresp="#toc.1.2">
-                     <sp who="#sp.KreftLev">
+                  <div xml:id="DZ-1992-Slavnostna-2.div.1.1.1.2"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1992-Slavnostna-2.toc.1.2">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.KreftLev">
                         <speaker>DR. LEV KREFT:</speaker>
                         <p>Spoštovani gospod predsednik, hvala za besedo. Drage poslanke, spoštovani
                            poslanci in gostje! Na predlog Milana Balažica je danes popoldan
@@ -1193,14 +1197,14 @@
                               dvorani.)</stage>
                         </p>
                      </sp>
-                     <sp who="#sp.BučarFrance">
+                     <sp who="#DZ-1992-Slavnostna-2.sp.BučarFrance">
                         <speaker>PREDSEDNIK DR. FRANCE BUČAR:</speaker>
                         <p>Hvala lepa. Po aplavzu sodim, da se strinjamo s tem pozivom. Zato s tem
                            zaključujem skupno slavnostno sejo vseh zborov Skupščine Republike
                            Slovenije. Vse poslance in goste vabim na srečanje v avli pred dvorano.
                            Hvala lepa.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1992-05-27T19:30:00" xml:id="stage.t.2">končana 27. maja 1992 ob 19.30 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1992-05-27T19:30:00" xml:id="DZ-1992-Slavnostna-2.stage.t.2">končana 27. maja 1992 ob 19.30 uri</time>.)</stage>
                   </div>
                </div>
             </div>

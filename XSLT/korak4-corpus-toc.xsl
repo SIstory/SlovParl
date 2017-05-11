@@ -7,6 +7,8 @@
     exclude-result-prefixes="xs xi tei"
     version="2.0">
     
+    <!-- izhodiščni dokument teiCorpus, ki vključuje vse TEI dokumente s sejami, ki še niso vključene v skupno kazalo -->
+    
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="tei:teiCorpus">
@@ -30,6 +32,11 @@
                         <list>
                             <xsl:for-each select="tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:div/tei:div">
                                 <item>
+                                    <xsl:if test="ancestor::tei:body/tei:div/@ana">
+                                        <xsl:attribute name="sortKey">
+                                            <xsl:value-of select="ancestor::tei:body/tei:div/@ana"/>
+                                        </xsl:attribute>
+                                    </xsl:if>
                                     <xsl:if test="@ana">
                                         <xsl:attribute name="ana">
                                             <xsl:value-of select="@ana"/>

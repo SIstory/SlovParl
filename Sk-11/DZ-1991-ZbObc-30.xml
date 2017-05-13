@@ -1429,7 +1429,7 @@
                   <actor xml:id="DZ-1991-ZbObc-30.sp.BezovšekMarija">Bezovšek Marija</actor>
                   ......................................... 371</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1991-ZbObc-30.">Bizjak Ivan</actor> ................. 59, 78, 157,
+                  <actor sameAs="#DZ-1991-ZbObc-30.sp.BizjakIvan">Bizjak Ivan</actor> ................. 59, 78, 157,
                   172, 192, 250, 280</castItem>
                <castItem>
                   <actor xml:id="DZ-1991-ZbObc-30.sp.BogatajMiran">Bogataj Miran</actor>
@@ -1549,7 +1549,7 @@
                   <actor xml:id="DZ-1991-ZbObc-30.sp.LovšinFranc">Lovšin Franc</actor>
                   ............................................. 49</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1991-ZbObc-30.">Lukač Janez</actor> ..................... 69, 183,
+                  <actor sameAs="#DZ-1991-ZbObc-30.sp.LukačJanez">Lukač Janez</actor> ..................... 69, 183,
                   216, 220, 230, 254, 272, 276, 277</castItem>
                <castItem>
                   <actor xml:id="DZ-1991-ZbObc-30.sp.MalešičMatija">Malešič Matija</actor> ................. 196,
@@ -1909,7 +1909,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.1.2"
                        ana="#PAR.DolDnevRed"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.1.2">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Prehajamo na <title>določitev dnevnega reda 30. seje zbora</title>.
                            Predlog dnevnega reda ste prejeli s sklicem. Z dopisom z dne 9.12.1991 pa
@@ -3349,7 +3349,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.1.3"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.1.3">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. To bi bilo prvo od <title>obvestil</title>, ki jih imam sedaj na
@@ -3420,7 +3420,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.1"
                        ana="#PAR.TDR"
                        n="1"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.1">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA - ODOBRITEV ZAPISNIKA 9.
                               DELOVNE SKUPNE SEJE VSEH ZBOROV SKUPŠČINE REPUBLIKE
@@ -3435,7 +3435,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.2"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.2">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               POKOJNINSKEM IN INVALIDSKEM ZAVAROVANJU</title>.</p>
@@ -4675,7 +4675,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.4"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.4">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Dobro, potem bi najprej v zvezi z zdravstveno zakonodajo poslušali samo
                            glede tega dela <title>POROČILO USKLAJEVALNE KOMISIJE</title>, prosim da
@@ -4727,7 +4727,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.5"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.5">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Potem lahko preidemo na <title>3. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               ZDRAVSTVENEM VARSTVU IN ZDRAVSTVENEM ZAVAROVANJU</title>.</p>
@@ -5859,7 +5859,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.11"
                        ana="#PAR.TDR"
                        n="9"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.11">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Prehajamo na <title>9. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               DOPOLNITVI ZAKONA O FINANCIRANJU JAVNE PORABE S PREDLOGOM
@@ -6037,7 +6037,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.12"
                        ana="#PAR.TDR"
                        n="13"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.12">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Prehajamo še na edino preostalo TOČKO DNEVNEGA REDA, ki jo lahko
                            obravnavamo, to je PREDLOG ZA IZDAJO ZAKONA O PLAČEVANJU DOLOČENIH
@@ -6073,7 +6073,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.13"
                        ana="#PAR.TDR"
                        n="20"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.13">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Potem prehajamo na <title>20. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGI IN
                               VPRAŠANJA DELEGATOV</title>.</p>
@@ -6342,7 +6342,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.14"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.14">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Nadaljujemo sejo. Zbor je sklepčen in lahko pravno veljavno razprava in
@@ -6371,7 +6371,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.15"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.15">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Naj podam še <title>pregled</title>, kaj smo včeraj opravili oziroma kaj
                            nam je preostalo za nadaljevaje. Včeraj smo zaključili razpravo pri
@@ -6408,7 +6408,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.16"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.16">
                      <sp who="sp:MetelkoAlojz1940" corresp="#DZ-1991-ZbObc-30.sp.MetelkoAlojzij">
                         <speaker>ALOJZIJ METELKO:</speaker>
                         <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Včeraj je naš
@@ -6476,7 +6476,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.17"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.17">
                      <sp who="sp:KlavoraFedja1940" corresp="#DZ-1991-ZbObc-30.sp.KlavoraFedja">
                         <speaker>FEDJA KLAVORA:</speaker>
                         <p>Spoštovani kolegi! Samo eno obvestilo, danes zjutraj smo imeli pogovor z
@@ -6535,7 +6535,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.18"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.18">
                      <sp who="sp:PartljicAnton1940" corresp="#DZ-1991-ZbObc-30.sp.PartljičTone">
                         <speaker>TONE PARTLJIČ:</speaker>
                         <p>Ne nasprotujem temu, da <title>preložimo to točko</title> kakor smo
@@ -6568,7 +6568,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.19"
                        ana="#PAR.TDR"
                        n="11a"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.19">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Prehajamo na <title>11.A TOČKO DNEVNEGA REDA - OBRAVNAVA PROGRAMA
                               STRUKTURNEGA PRILAGAJANJA IN GOSPODARSKE POLITIKE V LETU 1992 IN
@@ -7908,7 +7908,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.20"
                        ana="#PAR.TDR"
                        n="11a"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.20">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Predlagam, da nadaljujemo sejo. <stage type="kinesic">(Pozvoni.)</stage>
@@ -8098,7 +8098,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.21"
                        ana="#PAR.TDR"
                        n="11b"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.21">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Prehajamo na <title>11.B TOČKO DNEVNEGA REDA - OBRAVNAVO OCENE STANJA V
                               TURISTIČNEM GOSPODARSTVU</title>.</p>
@@ -9039,7 +9039,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.22"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.22">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Trenutno smo zelo osuti. Upam, da se bo na ta poziv zdajle nabralo
                            zadostno število poslancev, da bi najprej se odločali o dveh dodatnih
@@ -9211,7 +9211,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.23"
                        ana="#PAR.TDR"
                        n="12"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.23">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Zato zdaj prehajamo na <title>12. TOČKO DNEVNEGA REDA</title>
                         </p>
@@ -10329,7 +10329,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.24"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.24">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Kot že napovedano, bi prešli na GLASOVANJE. Najprej o <title>PREDLOGU ZA
                               IZDAJO ZAKONA O SPREMEMBAH IN DOPOLNITVAH ZAKONA O
@@ -10349,7 +10349,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.25"
                        ana="#PAR.TDR"
                        n="8"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.25">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Vzemimo v roke še to preprosto zadevo, to je <title>ZAKON O DAVKU OD
                               DOBIČKA PRAVNIH OSEB</title>.</p>
@@ -10414,7 +10414,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.26"
                        ana="#PAR.TDR"
                        n="9"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.26">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Nato imamo še podoben zakon, kjer ni ravno veliko amandmajev. To je
                               <title>PREDLOG O FINANCIRANJU JAVNE PORABE</title>.</p>
@@ -10600,7 +10600,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.27"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.27">
 
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
@@ -10619,7 +10619,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.28"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.28">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Ker smo na nadaljevanju seje v sredo, 18.12.1991, v dnevni red te seje
                            naknadno vključili še tri točke, 17., 18. in 19., smo pripravili nov
@@ -10696,7 +10696,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.29"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.29">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Tako, sedaj prehajamo na <title>ODLOČANJE O PREDLOGU ZAKONA O
                               POKOJNINSKEM IN INVALIDSKEM ZAVAROVANJU</title>.</p>
@@ -11986,7 +11986,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.30"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.30">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Gremo torej na <title>GLASOVANJE O ZAKONU O SPREMEMBAH IN DOPOLNITVI
                               ZAKONA O DOHODNINI S PREDLOGOM ZAKONA</title>.</p>
@@ -12459,7 +12459,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.31"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.31">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Poglejmo, če nas je dovolj, da lahko glasujemo o tem amandmaju. Smo vsi
@@ -12495,7 +12495,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.33"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.32">
                      <sp who="sp:GlavicPeter1940" corresp="#DZ-1991-ZbObc-30.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>To je čisto poluradna informacija. Na pobudo gospoda Rojca sem šel k
@@ -12535,7 +12535,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.34"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.33">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Zdajle bi vam tukaj prisotnim, ker vas tako in tako ne bo bistveno več,
                            samo <title>obvestilo</title> oziroma vzpodbudo prebral, ki sem jo dobil
@@ -12620,7 +12620,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.35"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.34">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Gospod Malešič bi nam želel povedati nekaj o <title>zdravstveni
                               zakonodaji</title>, pa bi mu dal kar besedo, čeprav nismo sklepčni,
@@ -12676,7 +12676,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.36"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.35">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Spoštovani kolegi, ugotavljam, da je zbor zdajle postal sklepčen in lahko
                            nadaljujemo delo. Prekinjena je bila sredi <title>GLASOVANJA O PREDLOGU
@@ -12802,7 +12802,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.37"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.36">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Kakor je bilo rečeno prej, je naslednja zadeva zdravstvena zakonodaja.
                            Začeli bomo s <title>PREDLOGOM ZAKONA O ZDRAVSTVENEM VARSTVU IN
@@ -13250,7 +13250,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.38"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.37">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Ja, zdaj moramo najprej ugotoviti, ali smo še v stanju, da kaj
@@ -13269,7 +13269,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.39"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.38">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Samo toliko, da ugotovimo kakšno je stanje, da vidimo, koliko nas je.
@@ -13347,7 +13347,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.42"
                        ana="#PAR.TDR"
                        n="16"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.39">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na <title>16. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O ZAČASNEM
                               FINANCIRANJU POTREB IZ REPUBLIŠKEGA PRORAČUNA V PRVEM TRIMESEČJU LETA
@@ -13637,7 +13637,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.43"
                        ana="#PAR.TDR"
                        n="17"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.40">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Prehajamo na <title>17. TOČKO DNEVNEGA REDA - OBRAVNAVA PREDLOGA
@@ -13663,7 +13663,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.44"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.41">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na GLASOVANJE, ker razprava je že zaključena, o amandmajih
                               <title>PREDLOGA ZAKONA O ZDRAVSTVENEM VARSTVU IN ZDRAVSTVENEM
@@ -13935,7 +13935,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.45"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.42">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane poslanke in poslanci, gospe in gospodje! Pričenjam
@@ -13956,7 +13956,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.46"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.43">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>
                            <title>Za današnje, že četrto nadaljevanje 30. seje nam je ostalo še zelo
@@ -14040,7 +14040,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.47"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.44">
                      <sp who="sp:GlavicPeter1940" corresp="#DZ-1991-ZbObc-30.sp.GlavičPeter">
                         <speaker>DR. PETER GLAVIČ:</speaker>
                         <p>Gospod predsednik, spoštovane kolegice in kolegi! Preden bi začeli z
@@ -14155,7 +14155,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.48"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.45">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>No, zdaj bi pa šli na ponovno <title>OBRAVNAVO PREDLOGA ZAKONA O
                               POKOJNINSKEM IN INVALIDSKEM ZAVAROVANJU</title>.</p>
@@ -15271,7 +15271,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.49"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.46">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p> Najprej seveda že dvakrat prekinjeni, <title>PREDLOG ZAKONA O
                               ZDRAVSTVENEM VARSTVU IN ZDRAVSTVENEM ZAVAROVANJU</title>.</p>
@@ -15911,7 +15911,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.50"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.47">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane kolegice in kolegi delegati! Predlagam, da nadaljujemo delo.
@@ -15927,7 +15927,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.51"
                        ana="#PAR.TDR"
                        n="18"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.48">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Predsednik Komisije za mednarodne odnose je s pismom sporočil, da je
                            Komisija za mednarodne odnose na današnji seji sprejela sklep, da
@@ -16100,7 +16100,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.52"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.49">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Zdaj bi obravnavali <title>PREDLOG DELOVNE SKUPINE DELEGATOV VSEH ZBOROV
                               ZA USKLADITEV</title> dveh zakonov, in sicer za ZAKON O SPREMEMBAH IN
@@ -16256,7 +16256,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.53"
                        ana="#PAR.TDR"
                        n="9"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.50">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Prehajamo na OBRAVNAVO POROČILA delovne skupine vseh delovnih skupin
                            delegatov vseh treh zborov. <title>O PREDLOGU ZA IZDAJO ZAKONA O
@@ -16290,7 +16290,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.54"
                        ana="#PAR.TDR"
                        n="18"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.51">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Ker je med nami prisoten predsednik Komisije za mednarodne odnose,
                            predlagam, da preidemo na že pred kratkim UVRŠČENO DODATNO TOČKO DNEVNEGA
@@ -16674,7 +16674,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.55"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.52">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Gremo na <title>ODLOČANJE O PREDLOGU ZAKONA O ZDRAVSTVENI
                               DEJAVNOSTI</title>.</p>
@@ -17140,7 +17140,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.56"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.53">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Sedaj so me obvestili, da zbor združenega dela želi, da bi mi čimprej
                            obravnavali <title>POROČILO KOMISIJE ZA PRIPRAVO SPORAZUMNEGA PREDLOGA V
@@ -17441,7 +17441,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.57"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.53.2.">
                      <sp who="sp:GroseljLeopold1941"
                          corresp="#DZ-1991-ZbObc-30.sp.GrošeljLeopold">
                         <speaker>LEOPOLD GROŠELJ:</speaker>
@@ -17712,7 +17712,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.58"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.54">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gremo naprej. Imamo še dovolj dela PRI <title>GLASOVANJU O ZAKONU O
@@ -17903,7 +17903,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.59"
                        ana="#PAR.TDR"
                        n="12"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.55">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Pravkar so me obvestili, da je Zbor združenega dela sprejel zahtevo v
                            skladu s 362. členom ustave (stare ustave). Torej naj bi bila
@@ -17969,7 +17969,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.60"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.56">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Dobro. Jaz se bom dogovoril glede te skupne seje v skladu s svojo
@@ -18093,7 +18093,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.61"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.57">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Seveda tisti, ki so še tukaj okrog <title>prisotni</title>, naj pridejo v
@@ -18180,7 +18180,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.62"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.58">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Pričenjam nadaljevanje 30. seje Zbora občin, ki smo jo pričeli 17.
                            decembra lanskega leta, nadaljevali pa 18., 20., 23. in 27. decembra. Za
@@ -18194,7 +18194,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.63"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.59">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Ugotavljam, da je prisotnih 50 poslancev, kar pomeni, da je zbor sklepčen
                            in veljavno razpravlja in sklepa. Čeprav je današnje nadaljevanje že
@@ -18276,7 +18276,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.64"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.59.2.">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Ker so posamezna delovna telesa sprejela različna stališča do
                               <title>predloga zakona o zamudni obrestni meri</title>, ki so ga
@@ -18296,7 +18296,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.65"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.59.3.">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Imam še neka obvestila. In sicer, <title>naslednja seja zbora</title> bo
                            predvidena 12. in 13. februarja letošnjega leta.</p>
@@ -18321,7 +18321,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.66"
                        ana="#PAR.TDR"
                        n="19"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.60">
                      <sp who="sp:StarmanDanijel1940"
                          corresp="#DZ-1991-ZbObc-30.sp.StarmanDanijel">
                         <p>Moja pobuda in prošnja, da bi pred prehodom na nadaljevanje seje
@@ -18446,7 +18446,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.67"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.61">
                      <sp who="sp:RojecAnton1937" corresp="#DZ-1991-ZbObc-30.sp.RojecAnton">
                         <speaker>ANTON ROJEC:</speaker>
                         <p>Gospod predsednik, spoštovane poslanke, poslanci! Preden bi nadaljevali z
@@ -18885,7 +18885,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.68"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.62">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo torej na <title> GLASOVANJE PO AMANDMAJIH K 56. ČLENU PREDLOGA
                               ZAKONA O ZDRAVSTVENI DEJAVNOSTI</title>.</p>
@@ -19423,7 +19423,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.69"
                        ana="#PAR.TDR"
                        n="19"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.63">
                      <sp who="sp:VivodIvan1926" corresp="#DZ-1991-ZbObc-30.sp.VivodIvan">
                         <speaker>DR. IVAN VIVOD:</speaker>
                         <p>Spoštovano predsedstvo, spoštovani zbor, jaz moram tu še nekaj opozoriti
@@ -19459,7 +19459,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.70"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.64">
                      <sp who="sp:KovacFranc" corresp="#DZ-1991-ZbObc-30.sp.KovačFranc">
                         <speaker>MAG. FRANC KOVAČ:</speaker>
                         <p>Prosim, v zvezi z usklajevalno skupino za zdravstveno zakonodajo. Naš
@@ -19535,7 +19535,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.71"
                        ana="#PAR.TDR"
                        n="5"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.65">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na <title>ODLOČANJE O PREDLOGU ZAKONA O LEKARNIŠKI
                               DEJAVNOSTI</title>.</p>
@@ -19952,7 +19952,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.72"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.66">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Predlagam, da se sedaj še enkrat vrnemo K <title>PREDLOGU ZAKONA O
                               POKOJNINSKEM IN INVALIDSKEM ZAVAROVANJU</title>, pri katerem so zbori
@@ -20016,7 +20016,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.73"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.67">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na <title>ODLOČANJE O PREDLOGU ZAKONA O PROMETNEM
                            DAVKU</title>.</p>
@@ -21336,7 +21336,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.75"
                        ana="#PAR.TDR"
                        n="19"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.68">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Dovolite, da nadaljujemo delo. Glede na sklep, ki smo ga sprejeli
@@ -22292,7 +22292,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.76"
                        ana="#PAR.TDR"
                        n="11"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.69">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na odločanje o <title>PREDLOGU STRUKTURNEGA PRILAGAJANJA IN
                               GOSPODARSKE POLITIKE V LETU 1992</title>.</p>
@@ -22828,7 +22828,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.77"
                        ana="#PAR.TDR"
                        n="11"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.70">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo še na <title>ODLOČANJE V ZVEZI Z OCENO STANJA V TURISTIČNEM
                               GOSPODARSTVU</title>.</p>
@@ -22967,7 +22967,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.78"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.71">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Spoštovani kolegi, spoštovani gospodje! Predlagam, da nadaljujemo z
@@ -22985,7 +22985,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.79"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.72">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Po sprejetem dnevnem redu so nam ostale še <title>naslednje
                               zadeve</title>:</p>
@@ -23047,7 +23047,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.80"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.72.1.">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Še naslednje obvestilo: <title>skupna seja</title> bo ob 16.30 uri. Po
                            tej skupni seji, na kateri naj bi opravil volitve, bi bila potem skupna
@@ -23060,7 +23060,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.81"
                        ana="#PAR.TDR"
                        n="11"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.73">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Predlagam, da najprej zaključimo obravnavo oziroma <title>ODLOČANJE O
                               PREDLOGU SKLEPOV K OCENI STANJA V TURISTIČNEM
@@ -23186,7 +23186,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.82"
                        ana="#PAR.TDR"
                        n="10"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.74">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na <title> 10. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               SPREMINJANJU DEVIZNIH VLOG OBČANOV PRI NARODNI BANKI JUGOSLAVIJE V
@@ -24244,7 +24244,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.83"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.75">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na naslednjo <title>TOČKO DNEVNEGA REDA - PREDLOG ODLOKA O
                               STOPNJAH PRISPEVKOV ZA OBVEZNO ZDRAVSTVENO ZAVAROVANJE</title>.</p>
@@ -24640,7 +24640,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.84"
                        ana="#PAR.TDR"
                        n="19"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.76">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Preidemo potem na točko, ki smo jo včeraj končali o proceduri, ki teče v
                               <title>DOGOVORIH MED REPUBLIKO ITALIJO, HRVAŠKO IN SLOVENIJO IN BESEDO
@@ -25705,7 +25705,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.85"
                        ana="#PAR.TDR"
                        n="14"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.77">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Nadaljujemo, kjer smo prej prekinili, to je o <title>odloku o stopnjah
@@ -26198,7 +26198,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.86"
                        ana="#PAR.TDR"
                        n="12"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.78">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Opravimo danes samo <title>SKLEPANJA O OSNUTKU ZAKONA O PRORAČUNU
@@ -26244,7 +26244,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.87"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.79">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>...je tu predlog, dokler smo še sklepčni na usklajevanje zdravstvene
@@ -26576,7 +26576,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.88"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.81">
                      <sp who="sp:DezelakJanko1945" corresp="#DZ-1991-ZbObc-30.sp.DeželakJanko">
                         <speaker>JANKO DEŽELAK:</speaker>
                         <p>Spoštovane kolegice in kolegi! Imam predlog, da spremenimo vrstni red
@@ -26604,7 +26604,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.89"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.82">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Prehajamo na včerajšnji dnevni red, prejšnje seje, ki je - katera je to,
@@ -26873,7 +26873,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.90"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.83">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PODPREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>
@@ -26915,7 +26915,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.91"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.84">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Predlagam, da preidemo najprej na določanje v zvezi s predlogi, ki
                            zadevajo usklajevanje posameznih še zdaj omenjenih zadev, tistih pač,
@@ -27664,7 +27664,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.92"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.85">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Medtem sem dobil tudi poročilo usklajevalne komisije, ki je delala na
                               <title>zakonu o prometnem davku</title>, ker našemu zboru predlaga
@@ -27724,7 +27724,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.93"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.86.1.">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>Dr. Žunter mi je preje sporočil, da so se dogovorili za <title>
                               SPORAZUMEN PREDLOG V ZVEZI Z ZAKONOM O ZDRAVSTVENEM VARSTVU IN
@@ -27735,7 +27735,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.94"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.86.2.">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <p>
                            <title>ter v zvezi z ZAKONOM O ZDRAVSTVENI DEJAVNOSTI</title>, vendar pa
@@ -28026,7 +28026,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.95"
                        ana="#PAR.TDR"
                        n="14"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.87">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na <title>odločanje o Predlogu odloka o stopnjah prispevkov za
                               obvezno zdravstveno zavarovanje</title>.</p>
@@ -28676,7 +28676,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.96"
                        ana="#PAR.TDR"
                        n="15"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.88">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Prehajamo na odločanje o <title>INTERPELACIJI ZA OBRAVNAVO VPRAŠANJA
                               SPREJETJA REBALANSA PRORAČUNA REPUBLIKE SLOVENIJE ZA LETO
@@ -28742,7 +28742,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.97"
                        ana="#PAR.TDR"
                        n="5"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.89">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Predlagam, da se zdaj vrnemo še k <title>PREDLOGU ZAKONA O LEKARNIŠKI
                               DEJAVNOSTI</title>.</p>
@@ -29086,7 +29086,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.98"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.90">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <p>Tu je sedaj predlog. Mi smo svoje delo danes opravili, kajti
                            Družbenopolitični zbor še vedno ni odločal o proračuni in je odločanje o
@@ -29128,7 +29128,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.99"
                        ana="#PAR.TDR"
                        n="20"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.91">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Komisije za usklajevanje, zakon o odlikovanju in zakon o nadomestilu
@@ -29156,7 +29156,7 @@
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.100"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.92">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Ja, gospod Gros. Vlada Republike Slovenije, je predložila tudi glede na
@@ -29339,7 +29339,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.101"
                        ana="#PAR.TDR"
                        n="20"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.93">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Spoštovani kolegi čakamo, še sklepčnost. Vmes pa tudi obvestila o tem,
@@ -29399,7 +29399,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.102"
                        ana="#PAR.TDR"
                        n="12"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.94">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Ja samo moment. Mi smo pobude drugače končali za to sejo, mi smo samo
@@ -29434,7 +29434,7 @@
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.103"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1991-ZbObc-30.">
+                       corresp="#DZ-1991-ZbObc-30.toc.2.95">
                      <sp who="sp:MalesicMatija1933" corresp="#DZ-1991-ZbObc-30.sp.MalešičMatija">
                         <speaker>MATIJA MALEŠIČ:</speaker>
                         <p>Jaz bi vendarle prosil, da pretehtate, jaz moram reči, da dobivamo

@@ -610,7 +610,7 @@
                   <actor xml:id="DZ-1992-ZbObc-40.sp.LovšinFranc">Lovšin Franc</actor>
                   ............................................ 169</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1992-ZbObc-40.">Lukač Janez</actor> ................ 79, 112, 113,
+                  <actor sameAs="#DZ-1992-ZbObc-40.sp.LukačJanez">Lukač Janez</actor> ................ 79, 112, 113,
                   131, 145, 158, 163</castItem>
                <castItem>
                   <actor xml:id="DZ-1992-ZbObc-40.sp.MlakerMarjan">Mlaker dr. Marjan</actor>
@@ -649,7 +649,7 @@
                   <actor xml:id="DZ-1992-ZbObc-40.sp.RazdevšekBorut">Razdevšek Borut</actor>
                   ............................. 35, 70, 71, 164</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1992-ZbObc-40.">Rojec Anton</actor>
+                  <actor sameAs="#DZ-1992-ZbObc-40.sp.RojecAnton">Rojec Anton</actor>
                   .................................. 10, 11, 34, 86</castItem>
                <castItem>
                   <actor xml:id="DZ-1992-ZbObc-40.sp.SchwarzbartlErvinAnton">Schwarzbartl mag. Ervin Anton</actor>
@@ -779,7 +779,7 @@
                <div xml:id="DZ-1992-ZbObc-40.div.1.1.1" ana="#PAR.PredDnevRed">
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.1.1"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.1.1">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Pričenjam 40. sejo Zbora občin Skupščine Republike Slovenije. Ker je
@@ -793,7 +793,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.1.2"
                        ana="#PAR.DolDnevRed"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.1.2">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>
                            <title>Predlog dnevnega reda</title> ste prejeli s sklicem. Naknadno, s
@@ -2205,7 +2205,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.1.3"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.1.3">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Dajem sedaj tako spremenjeni in dopolnjeni <title>dnevni red na
                               glasovanje</title>. Kdor je za, prosim, da dvigne roko; ne roko,
@@ -2256,7 +2256,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.1"
                        ana="#PAR.TDR"
                        n="1"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.1">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               SPREMEMBAH ZAKONA O DENARNI ENOTI REPUBLIKE SLOVENIJE S PREDLOGOM
@@ -2323,7 +2323,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.2"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.2">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O SPREMEMBAH
                               IN DOPOLNITVAH ZAKONA O BANKAH IN HRANILNICAH</title>.</p>
@@ -2341,7 +2341,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.3"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.3">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>4. TOČKO DNEVNEGA REDA - PREDLOG AKTA O NOTIFIKACIJI
                               NASLEDSTVA GLEDE KONVENCIJ ORGANIZACIJE ZDRUŽENIH NARODOV IN
@@ -2378,7 +2378,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.4"
                        ana="#PAR.TDR"
                        n="5"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.4">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA - PREDLOG AKTA O POTRDITVI
                               NASLEDSTVA GLEDE KONVENCIJ, STATUTOV IN DRUGIH MEDNARODNIH SPORAZUMOV,
@@ -2420,7 +2420,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.5"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.5">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>6. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN VLADO
@@ -2444,7 +2444,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.6"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.6">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>7. TOČKO DNEVNEGA REDA</title> - (predlog za izdajo
                            zakona o spremembi in dopolnitvi zakona o dohodnini z osnutkom zakona.
@@ -3271,7 +3271,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.7"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.7">
                      <sp who="sp:RojecAnton1937" corresp="#DZ-1992-ZbObc-40.sp.RojecAnton">
                         <p>Na klop ste dobil <title>POROČILO DELOVNE SKUPINE VSEH TREH ZBOROV ZA
                               OBRAVNAVO SPORNIH VPRAŠANJ K PREDLOGU ZAKONA O ZAPOSLOVANJU
@@ -3332,7 +3332,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.8"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.8">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Spoštovani kolegi, kolegice! Poskusimo nadaljevati s sejo, če imamo
@@ -3397,7 +3397,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.9"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.9">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo tako na <title>2. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               SPREMEMBAH IN DOPOLNITVAH ZAKONA O BANKAH IN HRANILNICAH</title>.</p>
@@ -3639,7 +3639,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.10"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.10">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na naslednjo točko, to je <title>3. TOČKO DNEVNEGA REDA -
                               PREDLOG ZAKONA O JAMSTVU REPUBLIKE SLOVENIJE LJUBLJANSKI BANKI D.D. ZA
@@ -4849,7 +4849,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.11"
                        ana="#PAR.TDR"
                        n="8"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.11">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>8. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               POGOJIH POD KATERIMI SE KMETOM ZMANJŠANI ALI ODPISANI PRISPEVKI
@@ -4925,7 +4925,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.12"
                        ana="#PAR.TDR"
                        n="9"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.12">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>9. TOČKO DNEVNEGA REDA - POROČILO O DELU SLUŽBE
                               DRUŽBENEGA KNJIGOVODSTVA V REPUBLIKI SLOVENIJI ZA LETO 1991 IN LETNI
@@ -5919,7 +5919,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.13"
                        ana="#PAR.TDR"
                        n="10"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.13">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>10. TOČKO DNEVNEGA REDA - PROBLEMATIKA ODKUPA
                               KMETIJSKIH PRIDELKOV</title>.</p>
@@ -6829,7 +6829,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.14"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.14">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-40.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK</speaker>
                         <p>: Poslanke in poslanci, gospe in gospodje. Pričenjam nadaljevanje 40.
@@ -6847,7 +6847,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.15"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.15">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-40.sp.BizjakIvan">
                         <p>Kot ste bili tudi pisno obveščeni, nam je za današnje <title>nadaljevanje
                               seje zbora</title> ostalo nedokončanih kar precej zadev z 39. seje in
@@ -6886,7 +6886,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.16"
                        ana="#PAR.TDR"
                        n="10"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.16">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-40.sp.BizjakIvan">
                         <p>Prehajamo na nadaljevanje oziroma na sklepanje O <title>10. TOČKI
                               DNEVNEGA REDA - PROBLEMATIKA ODKUPA KMETIJSKIH PRIDELKOV</title>.</p>
@@ -8835,7 +8835,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.17"
                        ana="#PAR.TDR"
                        n="11"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.17">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Spoštovane kolegice in kolegi! Nadaljujemo s sejo.</p>
@@ -8969,7 +8969,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.18"
                        ana="#PAR.TDR"
                        n="12"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.18">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-40.sp.LukačJanez">
                         <p>Prehajamo na <title>12. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGI IN
                               VPRAŠANJA POSLANCEV</title>.</p>
@@ -9487,7 +9487,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.19"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.19">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-40.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gremo k naslednjemu usklajevanju, ki pa je kolikor vidim nekoliko
@@ -9723,7 +9723,7 @@
                   <div xml:id="DZ-1992-ZbObc-40.div.1.1.2.20"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1992-ZbObc-40.">
+                       corresp="#DZ-1992-ZbObc-40.toc.2.20">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-40.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Pred vami na klopi je poročilo skupne komisije za pripravo sporazumnega

@@ -419,32 +419,36 @@
                            <item>Danijel Starman ..................................... 135</item>
                         </list>
                      </item>
-                     <item n="19A" xml:id="DZ-1992-ZbObc-43.toc.2.19A">A. Interpelacija o delu in odgovornosti
-                        ministra za notranje zadeve gospoda Igorja Bavčarja</item>
-                     <item n="19B" xml:id="DZ-1992-ZbObc-43.toc.2.19B">Predlog obtožbe kršitve ustave in zakona zoper
-                        ministra za notranje zadeve gospoda Igorja Bavčarja (11. točka dnevnega
-                        reda) ........................... 135<list rend="simple">
-                           <head>GOVORNIKI:</head>
-                           <item>Danijel Starman ..................................... 136</item>
-                           <item>Danijel Božič ....................................... 141</item>
-                           <item>Danijel Starman ..................................... 142</item>
-                           <item>Janez Črnej ......................................... 142</item>
-                           <item>dr. Peter Glavič .................................... 143</item>
-                           <item>Marjan Dvornik ...................................... 145</item>
-                           <item>Danijel Božič ....................................... 146</item>
-                           <item>Vitomir Gros ........................................ 146</item>
-                           <item>Fedja Klavora ....................................... 148</item>
-                           <item>Danijel Starman ..................................... 149</item>
-                           <item>Igor Bavčar ......................................... 150</item>
-                           <item>Igor Bavčar ......................................... 151</item>
-                           <item>Danijel Starman ..................................... 154</item>
-                           <item>Igor Bavčar ......................................... 156</item>
-                           <item>Vitomir Gros ........................................ 156</item>
-                           <item>Igor Bavčar ......................................... 158</item>
-                           <item>Vitomir Gros ........................................ 159</item>
-                           <item>Danijel Starman ..................................... 160</item>
-                           <item>Danijel Starman ..................................... 161</item>
-                           <item>Danijel Starman ..................................... 162</item>
+                     <item xml:id="DZ-1992-ZbObc-43.toc.2.19">
+                        <list>
+                           <item n="19A" xml:id="DZ-1992-ZbObc-43.toc.2.19A">A. Interpelacija o delu in odgovornosti
+                           ministra za notranje zadeve gospoda Igorja Bavčarja</item>
+                           <item n="19B" xml:id="DZ-1992-ZbObc-43.toc.2.19B">Predlog obtožbe kršitve ustave in zakona zoper
+                           ministra za notranje zadeve gospoda Igorja Bavčarja (11. točka dnevnega
+                           reda) ........................... 135<list rend="simple">
+                                 <head>GOVORNIKI:</head>
+                                 <item>Danijel Starman ..................................... 136</item>
+                                 <item>Danijel Božič ....................................... 141</item>
+                                 <item>Danijel Starman ..................................... 142</item>
+                                 <item>Janez Črnej ......................................... 142</item>
+                                 <item>dr. Peter Glavič .................................... 143</item>
+                                 <item>Marjan Dvornik ...................................... 145</item>
+                                 <item>Danijel Božič ....................................... 146</item>
+                                 <item>Vitomir Gros ........................................ 146</item>
+                                 <item>Fedja Klavora ....................................... 148</item>
+                                 <item>Danijel Starman ..................................... 149</item>
+                                 <item>Igor Bavčar ......................................... 150</item>
+                                 <item>Igor Bavčar ......................................... 151</item>
+                                 <item>Danijel Starman ..................................... 154</item>
+                                 <item>Igor Bavčar ......................................... 156</item>
+                                 <item>Vitomir Gros ........................................ 156</item>
+                                 <item>Igor Bavčar ......................................... 158</item>
+                                 <item>Vitomir Gros ........................................ 159</item>
+                                 <item>Danijel Starman ..................................... 160</item>
+                                 <item>Danijel Starman ..................................... 161</item>
+                                 <item>Danijel Starman ..................................... 162</item>
+                              </list>
+                           </item>
                         </list>
                      </item>
                      <note>NADALJEVANJE 43. SEJE ZBORA OBČIN 7. OKTOBRA 1992 V OKVIRU 47. SEJE
@@ -486,7 +490,7 @@
                   <actor xml:id="DZ-1992-ZbObc-43.sp.BavčarIgor">Bavčar Igor</actor> .................... 128, 130,
                   150, 151, 156, 158</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1992-ZbObc-43.">Bizjak Ivan</actor>
+                  <actor sameAs="#DZ-1992-ZbObc-43.sp.BizjakIvan">Bizjak Ivan</actor>
                   ...................................... 13, 30, 45</castItem>
                <castItem>
                   <actor xml:id="DZ-1992-ZbObc-43.sp.BožičDanijel">Božič Danijel</actor> ...................... 33,
@@ -567,7 +571,7 @@
                   <actor xml:id="DZ-1992-ZbObc-43.sp.KozincMiha">Kozinc Miha</actor>
                   ............................................. 108</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1992-ZbObc-43.">Lukač Janez</actor>
+                  <actor sameAs="#DZ-1992-ZbObc-43.sp.LukačJanez">Lukač Janez</actor>
                   .......................................... 41, 82</castItem>
                <castItem>
                   <actor xml:id="DZ-1992-ZbObc-43.sp.MencingerAlojzijAvguštin">Mencinger dr. Alojzij Avguštin</actor>
@@ -1441,7 +1445,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.1.3"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.1.3">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Torej imamo predlog dnevnega reda, kot ste ga dobili na klop, brez 4.
                            točke in z dvema dodatnima točkama. Ti dve točki uvrstimo, po mojem
@@ -1465,7 +1469,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.1"
                        ana="#PAR.TDR"
                        n="1"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.1">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O VOLITVAH V
@@ -3042,7 +3046,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.2"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.2">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <speaker>JANEZ LUKAČ:</speaker>
                         <p>Spoštovane kolegice in kolegi! Prepričan sem, da imate pred seboj ta
@@ -3203,7 +3207,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.3"
                        ana="#PAR.TDR"
                        n="5"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.3">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O EVIDENCAH S
                               PODROČJA JAVNE VARNOSTI</title>.</p>
@@ -3322,7 +3326,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.4"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.4">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Prehajamo na <title>6. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               RDEČEM KRIŽU SLOVENIJE Z OSNUTKOM ZAKONA</title>.</p>
@@ -3500,7 +3504,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.5"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.5">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Prehajamo na <title>7. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               PRILOŽNOSTNIH KOVANCIH Z OSNUTKOM ZAKONA</title>.</p>
@@ -3542,7 +3546,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.6"
                        ana="#PAR.TDR"
                        n="9"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.6">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Prehajamo na <title>9. TOČKO DNEVNEGA REDA - OSNUTEK NACIONALNEGA
                               PROGRAMA ZA PREPREČEVANJE ZLORABE DROG V REPUBLIKI
@@ -4349,7 +4353,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.7"
                        ana="#PAR.TDR"
                        n="10"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.7">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Prehajamo na <title>10. TOČKO DNEVNEGA REDA - PREDLOG RESOLUCIJE O
                               ŠPORTU</title>.</p>
@@ -4891,7 +4895,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.8"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.9">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane poslanke in poslanci, gospe in gospodje! Pričenjam
@@ -4908,7 +4912,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.9"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.8">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Pred seboj imamo še kar precej obsežno delo, saj imamo <title>nedokončane
                               zadeve</title> iz treh začetih sej, in sicer: iz včeraj pričete 43.
@@ -4923,7 +4927,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.10"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.10">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Skupna komisija za <title>uskladitev dnevnih redov</title> se je sestala
                            danes ob 8,30 uri in je končala z delom in bomo kmalu verjetno odločali o
@@ -5543,7 +5547,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.11"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.11">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Torej kot rečeno to je po prečiščenem dnevnem redu <title>7. TOČKA
                               DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O NEODVISNIH PROIZVAJALCIH
@@ -6361,7 +6365,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.12"
                        ana="#PAR.TDR"
                        n="10"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.12">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Prehajamo na <title>10. TOČKO DNEVNEGA REDA -  PREDLOG ODLOKA O
                               SPREMEMBAH IN DOPOLNITVAH ODLOKA O USTANOVITVI, NALOGAH IN SESTAVI
@@ -6393,7 +6397,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.13"
                        ana="#PAR.TDR"
                        n="12"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.13">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>Prehajamo na <title>12. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGI IN
                               VPRAŠANJA POSLANCEV</title>.</p>
@@ -6603,7 +6607,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.14"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.14">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Sedaj <title>prehajamo na delo</title>, in sicer v okviru današnjega
@@ -6635,7 +6639,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.15"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.15">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA 43. SEJE, TO JE NA OBRAVNAVO
                               PREDLOGA ZAKONA O DOLOČITVI VOLILNIH ENOT ZA VOLITVE POSLANCEV V
@@ -7279,7 +7283,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.16"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.16">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <p>Prehajamo na <title>3. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               DOLOČITVI VOLILNIH ENOT ZA VOLITVE PREDSTAVNIKOV LOKALNIH INTERESOV V
@@ -7608,7 +7612,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.17"
                        ana="#PAR.TDR"
                        n="11"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.17">
 
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
@@ -7888,7 +7892,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.18"
                        ana="#PAR.TDR"
                        n="11"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.18">
                      <sp who="sp:StarmanDanijel1940"
                          corresp="#DZ-1992-ZbObc-43.sp.StarmanDanijel">
                         <speaker>DANIJEL STARMAN:</speaker>
@@ -8117,12 +8121,11 @@
                      <sp who="sp:StarmanDanijel1940"
                          corresp="#DZ-1992-ZbObc-43.sp.StarmanDanijel">
                         <speaker> DANIJEL STARMAN:</speaker>
-                        <p>Torej jaz sprejmem te pomisleke o novem in starem institutu za utemeljne
+                        <p>Torej jaz sprejmem te pomisleke o novem in starem institutu za utemeljene
                            in mislim, da bi to zadevo lahko rešili to, da združimo obe točki v
                            skupno obravnavo, tako da združimo obe točki v skupno obravnavanje, ker
                            gre za podobno temo, za skupne materiale, ki ste jih dobili, vendar
-                           odločanje in</p>
-                        <p>glasovanje bi bilo pa ločeno. To je od vsega začetka tako mišljeno.</p>
+                           odločanje in glasovanje bi bilo pa ločeno. To je od vsega začetka tako mišljeno.</p>
                         <p>Torej gre za racionalizacijo dela, da o isti stvari ne govorimo dvakrat
                            in jaz sem že zadnjič poudaril, da gre za to, da interpelacija
                            predpostavlja objektivno odgovornost ministra, obtožba pa krivdno
@@ -8142,19 +8145,12 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.19"
                        ana="#PAR.TDR"
                        n="11A"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.19">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <p>
                            <title>A. INTERPELACIJA O DELU IN ODGOVORNOSTI MINISTRA ZA NOTRANJE
-                              ZADEVE GOSPODA IGORJA BAVČARJA</title> in </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.20"
-                       ana="#PAR.TDR"
-                       n="11B"
-                       corresp="#DZ-1992-ZbObc-43.">
-                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
-                        <p> B. <title>PREDLOG OBTOŽBE KRŠITVE USTAVE IN ZAKONA ZOPER MINISTRA ZA
+                              ZADEVE GOSPODA IGORJA BAVČARJA</title> in 
+                           <title>B. PREDLOG OBTOŽBE KRŠITVE USTAVE IN ZAKONA ZOPER MINISTRA ZA
                               NOTRANJE ZADEVE GOSPODA IGORJA BAVČARJA</title>.</p>
                         <p>Precej dolg naziv, ni ravno za pol strani, dosti pa ne manjka.</p>
                         <p>Sedaj smo glasovali o združitvi točk, kaj to pomeni veste tisti, ki ste
@@ -9540,7 +9536,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.21"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.20">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Predlagam, da sedaj končamo še eno našo sejo. In sicer nadaljujemo 43.
@@ -9597,7 +9593,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.22"
                        ana="#PAR.TDR"
                        n="11B"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.21">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-43.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Torej <title>predlog sklepa</title> se glasi takole: "Zaradi
@@ -9625,7 +9621,7 @@
                   <div xml:id="DZ-1992-ZbObc-43.div.1.1.2.23"
                        ana="#PAR.TDR"
                        n="11A"
-                       corresp="#DZ-1992-ZbObc-43.">
+                       corresp="#DZ-1992-ZbObc-43.toc.2.22">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-43.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Gremo najprej opraviti še tisto, kar nam je ostalo s 43. seje zbora. To

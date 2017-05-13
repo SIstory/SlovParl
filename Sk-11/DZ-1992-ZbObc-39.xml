@@ -817,7 +817,7 @@
                   47, 105, 112, 118, 131, 146, 151, 161, 163, 172, 182, 188, 197, 205, 230, 242,
                   248</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1992-ZbObc-39.">Bizjak Ivan</actor> ............... 62, 66, 74, 83,
+                  <actor sameAs="#DZ-1992-ZbObc-39.sp.BizjakIvan">Bizjak Ivan</actor> ............... 62, 66, 74, 83,
                   94, 123, 133, 171, 177, 234, 246, 271</castItem>
                <castItem>
                   <actor xml:id="DZ-1992-ZbObc-39.sp.BrvarBogomil">Brvar Bogomil</actor>
@@ -910,7 +910,7 @@
                   <actor xml:id="DZ-1992-ZbObc-39.sp.LovšinFranc">Lovšin Franc</actor>
                   .................................... 80, 99, 130</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1992-ZbObc-39.">Lukač Janez</actor> .................. 5, 7, 13, 40,
+                  <actor sameAs="#DZ-1992-ZbObc-39.sp.LukačJanez">Lukač Janez</actor> .................. 5, 7, 13, 40,
                   43, 59, 103, 107, 109, 122, 129, 132, 133, 134, 151, 158, 159, 160, 163, 167,
                    175, 177, 182, 205, 239, 246, 266, 270, 292</castItem>
                <castItem>
@@ -1125,7 +1125,7 @@
                <div xml:id="DZ-1992-ZbObc-39.div.1.1.1" ana="#PAR.PredDnevRed">
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.1.1"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.1.1">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane poslanke in poslance, gospe in gospodje! Pričenjam 39. sejo
@@ -1143,7 +1143,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.1.2"
                        ana="#PAR.DolDnevRed"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.1.2">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>določitev dnevnega reda</title> 39. seje Zbora občin.
                            Predlog dnevnega reda ste prejeli s sklicem seje. V zvezi s predlogom
@@ -1237,8 +1237,8 @@
                            katerih pa ni nikogar.</p>
                      </sp>
                      <sp who="sp:SlokarNeznano_ime" corresp="#DZ-1992-ZbObc-39.sp.Slokar">
-                        <speaker>GOSPA SLOKAR, Republiška uprava za zaščito in reševanje:</speaker>
-                        <p>Gospod predsednik, gospodje in
+                        <speaker>GOSPA SLOKAR,</speaker>
+                        <p>Republiška uprava za zaščito in reševanje: Gospod predsednik, gospodje in
                            gospe, rada bi vam samo na kratko povedala, kako je s pomočjo, za katero
                            ste se ta trenutek zanimali. Vlada Republike Slovenije ne sprejema
                            nikakršnih sredstev v razno raznih oblikah od tujih držav. Edina
@@ -2062,7 +2062,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.1.3"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.1.3">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Naslednja zadeva je točka, ki je sicer že bila uvrščena v predlog
                            dnevnega reda ob samem sklicu, to je <title>PREDLOG ZA IZDAJO ZAKONA O
@@ -3080,7 +3080,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.1.4"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.1.4">
                      <sp who="sp:CrnejJanez1935" corresp="#DZ-1992-ZbObc-39.sp.ČrnejJanez">
                         <speaker>JANEZ ČRNEJ:</speaker>
                         <p>Klub poslancev narodnih  demokratov predlaga za dopolnitev dnevnega reda
@@ -3743,7 +3743,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.1.5"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.1.5">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Sklepčni smo bili, tako da ni problem. Torej, če ni nobene druge razprave
                            o celotnem dnevnega reda, dajem na GLASOVANJE predlog, celotni
@@ -3791,7 +3791,7 @@
                <div xml:id="DZ-1992-ZbObc-39.div.1.1.2" ana="#PAR.DnevRed">
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.1"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.1">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane poslanke in poslanci, gospe in gospodje! Pričenjam
@@ -3808,7 +3808,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.2"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.2">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Naj vas <title>obvestim</title>, da je zbor včeraj po prekinjeni skupni
                            seji obravnaval in sprejel dnevni red, katerega prečiščeno besedilo ste
@@ -3954,7 +3954,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.3"
                        ana="#PAR.TDR"
                        n="1"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.3">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Gremo na dnevni red, torej na <title> 1. TOČKO DNEVNEGA REDA - ODOBRITEV
                               ZAPISNIKA 35. SEJE ZBORA OBČIN SKUPŠČINE REPUBLIKE
@@ -3979,7 +3979,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.4"
                        ana="#PAR.TDR"
                        n="11"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.4">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Tako torej prehajamo na <title>11. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               USTANOVITVI VISOKE KMETIJSKE šOLE V MARIBORU</title>.</p>
@@ -4011,7 +4011,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.5"
                        ana="#PAR.TDR"
                        n="12"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.5">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>12. TOČKO DNEVNEGA REDA - O PREDLOGU ZAKONA O
                               USTANOVITVI VISOKE ŠOLE ZA SOCIALNO DELO V LJUBLJANI</title>.</p>
@@ -4034,7 +4034,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.6"
                        ana="#PAR.TDR"
                        n="2"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.6">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>No, prehajamo po vrsti n <title>2. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
                               POSEBNEM PRISPEVKU SOLIDARNOSTI ZA POMOČ BEGUNCEM</title>.</p>
@@ -5161,7 +5161,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.7"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.7">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Torej gremo na <title>3. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               VOLITVAH V DRžAVNI ZBOR, Z OSNUTKOM ZAKONA</title>.</p>
@@ -6051,7 +6051,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.8"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.8">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Tako bi zdaj prešli na <title>4. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO
                               ZAKONA O DRŽAVNEM SVETU Z OSNUTKOM ZAKONA</title>.</p>
@@ -6325,7 +6325,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.9"
                        ana="#PAR.TDR"
                        n="5"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.9">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-39.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. Ali želi še kdo razpravljati? Če ne, predlagam, da tudi tu
@@ -6361,7 +6361,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.10"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.10">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-39.sp.LukačJanez">
                         <p>Prehajamo na <title>7. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               SPREMEMBAH IN DOPOLNITVAH ZAKONA O DRŽAVLJANSTVU REPUBLIKE SLOVENIJE,
@@ -6570,7 +6570,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.11"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.11">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Na tem mestu bi lahko obravnavali tudi <title>POROČILO SKUPNE KOMISIJE
                               VSEH TREH ZBOROV ZA USKLADITEV DNEVNIH REDOV SEJ ZBOROV</title>.</p>
@@ -7333,7 +7333,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.12"
                        ana="#PAR.TDR"
                        n="10"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.12">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>10. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O DRUŽBI ZA
                               ZAVAROVANJE IN FINANCIRANJE IZVOZA SLOVENIJE</title>.</p>
@@ -7375,7 +7375,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.13"
                        ana="#PAR.TDR"
                        n="13"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.13">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>13. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               GOSPODARSKIH DRUŽBAH</title>.</p>
@@ -7579,7 +7579,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.14"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.14">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Za današnjo sejo zbora so se <title>opravičili</title>: dr. Slavko
                            Gregurec, Stanislav Bevc in Milan Volk. Po podatkih službe je na seji
@@ -7590,7 +7590,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.15"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.15">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Za današnje <title>nadaljevanje seje</title> nam je glede na sprejeti
                            dnevni red ostalo še kar precej dela. O tem ste bili tudi pisno obveščeni
@@ -7718,7 +7718,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.16"
                        ana="#PAR.TDR"
                        n="3"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.16">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Najprej <title>3. TOČKA DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               VOLITVAH V DRŽAVNI ZBOR Z OSNUTKOM ZAKONA</title>.</p>
@@ -8401,7 +8401,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.17"
                        ana="#PAR.TDR"
                        n="4"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.17">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>4. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               DRŽAVNEM SVETU Z OSNUTKOM ZAKONA</title>.</p>
@@ -8450,7 +8450,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.18"
                        ana="#PAR.TDR"
                        n="5"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.18">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               VOLITVAH PREDSEDNIKA REPUBLIKE, Z OSNUTKOM ZAKONA</title>.</p>
@@ -8496,7 +8496,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.19"
                        ana="#PAR.TDR"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.19">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na odločanje v zvezi z usklajevanjem dnevnega reda, kot sem
                            napovedal že na začetku. Zbor je torej na seji 11. junija odložil
@@ -10109,7 +10109,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.20"
                        ana="#PAR.TDR"
                        n="13"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.20">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>
                            <title>13. TOČKA DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O GOSPODARSKIH
@@ -10200,7 +10200,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.21"
                        ana="#PAR.TDR"
                        n="14"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.21">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>14. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               SODELOVANJU DELAVCEV PRI UPRAVLJANJU PODJETIJ</title>.</p>
@@ -10409,7 +10409,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.22"
                        ana="#PAR.TDR"
                        n="18"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.22">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Tako torej začenjam <title>18. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGE IN
                               VPRAŠANJA POSLANCEV</title>.</p>
@@ -10743,7 +10743,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.23"
                        ana="#PAR.TDR"
                        n="16"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.23">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Zdaj pa prehajamo na prvo od dodatno sprejetih točk, to je na <title>16.
                               TOČKO DNEVNEGA REDA - PROBLEMATIKA SLOVENSKEGA IZVOZNEGA
@@ -10841,7 +10841,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.24"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.24">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Jaz predlagam, da se lotimo <title>6. TOČKE DNEVNEGA REDA - RAZPIS
                               REFERENDUMA O SPREJEMU ZAKONA O VOLITVAH O DRŽAVNI ZBOR</title>.</p>
@@ -10944,7 +10944,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.25"
                        ana="#PAR.TDR"
                        n="15"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.25">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Potem pa gremo na <title>15. TOČKOD NEVNEGA REDA - PREDLOG ZA IZDAJO
                               ZAKONA O LASTNINSKEM PREOBLIKOVANJU PODJETIJ Z OSNUTKOM
@@ -10977,7 +10977,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.26"
                        ana="#PAR.TDR"
                        n="3, 4, 5"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.26">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Nadaljujemo sejo. Kot je bilo neformalno rečeno, bi bilo potrebno
@@ -11086,7 +11086,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.27"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.27">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Dobro, če se da to zadevo zaključiti, pa bi kar šli nazaj na <title>6.
@@ -11140,7 +11140,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.28"
                        ana="#PAR.TDR"
                        n="15"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.28">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>No, zdaj imamo dve točki še, ki nista  zaključeni, tj. <title>15. TOČKA -
                               PREDLOG  ZA IZDAJO ZAKONA O LASTNINSKEM PREOBLIKOVANJU PODJETIJ Z
@@ -11378,7 +11378,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.29"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.29">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Vračamo se nazaj na <title>preostale točke dnevnega reda</title> 39. seje
@@ -11450,7 +11450,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.30"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.30">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Po teh malo daljših uvodnih obvestilih prehajamo na <title>6. TOČKO
                               DNEVNEGA REDA - RAZPIS REFERENDUMA O SPREJEMU ZAKONA O VOLITVAH V
@@ -12713,7 +12713,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.31"
                        ana="#PAR.TDR"
                        n="8"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.31">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>8. TOČKA DNEVNEGA REDA - PREDLOG ZAKONA O SPREMEMBAH
                               IN DOPOLNITVAH ZAKONA O PODJETJIH</title>.</p>
@@ -12834,7 +12834,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.32"
                        ana="#PAR.TDR"
                        n="9"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.32">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>9. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O SPREMEMBAH
                               IN DOPOLNITVAH ZAKONA O DRUŽBENEM KAPITALU</title>.</p>
@@ -12917,7 +12917,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.33"
                        ana="#PAR.TDR"
                        n="15"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.33">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Zdaj prehajamo na <title>15. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO
                               ZAKONA O LASTNINSKEM PREOBLIKOVANJU PODJETIJ Z OSNUTKOM
@@ -13373,7 +13373,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.34"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.34">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Medtem smo dobili v pisni obliki predlog sklepa v zvezi s
@@ -13471,7 +13471,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.35"
                        ana="#PAR.TDR"
                        n="7"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.35">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Predlagam zboru nekaj, da glede na to, da je Družbenopolitični zbor danes
@@ -13724,7 +13724,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.36"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.36">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane poslanke in poslanci, gospe in gospodje! Pričenjam
@@ -13747,7 +13747,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.37"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.37">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Kot ste bili tudi pisno obveščeni, so nam <title>ostale z</title> 39.
                            seje nedokončane še naslednje zadeve: 6. točka dnevnega reda - razpis
@@ -13834,7 +13834,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.38"
                        ana="#PAR.TDR"
                        n="6"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.38">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Najprej prehajamo na <title>6. TOČKO DNEVNEGA REDA - RAZPIS REFERENDUMA O
                               SPREJEMU ZAKONA O VOLITVAH V DRŽAVNI ZBOR</title>.</p>
@@ -14407,7 +14407,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.39"
                        ana="#PAR.TDR"
                        n="15"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.39">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Prehajamo na <title>15. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
                               LASTNINSKEM PREOBLIKOVANJU PODJETIJ Z OSNUTKOM ZAKONA</title>.</p>
@@ -15247,7 +15247,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.40"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.40">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Poskušali bi nadaljevati s tem, da bomo ugotovili
@@ -15286,7 +15286,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.41"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.41">
                      <sp who="sp:FlegoIsabella" corresp="#DZ-1992-ZbObc-39.sp.FlegoIsabella">
                         <speaker>ISABELLA FLEGO:</speaker>
                         <p>Danes smo doživeli poslanci Zbora občin <title>neprijeten
@@ -15307,7 +15307,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.42"
                        ana="#PAR.TDR"
                        n="15"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.42">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Kot rečeno in kot je bilo sklenjeno, prehajamo na nadaljevanje obravnave
                               <title>15. TOČKE DNEVNEGA REDA - PREDLOGA ZA IZDAJO ZAKONA O
@@ -16919,7 +16919,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.43"
                        ana="#PAR.TDR"
                        n="17"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.43">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-39.sp.LukačJanez">
                         <p>Sedaj bi morali preiti na <title>17. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA
                               O LASTNINSKEM PREOBLIKOVANJU MALIH PODJETIJ</title>, ki ga je
@@ -16947,7 +16947,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.44"
                        ana="#PAR.Procedural"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.45">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>
@@ -16974,7 +16974,7 @@
                   </div>
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.45"
                        ana="#PAR.Prisot"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.44">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>
                            <title>Ugotavljamo sklepčnost</title>! <stage type="quorum">(36
@@ -16988,7 +16988,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.46"
                        ana="#PAR.TDR"
                        n="17"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.46">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Predlagam, da obravnavamo <title>predlog zakona o lastninskem
                               preoblikovanju malih podjetij</title>. Takoj v sami razpravi lahko
@@ -17336,7 +17336,7 @@
                   <div xml:id="DZ-1992-ZbObc-39.div.1.1.2.47"
                        ana="#PAR.TDR"
                        n="16"
-                       corresp="#DZ-1992-ZbObc-39.">
+                       corresp="#DZ-1992-ZbObc-39.toc.2.47">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-39.sp.BizjakIvan">
                         <p>Sedaj bi torej šli na to <title>16. TOČKO DNEVNEGA REDA - PROBLEMATIKA
                               SLOVENSKEGA IZVOZNEGA GOSPODARSTVA</title>.</p>

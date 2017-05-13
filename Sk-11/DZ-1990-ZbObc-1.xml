@@ -290,7 +290,7 @@
                   <actor xml:id="DZ-1990-ZbObc-1.sp.AtelšekIvan">Atelšek Ivan</actor>
                   ............................................. 14</castItem>
                <castItem>
-                  <actor sameAs="#DZ-1990-ZbObc-1.">Bizjak Ivan</actor> ..............................
+                  <actor sameAs="#DZ-1990-ZbObc-1.sp.BizjakIvan">Bizjak Ivan</actor> ..............................
                   13, 15, 20, 21, 31</castItem>
                <castItem>
                   <actor xml:id="DZ-1990-ZbObc-1.sp.BožičDanijel">Božič Danijel</actor>
@@ -435,7 +435,6 @@
                         absolute="1990-05-09T21:45:00"
                         interval="2700"/>
                   <when synch="#DZ-1990-ZbObc-1.stage.t.20"
-                        since="#DZ-1990-ZbObc-1."
                         absolute="1990-05-09"/>
                </timeline>
                <castList>

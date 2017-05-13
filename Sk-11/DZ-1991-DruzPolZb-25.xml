@@ -1476,9 +1476,12 @@
                      <date when="1991-10-02">2.</date>, <date when="1991-10-03">3.</date>, <date when="1991-10-09">9.</date>, <date when="1991-10-10">10.</date>, <date when="1991-10-24">24. oktober</date>
                   <date when="1991-11-24">24. november</date> in <date when="1991-12-10">10.
                      december 1991</date>)</docDate>
-               <timeline origin="#DZ-1991-DruzPolZb-25." unit="s">
+               <timeline origin="#DZ-1991-DruzPolZb-25.TL.a" unit="s">
+                  <when synch="#DZ-1991-DruzPolZb-25.stage.t.1a"
+                        xml:id="DZ-1991-DruzPolZb-25.TL.a"
+                        absolute="1991-09-11"/>
                   <when synch="#DZ-1991-DruzPolZb-25.stage.t.1"
-                        since="#DZ-1991-DruzPolZb-25."
+                        since="#DZ-1991-DruzPolZb-25.TL.a"
                         absolute="1991-09-11T18:55:00"/>
                   <when synch="#DZ-1991-DruzPolZb-25.stage.t.2"
                         xml:id="DZ-1991-DruzPolZb-25.TL.1"
@@ -1733,6 +1736,7 @@
                      <actor xml:id="DZ-1991-DruzPolZb-25.sp.PeršakAnton">Anton Peršak</actor>
                   </castItem>
                </castList>
+               <stage type="time"><time xml:id="DZ-1991-DruzPolZb-25.stage.t.1a"/></stage>
                <div xml:id="DZ-1991-DruzPolZb-25.div.1.1.1" ana="#PAR.PredDnevRed">
                   <div xml:id="DZ-1991-DruzPolZb-25.div.1.1.1.1"
                        ana="#PAR.Prisot"

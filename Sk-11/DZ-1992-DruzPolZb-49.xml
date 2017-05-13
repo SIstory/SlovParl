@@ -826,7 +826,6 @@
                         absolute="1992-10-29T15:30:00"
                         interval="4800"/>
                   <when synch="#DZ-1992-DruzPolZb-49.stage.t.13"
-                        since="#DZ-1992-DruzPolZb-49."
                         absolute="1992-10-29T15:30:00"/>
                   <when synch="#DZ-1992-DruzPolZb-49.stage.t.14"
                         xml:id="DZ-1992-DruzPolZb-49.TL.7"
@@ -849,13 +848,9 @@
                         since="#DZ-1992-DruzPolZb-49.TL.9"
                         absolute="1992-11-05T10:26:00"/>
                   <when synch="#DZ-1992-DruzPolZb-49.stage.t.20"
-                        since="#DZ-1992-DruzPolZb-49."
-                        absolute="1992-11-05T11:05:00"
-                        interval="2340"/>
+                        absolute="1992-11-05T11:05:00"/>
                   <when synch="#DZ-1992-DruzPolZb-49.stage.t.21"
-                        since="#DZ-1992-DruzPolZb-49."
-                        absolute="1992-11-05T11:10:00"
-                        interval="300"/>
+                        absolute="1992-11-05T11:10:00"/>
                   <when synch="#DZ-1992-DruzPolZb-49.stage.t.22"
                         xml:id="DZ-1992-DruzPolZb-49.TL.10"
                         absolute="1992-11-05T11:20:00"/>

@@ -131,7 +131,7 @@
                <head>(32. seja - 15., 16. in 22. januar, 12. februar in 11. marec 1992)</head>
                <item>
                   <list rend="ordered">
-                     <head>PRED DNEVNIM REDOM:                                      STRAN</head>
+                     <head>PRED DNEVNIM REDOM:                   STRAN</head>
                      <item n="1" xml:id="DZ-1992-ZbObc-32.toc.1.1">Ugotovitev prisotnosti poslancev ...................... 1</item>
                      <item n="2" xml:id="DZ-1992-ZbObc-32.toc.1.2">Določanje dnevnega reda ............................... 1<list rend="simple">
                            <head>GOVORNIKI:</head>
@@ -201,16 +201,18 @@
                      <item n="4" xml:id="DZ-1992-ZbObc-32.toc.2.4">Predlog zakona o začasni ureditvi obračunavanja in plačevanja
                         določenih prispevkov (4. točka dnevnega reda; nadaljevanje str. 77)
                         ................................ 44</item>
-                     <item n="5a" xml:id="DZ-1992-ZbObc-32.toc.2.5a">Predlog zakona o zamudni obrestni meri - predlagatelj skupina
-                        poslancev Liberalne stranke vseh treh zborov</item>
-                     <item n="5b" xml:id="DZ-1992-ZbObc-32.toc.2.5b">Predlog zakona o obrestni meri zamudnih obresti - predlagatelj
-                        Izvršni svet Skupščine Republike Slovenije (5. točka dnevnega reda;
-                        nadaljevanje str. 78, 124, 156) ...................... 44<list rend="simple">
-                           <head>GOVORNIKA:</head>
-                           <item>Borut Razdevšek ...................................... 44</item>
-                           <item>dr. Peter Glavič ..................................... 45</item>
-                        </list>
-                     </item>
+                     <item xml:id="DZ-1992-ZbObc-32.toc.2.5"><list>
+                        <item n="5a" xml:id="DZ-1992-ZbObc-32.toc.2.5a">Predlog zakona o zamudni obrestni meri - predlagatelj skupina
+                           poslancev Liberalne stranke vseh treh zborov</item>
+                        <item n="5b" xml:id="DZ-1992-ZbObc-32.toc.2.5b">Predlog zakona o obrestni meri zamudnih obresti - predlagatelj
+                           Izvršni svet Skupščine Republike Slovenije (5. točka dnevnega reda;
+                           nadaljevanje str. 78, 124, 156) ...................... 44<list rend="simple">
+                              <head>GOVORNIKA:</head>
+                              <item>Borut Razdevšek ...................................... 44</item>
+                              <item>dr. Peter Glavič ..................................... 45</item>
+                           </list>
+                        </item>
+                     </list></item>
                      <item n="6" xml:id="DZ-1992-ZbObc-32.toc.2.6">Predlog deklaracije o sprejemanju in spoštovanju obveznosti, ki
                         izhajajo iz dokumentov, sprejetih v okviru konference o varnosti in
                         sodelovanju v Evropi (6. točka dnevnega reda) .............................
@@ -274,29 +276,31 @@
                         77</item>
                      <item n="14" xml:id="DZ-1992-ZbObc-32.toc.2.14">Poslansko vprašanje Ivana Atelška v zvezi z zelenimi kartami za
                         vstop v Republiko Avstrijo ................................... 77</item>
-                     <item n="15a" xml:id="DZ-1992-ZbObc-32.toc.2.15a">Predlog zakona o zamudni obrestni meri - predlagatelj skupina
-                        poslancev Liberalne stranke</item>
-                     <item n="15b" xml:id="DZ-1992-ZbObc-32.toc.2.15b">Predlog zakona o obrestni meri zamudnih obresti - predlagatelj
-                        Izvršni svet Skupščine Republike Slovenije (nadaljevanje 5. točke dnevnega
-                        reda) ................ 78<list rend="simple">
-                           <head>GOVORNIKI:</head>
-                           <item>Vitomir Gros ......................................... 78</item>
-                           <item>Vitomir Gros ......................................... 79</item>
-                           <item>mag. Stanko Debeljak ................................. 79</item>
-                           <item>Vladimir Slejko ...................................... 80</item>
-                           <item>dr. Peter Glavič ..................................... 81</item>
-                           <item>Janko Deželak ........................................ 82</item>
-                           <item>Anton Rojec .......................................... 83</item>
-                           <item>dr. Peter Glavič ..................................... 83</item>
-                           <item>Janko Deželak ........................................ 83</item>
-                           <item>Ivan Atelšek ......................................... 84</item>
-                           <item>Karel Franko ......................................... 84</item>
-                           <item>Anton Rojec .......................................... 84</item>
-                           <item>Danijel Starman ...................................... 85</item>
-                           <item>dr. Peter Glavič ..................................... 85</item>
-                           <item>Vladimir Slejko ...................................... 86</item>
-                        </list>
-                     </item>
+                     <item xml:id="DZ-1992-ZbObc-32.toc.2.15"><list>
+                        <item n="15a" xml:id="DZ-1992-ZbObc-32.toc.2.15a">Predlog zakona o zamudni obrestni meri - predlagatelj skupina
+                           poslancev Liberalne stranke</item>
+                        <item n="15b" xml:id="DZ-1992-ZbObc-32.toc.2.15b">Predlog zakona o obrestni meri zamudnih obresti - predlagatelj
+                           Izvršni svet Skupščine Republike Slovenije (nadaljevanje 5. točke dnevnega
+                           reda) ................ 78<list rend="simple">
+                              <head>GOVORNIKI:</head>
+                              <item>Vitomir Gros ......................................... 78</item>
+                              <item>Vitomir Gros ......................................... 79</item>
+                              <item>mag. Stanko Debeljak ................................. 79</item>
+                              <item>Vladimir Slejko ...................................... 80</item>
+                              <item>dr. Peter Glavič ..................................... 81</item>
+                              <item>Janko Deželak ........................................ 82</item>
+                              <item>Anton Rojec .......................................... 83</item>
+                              <item>dr. Peter Glavič ..................................... 83</item>
+                              <item>Janko Deželak ........................................ 83</item>
+                              <item>Ivan Atelšek ......................................... 84</item>
+                              <item>Karel Franko ......................................... 84</item>
+                              <item>Anton Rojec .......................................... 84</item>
+                              <item>Danijel Starman ...................................... 85</item>
+                              <item>dr. Peter Glavič ..................................... 85</item>
+                              <item>Vladimir Slejko ...................................... 86</item>
+                           </list>
+                        </item>
+                     </list></item>
                      <item n="16" xml:id="DZ-1992-ZbObc-32.toc.2.16">Predlog za izdajo zakona o trajnem prenehanju izkoriščanja uranove
                         rude in preprečevanju posledic rudarjenja v Rudniku urana Žirovski vrh z
                         osnutkom zakona (10. točka dnevnega reda) ............................
@@ -387,24 +391,26 @@
                            <item>mag. Jože Protner ................................... 124</item>
                         </list>
                      </item>
-                     <item n="27a" xml:id="DZ-1992-ZbObc-32.toc.2.27a">Predlog zakona o zamudni obrestni meri - predlagatelj skupina
-                        poslancev Liberalne stranke</item>
-                     <item n="27b" xml:id="DZ-1992-ZbObc-32.toc.2.27b">Predlog zakona o obrestni meri zamudnih obresti - predlagatelj
-                        Izvršni svet (nadaljevanje 5. točke dnevnega reda) ............... 124<list rend="simple">
-                           <head>GOVORNIKI:</head>
-                           <item>Janko Deželak ....................................... 125</item>
-                           <item>Anton Rojec ......................................... 126</item>
-                           <item>Janko Deželak ....................................... 127</item>
-                           <item>Anton Rojec ......................................... 128</item>
-                           <item>Drago Kolman ........................................ 129</item>
-                           <item>Vitomir Gros ........................................ 131</item>
-                           <item>Drago Kolman ........................................ 132</item>
-                           <item>Vitomir Gros ........................................ 132</item>
-                           <item>Marcel Štefančič .................................... 133</item>
-                           <item>Vitomir Gros ........................................ 133</item>
-                           <item>dr. Peter Glavič .................................... 133</item>
-                        </list>
-                     </item>
+                     <item xml:id="DZ-1992-ZbObc-32.toc.2.27"><list>
+                        <item n="27a" xml:id="DZ-1992-ZbObc-32.toc.2.27a">Predlog zakona o zamudni obrestni meri - predlagatelj skupina
+                           poslancev Liberalne stranke</item>
+                        <item n="27b" xml:id="DZ-1992-ZbObc-32.toc.2.27b">Predlog zakona o obrestni meri zamudnih obresti - predlagatelj
+                           Izvršni svet (nadaljevanje 5. točke dnevnega reda) ............... 124<list rend="simple">
+                              <head>GOVORNIKI:</head>
+                              <item>Janko Deželak ....................................... 125</item>
+                              <item>Anton Rojec ......................................... 126</item>
+                              <item>Janko Deželak ....................................... 127</item>
+                              <item>Anton Rojec ......................................... 128</item>
+                              <item>Drago Kolman ........................................ 129</item>
+                              <item>Vitomir Gros ........................................ 131</item>
+                              <item>Drago Kolman ........................................ 132</item>
+                              <item>Vitomir Gros ........................................ 132</item>
+                              <item>Marcel Štefančič .................................... 133</item>
+                              <item>Vitomir Gros ........................................ 133</item>
+                              <item>dr. Peter Glavič .................................... 133</item>
+                           </list>
+                        </item>
+                     </list></item>
                      <item n="28" xml:id="DZ-1992-ZbObc-32.toc.2.28">Predlog za izdajo zakona o spremembah in dopolnitvah zakona o
                         deviznem poslovanju (nadaljevanje 13. točke dnevnega reda) ..............
                         133</item>
@@ -470,7 +476,7 @@
             <head>ZBOR OBČIN SKUPŠČINE REPUBLIKE SLOVENIJE (32. seja - 15., 16. in 22. januar, 12.
                februar in 11. marec 1992)</head>
             <castList>
-               <head>GOVORNIKI:                                               STRAN</head>
+               <head>GOVORNIKI:                        STRAN</head>
                <castItem>
                   <actor xml:id="DZ-1992-ZbObc-32.sp.AtelšekIvan">Atelšek Ivan</actor> ............. 68, 72, 77, 84,
                   135, 137, 140, 149</castItem>
@@ -749,18 +755,18 @@
                            skladu s 314. členom Poslovnika Skupščine Republike Slovenije, to je po
                            hitrem postopku.</p>
                         <p>Ali želi o predlogu za uvrstitev tega akta na dnevni red in obravnavo po
-                           hitrem postopku kdo razpravljati?  Ker ne želi nihče
+                           hitrem postopku kdo razpravljati? Ker ne želi nihče
                            razpravljati, zaključujem razpravo in dajem na glasovanje predlog
                            Izvršnega sveta za uvrstitev navedenega akta na dnevni red in obravnavo
                            po hitrem postopku. Prosim, da ugotovimo prisotnost! </p>
                         <p>Kdo je za predlog predlagatelja Izvršnega sveta, da se uvrsti na dnevni
-                           red in obravnava po hitrem postopku?  Je kdo proti?  Se je kdo vzdržal? </p>
-                        <p>Še enkrat prisotni. Ugotovimo prisotnost!  Za predlog
+                           red in obravnava po hitrem postopku? Je kdo proti? Se je kdo vzdržal? </p>
+                        <p>Še enkrat prisotni. Ugotovimo prisotnost! Za predlog
                            Izvršnega sveta, da se uvrsti na dnevni red po hitrem postopku predlog
                            zakona o začasni ureditvi obračunavanja in plačevanja določenih
                            prispevkov.</p>
-                        <p>Kdo se s tem predlogom predlagatelja strinja?  Je kdo
-                           proti?  Se je kdo vzdržal? </p>
+                        <p>Kdo se s tem predlogom predlagatelja strinja? Je kdo
+                           proti? Se je kdo vzdržal?</p>
                         <p>Ugotavljam, da je z večino glasov predlog sprejet.</p>
                         <p>Na včerajšnji seji je zbor sklenil, da bo predlog zakona o zamudni
                            obrestni meri, ki so ga predložili poslanci Liberalne stranke vseh treh
@@ -771,7 +777,7 @@
                            meni, da je predlog zakona, ki ga je sprožil Izvršni svet Skupščine
                            Republike Slovenije primernejši za sprejem kot predlog zakona, ki so ga
                            predložili poslanci Liberalne stranke. Ali glede na takšno mnenje odbora
-                           poslanci Liberalne stranke umikajo svoj predlog  zakona? Gospod Gros ima
+                           poslanci Liberalne stranke umikajo svoj predlog zakona? Gospod Gros ima
                            besedo.</p>
                      </sp>
                      <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-ZbObc-32.sp.GrosVitomir">
@@ -793,7 +799,7 @@
                         <p>Vse te obrazložitve, ki jih bom sedaj dal, so bile prisotne tudi na
                            odboru in odbor se je, upoštevaje in ocenjevanje predloga, ki ga je dala
                            Liberalna stranka oziroma skupina delegatov Liberalne stranke, upoštevaje
-                           predlog zakona, ki ga je pripravilo Ministrstvo za finance,  odločil
+                           predlog zakona, ki ga je pripravilo Ministrstvo za finance, odločil
                            tako, kot je predsedujoči povedal. Moram reči, da v enem zakonu, ker
                            imamo v zakonih o prometnem davku, o prispevkih, o dohodnini in tako
                            naprej napisano, da je pooblaščen Izvršni svet, da z odlokom določa
@@ -879,7 +885,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Kdo želi razpravljati o tem predlogu?  Potem predlagam, da se
+                        <p>Kdo želi razpravljati o tem predlogu? Potem predlagam, da se
                            odločimo, da ta akt uvrstimo na dnevni red in ga obravnavamo po
                            skrajšanem postopku. Ugotovimo prisotnost! </p>
                         <p>Kdo je za ta predlog? </p>
@@ -900,7 +906,7 @@
                         <p>5. Poleg osnutkov zapisnikov 25. in 27. seje zbora ste prejeli tudi
                            osnutek zapisnika 28. seje zbora, zato predlagam, da v dnevni red pod 1.
                            točko uvrstimo tudi odobritev osnutka zapisnika 28. seje.</p>
-                        <p>Ali želi o tej razširitvi kdo razpravljati?  Zaključujem razpravo in
+                        <p>Ali želi o tej razširitvi kdo razpravljati? Zaključujem razpravo in
                            prosim, kdo se s tem predlogom strinja? </p>
                         <p>Ugotavljam, da je z večino glasov tudi ta predlog sprejet.</p>
                         <p>V zvezi s postopkom obravnave posameznih aktov po predlaganem dnevnem
@@ -908,18 +914,18 @@
                            predlogov za skrajšane postopke obravnave in predlog za obravnavo in
                            sprejem zakona po hitrem postopku.</p>
                         <p>Tako Izvršni svet Skupščine RS predlaga, da zbor obravnava v skladu z
-                           265. členom Poslovnika Skupščine RS, to je, da se združita  prva in druga
+                           265. členom Poslovnika Skupščine RS, to je, da se združita prva in druga
                            faza zakonodajnega postopka za naslednje akte; šli bi po vrsti, ker
                            verjamem, da boste kolegice in kolegi dajali poseben pomen vsakemu
                            posameznemu. Bom pa naštel, da boste vedeli kaj vse se tu predlaga:</p>
-                        <p>predlog o zaposlovanju tujcev z osnutkom zakona;</p>
-                        <p>predlog za izdajo zakona o prisilni poravnavi in stečaju z osnutkom
+                        <p>- predlog o zaposlovanju tujcev z osnutkom zakona;</p>
+                        <p>- predlog za izdajo zakona o prisilni poravnavi in stečaju z osnutkom
                            zakona;</p>
-                        <p>predlog za izdajo zakona o varstvu konkurence z osnutkom zakona;</p>
-                        <p>predlog za izdajo zakona o trajnem prenehanju izkoriščanja uranove rude
+                        <p>- predlog za izdajo zakona o varstvu konkurence z osnutkom zakona;</p>
+                        <p>- predlog za izdajo zakona o trajnem prenehanju izkoriščanja uranove rude
                            in preprečevanje posledic rudarjenja v Rudniku urana Žirovski vrh z
                            osnutkom zakona in;</p>
-                        <p>predlog za izdajo zakona o evidencah s področja javne varnosti z osnutkom
+                        <p>- predlog za izdajo zakona o evidencah s področja javne varnosti z osnutkom
                            zakona.</p>
                         <p>Želijo predstavniki Izvršnega sveta besedo, in sicer prvič: predlog za
                            izdajo zakona za zaposlovanje tujcev z osnutkom zakona?</p>
@@ -942,7 +948,7 @@
                         <p>Kar v bistvu pomeni, da je delovno dovoljenje pogoj za sklenitev
                            delovnega razmerja, delovno razmerje je pa predpogoj v bistvu za
                            pridobitev delovne vize. Glede na to, da se že pojavljajo zahteve po
-                           izdaji  delovnih viz, da pa bodo vsi ti državljani, ker gre predvsem za
+                           izdaji delovnih viz, da pa bodo vsi ti državljani, ker gre predvsem za
                            tuje državljane, ki so bili prej državljani SFRJ in pa državljani drugih
                            republik, ker so ti pritiski močni in ker lahko tudi na tem področju
                            nastane določena zmeda, bojimo se, da bi se delovne vize začele predhodno
@@ -1012,7 +1018,7 @@
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala. To se pravi gre za združitev. Ali mislite, da je potrebno še
-                           razpravljati?  Predlagal bi, da zaključimo s to razpravo in preidemo
+                           razpravljati? Predlagal bi, da zaključimo s to razpravo in preidemo
                            na glasovanje. Ugotovimo sklepčnost! </p>
                         <p>Kdo je za vladni predlog, da se združita prva in druga faza? </p>
                         <p>Ugotavljam, da je predlog sprejet.</p>
@@ -1041,7 +1047,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Hvala. Želi kdo o tem predlogu razpravljati?  Potem preidemo na
+                        <p>Hvala. Želi kdo o tem predlogu razpravljati? Potem preidemo na
                            glasovanje. Prosim, da ugotovimo prisotnost! Gre zopet za združitev prve
                            in druge faze. </p>
                         <p>Kdo je za predlog vlade, da se prva in druga faza združita tudi pri tem
@@ -1066,7 +1072,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Hvala. Želi še kdo razpravljati?  Potem zaključujem razpravo. Prosim
+                        <p>Hvala. Želi še kdo razpravljati? Potem zaključujem razpravo. Prosim
                            preidemo na glasovanje. Sklepčnost je bila podana, smo prej
                            ugotovili.</p>
                         <p>Kdo je za to, da se pred predlogom za izdajo zakona o varstvu konkurence
@@ -1095,7 +1101,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Hvala. Želi še kdo razpravljati?  Zaključujem razpravo.</p>
+                        <p>Hvala. Želi še kdo razpravljati? Zaključujem razpravo.</p>
                         <p>Kdo je za ta predlog o združitvi? </p>
                         <p>Ugotavljam, da je predlog z večino glasov sprejet.</p>
                         <p>S tem smo v teh zakonskih predlogih združili prvo in drugo fazo.</p>
@@ -1121,11 +1127,11 @@
                         <p>Zdaj, če sem prav razumel gre za predlog za izdajo zakona. Ali gre le za
                            skrajšani postopek? Gospod Tratnik? Skrajšani, hvala lepa, tako da se
                            predlog za izdajo obravnava z osnutkom.</p>
-                        <p>Kdo želi razpravljati?  Lahko preidemo na glasovanje.</p>
+                        <p>Kdo želi razpravljati? Lahko preidemo na glasovanje.</p>
                         <p>Kdo je za predlog Izvršnega sveta, da se navedeni akt obravnava po
                            skrajšanem postopku? </p>
                         <p>Ugotavljam, da je z veliko večino ta predlog sprejet.</p>
-                        <p>Skupina poslancev vseh treh zborov, iz našega zbora  Borut Razdevšek,
+                        <p>Skupina poslancev vseh treh zborov, iz našega zbora Borut Razdevšek,
                            predlaga, da zbor obravnava predlog za izdajo zakona o spremembah zakona
                            o obrambi in zaščiti s predlogom zakona, v skladu s 312. členom
                            Poslovnika Skupščine Republike Slovenije, po skrajšanem postopku.</p>
@@ -1140,7 +1146,7 @@
                            zbori zadolžijo Izvršni svet, da pravočasno pripravi ter predloži v
                            obravnavo in sprejem skupščini zakon o službi v oboroženih silah
                            Republike Slovenije.</p>
-                        <p>Želi o teh predlogih kdo razpravljati?  Ker ni razprave,
+                        <p>Želi o teh predlogih kdo razpravljati? Ker ni razprave,
                            zaključujem razpravo in dajem na glasovanje predlog Komisije za obrambo,
                            da se tega zakona ne uvrsti na dnevni red.</p>
                         <p>Kdo je za ta predlog Komisije za obrambo, da se ne uvrsti in s tistim
@@ -1177,13 +1183,13 @@
                            razpravljati? </p>
                         <p>Prehajamo na glasovanje.</p>
                         <p>Kdo je za predlog skupine poslancev vseh treh zborov, da se navedeni akt
-                           obravnava po skrajšanem postopku?  Je kdo proti?  Se je kdo vzdržal? </p>
+                           obravnava po skrajšanem postopku? Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da predlog ni sprejet.</p>
                         <p>Gospod sekretar opozarja, da moramo ugotoviti prisotnost. Prosim, da
-                           preverimo sklepčnost!  Prosim, še enkrat ponovimo
+                           preverimo sklepčnost! Prosim, še enkrat ponovimo
                            sklepčnost. Kdor je prisoten, naj pritisne gumb? </p>
                         <p>Kdo je za predlog skupine poslancev treh zborov, da se navedeni akt
-                           obravnava po skrajšanem postopku?  Je kdo proti?  Se je kdo vzdržal? </p>
+                           obravnava po skrajšanem postopku? Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da predlog ni sprejet.</p>
                         <p>Skupina poslancev vseh treh zborov, ki je predložila predlog zakona o
                            spremembah in dopolnitvah zakona o deviznem poslovanju, iz našega zbora
@@ -1191,12 +1197,12 @@
                            postopku v skladu s 314. členom poslovnika.</p>
                         <p>Odbor za splošno-gospodarske zadeve predlaga, da zbor zakona ne sprejme.
                            Izvršni svet ne podpira tega zakona. Ali glede na to morda predlagatelj
-                           zakona svoj predlog umika?  Želi o predlogu tega akta po hitrem
-                           postopku kdo razpravljati?  Potem se moramo odločiti z
+                           zakona svoj predlog umika? Želi o predlogu tega akta po hitrem
+                           postopku kdo razpravljati? Potem se moramo odločiti z
                            glasovanjem.</p>
                         <p>Kdo je za to, da se po skrajšanem postopku obravnava predlog zakona o
                            spremembah in dopolnitvah zakona o deviznem poslovanju? 
-                           Je kdo proti?  Se je kdo vzdržal? </p>
+                           Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da predlog ni sprejet.</p>
                         <p>Skupina poslancev vseh treh zborov, iz našega zbora Borut Razdevšek, ki
                            je predložila predlog za izdajo zakona o nadomestilu izpada prihodkov
@@ -1314,7 +1320,7 @@
                         <p>Kdo je za to, da ostane na dnevnem redu te seje, o kateri se sedaj
                            odločamo? Ta ista točka, ker smo se prvič odločili, da jo je treba
                            dopolniti, zdaj pa, ali je to dopolnitev, ko bo dopolnjena na tej seji,
-                           ali gre to na eno prihodnjih sej.  Je kdo proti?  Se je kdo vzdržal? </p>
+                           ali gre to na eno prihodnjih sej. Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Pomeni, da je večina za to, da se uvrsti na dnevni red.</p>
                      </sp>
                   </div>
@@ -1353,7 +1359,7 @@
                            Štular, Ivan Bizjak, Milan Volk, Aleksander Lovec, Stanislav Bevc, Anton
                            Kuzman, Marko Stadler, Isabella Flego, Aurelio Juri. Po podatkih službe
                            je na seji prisotnih 47 poslancev. Prosim, da ugotovimo navzočnost in
-                           prosim tudi vse poslance, da pritisnejo gumb.  Torej nas
+                           prosim tudi vse poslance, da pritisnejo gumb. Torej nas
                            je premalo, da bi nadaljevali. Malo počakajmo. Ponovno preverimo
                            prisotnost - še vedno trije manjkajo. Dobro, medtem ko čakamo na
                            poslance, naj vam povem nekaj obvestil.</p>
@@ -1366,8 +1372,8 @@
                            komisijo za uskladitev dnevnih redov zborov. Prosim za predloge:
                            Štefančič, Razdevšek, Kuhar, Mencinger, Urbančič - tam je treba tudi malo
                            trme kdaj. Tako, obstoja sledeči predlog, prosim, da sedaj ugotovimo
-                           sklepčnost.  Še eden manjka. Vmes smo že imeli sklepčnost.
-                           Prosim še enkrat ponovimo.  Hvala.</p>
+                           sklepčnost. Še eden manjka. Vmes smo že imeli sklepčnost.
+                           Prosim še enkrat ponovimo. Hvala.</p>
                         <p>Kdo je za predlog, da v usklajevalni komisiji sodelujejo gospodje
                            Štefančič, Razdevšek, Kuhar, Mencinger, Urbančič? </p>
                         <p>To pomeni, da se je večina odločila za tako usklajeno komisijo.</p>
@@ -1545,7 +1551,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Hvala lepa. Želi še kdo od poročevalcev besedo?  Hvala.</p>
+                        <p>Hvala lepa. Želi še kdo od poročevalcev besedo? Hvala.</p>
                         <p>Pričenjam razpravo. Prvi se je k razpravi prijavil dr. Vivod.</p>
                      </sp>
                      <sp who="sp:VivodIvan1926" corresp="#DZ-1992-ZbObc-32.sp.VivodIvan">
@@ -1723,7 +1729,7 @@
                            akte, pravzaprav opredeljevali obseg, višino, dajatev s področja
                            socialnega varstva.</p>
                         <p>Naslednje . Še vedno mislim, da
-                           so aktualne pripombe v  zvezi z zbiranjem podatkov, vezane na zakon o
+                           so aktualne pripombe v zvezi z zbiranjem podatkov, vezane na zakon o
                            osebnih podatkih. Spisek podatkov, ki naj jih ta služba spremlja in ki
                            jih ima nekje na razpolago, je zelo širok in dejansko, se je treba
                            vprašati, kateri so tisti nujni podatki,ki jih služba rabi, da ne bi
@@ -1904,7 +1910,7 @@
                            pomočjo predlagatelja in nekatere stvari smo razjasnili, nekatere bom pa
                            skušal tudi danes nakazati, tako da bo predlagatelj vedel, tudi kaj nekje
                            mi želimo.</p>
-                        <p>V 28. členu  namreč ne
+                        <p>V 28. členu namreč ne
                            podpiramo variante, ker menimo, da otroški dodatek in štipendije ne
                            morejo spadati v dohodek oziroma prejemke, kajti to, če investiramo v
                            znanje, investiramo v našo bodočnost.</p>
@@ -2134,12 +2140,12 @@
                            predlagatelj prouči in ustrezno upošteva pripombe, predloge in mnenja
                            delovnih teles skupščine, pisne pripombe in pripombe iz razprave
                            poslancev na seji zbora danes."</p>
-                        <p>Želi o predlaganem sklepu kdo razpravljati?  Potem dajem predlog
+                        <p>Želi o predlaganem sklepu kdo razpravljati? Potem dajem predlog
                            sklepa na glasovanje. Prosim, da ugotovimo prisotnost. 
-                           Manjkajo se štirje. Še enkrat prosim, da pritisnemo.  Še
-                           en manjka. Ali je nekdo pozabil pritisniti? Prosim, še enkrat.  Hvala lepa.</p>
-                        <p>Kdo je za ta predlog sklepa, ki sem ga prebral?  Je kdo
-                           proti?  Se je kdo vzdržal? </p>
+                           Manjkajo se štirje. Še enkrat prosim, da pritisnemo. Še
+                           en manjka. Ali je nekdo pozabil pritisniti? Prosim, še enkrat. Hvala lepa.</p>
+                        <p>Kdo je za ta predlog sklepa, ki sem ga prebral? Je kdo
+                           proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlagani sklep z večino glasov sprejet.</p>
                      </sp>
                   </div>
@@ -2190,7 +2196,7 @@
                         <p>Manjka vam verjetno tukaj en krovni, bolj deklarativni zakon, ki ga
                            nekatere države imajo, druge pa ne. Lahko rečemo "Family Welfare Act" ali
                            pa zakon o blagostanju družine. Ta krovni zakon se bo pripravil, vendar
-                           sukcesivno, ker je Izvršni svet sprejel januarja lansko  leto strateške
+                           sukcesivno, ker je Izvršni svet sprejel januarja lansko leto strateške
                            razvojne usmeritve na področju otroškega varstva oziroma družinske
                            politike in s katerimi je v bistvu potrdil predlagani pristop
                            ministrstva, to je postopne izgradnje oziroma integracije različnih
@@ -2814,7 +2820,7 @@
                            dva pogoja: eden, ki je naravno možen, če kdor hoče, eden je oziroma
                            trije, drugi je, je možen pa nočeš in tretji je, ki po naravnem zakonu
                            ali nekem drugem zakonu sploh ni mogoče, da bi do otroka prišlo in da bi
-                           mati nastala in tako dalje. Zato  menim, da smo vsi Slovenci, ne glede,
+                           mati nastala in tako dalje. Zato menim, da smo vsi Slovenci, ne glede,
                            dolžni skrbeti za to mater in otroka. Zato pa imamo davčne mehanizme.
                            Gospod Glavič zelo rad reče, ne mi zameriti, da sem uporabil vaše ime, če
                            sprejemamo nekaj, potem to okvantificirajmo oziroma vedimo odkod bomo
@@ -2939,9 +2945,9 @@
                            zajet.</p>
                         <p>Prosim, je še kakšna pripomba? Potem lahko zaključim razpravo o predlogu
                            sklepa in dajem ta sklep na glasovanje.</p>
-                        <p>Ugotoviti moramo prisotnost.  Dobro, potem, ker zdaj
+                        <p>Ugotoviti moramo prisotnost. Dobro, potem, ker zdaj
                            manjka 7 poslancev... Dobro, še enkrat. prosim, če še enkrat preverimo
-                           prisotnost.  Potem imamo odmor. Odmor bo trajal do 13.45
+                           prisotnost. Potem imamo odmor. Odmor bo trajal do 13.45
                            jure. Takrat pa res prosim gospode kolege, brez 15 minut, ker smo tako in
                            tako podaljšali odmor.</p>
                      </sp>
@@ -2974,7 +2980,7 @@
                            pripombe, ki so bile dane glede cenzusa. Se predlagatelj s tem strinja?
                            Najbrž bo on to ocenil in nam bo potem dal v predlogu, ki ga bo pripravil
                            oziroma v osnutku zakona bo dal to oceno.</p>
-                        <p>Kdo je za predlog v celoti?  Je kdo proti?  Se je
+                        <p>Kdo je za predlog v celoti? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlog sklepa soglasno sprejet.</p>
                      </sp>
@@ -2987,7 +2993,7 @@
                         <p>Prehajamo na <title>4. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O ZAČASNI
                               UREDITVI OBRAČUNAVANJA IN PLAČEVANJA DOLOČENIH PRISPEVKOV</title>.</p>
                         <p>Predlagatelj akta je Izvršni svet Skupščine Republike Slovenije. Želi
-                           njegov predstavnik besedo?  Hvala. Predlog  zakona ste prejeli.
+                           njegov predstavnik besedo? Hvala. Predlog zakona ste prejeli.
                            Predlog zakona sta obravnavala Odbor za proračun in javne finance,
                            Zakonodajno-pravna komisija. Zakonodajno-pravna komisija k predlogu
                            zakona nima pripomb in predlaga zboru, da ga sprejme. Odbor za proračun
@@ -3000,28 +3006,13 @@
                            lahko tudi ustno, pa ga o tem obvestimo.</p>
                      </sp>
                   </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.5" ana="#PAR.TDR" n="5">
+                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.5" ana="#PAR.TDR" n="5"
+                     corresp="#DZ-1992-ZbObc-32.toc.2.5">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA</title> v okviru katere imamo
-                           dva predloga zakona, in sicer: </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.6"
-                       ana="#PAR.TDR"
-                       n="5a"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.5a">
-                     <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
-                        <p>
+                           dva predloga zakona, in sicer: 
                            <title>PREDLOG ZAKONA O ZAMUDNI OBRESTNI MERI</title>, ki ga je
-                           predložila skupina poslancev Liberalne stranke vseh treh zborov in </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.7"
-                       ana="#PAR.TDR"
-                       n="5b"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.5b">
-                     <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
-                        <p>
+                           predložila skupina poslancev Liberalne stranke vseh treh zborov in 
                            <title>PREDLOG ZAKONA O OBRESTNI MERI ZAMUDNIH OBRESTI</title>, ki ga je
                            predložil Izvršni svet Skupščine Republike Slovenije.</p>
                         <p>Tu je sedaj prišlo do različnih odločitev zborov glede dnevnega reda.
@@ -3071,7 +3062,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Ali je to v okviru procedure, ali je ta predlog že vložen?  Namreč,
+                        <p>Ali je to v okviru procedure, ali je ta predlog že vložen? Namreč,
                            zakonski projekt mora priti v proceduro, ki se vloži pri predsedniku
                            skupščine, ta pa ga potem dodeli pristojnim zborom v obravnavo in
                            odločanje. Prav, ampak tukaj smo lahko ekspeditivni in da ne zavlačujemo,
@@ -3098,12 +3089,12 @@
                            da jo sprejmejo. Predlog deklaracije je obravnavala Zakonodajno-pravna
                            komisija, ki je zboru pisno poročala. Želi poročevalec komisije besedo?
                             Hvala.</p>
-                        <p>Pričenjam razpravo. Kdo želi besedo?  Zaključujem razpravo in
+                        <p>Pričenjam razpravo. Kdo želi besedo? Zaključujem razpravo in
                            dajem na glasovanje predlog Deklaracije o sprejemanju in spoštovanju
-                           obveznosti, ki izhajajo iz dokumentov,</p>
-                        <p>sprejetih v okviru Konference o varnosti in sodelovanju v Evropi.</p>
-                        <p>Ugotovimo prisotnost. </p>
-                        <p>Kdo je za predlog deklaracije?  Je kdo proti?  Se je kdo vzdržal? </p>
+                           obveznosti, ki izhajajo iz dokumentov, sprejetih v okviru Konference o
+                           varnosti in sodelovanju v Evropi.</p>
+                        <p>Ugotovimo prisotnost.</p>
+                        <p>Kdo je za predlog deklaracije? Je kdo proti? Se je kdo vzdržal?</p>
                         <p>Ugotavljam, da je deklaracija z večino glasov sprejeta.</p>
                         <p>Prehajamo na 7. točko dnevnega reda - Predlog za izdajo zakona o
                            zaposlovanju tujcev z osnutkom zakona. Želi besedo dr. Glavič? Bomo.
@@ -3586,7 +3577,7 @@
                            ustrezno upošteva pripombe, predloge in mnenja delovnih teles skupščine,
                            ki so - to so pisne pripombe - in pripombe in predloge iz razprave, ki so
                            jih poslanci dali na seji zbora danes."</p>
-                        <p>Želi o tem predlogu kdo razpravljati?  Potem lahko preidemo na
+                        <p>Želi o tem predlogu kdo razpravljati? Potem lahko preidemo na
                            glasovanje. Prosim, da ugotovimo prisotnost. </p>
                         <p>Kdo je za ta predlog sklepa? </p>
                         <p>Ugotavljam, da je z veliko večino predlog sklepa sprejet.</p>
@@ -3721,7 +3712,7 @@
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Menim, da je predlog gospoda Glaviča tak, da je treba, da se
                            zbor o njemu opredeli, zlasti zato, ker smo dobili pisno poročilo Odbora
-                           za  proračun in javne finance, da je večkrat poskusil razpravljati, da ni
+                           za proračun in javne finance, da je večkrat poskusil razpravljati, da ni
                            bil sklepčen in da o tem odločitve ne more biti, tudi vemo, da on poskuša
                            zadevo rešiti z vladnim predlogom za razširitev z amandmaji, tako kot
                            pravi gospod Glavič, ampak o tem nihče nič ne ve, kajti odbor ni mogel
@@ -3835,7 +3826,7 @@
                         <p>Moram dati na glasovanje predlog delovne skupine, ki trdi, da naj se ta
                            predlog zakona uvrsti na dnevni red našega zbora, in sicer v prvi fazi.
                            Se pravi predlog za izdajo zakona.</p>
-                        <p>Kdo je za ta predlog komisije za usklajevanje dnevnega reda?  Je kdo proti?  Se je kdo vzdržal? </p>
+                        <p>Kdo je za ta predlog komisije za usklajevanje dnevnega reda? Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da predlog komisije ni sprejet. In ostajamo jasno pri tistem
                            sklepu, ki nalagajo Vladi Republike Slovenije, da v celoti prouči in
                            uskladi z ustavo, to kar je gospod Kuhar že povedal.</p>
@@ -3845,7 +3836,7 @@
                            dnevnega reda in hkrati sprejme naslednji sklep:</p>
                         <p>"Zbor občin ugotavlja, da je potrebno vprašanje enakopravnega statusa
                            političnih organizacij urediti v sklopu bodoče volilne zakonodaje."
-                           Odpiram razpravo. Želi kdo razpravljati?  Zaključujem razpravo.
+                           Odpiram razpravo. Želi kdo razpravljati? Zaključujem razpravo.
                            Gremo na glasovanje.</p>
                         <p>Kdo je za to, da se sprejme predlog usklajevalne komisije, in sicer, da
                            mi umaknemo z dnevnega reda točko, ki se imenuje predlog za izdajo zakona
@@ -4211,7 +4202,7 @@
                            zakonodaji.</p>
                         <p>In tretjič, rad bi opozoril, da v prehodnih in končnih določbah manjkajo
                            nekatere stvari, ki bi zavarovale kakršnokoli uzurpacijo ali zlorabo tega
-                           zakona v trenutku  od danes pa do sprejema tega zakona. Ker v
+                           zakona v trenutku od danes pa do sprejema tega zakona. Ker v
                            kolikor se bo izvajal takšen zakon, nekateri ne bodo zainteresirani za
                            izvajanje in v tem primeru bodo tak stečajni postopek v tem času že
                            začeli. Hvala lepa.</p>
@@ -4358,8 +4349,8 @@
                            poravnavi. Torej tu se mi postavlja ena dilema, ali je prisilna poravnava
                            nek samostojen postopek ali pa je to del stečaja. Po ureditvi, ki jo
                            poznam, je bila prisilna poravnana del stečaja oziroma po tistem, ko je
-                           stečaj bil uveden,</p>
-                        <p>je bila prva faza, da se je poskusilo s poravnavo in šele če poravnava in
+                           stečaj bil uveden, je bila prva faza, da se je poskusilo
+                           s poravnavo in šele če poravnava in
                            uspela je seveda potem prišlo v stečaj. Namreč, zakaj je to pomembno?
                            Pomembno je to iz razloga, ker s samo uvedbo stečaja nastanejo določene
                            pravne posledice. Namreč, z uvedbo stečaja preneha pravni subjekt. Ga ni
@@ -4408,11 +4399,11 @@
                            pripravi osnutka zakona naj predlagatelj prouči in ustrezno upošteva
                            pripombe,predloge, mnenja delovnih teles skupščine, to so pisne pripombe
                            in pripombe iz razprave poslancev na seji zbora danes."</p>
-                        <p>Želi kdo o tem sklepu razpravljati?  Prosim, da ugotovimo
+                        <p>Želi kdo o tem sklepu razpravljati? Prosim, da ugotovimo
                            sklepčnost. Pritisnite vsi gumbe. Ali je še kaj naših kolegov zunaj?
                            Prosim pritisnimo gumb, da ugotovimo prisotnost, prisotnost ugotavljamo,
                            ste vsi pritisnili? </p>
-                        <p>Kdo je za predlagani sklep?  Je kdo proti?  Se je
+                        <p>Kdo je za predlagani sklep? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da je z večino glasov slep sprejet.</p>
                      </sp>
@@ -4502,7 +4493,7 @@
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Predlog za izdajo zakona z osnutkom sta obravnavala Odbor za splošne
                            gospodarske zadeve in Zakonodajno-pravna komisija, ki sta zboru pisno
-                           poročala. Želijo poročevalci delovnih teles besedo?  Hvala.
+                           poročala. Želijo poročevalci delovnih teles besedo? Hvala.
                            Pričenjam razpravo.</p>
                      </sp>
                      <sp who="sp:CrnejJanez1935" corresp="#DZ-1992-ZbObc-32.sp.ČrnejJanez">
@@ -4713,9 +4704,9 @@
                            Potem jih imamo pa še nekaj iz zadnjega časa: Janez Bukovec, Janez Režun,
                            Tone Partljič in Fran Ogris.</p>
                         <p>Po podatkih službe je na seji prisotnih 46 poslancev. Prosim, da
-                           ugotovimo prisotnost v dvorani.  Prosim za malo
-                           pozornosti. Ugotovimo prisotnost v dvorani.  Poskusimo še
-                           enkrat. Prosim, da ugotovimo prisotnost.  Če pride še
+                           ugotovimo prisotnost v dvorani. Prosim za malo
+                           pozornosti. Ugotovimo prisotnost v dvorani. Poskusimo še
+                           enkrat. Prosim, da ugotovimo prisotnost. Če pride še
                            eden, potem bomo lahko nadaljevali. Eden še prihaja.</p>
                         <p>Ugotovil bi, da s tem, ko je ob 40 prisotnih prišel še eden, da je zbor
                            sklepčen in lahko pravno veljavno razpravlja in sklepa. Pred kakšnim
@@ -4729,16 +4720,16 @@
                         <p>Po prečiščenem dnevnem redu, ki ste ga prejeli skupaj z obvestilom o
                            današnjem <title>nadaljevanju seje</title>, je zbor opravil razpravo in
                            zaključil naslednje zadeve:</p>
-                        <p>točko 1, to je odobritev zapisnikov 25., 27. in 28. seje zbora;</p>
-                        <p>točko 2, to je osnutek zakona o socialnem varstvu;</p>
-                        <p>točko 3, predlog za izdajo zakona o družinskih dajatvah;</p>
-                        <p>točko 6, predlog deklaracije o sprejemanju in spoštovanju obveznosti, ki
+                        <p>- točko 1, to je odobritev zapisnikov 25., 27. in 28. seje zbora;</p>
+                        <p>- točko 2, to je osnutek zakona o socialnem varstvu;</p>
+                        <p>- točko 3, predlog za izdajo zakona o družinskih dajatvah;</p>
+                        <p>- točko 6, predlog deklaracije o sprejemanju in spoštovanju obveznosti, ki
                            izhaja iz dokumentov, sprejetih v okviru Konference o varnosti in
                            sodelovanju v Evropi;</p>
-                        <p>točko 7, predlog za izdajo zakona o zaposlovanju tujcev z osnutkom
+                        <p>- točko 7, predlog za izdajo zakona o zaposlovanju tujcev z osnutkom
                            zakona;</p>
-                        <p>točko 8, predlog za izdajo zakona o prisilni poravnavi in stečaju;</p>
-                        <p>točko 9, predlog za izdajo zakona o varstvu konkurence z osnutkom
+                        <p>- točko 8, predlog za izdajo zakona o prisilni poravnavi in stečaju;</p>
+                        <p>- točko 9, predlog za izdajo zakona o varstvu konkurence z osnutkom
                            zakona.</p>
                         <p>Razen tega je zbor zaključil razpravo o predlogu zakona o začasni
                            ureditvi obračunavanja in plačevanja določenih prispevkov ter odložil
@@ -4772,15 +4763,15 @@
                            glasujemo o predlogu zakona, ker nanj ni bilo nobenih pripomb. Prešli bom
                            ona glasovanje o predlogu zakona o začasni ureditvi obračunavanja in
                            plačevanja določenih prispevkov.</p>
-                        <p>Še prej moramo ugotoviti prisotnost, ker se vrata pogosto odpirajo.  To bo najbrž kar držalo. Poglejmo kljub temu še enkrat.  Zbor ni sklepčen. Odrejam 5 minut odmora.</p>
+                        <p>Še prej moramo ugotoviti prisotnost, ker se vrata pogosto odpirajo. To bo najbrž kar držalo. Poglejmo kljub temu še enkrat. Zbor ni sklepčen. Odrejam 5 minut odmora.</p>
                      </sp>
                      <stage type="time">(Seja je bila <time to="1992-01-22T11:48:00" xml:id="DZ-1992-ZbObc-32.stage.t.14">prekinjena ob
                            11.48 uri</time> in se je <time from="1992-01-22T11:55:00" xml:id="DZ-1992-ZbObc-32.stage.t.15">nadaljevala ob
                            11.55 uri</time>.)</stage>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
-                        <p>Nadaljujemo. Poglejmo prisotnost. Prosim, da se vsi registrimamo.  Torej, ob približno 13.15 naj bi bila pavza.</p>
-                        <p>Še enkrat prisotnost; prosim, da vsi pritisnete na ustrezno tipko.  Nismo še zaslužili "južine" fantje, to ni nič. Gospod Atelšek
+                        <p>Nadaljujemo. Poglejmo prisotnost. Prosim, da se vsi registrimamo. Torej, ob približno 13.15 naj bi bila pavza.</p>
+                        <p>Še enkrat prisotnost; prosim, da vsi pritisnete na ustrezno tipko. Nismo še zaslužili "južine" fantje, to ni nič. Gospod Atelšek
                            bi rad nekaj povedal.</p>
                      </sp>
                   </div>
@@ -4807,7 +4798,7 @@
                         <p>Hvala lepa. To bi bilo potem vprašanje? ali imate v pisni obliki, da bi
                            mi to naprej posredovali? V pisni obliki? Ne, če želite, da bi to
                            vprašanje naprej poslali.</p>
-                        <p>Poskusimo ugotoviti koliko nas je zdaj. Prisotnost prosim.  Ali je kdo še zunaj pred vrati? Če je stvar taka, bilo nas je
+                        <p>Poskusimo ugotoviti koliko nas je zdaj. Prisotnost prosim. Ali je kdo še zunaj pred vrati? Če je stvar taka, bilo nas je
                            dovolj danes tukaj, zdaj pa nas ni po ponovnem čakanju, zato ne vidim
                            druge variante, kot da odredim 45-minutni odmor, potem pa bi res prosil,
                            da se tam 12.55, vsaj ob 13.00 uri, da smo tukaj in to polno število.
@@ -4826,35 +4817,19 @@
                            predlogu zakona, ko ni bilo sklepčnosti, zato zdaj gremo lahko takoj na
                            glasovanje o predlogu zakona o začasni ureditvi obračunavanja in
                            plačevanja določenih prispevkov.</p>
-                        <p>Kdo je za ta predlog zakona?  Je kdo proti? 
+                        <p>Kdo je za ta predlog zakona? Je kdo proti? 
                            Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlog zakona z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.17" ana="#PAR.TDR" n="5">
+                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.17" ana="#PAR.TDR" n="5"
+                     corresp="#DZ-1992-ZbObc-32.toc.2.15">
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA</title>, v okviru katere imamo
-                           dva predloga zakona, in sicer pod </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.18"
-                       ana="#PAR.TDR"
-                       n="5a"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.15a">
-                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
-                        <p>
+                           dva predloga zakona, in sicer pod 
                            <title>a) PREDLOG ZAKONA O ZAMUDNI OBRESTNI MERI</title>, ki ga je
                            predložila skupina poslancev Liberalne stranke iz vseh treh zborov, in pa
-                           pod </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.19"
-                       ana="#PAR.TDR"
-                       n="5b"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.15b">
-                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
-                        <p>
-                           <title>b) PREDLOG ZAKONA O OBRESTNI MERI ZAMUDNIH OBRESTI</title>, ki ga
+                           pod <title>b) PREDLOG ZAKONA O OBRESTNI MERI ZAMUDNIH OBRESTI</title>, ki ga
                            je predložil Izvršni svet Skupščine Republike Slovenije.</p>
                         <p>Zbor je po usklajevanju dnevnega reda 32. seje dne 16.1.1992 sklenil
                            uvrstiti oba predloga v dnevni red s tem, da se o obravnavi dokončno
@@ -5024,7 +4999,7 @@
                            za proračun in javne finance in gre za to, na kaj se nanaša
                            revalorizacija. Ta se sedaj vedno določa iz cen predhodnega meseca za
                            vnaprej. Jaz ne vidim, zakaj bi se morala ta obrestna mera določati
-                           vnaprej, naj se določa za tisto obdobje,  v katerem je dolg bil zamujen.
+                           vnaprej, naj se določa za tisto obdobje, v katerem je dolg bil zamujen.
                            To je lahko več mesecev, lahko je manj, nikakor pa se ne nanaša na mesec
                            vnaprej, ampak na en mesec nazaj in za takrat so vsi podatki dani in se
                            to lahko izračuna. Hvala lepa.</p>
@@ -5433,7 +5408,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Hvala. Še kdo od poročevalcev?  Pričenjam razpravo. Kdo želi
+                        <p>Hvala. Še kdo od poročevalcev? Pričenjam razpravo. Kdo želi
                            besedo? Gospod Feltrin, prosim.</p>
                      </sp>
                      <sp who="sp:FeltrinFranci1943" corresp="#DZ-1992-ZbObc-32.sp.FeltrinFranci">
@@ -5466,7 +5441,7 @@
                            so privatniki ali so kjerkoli. To študijo je dr. Anton Zupančič naredil,
                            napisal o vplivu na okolje in na ljudi in menim, da smo upravičeni do
                            tega.</p>
-                        <p>Prav tako bi v istem členu, drugem členu, dodali, da se v  osmi alinei
+                        <p>Prav tako bi v istem členu, drugem členu, dodali, da se v osmi alinei
                            glasi: "plačilo odškodnine, rente." Mislim, da je gospod Korenčan
                            povedal, da se to v posebnem zakonu uveljavlja. Jaz se strinjam, da je to
                            res, ampak bolje vrabec v roki, kot golob na strehi, zato bi predlagal,
@@ -5622,7 +5597,7 @@
                      </sp>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
-                        <p>Hvala lepa. Želi še kdo besedo?  Potem razpravo zaključujem. ...... Prosim, gospod
+                        <p>Hvala lepa. Želi še kdo besedo? Potem razpravo zaključujem. ...... Prosim, gospod
                            Korenčan, pomočnik ministra za energetiko.</p>
                      </sp>
                      <sp who="sp:KorencanAndrej" corresp="#DZ-1992-ZbObc-32.sp.KorenčanAndrej">
@@ -5665,15 +5640,15 @@
                            predlagatelj prouči in ustrezno upošteva pripombe, predloge in mnenja
                            delovnih teles skupščine, pisne pripombe in pripombe iz razprave
                            poslancev na seji zbora.</p>
-                        <p>Želi o tem predlogu sklepa kdo razpravljati?  Potem poglejmo najprej
-                           prisotnost.  Še kakšnega dobimo. Poglejmo še enkrat to
-                           prisotnost.  Ali je gospod Kokošinek kje v bližini? On je
+                        <p>Želi o tem predlogu sklepa kdo razpravljati? Potem poglejmo najprej
+                           prisotnost. Še kakšnega dobimo. Poglejmo še enkrat to
+                           prisotnost. Ali je gospod Kokošinek kje v bližini? On je
                            rekel, da ga vedno lahko dobimo, da je vedno tukaj. Poglejmo še enkrat
-                           prisotnost.  Torej glasujemo o predlogu sklepa, s katerim
+                           prisotnost. Torej glasujemo o predlogu sklepa, s katerim
                            sprejemamo predlog za izdajo zakona o rajnem prenehanju izkoriščanja
                            uranove rude in preprečevanja posledic rudarjenja v Rudniku urana
                            Žirovski vrh z osnutkom zakona.</p>
-                        <p>Kdo je za predlagani sklep?  Je kdo proti? 
+                        <p>Kdo je za predlagani sklep? Je kdo proti? 
                            Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlog sklepa z večino glasov sprejet.</p>
                      </sp>
@@ -5795,7 +5770,7 @@
                      </sp>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
-                        <p>Hvala lepa. Želi še kdo razpravljati?  Besedo ima gospod Bogo
+                        <p>Hvala lepa. Želi še kdo razpravljati? Besedo ima gospod Bogo
                            Brvar.</p>
                      </sp>
                      <sp who="sp:BrvarBogomil" corresp="#DZ-1992-ZbObc-32.sp.BrvarBogo">
@@ -5861,7 +5836,7 @@
                            parlament, da sprejme predlog za izdajo tega zakona, zato da se to
                            področje naprej pač urejuje, ker gre za izredno pomembno, ne samo
                            vprašanje poseganja v informacijsko zasebnost, ampak tudi spraviti te
-                           evidence v sklad z ustavo  in to področje enkrat v policiji urediti.</p>
+                           evidence v sklad z ustavo in to področje enkrat v policiji urediti.</p>
                         <p>Naj poudarim, da se to področje v policiji ni urejalo preteklih 40 let,
                            da je bilo to urejeno v podzakonskih aktih, v tajnih aktih in to želimo v
                            Ministrstvu za notranje zadeve oziroma predlagatelj želi te zadeve
@@ -5874,10 +5849,10 @@
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala. Prehajamo na glasovanje o sklepu, s katerim sprejemamo predlog za
                            izdajo zakona.</p>
-                        <p>Ugotovimo prisotnost!  Ali je to res? No, saj bo. Dajmo
-                           ponovno ugotoviti prisotnost. Prosim, da vsi pritisnemo. Smo?  Glasujemo torej o sklepu, s katerim sprejemamo predlog za
+                        <p>Ugotovimo prisotnost! Ali je to res? No, saj bo. Dajmo
+                           ponovno ugotoviti prisotnost. Prosim, da vsi pritisnemo. Smo? Glasujemo torej o sklepu, s katerim sprejemamo predlog za
                            izdajo zakona o evidencah s področja javne varnosti.</p>
-                        <p>Kdo je za tak sklep?  Je kdo proti?  Se je
+                        <p>Kdo je za tak sklep? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlagani sklep z večino glasov sprejet.</p>
                      </sp>
@@ -5899,7 +5874,7 @@
                         <speaker>BOGO BRVAR:</speaker>
                         <p>Hvala. Gre za kratek zakon, ki v bistvu samo ureja dejansko stanje. Več
                            ali manj se že povsod uporablja pojem policija. V preteklosti je imel ta
-                           pojem zelo negativen prizvok.  Glede na to, da je ta pojem zgodovinsko
+                           pojem zelo negativen prizvok. Glede na to, da je ta pojem zgodovinsko
                            bistveno bolj utemeljen kot katerikoli pojem za tovrstne represivne
                            organe, predlagamo, da se pojem miličnik preimenuje v policist in milica
                            v policija. S tem zakonom spreminjamo vse te pojme v zakonu o notranjih
@@ -5914,12 +5889,12 @@
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. Tako je zdaj, obravnavali sta ta predlog zakona Komisija za
                            notranjo politiko in Zakonodajno-pravna komisija. Dobili smo pisna
-                           poročila. Želi besedo kdo od poročevalcev teh dveh komisij?  Potem
-                           odpiram razpravo. Želi kdo razpravljati?  V tem primeru prehajamo
+                           poročila. Želi besedo kdo od poročevalcev teh dveh komisij? Potem
+                           odpiram razpravo. Želi kdo razpravljati? V tem primeru prehajamo
                            na glasovanje o predlogu za izdajo zakona o spremembi zakona o notranjih
                            zadevah s predlogom zakona.</p>
                         <p>Ugotovimo prisotnost! </p>
-                        <p>Kdo je za?  Je kdo proti?  Se je kdo vzdržal?
+                        <p>Kdo je za? Je kdo proti? Se je kdo vzdržal?
                            </p>
                         <p>Ugotavljam, da je predlog za izdajo s predlogom z večino glasov
                            sprejet.</p>
@@ -5956,15 +5931,15 @@
                            mnenja ustreznih delovnih teles skupščine in pisne pripombe iz razprave
                            poslancev na seji zbora."</p>
                         <p>Teh v razpravi seveda ni bilo, tako da ta del sklepa lahko mirno črtamo.
-                           Želi o predlaganem sklepu kdo razpravljati?  Sklep je namreč oblikovan
+                           Želi o predlaganem sklepu kdo razpravljati? Sklep je namreč oblikovan
                            glede na točko dnevnega reda, kakršno smo pač uvrstili na dnevni red.
                            Nihče ne želi razpravljati. Tak predlog sklepa dajem na glasovanje.</p>
-                        <p>Ugotovimo najprej prisotnost!  Ali je kdo pozabil
+                        <p>Ugotovimo najprej prisotnost! Ali je kdo pozabil
                            pritisniti? Prosim, dajmo še enkrat prosim, da vsi registriramo
-                           prisotnost. Dobro, smo.  Še manj. No, prosim, še enkrat.
+                           prisotnost. Dobro, smo. Še manj. No, prosim, še enkrat.
                            Zdaj smo vsi? Gospod Jamnik, ste registrirali prisotnost ? Dobro, zdaj pa
                            smo. </p>
-                        <p>Kdo je za predlagani sklep?  Je kdo proti? 
+                        <p>Kdo je za predlagani sklep? Je kdo proti? 
                            Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlagani sklep z večino glasov sprejet.</p>
                      </sp>
@@ -6005,8 +5980,8 @@
                         <speaker>BORUT RAZDEVŠEK:</speaker>
                         <p>Mi smo se o tem predlogu za izdajo zakona pogovarjali tudi na
                            kreditno-monetarnem odboru in tam smo prišli do tega, da v bistvu, mnenje
-                           Izvršnega sveta je bilo tako,</p>
-                        <p>da ni ustavne podlage oziroma zakonske podlage za predlog, ki smo ga pač
+                           Izvršnega sveta je bilo tako,
+                           da ni ustavne podlage oziroma zakonske podlage za predlog, ki smo ga pač
                            izdelali. Tako da takrat smo pač zahtevali tolmačenje Zakonodajno-pravne
                            komisije in moram v tem trenutku povedati, da ne vem, kako se je odločila
                            Zakonodajno-pravna komisija. Ali je ta zakon sploh...</p>
@@ -6080,7 +6055,7 @@
                            bila praktično neobvladljiva in je ne bi mogli reševati.</p>
                         <p>In čisto na koncu bi omenil še mnenje, ki tudi ni bilo osamljeno. Namreč
                            sprevržimo to diskusijo na diskusijo o tečajni politiki, o tržnem tečaju
-                           in o tistem ekonomskem instrumentu, ki trajno  lahko zagotavlja ekonomsko
+                           in o tistem ekonomskem instrumentu, ki trajno lahko zagotavlja ekonomsko
                            motivacijo izvoznikom, ne za obdobje, kot veste nekaj tednov, ko smo
                            pričeli uvajati samostojni ekonomski sistem in da je odločno prehitro, da
                            bi po dveh ali treh mesecih funkcioniranja mehanizmov ekonomskega sistema
@@ -6118,7 +6093,7 @@
                            možno določen popravek tega odloka z - mi smo pač predlagali proračunska
                            sredstva, možno je, da se tudi na kakšen drug način ta sredstva
                            najdejo.</p>
-                        <p>Problem je ta, da je res ta problem,  da se ne ve, kdo je ta sredstva
+                        <p>Problem je ta, da je res ta problem, da se ne ve, kdo je ta sredstva
                            porabil oziroma ta razlika, ker tukaj je šlo in za, ko je šlo teh 30%, je
                            bilo nekaj za fiksne in garantirane obveznosti, ki jih je pač država
                            Slovenija morala plačevati, nekaj je bilo za uvoz verjetno naftnih
@@ -6134,7 +6109,7 @@
                            se, recimo, zavedajo in kljub temu pač, ker je naša gospodarska politika
                            za leto 1992 naravnana tako, da naj bi večji del prihodka ustvarili
                            izvozniki, se pač trudijo, da ta izvoz teče naprej. Včasih se je dogajalo
-                           tako, da se je kompenzirala izguba - na izvozni strani  se je
+                           tako, da se je kompenzirala izguba - na izvozni strani se je
                            kompenzirala s prodajo na domačem trgu, sedaj pač, ko je jugoslovanski
                            trg oziroma država razpadla, je ta trg Slovenije tako majhen, da se to ne
                            da in to je tudi prav, da se to ne da in tukaj potem nastane problem te
@@ -6152,17 +6127,17 @@
                            povedal, da je problem v tečaju in da je problem v eni dolgoročni
                            usmeritvi pač našega oziroma problem je v tem, kako bomo mi ta naš
                            devizni oziroma tečaj tolarja nekako izračunavali in ga tudi približevali
-                           ponudbi  in povpraševanju na trgu. Hvala lepa.</p>
+                           ponudbi in povpraševanju na trgu. Hvala lepa.</p>
                      </sp>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
-                        <p>Hvala lepa. Želi še kdo razpravljati?  Potem razpravo
+                        <p>Hvala lepa. Želi še kdo razpravljati? Potem razpravo
                            zaključujem. Zdaj je takole - kot vidite mnenje Izvršnega sveta glede
                            tega predloga za izdajo zakona je negativno, mnenje matičnega odbora je
                            negativno, tako da bom dal na glasovanje sicer sklep, da se predlog za
                            izdajo zakona o nadomestilu izpada prihodkov izvoznikom sprejme.</p>
                         <p>Vendar pa, kot rečeno, stališča so v nasprotju s takim sklepom. Pač se je
-                           vsak sam odločil. Zdaj moramo najprej zagotoviti sklepčnost.  Malce še počakajmo, sem vklopil to pozivanje, bomo videli, če
+                           vsak sam odločil. Zdaj moramo najprej zagotoviti sklepčnost. Malce še počakajmo, sem vklopil to pozivanje, bomo videli, če
                            se bo kdo temu odzval. Tole bi še rad povedal. Zdajle nam gredo stvari
                            tako naprej, da bi načeloma lahko tudi danes stvari dokončali.</p>
                         <p>Je pa še nekaj. Ob 18.00 uri je predvidena skupna seja. Tako je sklenil
@@ -6182,12 +6157,12 @@
                         <p>Številčno stanje - meni se v našem zboru najbolje zdi to, da smo si tako
                            domači, da ni nobenemu čisto nič nerodno, če ga čakamo. Čakamo vsaj še
                            enega. Poglejmo prisotnost, ne vem, če sem morda kaj spregledal. Prosim,
-                           da vsi pritisnemo.  Dobro.</p>
+                           da vsi pritisnemo. Dobro.</p>
                         <p>Potem lahko glasujemo o predlogu sklepa. To je kot rečeno - glasujemo kar
                            o klasičnem sklepu: Predlog za izdajo zakona o nadomestilu izpada
                            prihodkov izvoznikom se sprejme. Namreč s tem da, kot rečeno, so mnenja
                            nasprotna temu sklepu.</p>
-                        <p>Kdo je za tak sklep?  Je kdo proti?  Se je
+                        <p>Kdo je za tak sklep? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da je tak predlog sklepa sprejet.</p>
                         <p>Glede na nasprotna mnenja, zato seveda moramo sprejeti še ostali del
@@ -6198,7 +6173,7 @@
                            pripombe. Posebnih pripomb v razpravi ni bilo.</p>
                         <p>Torej glasujemo še o tem delu sklepa, nisem ga prej prebral, zato da ne
                            bi bilo kaj nejasnega.</p>
-                        <p>Kdo je tudi za ta del sklepa?  Je kdo proti?  Se je kdo vzdržal? </p>
+                        <p>Kdo je tudi za ta del sklepa? Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je tudi ta del sklepa z večino glasov sprejet, tako da
                            lahko ugotovim, da smo predlog za izdajo tega zakona sprejeli.</p>
                      </sp>
@@ -6207,25 +6182,8 @@
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
                         <p>Ker smo 15. točko dnevnega reda že obravnavali, prehajamo na <title>16.
                               TOČKO DNEVNEGA REDA</title>, v okviru katere imamo dve podtočki. Pod
-                        </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.27"
-                       ana="#PAR.TDR"
-                       n="16a"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.22a">
-                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
-                        <p>
                            <title>a) PREDLOG RESOLUCIJE O KULTURI</title>, katere predlagatelj je
-                           Odbor Skupščine za kulturo in varstvo kulturne dediščine ter pod </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.28"
-                       ana="#PAR.TDR"
-                       n="16b"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.22b">
-                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
-                        <p>
+                           Odbor Skupščine za kulturo in varstvo kulturne dediščine ter pod 
                            <title>b)NEKAJ IZHODIŠČ ZA KULTURNI RAZVOJ</title>, ki jih je v obravnavo
                            predložil Izvršni svet Skupščine Republike Slovenije.</p>
                         <p>Želi besedo predstavnik odbora? Ga ni. Želi besedo predstavnik Izvršnega
@@ -6436,7 +6394,7 @@
                            Najprej bi rad povedal, da smo na našem odboru še kar uspešno delovali,
                            da je bilo v tem odboru več kot leto dni čutiti neko nelagodje zaradi
                            vtisa ali pritiska nekega spora med dvema predstavnikoma slovenske
-                           kulture, med  predsednikom odbora mag. Šeligom in ministrom dr. Capudrom.
+                           kulture, med predsednikom odbora mag. Šeligom in ministrom dr. Capudrom.
                            In ta spor se tudi kaže nekako v načinu, kako sta dva dokumenta o kulturi
                            prišla v skupščino. Kar me kot psolanca prizadene je tista strahovita
                            kampanija, ki je bila več kot leto dni vodena proti ministru Capudru in
@@ -6484,8 +6442,8 @@
                         <p>Torej, menim da nekateri smo ta izhodišča podprli, ker se nam je zdelo,
                            da prinašajo nekaj novega, nekaj sodobnega, morda ne tako praktičnega kot
                            Resolucija, vendar so pa to zelo dobra izhodišča. In tudi tisto, kar je
-                           bilo najbolj napadeno, češ</p>
-                        <p>da so nekako ideološko pogojevana. Mislim, da je ravno to prav, da je
+                           bilo najbolj napadeno, češ
+                           da so nekako ideološko pogojevana. Mislim, da je ravno to prav, da je
                            notri, tako kot je bilo prav, da je predsednik skupščine v svojem prvem
                            govoru rekel, da je sedaj konec z državljansko vojno, kot je bilo prav ,
                            da je bila proglašena sprava, tako je prav, da tudi v kulturi se reče
@@ -6760,7 +6718,7 @@
                         <p>Ker preje ni bil nihče več prijavljen k razpravi, želi zdaj še kdo
                            razpravljati, tudi v zvezi s tem predlogom sklepa? Če ne bi dal tak
                            predlog sklepa na glasovanje. Poglejmo najprej prisotnost: </p>
-                        <p>Kdo je za predlagani sklep?  Je kdo proti?  Se je
+                        <p>Kdo je za predlagani sklep? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlagani sklep z večino glasov sprejet.</p>
                      </sp>
@@ -6777,7 +6735,7 @@
                         <p>Želi predstavnik sveta besedo, če je prisoten. </p>
                         <p>Sklep Sveta Univerze v Mariboru ter mnenje Izvršnega sveta, ki predlaga
                            skupščini, da sprejme odlok o soglasju k navedenemu sklepu, ste prejeli.
-                           Želi morda besedo predstavnik vlade?  Dobro. Začenjam razpravo. Kdo
+                           Želi morda besedo predstavnik vlade? Dobro. Začenjam razpravo. Kdo
                            želi razpravljati? Prosim, gospod Jamnikar.</p>
                      </sp>
                      <sp who="sp:JamnikarPeter1959" corresp="#DZ-1992-ZbObc-32.sp.JamnikarPeter">
@@ -6790,15 +6748,15 @@
                      </sp>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1992-ZbObc-32.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
-                        <p>Hvala. Želi še kdo razpravljati?  Potem prehajamo - torej dajem
+                        <p>Hvala. Želi še kdo razpravljati? Potem prehajamo - torej dajem
                            na glasovanje predlog odloka o soglasju k spremembi in dopolnitvi Statuta
                            Univerze v Mariboru. Predlog odloka ste prejeli. Je pa povsem preprost:
                            Skupščina Republike Slovenije daje soglasje k spremembi in dopolnitvi
                            Statuta Univerze v Mariboru, sprejeti na seji Univerzitetnega sveta dne
                            15.11.1991.</p>
                         <p>Ugotovimo prisotnost! </p>
-                        <p>Kdo je za predlog odloka?  Je kdo proti?  Se je
-                           kdo vzdržal?  Formalno nihče. Dobro.</p>
+                        <p>Kdo je za predlog odloka? Je kdo proti? Se je
+                           kdo vzdržal? Formalno nihče. Dobro.</p>
                         <p>Ugotavljam, da je predlog odloka soglasno sprejet.</p>
                      </sp>
                   </div>
@@ -7100,7 +7058,7 @@
                      </sp>
                      <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-ZbObc-32.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
-                        <p>replika - Me veseli, da ste to sprožil, vendar moram pripomniti, da je
+                        <p>Replika - Me veseli, da ste to sprožil, vendar moram pripomniti, da je
                            Ministrstvu za turizem v tem proračunu namenjeno samo 5 milijonov
                            tolarjev. In s tem denarjem bo minister za turizem pokril komaj plače za
                            te uslužbence. In jaz upam, da bodo uspeli kljub temu kaj narediti.
@@ -7262,11 +7220,11 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Hvala. Želi kdo razpravljati?  Potem zaključujem razpravo in
+                        <p>Hvala. Želi kdo razpravljati? Potem zaključujem razpravo in
                            dajem na glasovanje predlog komisije za razširitev dnevnega reda 32. seje
                            s predlogom izjave Skupščine Republike Slovenije o priznanju Republike
                            Makedonije.</p>
-                        <p>Kdo je za?  Je kdo proti?  Se je kdo vzdržal?
+                        <p>Kdo je za? Je kdo proti? Se je kdo vzdržal?
                            </p>
                         <p>Ugotavljam, da je predlog Komisije za mednarodne odnose za razširitev
                            dnevnega reda seje soglasno sprejet.</p>
@@ -7283,7 +7241,7 @@
                            Zaključujem razpravo in dajem na glasovanje predlog za razširitev
                            dnevnega reda tudi s to točko dogovor o metodah in načinu dela delovnih
                            teles in zborov Skupščine Republike Slovenije.</p>
-                        <p>Kdo je za?  Je kdo proti?  Se je kdo
+                        <p>Kdo je za? Je kdo proti? Se je kdo
                            vzdržal? </p>
                         <p>Ugotavljam, da je tudi ta razširitev soglasno sprejeta.</p>
                         <p>Kot sem že omenil, smo po zadnjem zasedanju 32. seje dne 22.1.1992 ostali
@@ -7299,8 +7257,8 @@
                            predlogov: gospod Jug, gospod Feltrin, gospod Pavšič, gospod Štefančič,
                            gospod Kuhar. Ali želi kdo predlagati kakšne spremembe? Če ne, dajem ta
                            predlog na glasovanje.</p>
-                        <p>Kdo je za tako sestavljeno komisijo, naj dvigne list?  Je kdo
-                           proti?  Se je kdo vzdržal? </p>
+                        <p>Kdo je za tako sestavljeno komisijo, naj dvigne list? Je kdo
+                           proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je soglasno izbrana skupna komisija, v katero naš zbor
                            predlaga gospode Juga, Feltrina, Štefančiča, Pavšiča, Kuharja.</p>
                         <p>Z obvestilom o nadaljevanju 32. seje zbora ste bili tudi obveščeni, da bo
@@ -7308,8 +7266,8 @@
                         <p>- o predlogu odloka o stopnjah prispevkov za obvezno zdravstveno
                            zavarovanje</p>
                         <p>- o interpelaciji za obravnavo vprašanja sprejetja rebalansa proračuna
-                           Republike Slovenije za leto 1991,</p>
-                        <p>glede katerih smo opravili razpravo, odločanje pa odložili in zahtevali
+                           Republike Slovenije za leto 1991,
+                           glede katerih smo opravili razpravo, odločanje pa odložili in zahtevali
                            nekatera dodatna pojasnila in stališča.</p>
                         <p>Prav tako naj bi nadaljevali z usklajevanjem predloga zakona o lekarniški
                            dejavnosti. Skupna komisija za pripravo sporazumnega predloga se je
@@ -7332,8 +7290,7 @@
                            predlog zakona o zadrugah v tistih členih, kjer smo ostali neusklajeni. V
                            kolikor bo to usklajeno, predlagam, da naš zbor še tekom današnje seje
                            razpravlja in sprejme amandma, kakršen bo predlagan v zvezi s tem
-                           zakonom;</p>
-                        <p>drugič, da sprejmemo sklep, da se potem na skupnem zasedanju najprej
+                           zakonom; drugič, da sprejmemo sklep, da se potem na skupnem zasedanju najprej
                            konča 10. seja in šele nato nadaljuje 11. seja, po vrstnem redu. To pa je
                            tudi zaradi tega, da bi se potem tudi na 11. seji sprejel zakon o
                            pokojninskem in invalidskem zavarovanju. Hvala.</p>
@@ -7373,35 +7330,19 @@
                            bo do njega prišlo. Se gospod Protner strinjate? Vaš predlog pride potem
                            na vrsto, ko je tu že vladni predlog. Hvala. Se vsi strinjamo potem s tem
                            predlogom dveh sklepov, ki sem jih že predlagal?</p>
-                        <p>Kdo je za?  Je kdo proti?  Se je kdo
+                        <p>Kdo je za? Je kdo proti? Se je kdo
                            vzdržal? </p>
                         <p>Ugotavljam, da sta z večino glasov oba sklepa sprejeta.</p>
                      </sp>
                   </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.33" ana="#PAR.TDR" n="5">
+                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.33" ana="#PAR.TDR" n="5"
+                     corresp="#DZ-1992-ZbObc-32.toc.2.27">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA</title> v okviru katere imamo
-                           dva predloga zakona in sicer: </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.34"
-                       ana="#PAR.TDR"
-                       n="5a"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.27a">
-                     <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
-                        <p>
+                           dva predloga zakona in sicer: 
                            <title>PREDLOG ZAKONA O ZAMUDNI OBRESTNI MERI</title>; predlagatelj je
                            skupina poslancev Liberalne stranke; v našem zboru je to gospod Vitomir
-                           Gros, in </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1992-ZbObc-32.div.1.1.2.35"
-                       ana="#PAR.TDR"
-                       n="5b"
-                       corresp="#DZ-1992-ZbObc-32.toc.2.27b">
-                     <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
-                        <p>
-                           <title>PREDLOG ZAKONA O OBRESTNI MERI ZAMUDNIH OBRESTI</title>;
+                           Gros, in <title>PREDLOG ZAKONA O OBRESTNI MERI ZAMUDNIH OBRESTI</title>;
                            predlagatelj je Vlada Republike Slovenije. Ob tem naj vas opozorim, da je
                            zbor po usklajevanju dnevnega reda 32. seje zbora, dne 16. januarja 1992,
                            sklenil oba predloga zakonov uvrstiti v dnevni red te seje.</p>
@@ -7422,7 +7363,7 @@
                            kreditno-monetarni sistem in politiko ste prejeli.</p>
                         <p>Glede na do sedaj opravljeno in zaključeno razpravo o predlogu zakona,
                            predlagam, da ne odpiramo ponovno splošne razprave, pač pa da se omejimo
-                           na amandmaje, o katerih moramo odločati. Želi kdo besedo?  Potem
+                           na amandmaje, o katerih moramo odločati. Želi kdo besedo? Potem
                            lahko zaključimo ta uvodni del in prehajamo na glasovanje, glasovanje o
                            amandmajih po predlogu. Prosim, da poiščemo pregled teh amandmajev.</p>
                         <p>Prosim, gospod predsednik Odbora za kreditno-monetarni sistem in
@@ -7590,7 +7531,7 @@
                         <p>Predlagatelj je Odbor za proračun in javne finance. Matični odbor ta
                            amandma podpira. Izvršni svet ga podpira. Zakonodajno-pravna komisija se
                            o njem ni opredeljevala.</p>
-                        <p>Kdo je za ta predlog amandmaja?  Je kdo proti?
+                        <p>Kdo je za ta predlog amandmaja? Je kdo proti?
                             Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je ta amandma sprejet.</p>
                         <p>K 2. členu. a) Ta člen se spremeni, tako da se glasi: "Zamudne obresti se
@@ -7619,7 +7560,7 @@
                         <p>"Obrestna mera zamudnih obresti za obligacijska razmerja se določi v
                            višini revalorizacije in 8% letne realne obrestne mere, za davke,
                            prispevke, carine in druge uvozne davščine pa v višini revalorizacije in
-                           30%  realne letne obrestne mere. Revalorizacija iz
+                           30% realne letne obrestne mere. Revalorizacija iz
                            prejšnjega odstavka je enaka stopnji rasti cen na drobno v predhodnem
                            mesecu po uradnih statističnih podatkih, preračunanih na letno
                            raven."</p>
@@ -7636,7 +7577,7 @@
                            našem zboru gospod Gros, v ostalih zborih pa Zvone Žagar in Jože
                            Arzenšek. Izvršni svet ta amandma podpira, prav tako Zakonodajno-pravna
                            komisija.</p>
-                        <p>Kdo je za ta predlog amandmaja?  Je kdo proti?
+                        <p>Kdo je za ta predlog amandmaja? Je kdo proti?
                             Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je amandma z večino glasov sprejet.</p>
                         <p>K drugem odstavku. Doda se novi drugi odstavek, ki se glasi:</p>
@@ -7674,7 +7615,7 @@
                            realni letni zamudni obrestni meri 30%."</p>
                         <p>Predlagatelj je Odbor za kreditno-monetarni sistem in politiko, Izvršni
                            svet podpira, Zakonodajno-pravna komisija podpira.</p>
-                        <p>Kdo je za ta predlog?  Je kdo proti?  Se je
+                        <p>Kdo je za ta predlog? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da je z večino glasov dopolnilo sprejeto.</p>
                         <p>K tretjemu odstavku istega člena: doda se nov tretji odstavek, ki se
@@ -7695,7 +7636,7 @@
                            "poseben". Predlagatelj je odbor za proračun in javne finance; matični
                            odbor podpira, Izvršni svet podpira, Zakonodajno-pravna komisija
                            podpira.</p>
-                        <p>Kdo je za ta predlog dopolnila?  Je kdo proti?
+                        <p>Kdo je za ta predlog dopolnila? Je kdo proti?
                             Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je to dopolnilo soglasno sprejeto.</p>
                         <p>K 4. členu; za tretjim členom se doda nov 4. člen, ki se glasi:</p>
@@ -7707,7 +7648,7 @@
                            mera v višini eskontne stopnje Banke Slovenije, povečana za 20%."</p>
                         <p>Predlagatelj je dr. Ivan Vivod. Matični odbor ne podpira, Izvršni svet ne
                            podpira, Zakonodajno-pravna komisija ne podpira.</p>
-                        <p>Kdo je za ta predlog besedila?  Je kdo proti?  Se je
+                        <p>Kdo je za ta predlog besedila? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da dopolnilo ni dobilo potrebne podpore.</p>
                         <p>Pod točko 2 istega člena: ta člen se spremeni, tako da se glasi:</p>
@@ -7716,7 +7657,7 @@
                         <p>Predlagatelj je Odbor za proračun in javne finance. Matični odbor ne
                            podpira tega dopolnila, prav tako tudi ne Izvršni svet in
                            Zakonodajno-pravna komisija.</p>
-                        <p>Kdo je za predlog takega dopolnila?  Je kdo proti? 
+                        <p>Kdo je za predlog takega dopolnila? Je kdo proti? 
                            Seje kdo vzdržal? </p>
                         <p>Ugotavljam, da dopolnilo ni dobilo potrebne podpore.</p>
                         <p>Pod točko 3: doda se nov 4.a člen, ki se glasi:</p>
@@ -7736,7 +7677,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Kdo je za ta predlog dopolnila?  Je kdo proti?  Se je kdo vzdržal? </p>
+                        <p>Kdo je za ta predlog dopolnila? Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je dopolnilo sprejeto z večino glasov.</p>
                         <p>Pod točko 4: doda se nov 4.b člen,ki se glasi:</p>
                         <p>"Revalorizacija se v smislu priznavanja stroškov ne šteje za zamudne
@@ -7800,7 +7741,7 @@
                         <p>K 6.členu. V prvi vrstici tega člena se črta za besedo "zakon", besedica
                            "se", za besedo "preneha" se črta beseda "uporabljati" in nadomesti z
                            besedo "veljati". Doda se nov drugi odstavek, ki se glasi. Naj ga
-                           preberem?  Predlagatelj je Odbor za proračun in javne finance.
+                           preberem? Predlagatelj je Odbor za proračun in javne finance.
                            Matični odbor podpira ta dopolnila, Izvršni svet podpira,
                            Zakonodajno-pravna komisija podpira.</p>
                         <p>Kdo je za? Hvala, večina.</p>
@@ -7838,7 +7779,7 @@
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Dobro. Hvala. Gospod Gros podpira tudi ta predlog zakona.</p>
-                        <p>Kdo je za?  Je kdo proti?  Se je kdo
+                        <p>Kdo je za? Je kdo proti? Se je kdo
                            vzdržal? </p>
                         <p>Ugotavljam, da z večino glasov...</p>
                      </sp>
@@ -7869,7 +7810,7 @@
                            mi o vladnem zakonu odločali in ga sprejeli. In da se o tem zakonu ne
                            odločamo in da ga odložimo. Jaz sem dolžan tak predlog dati na
                            glasovanje.</p>
-                        <p>Kdo je za?  Je kdo proti?  Se je kdo vzdržal?
+                        <p>Kdo je za? Je kdo proti? Se je kdo vzdržal?
                            </p>
                         <p>Ugotavljam, da je z večino glasov sprejet predlog gospoda Grosa. In sicer
                            se je zbor odločil, da odločanje o tem zakonskem predlogu odloži.</p>
@@ -7899,7 +7840,7 @@
                         <p>Predlog za izdajo zakona o spremembah in dopolnitvah zakona o deviznem
                            poslovanju ste prejeli. Obravnavala sta ga Zakonodajno-pravna komisija in
                            Odbor za splošno-gospodarske zadeve, ki sta pisno poročala. Želijo
-                           poročevalci besedo?  Pričenjam razpravo. Kdo želi besedo? Ker ne
+                           poročevalci besedo? Pričenjam razpravo. Kdo želi besedo? Ker ne
                            želi nihče več razpravljati, zaključujem razpravo in predlagam zboru, da
                            sprejme naslednji sklep:</p>
                         <p>"1. Predlog za izdajo zakona o spremembah in dopolnitvah zakona o
@@ -7910,7 +7851,7 @@
                            upošteva pripombe, predloge in mnenja delovnih teles skupščine, ki so
                            bile pisno predložene. Ali želi o predlaganem sklepu kdo razpravljati? Če
                            ne želi nihče, dajem predlagani sklep na glasovanje.</p>
-                        <p>Kdo je za tak predlog sklepa?  Je kdo proti?  Se
+                        <p>Kdo je za tak predlog sklepa? Je kdo proti? Se
                            je kdo vzdržal? </p>
                         <p>Ugotavljam, da je sklep sprejet z večino glasov.</p>
                      </sp>
@@ -7924,13 +7865,13 @@
                               REPUBLIKE SLOVENIJE O PRIZNANJU REPUBLIKE MAKEDONIJE</title>.</p>
                         <p>Predlog izjave je predložila Komisija Skupščine Republike Slovenije za
                            mednarodne odnose in predlaga zborom skupščine, da jo sprejmejo. Ali želi
-                           poročevalec predstavnik komisije besedo?  Predlog izjave je
+                           poročevalec predstavnik komisije besedo? Predlog izjave je
                            obravnavala Vlada Republike Slovenije in predlaga zborom Skupščine
                            Republike Slovenije, da jo sprejmejo.</p>
-                        <p>Pričenjam razpravo. Kdo želi besedo?  Zaključujem razpravo in
+                        <p>Pričenjam razpravo. Kdo želi besedo? Zaključujem razpravo in
                            dajem na glasovanje predlog izjave Skupščine Republike Slovenije o
                            priznanju Republike Makedonije.</p>
-                        <p>Kdo je za predlog izjave?  Je kdo proti?  Se
+                        <p>Kdo je za predlog izjave? Je kdo proti? Se
                            je kdo vzdržal? </p>
                         <p>Ugotavljam, da je zbor predlog izjave soglasno sprejel.</p>
                         <p>Ta točka je zaključena.</p>
@@ -8205,8 +8146,8 @@
                            udara na nivoju predsednikov delovnih teles, torej na neformalni ravni.
                            En teden prej je gospod predsednik Bučar poskušal narediti skupščinski
                            udar na nivoju sestanka predstavnikov strank. Ko mu to ni uspelo, je
-                           sklical ta sestanek,</p>
-                        <p>in ko mu to ni uspelo, so prišli s tem predlogom v skupščino. In to je
+                           sklical ta sestanek,
+                           in ko mu to ni uspelo, so prišli s tem predlogom v skupščino. In to je
                            sedaj tretji poskus skupščinskega udara v naši skupščini.</p>
                         <p>Jaz menim, da pred volitvami ne moremo nič spreminjati in to naj spremeni
                            novo izvoljena skupščine in zadeve bodo uredile volitve in takrat naj
@@ -8405,7 +8346,7 @@
                      </sp>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
-                        <p>Gospod Feltrin ali želite repliko?  Gospod Starman ima repliko.</p>
+                        <p>Gospod Feltrin ali želite repliko? Gospod Starman ima repliko.</p>
                      </sp>
                      <sp who="sp:StarmanDanijel1940"
                          corresp="#DZ-1992-ZbObc-32.sp.StarmanDanijel">
@@ -8884,7 +8825,7 @@
                      </sp>
                      <sp who="sp:GrosVitomir1942" corresp="#DZ-1992-ZbObc-32.sp.GrosVitomir">
                         <speaker>VITOMIR GROS:</speaker>
-                        <p> Nimam nič proti temu, imam pa proti temu, da bi se sprejelo
+                        <p>Nimam nič proti temu, imam pa proti temu, da bi se sprejelo
                            stališče komisije za Poslovnik. V tisti solati notri ne morem točno
                            precizirati, ali bi se poslovnika na osnovi tistega papirja kaj spremenil
                            ali ne. Če pa mi generalni predlog sprejmemo, da podpiramo stališča
@@ -9124,10 +9065,10 @@
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1992-ZbObc-32.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Kdor je za predlog sklepa, ki ga je dal gospod Gros in ki sem ga tik pred
-                           tem prečital, prosim da dvigne listič.  Je kdo proti?  Se je kdo vzdržal? </p>
+                           tem prečital, prosim da dvigne listič. Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Predlog gospoda Grosa je sprejet z večino glasov.</p>
                         <p>Prosim, da še ugotovimo prisotnost, da ne bi bilo kakšnih kasnejših
-                           sporov.  Hvala.</p>
+                           sporov. Hvala.</p>
                         <p>Sedaj nam ni treba več in tudi ne moremo glasovati, ker je nesmisel, o
                            drugih predlogih, ker je dobil najbolj oddaljeni predlog večino. S tem
                            smo to točko dnevnega reda zaključili.</p>
@@ -9137,7 +9078,7 @@
                            sprejet pri vseh zborih. Gospod Gros vidim, da je tam, Deželak, Rojec,
                            Zakonjšek, Jamnik, Štular. Imam dovolj predlogov. Gospod Gros, Deželak,
                            Rojec, gospa Štularjeva in Jamnik.</p>
-                        <p>Kdo je za?  Je kdo proti?  Se je kdo vzdržal? </p>
+                        <p>Kdo je za? Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je skupina za usklajevanje zakona o obrestni meri z večino
                            glasov sprejeta.</p>
                      </sp>
@@ -9169,22 +9110,22 @@
                            obresti."</p>
                         <p>To sta ta dva predloga sklepov, ki naj bi pravzaprav odpravila, ko bosta
                            izvršena, potrebo po tem, da bi tisti amandma stlačili notri. Ali želi
-                           kdo razpravljati v zvezi s predlogom te delovne skupine?  Potem bi
+                           kdo razpravljati v zvezi s predlogom te delovne skupine? Potem bi
                            prešli na glasovanje.</p>
                         <p>Najprej seveda pogledamo prisotnost. </p>
                         <p>Glasujemo najprej o prvem predlogu, da zbor umakne amandma k 4.
                            členu.</p>
                         <p>Kdo je za predlog skupine, torej za umik tega amandmaja? 
-                           Je kdo proti?  Se je kdo vzdržal? </p>
+                           Je kdo proti? Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da je ta predlog z večino glasov sprejet.</p>
                         <p>Zdaj glasujemo še o predlogu zakona v celoti, vključno s to pravkar
                            narejeno spremembo.</p>
-                        <p>Kdo je za predlog zakona?  Je kdo proti?  Se je
+                        <p>Kdo je za predlog zakona? Je kdo proti? Se je
                            kdo vzdržal? </p>
                         <p>Ugotavljam, da je predlog zakona z večino glasov sprejet.</p>
                         <p>Glasujemo še o prebranih dveh sklepih, ki jih predlaga delovna skupna
                            vsem trem zborom.</p>
-                        <p>Kdo je za predlagane sklepe?  Je kdo proti? 
+                        <p>Kdo je za predlagane sklepe? Je kdo proti? 
                            Se je kdo vzdržal? </p>
                         <p>Ugotavljam, da sta tudi dodatna dva sklepa z večino glasov sprejeta.</p>
                      </sp>

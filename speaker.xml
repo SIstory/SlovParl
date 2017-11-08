@@ -1319,6 +1319,7 @@
                   <forename>Janez</forename>
                </persName>
               <sex value="M"/>
+              <birth when="1950"/>
                <death when="1999-10"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKD" ana="#parl.Skup-11"/>
@@ -1341,6 +1342,7 @@
                   <forename>Franc</forename>
                </persName>
               <sex value="M"/>
+              <birth when="1938"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.LS" ana="#parl.Skup-11"/>
             </person>
@@ -1377,6 +1379,7 @@
                   <forename>Alojz</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1940"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SLS" ana="#parl.Skup-11"/>
@@ -1467,6 +1470,7 @@
                   <forename>Slavko</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1951"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SDSS" ana="#parl.Skup-11"/>
             </person>
@@ -1503,6 +1507,7 @@
                   <forename>Ciril</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1950"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKD" ana="#parl.Skup-11"/>
             </person>
@@ -1544,6 +1549,7 @@
                   <forename>Ivan</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1949"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.LS" ana="#parl.Skup-11"/>
             </person>
@@ -1569,6 +1575,7 @@
                   <forename>Božo</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1940"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.ZKS-SDP" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SDP" ana="#parl.Skup-11"/>
@@ -1579,6 +1586,7 @@
                   <forename>Janez</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1932"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKD" ana="#parl.Skup-11"/>
             </person>
@@ -1674,6 +1682,7 @@
                   <forename>Metka</forename>
                </persName>
                <sex value="F"/>
+               <birth when="1959"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.ZSMS" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.LDS.1990" ana="#parl.Skup-11"/>
@@ -2262,6 +2271,7 @@
                   <forename>Andrej</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1959"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.ZSMS" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.LDS.1990" ana="#parl.Skup-11"/>
@@ -2272,6 +2282,7 @@
                   <forename>Zdenka</forename>
                </persName>
                <sex value="F"/>
+               <birth when="1952"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.ZSMS" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.LDS.1990" ana="#parl.Skup-11"/>
@@ -2315,6 +2326,7 @@
                   <forename>Zvone</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1947"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.LS" ana="#parl.Skup-11"/>
             </person>
@@ -2325,6 +2337,7 @@
                   <forename>Viktor</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1943"/>
                <affiliation ref="#parl.DruzPolZb" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SZS" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SSS" ana="#parl.Skup-11"/>
@@ -2393,6 +2406,7 @@
                   <forename>Janos</forename>
                </persName>
               <sex value="M"/>
+              <birth when="1965"/>
               <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#ns.madz" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.LDS.1990" ana="#parl.Skup-11"/>
@@ -2473,6 +2487,7 @@
                   <forename>Isabella</forename>
                </persName>
               <sex value="F"/>
+              <birth when="1937"/>
               <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#ns.ital" ana="#parl.Skup-11"/>
             </person>
@@ -2700,6 +2715,7 @@
                   <forename>Janez</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1942"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#independet" ana="#parl.Skup-11" notAfter="1992-05"/>
                <affiliation ref="#cl.DEMOS" ana="#parl.Skup-11" notBefore="1992-05"/>
@@ -2741,6 +2757,7 @@
                   <forename>Albin</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1942"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.ZSMS" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.LDS.1990" ana="#parl.Skup-11"/>
@@ -2764,6 +2781,7 @@
                   <forename>Ervin</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1942"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SDSS" ana="#parl.Skup-11"/>
             </person>
@@ -2773,6 +2791,7 @@
                   <forename>Ludvik</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1939"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.ZS" ana="#parl.Skup-11"/>
             </person>
@@ -2783,6 +2802,7 @@
                   <forename>Franc</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1940"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SDZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SDZ-NDS" ana="#parl.Skup-11"/>
@@ -2846,6 +2866,7 @@
                   <forename>Anton</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1954"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SLS" ana="#parl.Skup-11"/>
@@ -2872,6 +2893,7 @@
                   <forename>Franc</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1936"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKD" ana="#parl.Skup-11" notAfter="1992-05"/>
                <affiliation ref="#pp.GOD" ana="#parl.Skup-11" notBefore="1992-05"/>
@@ -2900,7 +2922,9 @@
                   <forename>Avguštin</forename>
                </persName>
                <sex value="M"/>
-               <birth>17. 8. 1938 na Jesenicah</birth>
+               <birth when="1938-08-17">
+                  <placeName>Jesenice</placeName>
+               </birth>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKD" ana="#parl.Skup-11"/>
                <bibl><ref target="http://slovenska-pomlad.si/2?id=3333">http://slovenska-pomlad.si/2?id=3333</ref></bibl>
@@ -2967,6 +2991,7 @@
                   <forename>Franc</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1953"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKD" ana="#parl.Skup-11"/>
             </person>
@@ -3095,6 +3120,7 @@
                   <forename>Niko</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1956"/>
                <occupation>dipl. inž. gozdarstva</occupation>
                <residence>Cerklje ob Krki</residence>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
@@ -3120,6 +3146,7 @@
                   <forename>Janez</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1950"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.ZSMS" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.LDS.1990" ana="#parl.Skup-11"/>
@@ -3188,6 +3215,7 @@
                   <forename>Marko</forename>
                </persName>
               <sex value="M"/>
+              <birth when="1955"/>
               <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SKZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SLS" ana="#parl.Skup-11"/>
@@ -3310,6 +3338,7 @@
                   <forename>Ivan</forename>
                </persName>
                <sex value="M"/>
+               <birth when="1954"/>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
                <affiliation ref="#pp.SZS" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SSS" ana="#parl.Skup-11"/>

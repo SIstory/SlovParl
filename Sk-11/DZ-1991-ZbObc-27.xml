@@ -1049,8 +1049,8 @@
                <castList>
                   <castItem>
                      <roleDesc>Predsedovala sta</roleDesc>: <actor xml:id="DZ-1991-ZbObc-27.sp.BizjakIvan">Ivan
-                        Bizjak</actor>, <role>predsednik</role> in <actor xml:id="DZ-1991-ZbObc-27.sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik zbora</role>
-                  </castItem>
+                        Bizjak</actor>, <role>predsednik</role> in </castItem>
+                  <castItem><actor xml:id="DZ-1991-ZbObc-27.sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik zbora</role></castItem>
                </castList>
                <stage type="time">Seja se je <time from="1991-10-23T10:15:00" xml:id="DZ-1991-ZbObc-27.stage.t.1">začela ob 10.15
                      uri</time>.</stage>
@@ -2836,11 +2836,9 @@
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Hvala lepa. S tem bi šli na odmor, prekinjam torej sejo za 45 minut.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-10-23T12:50:00" xml:id="DZ-1991-ZbObc-27.stage.t.2">prekinjena ob
+                     <stage type="time">(Seja je bila <time to="1991-10-23T12:50:00" xml:id="DZ-1991-ZbObc-27.stage.t.2">prekinjena ob
                            12.50 uri</time> in se je <time from="1991-10-23T13:55:00" xml:id="DZ-1991-ZbObc-27.stage.t.3">nadaljevala ob
                            13.55 uri</time>.)</stage>
-                     </stage>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-27.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Najprej je potrebno, da ugotovimo, ali smo že sklepčni. Poglejmo
@@ -6216,11 +6214,9 @@
                         <p>S tem današnje delo končujemo in prekinjam sejo, ki se bo nadaljevala
                            jutri ob 10.00 uri.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1991-10-23T19:00:00" xml:id="DZ-1991-ZbObc-27.stage.t.4">PREKINJENA OB
+                     <stage type="time">(SEJA JE BILA <time to="1991-10-23T19:00:00" xml:id="DZ-1991-ZbObc-27.stage.t.4">PREKINJENA OB
                            19. URI</time> IN SE JE <time from="1991-10-24T10:20:00" xml:id="DZ-1991-ZbObc-27.stage.t.5">NADALJEVALA 24.
                            OKTOBRA 1991 OB 10.20 URI</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-27.div.1.1.2.7"
                        ana="#PAR.Prisot"
@@ -8325,10 +8321,9 @@
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Hvala lepa. Sedaj odrejam odmor, ki bo trajal do 14.15. ure.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-10-24T13:30:00" xml:id="DZ-1991-ZbObc-27.stage.t.6">prekinjena ob
+                     <stage type="time">(Seja je bila <time to="1991-10-24T13:30:00" xml:id="DZ-1991-ZbObc-27.stage.t.6">prekinjena ob
                            13.30 uri</time> in se je <time from="1991-10-24T14:30:00" xml:id="DZ-1991-ZbObc-27.stage.t.7">nadaljevala ob
-                           14.30 uri</time>)</stage>.</stage>
+                           14.30 uri</time>).</stage>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-27.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane kolegice in kolegi. Dovolite, da nadaljujemo 27. sejo našega
@@ -11195,12 +11190,8 @@
                         <p>Gremo na DODATNE TOČKE NA RAZŠIRITEV DNEVNEGA REDA, imamo torej dve
                            razširitvi. <title>PREDLOG ZA IZDAJO ZAKONA O SPREMEMBAH IN DOPOLNITVAH
                               ZAKONA O DELNEM POVRAČILU ŠKODE, POVZROČENE Z VOJAŠKO AGRESIJO NA
-                              REPUBLIKO SLOVENIJO V LETU 1991, S PREDLOGOM ZAKONA</title> in </p>
-                     </sp>
-                  </div>
-                  <div xml:id="DZ-1991-ZbObc-27.div.1.1.2.19" ana="#PAR.TDR">
-                     <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-27.sp.BizjakIvan">
-                        <p>TOČKO <title>PROBLEMATIKA VOJNIH BEGUNCEV Z OBMOČJA HRVAŠKE</title>.</p>
+                              REPUBLIKO SLOVENIJO V LETU 1991, S PREDLOGOM ZAKONA</title> in 
+                           <title>TOČKO PROBLEMATIKA VOJNIH BEGUNCEV Z OBMOČJA HRVAŠKE</title>.</p>
                         <p>Predlagam, ker je tudi zakon povezan s problematiko beguncev, da opravimo
                            razpravo o teh dveh točkah skupaj. To se pravi hkrati razpravljamo o
                            problematiki beguncev in pa eventualno o zakonu, kolikor pač bo razprave,
@@ -12091,9 +12082,8 @@
                            nadaljevali naslednjo sejo. Lahko pa seveda pisno oddate pripombe, da bi
                            bilo prej v proceduri.</p>
                         <p>Zahvaljujem se vam za potrpežljivost in nasvidenje.</p>
-                        <stage type="time">
-                           <stage type="time">(SEJA JE BILA <time to="1991-10-24T19:45:00" xml:id="DZ-1991-ZbObc-27.stage.t.8">PREKINJENA
-                              OB 19.45. URI</time> IN SE JE <time from="1991-11-21T10:25:00" xml:id="DZ-1991-ZbObc-27.stage.t.9">NADALJEVALA DNE 21. NOVEMBRA 1991 OB 10.25. URI</time>.)</stage>
+                        <stage type="time">(SEJA JE BILA <time to="1991-10-24T19:45:00" xml:id="DZ-1991-ZbObc-27.stage.t.8">PREKINJENA
+                              OB 19.45. URI</time> IN SE JE <time from="1991-11-21T10:25:00" xml:id="DZ-1991-ZbObc-27.stage.t.9">NADALJEVALA DNE 21. NOVEMBRA 1991 OB 10.25. URI</time>.)
                         </stage>
                      </sp>
                   </div>
@@ -13878,11 +13868,9 @@
                         <p>S tem je 27. seja Zbora občin zaključena. Ob 14. uri bi na Tomšičevi
                            nadaljevali 28. sejo zbora. Do takrat je odmor.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1991-11-21T13:05:00" xml:id="DZ-1991-ZbObc-27.stage.t.10">PREKINJENA OB
+                     <stage type="time">(SEJA JE BILA <time to="1991-11-21T13:05:00" xml:id="DZ-1991-ZbObc-27.stage.t.10">PREKINJENA OB
                            13.05 URI</time> IN SE JE <time from="1991-12-11T13:45:00" xml:id="DZ-1991-ZbObc-27.stage.t.11">NADALJEVALA
                            11. DECEMBRA 1991 OB 13.45 URI</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-27.div.1.1.2.27"
                        ana="#PAR.TDR"
@@ -13982,10 +13970,8 @@
                         <p>Ugotavljam, da je predlog Zakona o dopolnitvi zakona o državljanstvu z
                            večino glasov sprejet.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja se je <time to="1991-12-11T13:50:00" xml:id="DZ-1991-ZbObc-27.stage.t.12">končala ob 13.50
+                     <stage type="time">(Seja se je <time to="1991-12-11T13:50:00" xml:id="DZ-1991-ZbObc-27.stage.t.12">končala ob 13.50
                            uri</time>.)</stage>
-                     </stage>
                   </div>
                </div>
             </div>

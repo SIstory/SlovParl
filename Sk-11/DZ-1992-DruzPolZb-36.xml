@@ -606,8 +606,8 @@
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1992-DruzPolZb-36.sp.ToplakLudvik">dr.
-                        Ludvik Toplak</actor>
-                     <role>predsednik Družbenopolitičnega zbora</role> in <actor xml:id="DZ-1992-DruzPolZb-36.sp.PeršakAnton">Anton Peršak</actor>, <role>podpredsednik
+                        Ludvik Toplak</actor> <role>predsednik Družbenopolitičnega zbora</role> in </castItem>
+                  <castItem><actor xml:id="DZ-1992-DruzPolZb-36.sp.PeršakAnton">Anton Peršak</actor>, <role>podpredsednik
                         Družbenopolitičnega zbora</role>
                   </castItem>
                </castList>
@@ -3310,9 +3310,8 @@
                         <p>Ugotavljam, da je izjava soglasno izglasovana.</p>
                      </sp>
                      <stage type="time">(Seja je bila <time to="1992-04-09T11:00:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.4">prekinjena ob 11.00 uri</time> in se je <time from="1992-04-09T11:05:00" xml:id="DZ-1992-DruzPolZb-36.stage.t.5">nadaljevala ob 11.05
-                           uri</time>.) <stage type="comment">(Opomba: Vmes nadaljevanje 35. seje
-                           DPZ.)</stage>
-                     </stage>
+                           uri</time>.)</stage>
+                     <stage type="comment">(Opomba: Vmes nadaljevanje 35. seje DPZ.)</stage>
                   </div>
                   <div xml:id="DZ-1992-DruzPolZb-36.div.1.1.2.6"
                        ana="#PAR.TDR"

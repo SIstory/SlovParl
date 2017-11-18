@@ -373,7 +373,13 @@
                <head>1. seja</head>
                <docDate>(<date when="1990-05-07">7.</date>, <date when="1990-05-08">8.</date> in
                      <date when="1990-05-07">9. maj 1990</date>)</docDate>
-               <timeline origin="#DZ-1990-ZbObc-1.TL.1" unit="s">
+               <timeline origin="#DZ-1990-ZbObc-1.TL.0" unit="s">
+                  <when synch="#DZ-1990-ZbObc-1.stage.t.0" 
+                        xml:id="DZ-1990-ZbObc-1.TL.0" 
+                        absolute="1990-05-07"/>
+                  <when synch="#DZ-1990-ZbObc-1.stage.t.1"
+                        since="#DZ-1990-ZbObc-1.TL.0"
+                        absolute="1990-05-07T14:20:00"/>
                   <when synch="#DZ-1990-ZbObc-1.stage.t.2"
                         xml:id="DZ-1990-ZbObc-1.TL.1"
                         absolute="1990-05-07T14:45:00"/>
@@ -440,10 +446,11 @@
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1990-ZbObc-1.sp.FrankoKarel">Karel
-                        Franko</actor> in <actor xml:id="DZ-1990-ZbObc-1.sp.BizjakIvan">Ivan Bizjak</actor>,
-                        <role>predsednik Zbora občin</role>
+                        Franko</actor> in </castItem>
+                  <castItem><actor xml:id="DZ-1990-ZbObc-1.sp.BizjakIvan">Ivan Bizjak</actor>, <role>predsednik Zbora občin</role>
                   </castItem>
                </castList>
+               <stage type="time"><time from="1990-05-07" xml:id="DZ-1990-ZbObc-1.stage.t.0"/></stage>
                <div xml:id="DZ-1990-ZbObc-1.div.1.1.1" ana="#PAR.PredDnevRed">
                   <div xml:id="DZ-1990-ZbObc-1.div.1.1.1.1"
                        ana="#PAR.Prisot"

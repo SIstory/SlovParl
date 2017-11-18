@@ -679,12 +679,6 @@
                         since="#DZ-1992-ZbObc-38.TL.7"
                         absolute="1992-05-20T17:00:00"
                         interval="12000"/>
-                  <when synch="#DZ-1992-ZbObc-38.stage.t.15"
-                        xml:id="DZ-1992-ZbObc-38.TL.8"
-                        absolute="1992-07-01"/>
-                  <when synch="#DZ-1992-ZbObc-38.stage.t.16"
-                        since="#DZ-1992-ZbObc-38.TL.8"
-                        absolute="1992-07-01"/>
                </timeline>
                <castList>
                   <castItem>
@@ -7690,8 +7684,7 @@
                         <p>Hvala za sodelovanje in na svidenje!</p>
                      </sp>
                      <stage type="time">(Seja je bila <time to="1992-05-20T17:00:00" xml:id="DZ-1992-ZbObc-38.stage.t.14">prekinjena 20. maja 1992 ob 17.00 uri</time> in se je
-                           <time from="1992-07-01" xml:id="DZ-1992-ZbObc-38.stage.t.15">nadaljevala</time> in <time to="1992-07-01" xml:id="DZ-1992-ZbObc-38.stage.t.16">končala 1. julija 1992</time> v
-                        okviru 40. seje zbora.)</stage>
+                        nadaljevala in končala 1. julija 1992 v okviru 40. seje zbora.)</stage>
                   </div>
                </div>
             </div>

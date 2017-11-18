@@ -583,13 +583,22 @@
                   <when synch="#DZ-1991-ZbObc-17.stage.t.3"
                         xml:id="DZ-1991-ZbObc-17.TL.2"
                         absolute="1991-04-17T12:43:00"/>
+                  <when synch="#DZ-1991-ZbObc-17.stage.t.3b" 
+                        since="#DZ-1991-ZbObc-17.TL.2" 
+                        absolute="1991-04-17"/>
                   <when synch="#DZ-1991-ZbObc-17.stage.t.4"
                         xml:id="DZ-1991-ZbObc-17.TL.3"
                         absolute="1991-04-17T17:40:00"/>
+                  <when synch="#DZ-1991-ZbObc-17.stage.t.4b" 
+                        since="#DZ-1991-ZbObc-17.TL.3" 
+                        absolute="1991-04-17"/>
+                  <when synch="#DZ-1991-ZbObc-17.stage.t.5a" 
+                        xml:id="DZ-1991-ZbObc-17.TL.3b" 
+                        absolute="1991-04-17T19:05:00"/>
                   <when synch="#DZ-1991-ZbObc-17.stage.t.5"
-                        since="#DZ-1991-ZbObc-17.TL.3"
+                        since="#DZ-1991-ZbObc-17.TL.3b"
                         absolute="1991-04-17T20:30:00"
-                        interval="10200"/>
+                        interval="5100"/>
                   <when synch="#DZ-1991-ZbObc-17.stage.t.6"
                         xml:id="DZ-1991-ZbObc-17.TL.4"
                         absolute="1991-04-18T13:20:00"/>
@@ -4032,7 +4041,7 @@
                         <p>Poglejmo ponovno prisotnost, ker se vrata pogosto odpirajo. <stage type="quorum">(52 prisotnih.)</stage>
                         </p>
                         <p>Kdo je za predlog stališč, ki ste jih prejeli danes, se pravi stališča
-                           oblikovana na osnovi mnenja Izvršnega sveta?      Ugotavljam, da
+                           oblikovana na osnovi mnenja Izvršnega sveta? Ugotavljam, da
                            je večina za. Je kdo proti? <stage type="vote">(2 sta
                               proti.)</stage> Se je kdo vzdržal? <stage type="vote">(6
                               vzdržanih.)</stage>
@@ -4753,7 +4762,7 @@
                         <p>Ugotavljam, da je predlagani sklep z večino glasov sprejet.</p>
                         <p>Predlagam 15 minutni odmor, pa da je to res 15 minut.</p>
                      </sp>
-                     <stage type="time">(Seja se je <time from="1991-04-17T17:40:00" xml:id="DZ-1991-ZbObc-17.stage.t.4">nadaljevala ob 17.40 uri</time>.)</stage>
+                     <stage type="time">(Seja <time to="1991-04-17" xml:id="DZ-1991-ZbObc-17.stage.t.3b"/> se je <time from="1991-04-17T17:40:00" xml:id="DZ-1991-ZbObc-17.stage.t.4">nadaljevala ob 17.40 uri</time>.)</stage>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-17.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Nadaljujemo  sejo  zbora. Dovolite, da vam najprej predstavim
@@ -5212,7 +5221,7 @@
                         <p>Po tej skupni seji pa se še vrnemo sem, da glasujemo o zakonu o
                            vojaški dolžnosti. Medtem ste tudi dobili pregled amandmajev, tako,
                            da se bo dalo o tem glasovati. Torej, za ta čas prekinjam sejo.</p>
-                        <stage type="time">(Seja je bila prekinjena in se je <time from="1991-04-17T19:05:00">nadaljevala ob 19.05 uri</time>.)</stage>
+                        <stage type="time">(Seja je bila <time to="1991-04-17" xml:id="DZ-1991-ZbObc-17.stage.t.4b">prekinjena</time> in se je <time xml:id="DZ-1991-ZbObc-17.stage.t.5a" from="1991-04-17T19:05:00">nadaljevala ob 19.05 uri</time>.)</stage>
                      </sp>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-17.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>

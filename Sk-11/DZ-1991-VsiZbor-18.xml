@@ -290,9 +290,6 @@
                         since="#DZ-1991-VsiZbor-18.TL.1"
                         absolute="1991-04-24T19:50:00"
                         interval="3420"/>
-                  <when synch="#DZ-1991-VsiZbor-18.stage.t.3"
-                        xml:id="DZ-1991-VsiZbor-18.TL.2"
-                        absolute="1991-04-24T20:30:00"/>
                </timeline>
                <castList>
                   <castItem>
@@ -1209,8 +1206,7 @@
                            obkroži kot običajno ZA ali PROTI kot je na glasovnici napisano. Prosim,
                            delegate, da se po glasovanju vrnejo v dvorano.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time to="1991-04-24T19:50:00" xml:id="DZ-1991-VsiZbor-18.stage.t.2">prekinjena ob 19,50 uri</time> in se je <time from="1991-04-24T20:30:00" xml:id="DZ-1991-VsiZbor-18.stage.t.3">nadaljevala ob 20,30
-                           uri</time>).</stage>
+                     <stage type="time">(Seja je bila <time to="1991-04-24T19:50:00" xml:id="DZ-1991-VsiZbor-18.stage.t.2">prekinjena ob 19,50 uri</time> in se je nadaljevala ob 20,30 uri).</stage>
                   </div>
                </div>
             </div>

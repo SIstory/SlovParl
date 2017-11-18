@@ -1731,9 +1731,8 @@
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1991-DruzPolZb-25.sp.ToplakLudvik">dr.
-                        Ludvik Toplak</actor>, <role>predsednik Družbenopolitičnega zbora</role> in
-                        <role>podpredsednik</role>
-                     <actor xml:id="DZ-1991-DruzPolZb-25.sp.PeršakAnton">Anton Peršak</actor>
+                        Ludvik Toplak</actor>, <role>predsednik Družbenopolitičnega zbora</role> in </castItem>
+                  <castItem><role>podpredsednik</role> <actor xml:id="DZ-1991-DruzPolZb-25.sp.PeršakAnton">Anton Peršak</actor>
                   </castItem>
                </castList>
                <stage type="time"><time from="1991-09-11" xml:id="DZ-1991-DruzPolZb-25.stage.t.1a"/></stage>
@@ -22610,20 +22609,17 @@
                            več potrebno.</p>
                         <p>Nadaljevanje 25. seje bo predvidoma tudi v sredo in četrtek, 9. in 10.
                            oktobra.</p>
-                        <p>Prehajam na nadaljevanje</p>
-                        <p>1. TOČKO DNEVNEGA REDA.</p>
+                        <p>Prehajam na nadaljevanje 1. TOČKO DNEVNEGA REDA.</p>
                         <p>Prosim, gospod Smole.</p>
-                     </sp>
-                     <sp who="sp:SmoleJoze1927" corresp="#DZ-1991-DruzPolZb-25.sp.SmoleJože">
-                        <speaker>JOŽE SMOLE:</speaker>
-                        <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Danes, 3. oktobra,
-                           je dan državnosti Slovenije.</p>
                      </sp>
                   </div>
                   <div xml:id="DZ-1991-DruzPolZb-25.div.1.1.2.70"
                        ana="#PAR.TDR"
                        corresp="#DZ-1991-DruzPolZb-25.toc.2.61">
                      <sp who="sp:SmoleJoze1927" corresp="#DZ-1991-DruzPolZb-25.sp.SmoleJože">
+                        <speaker>JOŽE SMOLE:</speaker>
+                        <p>Spoštovano predsedstvo, spoštovane poslanke in poslanci! Danes, 3. oktobra,
+                           je dan državnosti Slovenije.</p>
                         <p>Menim, da smo dolžni, da opozorimo in <title>obeležimo ta
                            praznik</title>, ki je vezan za pomemben datum v zgodovini Slovenije. Na
                            današnji dan pred 48. leti je bil v Kočevju prvi zbor odposlancev

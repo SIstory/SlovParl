@@ -90,6 +90,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2017-11-18+01:00">
+            <name>Andrej Pančur</name>: kodiranje <list>
+               <item>//stage[@type='time']</item>
+               <item>//p/stage</item>
+               <item>//docDate</item>
+               <item>//timeline</item>
+            </list>
+         </change>
          <change when="2017-01-19+01:00">
             <name>Mojca Šorn</name>: kodiranje <list>
                <item>front/div[@type='contents']//item[@n]/@xml:id</item>
@@ -447,17 +455,97 @@
       <body>
          <div xml:id="DZ-1992-DruzPolZb-44.div.1" ana="#PAR.DruzPolZb">
             <head>DRUŽBENOPOLITIČNI ZBOR</head>
-            <div xml:id="DZ-1992-DruzPolZb-44.div.1.1">
+            <div xml:id="DZ-1992-DruzPolZb-44.div.1.1" ana="#PAR.Seja" n="44">
                <head>44. seja</head>
                <docDate>(<date when="1992-09-09">9.</date>, <date when="1992-09-10">10.</date>,
                      <date when="1992-09-16">16.</date>, <date when="1992-09-23">23.</date>, <date when="1992-09-24">24.</date> in <date when="1992-09-29">29. september</date> in
                      <date when="1992-10-07">7. oktober</date> ter <date when="1992-11-11">11.
                      novembra 1992</date>)</docDate>
+               <timeline origin="#DZ-1992-DruzPolZb-44.TL.1" unit="s">
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.1"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.1"
+                        absolute="1992-09-09T10:17:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.2"
+                        since="#DZ-1992-DruzPolZb-44.TL.1"
+                        absolute="1992-09-09T10:20:00"
+                        interval="180"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.3"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.2"
+                        absolute="1992-09-10T15:30:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.4"
+                        since="#DZ-1992-DruzPolZb-44.TL.2"
+                        absolute="1992-09-10T15:54:00"
+                        interval="1440"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.5"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.3"
+                        absolute="1992-09-16T10:10:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.6"
+                        since="#DZ-1992-DruzPolZb-44.TL.3"
+                        absolute="1992-09-16T10:35:00"
+                        interval="1500"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.7"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.4"
+                        absolute="1992-09-16T12:00:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.8"
+                        since="#DZ-1992-DruzPolZb-44.TL.4"
+                        absolute="1992-09-16T13:30:00"
+                        interval="5400"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.9"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.5"
+                        absolute="1992-09-16T14:35:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.10"
+                        since="#DZ-1992-DruzPolZb-44.TL.5"
+                        absolute="1992-09-16T17:30:00"
+                        interval="10500"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.11"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.6"
+                        absolute="1992-09-23T14:40:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.12"
+                        since="#DZ-1992-DruzPolZb-44.TL.6"
+                        absolute="1992-09-23T15:10:00"
+                        interval="1800"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.13"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.7"
+                        absolute="1992-09-24T15:10:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.14"
+                        since="#DZ-1992-DruzPolZb-44.TL.7"
+                        absolute="1992-09-24T15:45:00"
+                        interval="2100"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.15"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.8"
+                        absolute="1992-09-29T14:00:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.16"
+                        since="#DZ-1992-DruzPolZb-44.TL.8"
+                        absolute="1992-09-29T14:40:00"
+                        interval="2400"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.17"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.9"
+                        absolute="1992-09-29T15:15:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.18"
+                        since="#DZ-1992-DruzPolZb-44.TL.9"
+                        absolute="1992-09-29T16:55:00"
+                        interval="6000"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.19"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.10"
+                        absolute="1992-09-29T16:57:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.20"
+                        since="#DZ-1992-DruzPolZb-44.TL.10"
+                        absolute="1992-09-29T17:30:00"
+                        interval="1980"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.21"
+                        xml:id="DZ-1992-DruzPolZb-44.TL.11"
+                        absolute="1992-10-07T11:15:00"/>
+                  <when synch="#DZ-1992-DruzPolZb-44.stage.t.22"
+                        since="#DZ-1992-DruzPolZb-44.TL.11"
+                        absolute="1992-10-07T11:17:00"
+                        interval="120"/>
+               </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1992-DruzPolZb-44.sp.ToplakLudvik">dr.
-                        Ludvik Toplak</actor>, <role>predsednik</role> in <actor xml:id="DZ-1992-DruzPolZb-44.sp.PeršakAnton">Anton Peršak</actor>,
-                     <role>podpredsednik</role>.</castItem>
+                        Ludvik Toplak</actor>, <role>predsednik</role> in </castItem>
+                  <castItem>
+                     <actor xml:id="DZ-1992-DruzPolZb-44.sp.PeršakAnton">Anton Peršak</actor>, <role>podpredsednik</role>.</castItem>
                </castList>
                <stage type="time">Seja se je <time from="1992-09-09T10:17:00" xml:id="DZ-1992-DruzPolZb-44.stage.t.1">pričela ob 10.17 uri</time>.</stage>
                <div xml:id="DZ-1992-DruzPolZb-44.div.1.1.1" ana="#PAR.PredDnevRed">

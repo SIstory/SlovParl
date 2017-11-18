@@ -14,7 +14,7 @@
     <xsl:param name="path2folder">/Users/administrator/Documents/moje/clarin/SlovParl/</xsl:param>
     
     <!-- vstavi xpath do toc dokumenta za kazalo vsebine (celoten korpus) -->
-    <xsl:param name="toc-document">../toc/ZbZdruDel-Sk-11.xml</xsl:param>
+    <xsl:param name="toc-document">../toc/Sk-11.xml</xsl:param>
     <!-- vstavi povezavo do TEI dokumenta s seznamom govornikoc -->
     <xsl:param name="speaker-document">../speaker.xml</xsl:param>
     
@@ -368,7 +368,7 @@
                         <root>
                             <!-- najprej dodam vsebino, ki je vedno pred prvim div/div/sp -->
                             <div type="preface">
-                                <anchor xml:id="{tei:stage/tei:time[@from]/@xml:id}" n="{substring-before(tei:stage/tei:time/@from,'T')}"/>
+                                <anchor xml:id="{tei:stage/tei:time[@from]/@xml:id}" n="{tokenize(tei:stage/tei:time/@from,'T')[1]}"/>
                                 <u who="{concat('#',$idCommentator)}" type="head"><xsl:value-of select="normalize-space(../tei:head)"/></u>
                                 <u who="{concat('#',$idCommentator)}" type="head"><xsl:value-of select="normalize-space(tei:head)"/></u>
                                 <u who="{concat('#',$idCommentator)}" type="date"><xsl:value-of select="normalize-space(tei:docDate)"/></u>
@@ -730,7 +730,7 @@
                                     <body>
                                         <!-- prečiščim originalni timeline glede na isti datum -->
                                         <xsl:variable name="timeline-when">
-                                            <xsl:for-each select="$timeline//tei:when[substring-before(@absolute,'T') = current-grouping-key()]">
+                                            <xsl:for-each select="$timeline//tei:when[tokenize(@absolute,'T')[1] = current-grouping-key()]">
                                                 <xsl:copy-of select="."/>
                                             </xsl:for-each>
                                         </xsl:variable>
@@ -783,7 +783,7 @@
                     <anchor xml:id="{tei:time[@to]/@xml:id}"/>
                 </xsl:if>
                 <xsl:if test="tei:time/@from">
-                    <anchor xml:id="{tei:time[@from]/@xml:id}" n="{substring-before(tei:time/@from,'T')}"/>
+                    <anchor xml:id="{tei:time[@from]/@xml:id}" n="{tokenize(tei:time/@from,'T')[1]}"/>
                 </xsl:if>
             </xsl:when>
             <xsl:otherwise>
@@ -836,7 +836,7 @@
                     <anchor xml:id="{tei:time[@to]/@xml:id}"/>
                 </xsl:if>
                 <xsl:if test="tei:time/@from">
-                    <anchor xml:id="{tei:time[@from]/@xml:id}" n="{substring-before(tei:time/@from,'T')}"/>
+                    <anchor xml:id="{tei:time[@from]/@xml:id}" n="{tokenize(tei:time/@from,'T')[1]}"/>
                 </xsl:if>
             </xsl:when>
             <xsl:otherwise>

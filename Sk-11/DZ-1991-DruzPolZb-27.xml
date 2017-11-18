@@ -88,6 +88,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2017-11-18+01:00">
+            <name>Andrej Pančur</name>: kodiranje <list>
+               <item>//stage[@type='time']</item>
+               <item>//p/stage</item>
+               <item>//docDate</item>
+               <item>//timeline</item>
+            </list>
+         </change>
          <change when="2017-01-20+01:00">
             <name>Mojca Šorn</name>: kodiranje <list>
                <item>front/div[@type='contents']//item[@n]/@xml:id</item>
@@ -758,7 +766,7 @@
                   <actor xml:id="DZ-1991-DruzPolZb-27.sp.OstercJože">Osterc dr. Jože</actor>
                   .......................................... 10</castItem>
                <castItem>
-                  <actor xml:id="DZ-1991-DruzPolZb-27.sp.PeršakAnton">Peršak Anton</actor> ...... 5, 11, 14, 26, 62, 76,
+                  <actor sameAs="#DZ-1991-DruzPolZb-27.sp.PeršakAnton">Peršak Anton</actor> ...... 5, 11, 14, 26, 62, 76,
                   138, 154, 162, 219</castItem>
                <castItem>
                   <actor xml:id="DZ-1991-DruzPolZb-27.sp.PeterleAlojz">Peterle Alojz</actor>
@@ -871,17 +879,106 @@
       <body>
          <div xml:id="DZ-1991-DruzPolZb-27.div.1" ana="#PAR.DruzPolZb">
             <head>DRUŽBENOPOLITIČNI ZBOR SKUPŠČINE REPUBLIKE SLOVENIJE</head>
-            <div xml:id="DZ-1991-DruzPolZb-27.div.1.1">
+            <div xml:id="DZ-1991-DruzPolZb-27.div.1.1" ana="#PAR.Seja" n="27">
                <head>27. seja</head>
                <docDate>(<date when="1991-10-23">23.</date>, <date when="1991-10-24">24.</date>,
                      <date when="1991-10-30">30.</date> oktober, <date when="1991-11-06">6.</date>,
                      <date when="1991-11-21">21. november</date> in <date when="1991-12-11">11.
                      december 1991</date>)</docDate>
+               <timeline origin="#DZ-1991-DruzPolZb-27.TL.1" unit="s">
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.1"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.1"
+                        absolute="1991-10-23T10:25:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.2"
+                        since="#DZ-1991-DruzPolZb-27.TL.1"
+                        absolute="1991-10-23T13:35:00"
+                        interval="11400"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.3"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.2"
+                        absolute="1991-10-23T14:55:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.4"
+                        since="#DZ-1991-DruzPolZb-27.TL.2"
+                        absolute="1991-10-23T17:37:00"
+                        interval="9720"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.5"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.3"
+                        absolute="1991-10-23T18:20:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.6"
+                        since="#DZ-1991-DruzPolZb-27.TL.3"
+                        absolute="1991-10-23T18:22:00"
+                        interval="120"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.7"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.4"
+                        absolute="1991-10-24T10:30:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.8"
+                        since="#DZ-1991-DruzPolZb-27.TL.4"
+                        absolute="1991-10-24T13:00:00"
+                        interval="9000"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.9"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.5"
+                        absolute="1991-10-24T14:03:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.10"
+                        since="#DZ-1991-DruzPolZb-27.TL.5"
+                        absolute="1991-10-24"
+                        interval="0"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.10b"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.6"
+                        absolute="1991-10-24"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.11"
+                        since="#DZ-1991-DruzPolZb-27.TL.6"
+                        absolute="1991-10-24T18:52:00"
+                        interval="0"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.12"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.7"
+                        absolute="1991-10-30T10:30:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.13"
+                        since="#DZ-1991-DruzPolZb-27.TL.7"
+                        absolute="1991-10-30T15:22:00"
+                        interval="17520"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.14"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.8"
+                        absolute="1991-10-30T15:31:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.15"
+                        since="#DZ-1991-DruzPolZb-27.TL.8"
+                        absolute="1991-10-30T15:45:00"
+                        interval="840"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.16"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.9"
+                        absolute="1991-11-06T10:15:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.17"
+                        since="#DZ-1991-DruzPolZb-27.TL.9"
+                        absolute="1991-11-06T13:03:00"
+                        interval="10080"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.18"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.10"
+                        absolute="1991-11-06T14:25:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.19"
+                        since="#DZ-1991-DruzPolZb-27.TL.10"
+                        absolute="1991-11-06T18:08:00"
+                        interval="13380"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.20"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.11"
+                        absolute="1991-11-21T15:30:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.21"
+                        since="#DZ-1991-DruzPolZb-27.TL.11"
+                        absolute="1991-11-21T16:15:00"
+                        interval="2700"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.22"
+                        xml:id="DZ-1991-DruzPolZb-27.TL.12"
+                        absolute="1991-12-11T17:07:00"/>
+                  <when synch="#DZ-1991-DruzPolZb-27.stage.t.23"
+                        since="#DZ-1991-DruzPolZb-27.TL.12"
+                        absolute="1991-12-11T17:10:00"
+                        interval="180"/>
+               </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
                      <actor xml:id="DZ-1991-DruzPolZb-27.sp.ToplakLudvik">dr. Ludvik Toplak</actor>, <role>predsednik
                         Družbenopolitičnega zbora</role>.</castItem>
+                  <castItem>
+                     <actor xml:id="DZ-1991-DruzPolZb-27.sp.PeršakAnton"/>
+                  </castItem>
                </castList>
                <stage type="time">Seja se je <time from="1991-10-23T10:25:00" xml:id="DZ-1991-DruzPolZb-27.stage.t.1">pričela ob 10.25 uri</time>.</stage>
                <div xml:id="DZ-1991-DruzPolZb-27.div.1.1.1" ana="#PAR.PredDnevRed">
@@ -8992,13 +9089,12 @@
                            tisti, ki ugotovi in danes smo stvar tako ugotovili na podlagi že
                            prehodnih opozoril Zakonodajno-pravne komisije. Toliko glede tega.</p>
                      </sp>
-                     <stage type="time">(Seja je bila <time xml:id="DZ-1991-DruzPolZb-27.stage.t.10">prekinjena</time>,
-                        ker se je vmes odvijala 25. seja zbora.)</stage>
+                     <stage type="time">(Seja je bila <time to="1991-10-24" xml:id="DZ-1991-DruzPolZb-27.stage.t.10">prekinjena</time>,
+                        ker se je vmes odvijala 25. seja zbora<time from="1991-10-24" xml:id="DZ-1991-DruzPolZb-27.stage.t.10b"/>.)</stage>
                   </div>
                   <div xml:id="DZ-1991-DruzPolZb-27.div.1.1.2.16" ana="#PAR.Prisot">
                      <sp who="sp:ToplakLudvik1942"
                          corresp="#DZ-1991-DruzPolZb-27.sp.ToplakLudvik">
-
                         <speaker>PREDSEDNIK DR. LUDVIK TOPLAK:</speaker>
                         <p>Zato se vračam na nadaljevanje. Zopet usklajevanja, prosim še minuto.
                            Uskladiti moramo še glede razširitve dnevnega reda. Sprejeli smo na
@@ -16070,10 +16166,6 @@
                         <p>Naslednji amandma je prav tako vložil gospod Šetinc in pravi da se črta
                            tretji odstavek 1. člena. Izvršni svet, se bo opredelil?</p>
                      </sp>
-                  </div>
-                  <div xml:id="DZ-1991-DruzPolZb-27.div.1.1.2.41"
-                       ana="#PAR.TDR"
-                       corresp="#DZ-1991-DruzPolZb-27.toc.2.35">
                      <sp who="sp:DebelakSlavko" corresp="#DZ-1991-DruzPolZb-27.sp.DebelakSlavko">
                         <speaker>MAG. SLAVKO DEBELAK:</speaker>
                         <p>Izvršni svet se delno strinja z amandmajem, vendar
@@ -16124,6 +16216,12 @@
                         </p>
                         <p>Ugotavljam, da je zakon sprejet z večino glasov; 30 glasov je za, 4 proti
                            in 5 vzdržanih.</p>
+                     </sp>
+                  </div>
+                  <div xml:id="DZ-1991-DruzPolZb-27.div.1.1.2.41"
+                       ana="#PAR.TDR"
+                       corresp="#DZ-1991-DruzPolZb-27.toc.2.35">
+                     <sp who="sp:PersakAnton1947" corresp="#DZ-1991-DruzPolZb-27.sp.PeršakAnton">
                         <p>Opraviti moramo tudi usklajevanje predloga zakona o spremembi in
                            dopolnitvi zakona o državljanstvu Republike Slovenije, ki so ga
                            predlagali poslanci Liberalno-demokratske stranke. Zbor občin tega zakona

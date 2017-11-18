@@ -88,6 +88,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2017-11-18+01:00">
+            <name>Andrej Pančur</name>: kodiranje <list>
+               <item>//stage[@type='time']</item>
+               <item>//p/stage</item>
+               <item>//docDate</item>
+               <item>//timeline</item>
+            </list>
+         </change>
          <change when="2017-02-02+01:00">
             <name>Mojca Šorn</name>: kodiranje <list>
                <item>front/div[@type='contents']//item[@n]/@xml:id</item>
@@ -172,6 +180,15 @@
             <div xml:id="DZ-1990-Zasedanje-4.div.1.1" ana="#PAR.Zasedanje" n="4">
                <head>4. zasedanje</head>
                <docDate>(<date when="1990-10-12">12. oktober 1990</date>)</docDate>
+               <timeline origin="#DZ-1990-Zasedanje-4.TL.1" unit="s">
+                  <when synch="#DZ-1990-Zasedanje-4.stage.t.1"
+                        xml:id="DZ-1990-Zasedanje-4.TL.1"
+                        absolute="1990-10-12T10:35:00"/>
+                  <when synch="#DZ-1990-Zasedanje-4.stage.t.2"
+                        since="#DZ-1990-Zasedanje-4.TL.1"
+                        absolute="1990-10-12T10:55:00"
+                        interval="1200"/>
+               </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Sejo je vodil</roleDesc>
@@ -402,7 +419,7 @@
                      </sp>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1990-Zasedanje-4.sp.BizjakIvan">
                         <speaker>PREDSEDUJOČI IVAN BIZJAK:</speaker>
-                        <p> Predsedniku dr. Bučarju se zahvaljujem za podano uvodno besedo. Preden
+                        <p>Predsedniku dr. Bučarju se zahvaljujem za podano uvodno besedo. Preden
                            zaključim skupno zasedanje, dovolite še dve obvestili. Nadaljevanje seje
                            Zbora združenega dela bo ob 11.45 uri, druga zbora pa nadaljujeta delo
                            takoj. Drugo obvestilo pa je takole: ob 13.00 uri bo v sobi 425 v IV.

@@ -843,6 +843,15 @@
                   <when synch="#DZ-1990-ZbObc-2.stage.t.3"
                         xml:id="DZ-1990-ZbObc-2.TL.2"
                         absolute="1990-06-13T11:00:00"/>
+                  <when synch="#DZ-1990-ZbObc-2.stage.t.4b" 
+                        since="#DZ-1990-ZbObc-2.TL.2"
+                        absolute="1990-06-13"/>
+                  <when synch="#DZ-1990-ZbObc-2.stage.t.4b"
+                        xml:id="DZ-1990-ZbObc-2.TL.2b"
+                        absolute="1990-06-13T13:00:00"/>
+                  <when synch="#DZ-1990-ZbObc-2.stage.t.5a" 
+                        since="#DZ-1990-ZbObc-2.TL.2b" 
+                        absolute="1990-06-13"/>
                   <when synch="#DZ-1990-ZbObc-2.stage.t.5"
                         xml:id="DZ-1990-ZbObc-2.TL.3"
                         absolute="1990-06-13T15:55:00"/>
@@ -882,7 +891,8 @@
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1990-ZbObc-2.sp.BizjakIvan">Ivan
-                        Bizjak</actor>, <role>predsednik Zbora občin</role> in <actor xml:id="DZ-1990-ZbObc-2.sp.Lukač.Janez">Janez Lukač</actor>, <role>podpredsednik zbora
+                        Bizjak</actor>, <role>predsednik Zbora občin</role> in </castItem>
+                  <castItem><actor xml:id="DZ-1990-ZbObc-2.sp.Lukač.Janez">Janez Lukač</actor>, <role>podpredsednik zbora
                         občin</role>
                   </castItem>
                </castList>
@@ -1376,10 +1386,10 @@
                   <div xml:id="DZ-1990-ZbObc-2.div.1.1.2.4" ana="#PAR.TDR" n="3">
                      <sp who="sp:ZakonjsekJoze1925" corresp="#DZ-1990-ZbObc-2.sp.ZakonjšekJože">
                         <speaker>JOŽE ZAKONJŠEK:</speaker>
-                        <p>Poročilo o <title>predlogu o ustanovitvi, sestavi in številu članov
-                              komisije</title> in k predlogom za oblikovanje delovnih teles
+                        <p><title>Poročilo o predlogu o ustanovitvi, sestavi in številu članov
+                              komisije in k predlogom za oblikovanje delovnih teles
                            Skupščine Republike Slovenije in njenih zborov Komisije za volitve,
-                           imenovanja in administrativne zadeve.</p>
+                           imenovanja in administrativne zadeve</title>.</p>
                         <p>Prvič. Komisija za volitve, imenovanja in administrativne zadeve je na 2.
                            seji 29.5.1990 obravnavala izhodišča za oblikovanje delovnih teles
                            Skupščine Republike Slovenije, na tretji seji dne 7.6.1990 in 4. seji dne
@@ -1841,7 +1851,7 @@
                               PROTOKOLA K PLAČILNEMU SPORAZUMU MED FLRJ IN ZVEZO SOVJETSKIH
                               SOCIALISTIČNIH REPUBLIK Z DNE 5. JANUARJA 1995</title>, strogo zaupno (ESA 1049).</p>
                      </sp>
-                     <stage type="time">(Seja je bila prekinjena ob ..... uri in se je <time from="1990-06-13T13:00:00">nadaljevala ob 13.00 uri</time>.)</stage>
+                     <stage type="time">(Seja je bila <time to="1990-06-13" xml:id="DZ-1990-ZbObc-2.stage.t.4a">prekinjena ob ..... uri</time> in se je <time xml:id="DZ-1990-ZbObc-2.stage.t.4b" from="1990-06-13T13:00:00">nadaljevala ob 13.00 uri</time>.)</stage>
                   </div>
                   <div xml:id="DZ-1990-ZbObc-2.div.1.1.2.8"
                        ana="#PAR.Procedural"
@@ -2464,7 +2474,7 @@
                            želel opozoriti, da se zaradi praktičnih razlogov v veliki dvorani
                            usedimo tako, kot je označeno na klopeh.</p>
                      </sp>
-                     <stage type="time">(Seja je bila prekinjena in se je <time from="1990-06-13T15:55:00" xml:id="DZ-1990-ZbObc-2.stage.t.5">nadaljevala ob 15.55
+                     <stage type="time">(Seja je <time to="1990-06-13" xml:id="DZ-1990-ZbObc-2.stage.t.5a">bila prekinjena</time> in se je <time from="1990-06-13T15:55:00" xml:id="DZ-1990-ZbObc-2.stage.t.5">nadaljevala ob 15.55
                            uri</time>.)</stage>
                   </div>
                   <div xml:id="DZ-1990-ZbObc-2.div.1.1.2.18"

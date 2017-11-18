@@ -600,9 +600,8 @@
                <castList>
                   <castItem>
                      <roleDesc>Predsedovala sta</roleDesc>: <actor xml:id="DZ-1991-DruzPolZb-24.sp.ToplakLudvik"> dr.
-                        Ludvik Toplak</actor>, <role>predsednik Družbenopolitičnega zbora</role> in
-                        <role>podpredsednik</role>
-                     <actor xml:id="DZ-1991-DruzPolZb-24.sp.PeršakAnton">Anton Peršak</actor>.</castItem>
+                        Ludvik Toplak</actor>, <role>predsednik Družbenopolitičnega zbora</role> in </castItem>
+                  <castItem><role>podpredsednik</role> <actor xml:id="DZ-1991-DruzPolZb-24.sp.PeršakAnton">Anton Peršak</actor>.</castItem>
                </castList>
                <stage type="time">Seja se je <time from="1991-08-28T10:15:00" xml:id="DZ-1991-DruzPolZb-24.stage.t.1">začela ob 10.15 uri</time>
                </stage>
@@ -4570,7 +4569,7 @@
                      </sp>
                      <sp who="sp:PersakAnton1947" corresp="#DZ-1991-DruzPolZb-24.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
-                        <p> Tudi gospod Balažic ima repliko.</p>
+                        <p>Tudi gospod Balažic ima repliko.</p>
                      </sp>
                      <sp who="sp:BalazicMilan1958"
                          corresp="#DZ-1991-DruzPolZb-24.sp.BalažicMilan">
@@ -4590,7 +4589,7 @@
                      </sp>
                      <sp who="sp:PersakAnton1947" corresp="#DZ-1991-DruzPolZb-24.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
-                        <p> Replika, gospod Voljč.</p>
+                        <p>Replika, gospod Voljč.</p>
                      </sp>
                      <sp who="sp:VoljcBozidar1939"
                          corresp="#DZ-1991-DruzPolZb-24.sp.VoljčBožidar">
@@ -5024,7 +5023,7 @@
                      </sp>
                      <sp who="sp:PersakAnton1947" corresp="#DZ-1991-DruzPolZb-24.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
-                        <p> Hvala lepa. Besedo ima gospod Emil-Milan Pintar.</p>
+                        <p>Hvala lepa. Besedo ima gospod Emil-Milan Pintar.</p>
                      </sp>
                      <sp who="sp:PintarEmilMilan1944"
                          corresp="#DZ-1991-DruzPolZb-24.sp.PintarEmilMilan">
@@ -5218,7 +5217,7 @@
                      </sp>
                      <sp who="sp:PersakAnton1947" corresp="#DZ-1991-DruzPolZb-24.sp.PeršakAnton">
                         <speaker>PODPREDSEDNIK ANTON PERŠAK:</speaker>
-                        <p> Gospod Pintar je bil zadnji prijavljeni razpravljalec. S tem je razprava
+                        <p>Gospod Pintar je bil zadnji prijavljeni razpravljalec. S tem je razprava
                            o zakonu o denacionalizaciji končana. Želi morda mogoče predstavnik
                            predlagatelja še kaj povedati? <stage type="debate">(Ne želi.)</stage>
                         </p>

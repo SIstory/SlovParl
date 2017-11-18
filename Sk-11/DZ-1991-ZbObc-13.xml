@@ -809,8 +809,9 @@
                <castList>
                   <castItem>
                      <roleDesc>Sejo so vodili</roleDesc>: <actor xml:id="DZ-1991-ZbObc-13.sp.BizjakIvan">Ivan
-                        Bizjak</actor>, <role>predsednik Zbora občin</role>, <actor xml:id="DZ-1991-ZbObc-13.sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik</role> in
-                        <actor xml:id="DZ-1991-ZbObc-13.sp.RojecAnton">Anton Rojec</actor>, <role>predsedujoči
+                        Bizjak</actor>, <role>predsednik Zbora občin</role>, </castItem>
+                  <castItem><actor xml:id="DZ-1991-ZbObc-13.sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik</role> in </castItem>
+                  <castItem><actor xml:id="DZ-1991-ZbObc-13.sp.RojecAnton">Anton Rojec</actor>, <role>predsedujoči
                         zbora</role>.</castItem>
                </castList>
                <stage type="time">Seja se je <time from="1991-03-05T10:10:00" xml:id="DZ-1991-ZbObc-13.stage.t.1">pričela ob 10.10 uri</time>. </stage>
@@ -5052,7 +5053,7 @@
                      </sp>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-13.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
-                        <p> Hvala lepa, gospod Slejko. Prijavljenih za razpravo ni več - aha, gospod
+                        <p>Hvala lepa, gospod Slejko. Prijavljenih za razpravo ni več - aha, gospod
                            Tomaž Pavšič.</p>
                      </sp>
                      <sp who="sp:PavsicTomaz1931" corresp="#DZ-1991-ZbObc-13.sp.PavšičTomaž">
@@ -7267,7 +7268,7 @@
                            proračunu, pa se ni zaradi usklajevanja, ker so prišli v republiški
                            proračun z različnimi osnovami, eni z višjimi, tudi nad 20% nad
                            povprečjem republike, drugi pa iz slabih občin pod tem povprečjem.</p>
-                        <p>      Ko je šlo za usklajevanje, se ni dajala posebna uspešnost,
+                        <p>Ko je šlo za usklajevanje, se ni dajala posebna uspešnost,
                            plačeval pa se je posebni program za odpravo ostankov in s tem so
                            nagrajevali sodnike in administracijo, ki je delala na tem področju. Od
                            1.1. tega leta naprej dobivajo pravosodni organi poseben dodatek za
@@ -8268,7 +8269,7 @@
                      <sp who="sp:SchwartzbartlErvin1940"
                          corresp="#DZ-1991-ZbObc-13.sp.SchwarzbartlErvinAnton">
                         <speaker>MAG. ERVIN ANTON SCHWARZBARTL:</speaker>
-                        <p> Repliko gospoda Žunterja samo podpiram, nič hudega, če je šel ven. Jaz
+                        <p>Repliko gospoda Žunterja samo podpiram, nič hudega, če je šel ven. Jaz
                            bi prosil, če imam to pravico, pa ne vem, naj mi predsedstvo pove,
                            magnetogram gospoda Glaviča, ker je bilo v tem njegovem izvajanju veliko
                            trditev, ki jih na hitro niti nisem mogel zabeležiti in bi poskušal to
@@ -13026,7 +13027,7 @@
                         <p>Želi o tem predlogu sklepa kdo razpravljati? <stage type="debate">(Ne.)</stage> Dajem predlagani sklep na glasovanje. Ugotovimo
                            sklepčnost! <stage type="quorum">(51 prisotnih.)</stage>
                         </p>
-                        <p>Kdo je za? <stage type="cote">(Večina delegatov.)</stage> Je kdo proti?
+                        <p>Kdo je za? <stage type="vote">(Večina delegatov.)</stage> Je kdo proti?
                               <stage type="vote">(5 delegatov.)</stage> Se je kdo vzdržal? <stage type="vote">(6 delegatov.)</stage>
                         </p>
                         <p>Ugotavljam, da je predlagani sklep z večino glasov sprejet.</p>
@@ -13077,7 +13078,7 @@
                            ali ne, gre vendarle pri novem sistemu stanovanjskega gospodarstva za
                            vprašanja, ki neposredno ali posredno prizadenejo vsakega občana in je
                            zaradi tega politično razreševanje teh vprašanj nujno.</p>
-                        <p> Menimo, da prav v tej fazi opravlja stanovanjska politika svoj zrelostni
+                        <p>Menimo, da prav v tej fazi opravlja stanovanjska politika svoj zrelostni
                            izpit, predvsem ko gre za opredelitev pravega razmerja med ekonomijo in
                            socialo. Pri tem je treba upoštevati, da smo v neprofitnem in socialnem
                            skladu primorani gospodariti optimalno, racionalno in se torej obnašati

@@ -1886,8 +1886,8 @@
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1991-ZbObc-30.sp.BizjakIvan">Ivan
-                        Bizjak</actor>, <role>predsednik Zbora občin</role> in <actor xml:id="DZ-1991-ZbObc-30.sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik zbora</role>
-                  </castItem>
+                        Bizjak</actor>, <role>predsednik Zbora občin</role> in </castItem>
+                  <castItem><actor xml:id="DZ-1991-ZbObc-30.sp.LukačJanez">Janez Lukač</actor>, <role>podpredsednik zbora</role></castItem>
                </castList>
                <stage type="time">Seja se je <time from="1991-12-17T10:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.1">pričela ob 10.15 uri</time>.</stage>
                <div xml:id="DZ-1991-ZbObc-30.div.1.1.1" ana="#PAR.PredDnevRed">
@@ -4131,10 +4131,8 @@
                         <p>Preden preidemo na 3. točko dnevnega reda, odrejam 45-minutni odmor, in
                            sicer bi se dobili ob 14. uri in 15 minut. Lepa hvala.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-12-17T13:25:00" xml:id="DZ-1991-ZbObc-30.stage.t.2">prekinjena ob 13.25 uri</time> in se je <time from="1991-12-17T14:40:00" xml:id="DZ-1991-ZbObc-30.stage.t.3">nadaljevala ob 14.40
+                     <stage type="time">(Seja je bila <time to="1991-12-17T13:25:00" xml:id="DZ-1991-ZbObc-30.stage.t.2">prekinjena ob 13.25 uri</time> in se je <time from="1991-12-17T14:40:00" xml:id="DZ-1991-ZbObc-30.stage.t.3">nadaljevala ob 14.40
                               uri</time>.)</stage>
-                     </stage>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Spoštovane kolegice in kolegi, nadaljujemo sejo zbora.</p>
@@ -5841,10 +5839,8 @@
                            Dobro, vendarle predlagam 15-minutni odmor in prosim, da se takrat točno
                            dobimo.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-12-17T17:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.4">prekinjena ob 17.00 uri</time> in se je <time from="1991-12-17T17:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.5">nadaljevala ob 17.30
+                     <stage type="time">(Seja je bila <time to="1991-12-17T17:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.4">prekinjena ob 17.00 uri</time> in se je <time from="1991-12-17T17:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.5">nadaljevala ob 17.30
                               uri</time>.)</stage>
-                     </stage>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Nadaljujemo sejo. Ob pregledu dnevnega reda preostalih točk, ugotavljam,
@@ -6334,11 +6330,9 @@
                            sejo, vidimo se jutri ob 10.00 uri. Začnemo pa s skupnim zasedanjem.
                            Hvala lepa za udeležbo in na svidenje.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1991-12-17T18:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.6">PREKINJENA 17. DECEMBRA 1991 OB 18.15 URI</time> IN
+                     <stage type="time">(SEJA JE BILA <time to="1991-12-17T18:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.6">PREKINJENA 17. DECEMBRA 1991 OB 18.15 URI</time> IN
                            SE JE <time from="1991-12-18T11:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.7">NADALJEVALA 18.
                               DECEMBRA 1991 OB 11.00 URI</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.14"
                        ana="#PAR.TDR"
@@ -7900,10 +7894,8 @@
                            srečati, to se pravi, predvidoma po odmoru ob 14.00 uri je skupna seja,
                            če bo pa kaj drugače, vas bomo obvestili.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-12-18T13:25:00" xml:id="DZ-1991-ZbObc-30.stage.t.8">prekinjena ob 13.25 uri</time> in se je <time from="1991-12-18T14:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.9">nadaljevala ob 14.55
+                     <stage type="time">(Seja je bila <time to="1991-12-18T13:25:00" xml:id="DZ-1991-ZbObc-30.stage.t.8">prekinjena ob 13.25 uri</time> in se je <time from="1991-12-18T14:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.9">nadaljevala ob 14.55
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.20"
                        ana="#PAR.TDR"
@@ -10592,11 +10584,9 @@
                            za nekatere zakone ste dobili že predloge, tako da bo lažje glasovati, za
                            danes se vam zahvaljujem za udeležbo in na svidenje.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1991-12-18T19:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.10">PREKINJENA 18. DECEMBRA 1991 OB 19.00 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1991-12-18T19:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.10">PREKINJENA 18. DECEMBRA 1991 OB 19.00 URI</time>
                            IN SE JE <time from="1991-12-20T10:59:00" xml:id="DZ-1991-ZbObc-30.stage.t.11">NADALJEVALA
                               20. DECEMBRA 1991 OB 10.59 URI</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.27"
                        ana="#PAR.Prisot"
@@ -13262,10 +13252,8 @@
                            prosim, za 5 minut potrpljenja, če kdo se najde, če ne, bo seja pač
                            prekinjena.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-12-20T16:03:00" xml:id="DZ-1991-ZbObc-30.stage.t.14">prekinjena ob 16.03 uri</time> in se je <time from="1991-12-20T16:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.15">nadaljevala ob 16.15
+                     <stage type="time">(Seja je bila <time to="1991-12-20T16:03:00" xml:id="DZ-1991-ZbObc-30.stage.t.14">prekinjena ob 16.03 uri</time> in se je <time from="1991-12-20T16:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.15">nadaljevala ob 16.15
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.39"
                        ana="#PAR.Prisot"
@@ -13322,11 +13310,9 @@
                            10.00 uri se začne seja. Prosim, da smo točni. Hvala za udeležbo in na
                            svidenje! (Ja, pa v Tomšičevi.) Ja.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1991-12-20T16:20:00" xml:id="DZ-1991-ZbObc-30.stage.t.16">PREKINJENA 20. DECEMBRA 1991 OB 16.20 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1991-12-20T16:20:00" xml:id="DZ-1991-ZbObc-30.stage.t.16">PREKINJENA 20. DECEMBRA 1991 OB 16.20 URI</time>
                            IN SE JE <time from="1991-12-23T15:20:00" xml:id="DZ-1991-ZbObc-30.stage.t.17">NADALJEVALA
                               23. DECEMBRA 1991 OB 15.20 URI</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.41" ana="#PAR.Prisot">
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
@@ -13927,11 +13913,9 @@
                            tukaj. Vendar pa, to je bilo kot ugotovitev, kdaj bi potencialno lahko
                            imeli to nadaljevanje. Dobro.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1991-12-23T16:05:00" xml:id="DZ-1991-ZbObc-30.stage.t.18">PREKINJENA 23. DECEMBRA 1991 OB 16.05 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1991-12-23T16:05:00" xml:id="DZ-1991-ZbObc-30.stage.t.18">PREKINJENA 23. DECEMBRA 1991 OB 16.05 URI</time>
                            IN SE JE <time from="1991-12-27T10:20:00" xml:id="DZ-1991-ZbObc-30.stage.t.19">NADALJEVALA
                               27. DECEMBRA 1991 OB 10.20 URI</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.45"
                        ana="#PAR.Prisot"
@@ -15904,10 +15888,8 @@
                         <p>Zdaj pa odrejam odmor do 14.00 ure. Prosim, da se tedaj zberemo
                            tukaj.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-12-27T13:10:00" xml:id="DZ-1991-ZbObc-30.stage.t.20">prekinjena ob 13.10 uri</time> in se je <time from="1991-12-27T14:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.21">nadaljevala ob 14.30
+                     <stage type="time">(Seja je bila <time to="1991-12-27T13:10:00" xml:id="DZ-1991-ZbObc-30.stage.t.20">prekinjena ob 13.10 uri</time> in se je <time from="1991-12-27T14:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.21">nadaljevala ob 14.30
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.50"
                        ana="#PAR.Prisot"
@@ -18085,10 +18067,8 @@
                            73. amandmaju oziroma 253. členu. Tako da prekinjam to sejo zbora, zato,
                            da se udeležimo skupne seje v veliki dvorani. Prosim, da odidemo tja.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1991-12-27T17:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.22">prekinjena ob 17.30 uri</time> in se je <time from="1991-12-27T18:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.23">nadaljevala ob 18.15
+                     <stage type="time">(Seja je bila <time to="1991-12-27T17:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.22">prekinjena ob 17.30 uri</time> in se je <time from="1991-12-27T18:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.23">nadaljevala ob 18.15
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.61"
                        ana="#PAR.Prisot"
@@ -18161,11 +18141,9 @@
                            danes. Hvala za sodelovanje v tem letu, jaz upam na še boljše sodelovanje
                            v prihodnjem letu. Srečno.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1991-12-27T18:25:00" xml:id="DZ-1991-ZbObc-30.stage.t.24">PREKINJENA 27. DECEMBRA 1991 OB 18.25 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1991-12-27T18:25:00" xml:id="DZ-1991-ZbObc-30.stage.t.24">PREKINJENA 27. DECEMBRA 1991 OB 18.25 URI</time>
                            IN SE JE <time from="1992-01-14T10:16:00" xml:id="DZ-1991-ZbObc-30.stage.t.25">NADALJEVALA
                               14. JANUARJA 1992 OB 10.16 URI</time>.)</stage>
-                     </stage>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Dame in gospodje, v odsotnosti predsednika zbora, ki je odšel v državno
@@ -18309,20 +18287,17 @@
                         <p>Preden bi prešli k nadaljevanju po dogovorjenem dnevnem redu, je poslanec
                            dr. Starman prosil za besedo.</p>
                      </sp>
-                     <sp who="sp:StarmanDanijel1940"
-                         corresp="#DZ-1991-ZbObc-30.sp.StarmanDanijel">
-                        <speaker>DANIJEL STARMAN:</speaker>
-                        <p>Gospod predsednik, hvala lepa. Drage kolegice in kolegi, najprej bi želel
-                           vsem srečno novo leto, da bi bili tako produktivni, kot smo bili v
-                           lanskem.</p>
-                     </sp>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.66"
                        ana="#PAR.TDR"
                        n="19"
                        corresp="#DZ-1991-ZbObc-30.toc.2.60">
                      <sp who="sp:StarmanDanijel1940"
-                         corresp="#DZ-1991-ZbObc-30.sp.StarmanDanijel">
+                        corresp="#DZ-1991-ZbObc-30.sp.StarmanDanijel">
+                        <speaker>DANIJEL STARMAN:</speaker>
+                        <p>Gospod predsednik, hvala lepa. Drage kolegice in kolegi, najprej bi želel
+                           vsem srečno novo leto, da bi bili tako produktivni, kot smo bili v
+                           lanskem.</p>
                         <p>Moja pobuda in prošnja, da bi pred prehodom na nadaljevanje seje
                            razpravljali, je izjemno aktualno glede na pritiske Republike Italije o
                            tem, da bi se v najkrajšem času moral podpisati nek sporazum o zaščiti
@@ -19477,10 +19452,8 @@
                            bomo to pred pričetkom prihodnje točke se odločili o tem vprašanju. Hvala
                            lepa. Odrejam odmor do 13.00 ure.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-01-14T12:16:00" xml:id="DZ-1991-ZbObc-30.stage.t.26">prekinjena ob 12.16 uri</time> in se je <time from="1992-01-14T13:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.27">nadaljevala ob 13.00
+                     <stage type="time">(Seja je bila <time to="1992-01-14T12:16:00" xml:id="DZ-1991-ZbObc-30.stage.t.26">prekinjena ob 12.16 uri</time> in se je <time from="1992-01-14T13:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.27">nadaljevala ob 13.00
                               uri</time>.)</stage>
-                     </stage>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Kolegi, bomo nadaljevali delo. Ko smo že oklicali odmor, je gospod Kovač
@@ -21327,10 +21300,8 @@
                            o manjšinah, imata oba ministra v Gorici, jutri naj bi se to podpisalo in
                            mi smo spremenili sklep ne jutri, danes.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-01-14T16:13:00" xml:id="DZ-1991-ZbObc-30.stage.t.28">prekinjena ob 16.13 uri</time> in se je <time from="1992-01-14T16:20:00" xml:id="DZ-1991-ZbObc-30.stage.t.29">nadaljevala ob 16.20
+                     <stage type="time">(Seja je bila <time to="1992-01-14T16:13:00" xml:id="DZ-1991-ZbObc-30.stage.t.28">prekinjena ob 16.13 uri</time> in se je <time from="1992-01-14T16:20:00" xml:id="DZ-1991-ZbObc-30.stage.t.29">nadaljevala ob 16.20
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.75"
                        ana="#PAR.TDR"
@@ -22956,12 +22927,10 @@
                            odločali o teh predlogih sklepov o turističnem gospodarstvu. Hvala lepa.
                            Sejo prekinjam in se nadaljuje jutri ob 10.00 uri.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1992-01-14T18:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.30">PREKINJENA 14. JANUARJA 1992 OB 18.55 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1992-01-14T18:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.30">PREKINJENA 14. JANUARJA 1992 OB 18.55 URI</time>
                            IN SE JE <time from="1992-01-15T10:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.31">NADALJEVALA
                               15. JANUARJA 1992 OB 10.15 URI</time> V OKVIRU 32. SEJE
                            ZBORA.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.78"
                        ana="#PAR.Prisot"
@@ -25693,10 +25662,8 @@
                         <p>Hvala lepa. S tem pa lahko zaključimo, ker smo se samo seznanili z obema
                            poročiloma in odrejam odmor do 15.00 ure.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-01-15T14:05:00" xml:id="DZ-1991-ZbObc-30.stage.t.32">prekinjena ob 14.05 uri</time> in se je <time from="1992-01-15T15:05:00" xml:id="DZ-1991-ZbObc-30.stage.t.33">nadaljevala ob 15.05
+                     <stage type="time">(Seja je bila <time to="1992-01-15T14:05:00" xml:id="DZ-1991-ZbObc-30.stage.t.32">prekinjena ob 14.05 uri</time> in se je <time from="1992-01-15T15:05:00" xml:id="DZ-1991-ZbObc-30.stage.t.33">nadaljevala ob 15.05
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.85"
                        ana="#PAR.TDR"
@@ -26184,12 +26151,10 @@
                            nadaljevala zaključena.</p>
                      </sp>
 
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1992-01-15T15:59:00" xml:id="DZ-1991-ZbObc-30.stage.t.34">PREKINJENA 15. JANUARJA 1992 OB 15.59 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1992-01-15T15:59:00" xml:id="DZ-1991-ZbObc-30.stage.t.34">PREKINJENA 15. JANUARJA 1992 OB 15.59 URI</time>
                            IN SE JE <time from="1992-01-16T14:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.35">NADALJEVALA
                               16. JANUARJA 1992 OB 14.30 URI</time> V OKVIRU 32. SEJE
                            ZBORA.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.86"
                        ana="#PAR.TDR"
@@ -26232,10 +26197,8 @@
                            potem tu naše opravilo v prvi fazi končano.</p>
                         <p><title>PREHAJAMO NA 7. TOČKO DNEVNEGA REDA</title>.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-01-16T14:35:00" xml:id="DZ-1991-ZbObc-30.stage.t.36">prekinjena ob 14.35 uri</time> in se je <time from="1992-01-16T13:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.37">nadaljevala ob 13.30
+                     <stage type="time">(Seja je bila <time to="1992-01-16T14:35:00" xml:id="DZ-1991-ZbObc-30.stage.t.36">prekinjena ob 14.35 uri</time> in se je <time from="1992-01-16T13:30:00" xml:id="DZ-1991-ZbObc-30.stage.t.37">nadaljevala ob 13.30
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.87"
                        ana="#PAR.TDR"
@@ -26557,10 +26520,8 @@
                            preimenovana v komisijo za usklajevanje pri tem in ostalih zdravstvenih
                            zakonih.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-01-16T16:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.38">prekinjena ob 16.00 uri</time> in se je <time from="1992-01-16T17:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.39">nadaljevala ob 17.15
+                     <stage type="time">(Seja je bila <time to="1992-01-16T16:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.38">prekinjena ob 16.00 uri</time> in se je <time from="1992-01-16T17:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.39">nadaljevala ob 17.15
                               uri</time>.)(še v okviru 32. seje zbora)</stage>
-                     </stage>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Ko čakamo, da dosežemo sklepčnost, želi gospod Deželak predlagati zboru
@@ -26591,10 +26552,8 @@
                            prilagodimo temu in da takoj za tem začnemo sklepati o tem predlogu
                            zakona. Hvala lepa.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-01-16T16:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.40">prekinjena ob 16.00 uri</time> in se je <time from="1992-01-16T17:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.41">nadaljevala ob 17.15
+                     <stage type="time">(Seja je bila <time to="1992-01-16T16:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.40">prekinjena ob 16.00 uri</time> in se je <time from="1992-01-16T17:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.41">nadaljevala ob 17.15
                               uri</time>)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.89"
                        ana="#PAR.TDR"
@@ -26859,12 +26818,10 @@
                            sredo! Potem hvala lepa in v sredo na svidenje. Obvestila boste
                            prejeli.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1992-01-16T17:40:00" xml:id="DZ-1991-ZbObc-30.stage.t.42">PREKINJENA 16. JANUARJA 1992 OB 17.40 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1992-01-16T17:40:00" xml:id="DZ-1991-ZbObc-30.stage.t.42">PREKINJENA 16. JANUARJA 1992 OB 17.40 URI</time>
                            IN SE JE <time from="1992-01-22T10:35:00" xml:id="DZ-1991-ZbObc-30.stage.t.43">NADALJEVALA
                               22. JANUARJA 1992 OB 10.35 URI</time> V OKVIRU 32. SEJE
                            ZBORA.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.90"
                        ana="#PAR.Procedural"
@@ -27699,10 +27656,8 @@
                         <p>Pravzaprav trenutno ne moremo več kaj reči o zadevah iz 30. seje in se
                            tako lahko vrnemo na zadeve iz 32. seje zbora.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila prekinjena in se je <time from="1992-01-22T17:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.44">nadaljevala ob 17.55
+                     <stage type="time">(Seja je bila prekinjena in se je <time from="1992-01-22T17:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.44">nadaljevala ob 17.55
                               uri</time>.)</stage>
-                     </stage>
                      <sp who="sp:BizjakIvan1956" corresp="#DZ-1991-ZbObc-30.sp.BizjakIvan">
                         <speaker>PREDSEDNIK IVAN BIZJAK:</speaker>
                         <p>Komisija je končala delo tam okrog 17.00 ure, sedajle še pišejo poročilo,
@@ -28001,12 +27956,10 @@
                            kaj posebnega. Hvala lepa za udeležbo, za prisotnost in za sodelovanje.
                            Srečno pot domov!</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(SEJA JE BILA <time to="1992-01-22T17:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.45">PREKINJENA 22. JANUARJA 1992 OB 17.15 URI</time>
+                     <stage type="time">(SEJA JE BILA <time to="1992-01-22T17:15:00" xml:id="DZ-1991-ZbObc-30.stage.t.45">PREKINJENA 22. JANUARJA 1992 OB 17.15 URI</time>
                            IN SE JE <time from="1992-02-12T14:10:00" xml:id="DZ-1991-ZbObc-30.stage.t.46">NADALJEVALA
                               12. FEBRUARJA 1992 OB 14.10</time> URI V OKVIRU 32. SEJE
                            ZBORA.)</stage>
-                     </stage>
                      <sp who="sp:LukacJanez1931" corresp="#DZ-1991-ZbObc-30.sp.LukačJanez">
                         <speaker>PODPREDSEDNIK JANEZ LUKAČ:</speaker>
                         <p>Omenil sem, da ste nam iz 30. seje zbora, ki smo jo pričeli 17. decembra
@@ -29326,10 +29279,8 @@
                            delali. Ampak prosim ob 16.30 uri točno tukaj, do takrat pa pavza. Hvala
                            lepa.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-02-12T15:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.47">prekinjena ob 15.55 uri</time> in se je <time from="1992-02-12T16:40:00" xml:id="DZ-1991-ZbObc-30.stage.t.48">nadaljevala ob 16.40
+                     <stage type="time">(Seja je bila <time to="1992-02-12T15:55:00" xml:id="DZ-1991-ZbObc-30.stage.t.47">prekinjena ob 15.55 uri</time> in se je <time from="1992-02-12T16:40:00" xml:id="DZ-1991-ZbObc-30.stage.t.48">nadaljevala ob 16.40
                               uri</time>.)</stage>
-                     </stage>
                   </div>
                   <div xml:id="DZ-1991-ZbObc-30.div.1.1.2.101"
                        ana="#PAR.TDR"
@@ -29621,10 +29572,8 @@
                            kot je. Hvala lepa. Konec. Za danes konec. Zbor občin je opravil vse, kar
                            je lahko opravil.</p>
                      </sp>
-                     <stage type="time">
-                        <stage type="time">(Seja je bila <time to="1992-02-12T17:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.49">končana 22. februarja 1992 ob 17.00
+                     <stage type="time">(Seja je bila <time to="1992-02-12T17:00:00" xml:id="DZ-1991-ZbObc-30.stage.t.49">končana 22. februarja 1992 ob 17.00
                            uri</time>.)</stage>
-                     </stage>
                   </div>
                </div>
             </div>

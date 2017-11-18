@@ -1216,8 +1216,8 @@
                <castList>
                   <castItem>
                      <roleDesc>Sejo sta vodila</roleDesc>: <actor xml:id="DZ-1991-DruzPolZb-11.sp.ToplakLudvik">dr.
-                        Ludvik Toplak</actor>, <role>predsednik Družbenopolitičnega zbora</role> in
-                        <actor xml:id="DZ-1991-DruzPolZb-11.sp.PeršakAnton">Anton Peršak</actor>, <role>podpredsednik
+                        Ludvik Toplak</actor>, <role>predsednik Družbenopolitičnega zbora</role> in </castItem>
+                  <castItem><actor xml:id="DZ-1991-DruzPolZb-11.sp.PeršakAnton">Anton Peršak</actor>, <role>podpredsednik
                         zbora</role>
                   </castItem>
                </castList>
@@ -17500,8 +17500,7 @@
                   <div xml:id="DZ-1991-DruzPolZb-11.div.1.1.2.53" ana="#PAR.TDR" n="9">
                      <sp who="sp:ToplakLudvik1942"
                          corresp="#DZ-1991-DruzPolZb-11.sp.ToplakLudvik">
-                        <p>Sedaj prehajamo še na usklajevanje glede predloga zakona in glede</p>
-                        <p>
+                        <p>Sedaj prehajamo še na usklajevanje glede predloga zakona in glede
                            <title>ZAKONA O SPREMEMBAH IN DOPOLNITVAH ZAKONA O KMETIJSKIH
                               ZEMLJIŠČIH</title>.</p>
                         <p>Prosim poročevalca usklajevalne komisije, gospoda Huberta Požarnika.</p>
@@ -17716,9 +17715,11 @@
                            delegata.)</stage>
                         </p>
                         <p>Ugotavljam, da je zakon sprejet.</p>
-                        <p>Zdaj imamo</p>
-                        <p>
-                           <title>ZAKON O ZASEBNEM DELU</title>.</p>
+                     </sp>
+                  </div>
+                  <div xml:id="DZ-1991-DruzPolZb-11.div.1.1.2.53b" ana="#PAR.TDR" n="9">
+                     <sp who="sp:ToplakLudvik1942" corresp="#DZ-1991-DruzPolZb-11.sp.ToplakLudvik">
+                        <p>Zdaj imamo <title>ZAKON O ZASEBNEM DELU</title>.</p>
                         <p>Prosim poročevalca, dr. Požarnika.</p>
                      </sp>
                      <sp who="sp:PozarnikHubert1937"

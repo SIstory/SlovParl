@@ -22,7 +22,7 @@
     
     <xsl:param name="editionStmt">
         <editionStmt>
-            <edition>1.0</edition>
+            <edition>2.0</edition>
         </editionStmt>
     </xsl:param>
     <xsl:param name="publisher">

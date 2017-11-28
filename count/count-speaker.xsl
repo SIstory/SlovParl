@@ -52,7 +52,7 @@
             <!-- glede na parameter role -->
             <xsl:choose>
                 <xsl:when test="$role = 'president'">
-                    <xsl:for-each-group select="//tei:sp[substring-after(@corresp,'#') = ancestor::tei:body/tei:div/tei:div/tei:castList/tei:castItem/tei:actor/@xml:id]" group-by="substring-after(@who,'sp:')">
+                    <xsl:for-each-group select="//tei:sp" group-by="substring-after(@who,'sp:')">
                         <xsl:call-template name="speaker"/>
                     </xsl:for-each-group>
                 </xsl:when>

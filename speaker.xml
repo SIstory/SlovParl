@@ -998,7 +998,7 @@
             <person xml:id="DrnovsekJanez1950">
                <persName>
                   <surname>Drnovšek</surname>
-                  <surname>Janez</surname>
+                  <forename>Janez</forename>
                   <roleName>dr.</roleName>
                </persName>
                <sex value="M"/>
@@ -6681,6 +6681,7 @@
             <person xml:id="Skubic">
                <persName>
                   <surname>Skubic</surname>
+                  <!--<forename></forename>-->
                </persName>
                <sex value="M"/>
                <affiliation ref="#gov.MORS" ana="#gov.VladaRS-2 #grp.member"/>
@@ -6693,9 +6694,10 @@
                <sex value="F"/>
                <affiliation>pomočnica ministra</affiliation>
             </person>
-            <person xml:id="SlokarNeznano_ime">
+            <person xml:id="SlokarMilica">
                <persName>
                   <surname>Slokar</surname>
+                  <forename>Milica</forename>
                </persName>
                <sex value="F"/>
                <affiliation><orgName>Republiška uprava za zaščito in reševanje</orgName></affiliation>

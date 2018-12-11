@@ -266,6 +266,10 @@
                   <when synch="#DZ-1991-Delovna-4.stage.t.1"
                         xml:id="DZ-1991-Delovna-4.TL.1"
                         absolute="1991-03-06T10:15:00"/>
+                  <when synch="#DZ-1991-Delovna-4.stage.t.2"
+                        since="#DZ-1991-Delovna-4.TL.1"
+                        absolute="1991-03-06T11:35:00"
+                        interval="4800"/>
                </timeline>
                <castList>
                   <castItem>

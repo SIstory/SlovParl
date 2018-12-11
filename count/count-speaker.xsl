@@ -43,7 +43,8 @@
         <!-- besedilo najprej spravim v variablo, ki jo nato spodaj procesiram -->
         <xsl:variable name="counting">
             <!-- najprej posebej spravim vse odstavke besedila -->
-            <xsl:for-each select="//tei:sp/tei:p | //tei:sp/tei:ab">
+            <xsl:for-each select="//tei:sp/tei:p[xs:date(tokenize(preceding::tei:stage[@type='time'][tei:time/@from][1]/tei:time/@from,'T')[1]) lt xs:date('1992-05-14')] |
+                                  //tei:sp/tei:ab[xs:date(tokenize(preceding::tei:stage[@type='time'][tei:time/@from][1]/tei:time/@from,'T')[1]) lt xs:date('1992-05-14')]">
                 <string>
                     <xsl:value-of select="normalize-space(.)"/>
                 </string>
@@ -52,12 +53,12 @@
             <!-- glede na parameter role -->
             <xsl:choose>
                 <xsl:when test="$role = 'president'">
-                    <xsl:for-each-group select="//tei:sp" group-by="substring-after(@who,'sp:')">
+                    <xsl:for-each-group select="//tei:sp[substring-after(@corresp,'#') = ancestor::tei:body/tei:div/tei:div/tei:castList/tei:castItem/tei:actor/@xml:id][xs:date(tokenize(preceding::tei:stage[@type='time'][tei:time/@from][1]/tei:time/@from,'T')[1]) lt xs:date('1992-05-14')]" group-by="substring-after(@who,'sp:')">
                         <xsl:call-template name="speaker"/>
                     </xsl:for-each-group>
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:for-each-group select="//tei:sp" group-by="substring-after(@who,'sp:')">
+                    <xsl:for-each-group select="//tei:sp[xs:date(tokenize(preceding::tei:stage[@type='time'][tei:time/@from][1]/tei:time/@from,'T')[1]) lt xs:date('1992-05-14')]" group-by="substring-after(@who,'sp:')">
                         <xsl:call-template name="speaker"/>
                     </xsl:for-each-group>
                 </xsl:otherwise>

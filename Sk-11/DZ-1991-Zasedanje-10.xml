@@ -179,6 +179,10 @@
                   <when synch="#DZ-1991-Zasedanje-10.stage.t.1"
                         xml:id="DZ-1991-Zasedanje-10.TL.1"
                         absolute="1991-03-19T11:15:00"/>
+                  <when synch="#DZ-1991-Zasedanje-10.stage.t.2"
+                     since="#DZ-1991-Zasedanje-10.TL.1"
+                     absolute="1991-03-19T11:45:00"
+                     interval="1800"/>
                </timeline>
                <castList>
                   <castItem>

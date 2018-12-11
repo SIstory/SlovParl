@@ -496,7 +496,7 @@
                      <orgName full="init">DEMOS</orgName>
                   </org>
                   <listRelation>
-                     <relation type="membership" mutual="#pp.SDZ #pp.SDSS #pp.SKD #pp.SKZ #pp.SOS #pp.ZS"/>
+                     <relation type="membership" mutual="#pp.SDZ #pp.SDSS #pp.SKD #pp.SKZ #pp.SOS #pp.ZS #pp.LS #pp.Sivi"/>
                   </listRelation>
                </listOrg>
                <listRelation>
@@ -1661,7 +1661,8 @@
                <affiliation ref="#pp.SKD" ana="#parl.Skup-11"/>
                <bibl><ref target="https://sl.wikipedia.org/wiki/Jo%C5%BEe_Magdi%C4%8D">https://sl.wikipedia.org/wiki/Jo%C5%BEe_Magdi%C4%8D</ref></bibl>
             </person>
-            <person xml:id="MarkesMarija1962">
+           <!-- združi obe osebi -->
+            <person xml:id="MarkesMarija1962" sameAs="#MarkesMarija">
                <persName>
                   <surname>Markeš</surname>
                   <forename>Marija</forename>
@@ -2910,7 +2911,7 @@
                <occupation>dipl. pravnik</occupation>
                <residence>Litija</residence>
                <affiliation ref="#parl.ZbObc" ana="#parl.Skup-11 #grp.member"/>
-               <affiliation ref="#pp.SZS" ana="#parl.Skup-11"/>
+               <affiliation ref="#pp.SKZ" ana="#parl.Skup-11"/>
                <affiliation ref="#pp.SLS" ana="#parl.Skup-11"/>
                <bibl><ref target="http://slovenska-pomlad.si/2?id=3332">http://slovenska-pomlad.si/2?id=3332</ref></bibl>
             </person>
@@ -4270,8 +4271,10 @@
                   <forename>Adolf</forename>
                </persName>
                <sex value="M"/>
-               <birth when="1927"/>
-               <death when="1991-04"/>
+               <birth when="1927-05-05"/>
+               <death when="1991-12-06">
+                  <placeName>Slovenj Gradec</placeName>
+               </death>
                <occupation when="1990-04">dr. med.</occupation>
                <affiliation when="1990-04">
                   <orgName>Splošna bolnišnica Slovenj Gradec</orgName>
@@ -4283,6 +4286,7 @@
                   </state>
                   <note>Izvoljen, vendar umrl pred nastopom mandata</note>
                </affiliation>
+               <affiliation ref="#pp.SDZ" ana="#parl.Skup-11"/>
             </person>
             <person xml:id="MurenAndrej1953">
                <persName>
@@ -6152,7 +6156,8 @@
                <sex value="F"/>
                <affiliation ref="#gov.MZZRS" ana="#gov.VladaRS-2 #grp.member"/>
             </person>
-            <person xml:id="MarkesMarija">
+            <!-- Združi obe osebi -->
+            <person xml:id="MarkesMarija" sameAs="#MarkesMarija1962">
                <persName>
                   <surname>Markeš</surname>
                   <forename>Marija</forename>

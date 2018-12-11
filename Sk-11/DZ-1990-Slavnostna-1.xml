@@ -176,6 +176,10 @@
                   <when synch="#DZ-1990-Slavnostna-1.stage.t.1"
                         xml:id="DZ-1990-Slavnostna-1.TL.1"
                         absolute="1990-12-26T18:00:00"/>
+                  <when synch="#DZ-1990-Slavnostna-1.stage.t.2"
+                        since="#DZ-1990-Slavnostna-1.TL.1"
+                        absolute="1990-12-26T19:15:00"
+                        interval="4500"/>
                </timeline>
                <castList>
                   <castItem>
